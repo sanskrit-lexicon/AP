@@ -1,0 +1,27 @@
+diff_01_02.txt   0	nochange
+diff_02_03.txt   0	nochange 
+diff_03_04.txt   20	misc. b-v
+diff_04_05.txt   0	nochange
+diff_05_06.txt   68	misc. b-v
+diff_06_07.txt   0	nochange
+diff_07_08.txt   0	nochange
+diff_08_09.txt   8	double-quotes
+diff_09_10.txt   319	bA-vA
+diff_10_11.txt   16	the
+diff_11_12.txt   17	b-v
+diff_12_13.txt   21	headword
+diff_13_14.txt   208712	<ls> markup
+diff_14_15.txt   30054	'{# ', '#},' 
+diff_15_16.txt   8820	Mar., Kāś.
+diff_16_17.txt   20	misc.
+diff_17_18.txt   28416	misc. <ls>
+diff_18_19.txt   32576	remove ‡; misc. <ls>
+diff_19_20.txt   192	misc.
+diff_20_21.txt   68	misc.
+diff_21_22.txt   4	misc.
+diff_22_23.txt   12	misc.
+diff_23_24.txt   18	misc.
+diff_24_25.txt   4	misc.
+diff_25_26.txt   14	misc.
+diff_26_27.txt   4	misc.
+diff_27_28.txt   4	misc.

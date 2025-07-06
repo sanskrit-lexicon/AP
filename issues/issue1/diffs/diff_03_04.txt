@@ -1,0 +1,20 @@
+137451c137451
+< .²1 sacred and miscellaneous knowledge; {#tatprAjYena vinItena jYAnabijYAnabedinA#} Ms. 18. 41.
+---
+> .²1 sacred and miscellaneous knowledge; {#tatprAjYena vinItena jYAnavijYAnavedinA#} Ms. 18. 41.
+273589c273589
+<  of the 7th Adhyāya of Bg. explains {#jYAna#} and {#bijYAna#}).
+---
+>  of the 7th Adhyāya of Bg. explains {#jYAna#} and {#vijYAna#}).
+281096c281096
+< .²3 To aggravate, heighten, enhance, intensify; {#punarakARqavibartanadAruRo#}
+---
+> .²3 To aggravate, heighten, enhance, intensify; {#punarakARqavivartanadAruRo#}
+281102c281102
+<  to (often with abl.); {#tasmAd durgaM biSizyate#} H. 3. 50; Mv. 7. 39;
+---
+>  to (often with abl.); {#tasmAd durgaM viSizyate#} H. 3. 50; Mv. 7. 39;
+281104c281104
+<  {#sarbezAmeba dAnAnAM brahmadAnaM viSizyate#} Ms. 4. 233. -{%Caus.%}
+---
+>  {#sarbezAmeva dAnAnAM brahmadAnaM viSizyate#} Ms. 4. 233. -{%Caus.%}

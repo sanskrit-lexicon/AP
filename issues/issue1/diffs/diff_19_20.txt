@@ -1,0 +1,192 @@
+2773c2773
+< .{@{#-svAttaH#}@} (written both as {#°sbAtta#} and {#°zvAtta#}) (pl.) [{#agnitaH#}
+---
+> .{@{#-svAttaH#}@} (written both as {#°svAtta#} and {#°zvAtta#}) (pl.) [{#agnitaH#}
+2779c2779
+<  {#gacCata#} <ls>Tsy. 2. 5. 12. 2</ls> ({#manuzyajanmanyagnizwomAdiyAgamakftvA smArtakarmanizwAH#}
+---
+>  {#gacCata#} <ls>Ts. 2. 5. 12. 2</ls> ({#manuzyajanmanyagnizwomAdiyAgamakftvA smArtakarmanizwAH#}
+3676c3676
+<  {#sarvaviBUtisampat#}; {#aNgADISaH svagehe buDagurukaviBiH saMyuto vIkzito vA#} <ls>Jyotiṣa</ls>).
+---
+>  {#sarvaviBUtisampat#}; {#aNgADISaH svagehe buDagurukaviBiH saMyuto vIkzito vA#} <ls>Jyotiṣa.</ls>).
+10828c10828
+<  <ls>Śi. 1. 24</ls> possessed of beauty; {#aDiSrayantIrgajatAH#} <ls n="Śi">12. 50.</ls>
+---
+>  <ls>Śi. 1. 24</ls> possessed of beauty; {#aDiSrayantIrgajatAH#} <ls n="Śi.">12. 50.</ls>
+29612c29612
+<  <ls>Ś. 3. 7</ls>; <ls n="Ś.">5. 1</ls>; {#°kaRWaSoRita#} <ls n="Ś">6. 27</ls>; <ls>Me. 100</ls>; <ls>R. 9. 29</ls>; {#°vA vaDUH#}
+---
+>  <ls>Ś. 3. 7</ls>; <ls n="Ś.">5. 1</ls>; {#°kaRWaSoRita#} <ls n="Ś.">6. 27</ls>; <ls>Me. 100</ls>; <ls>R. 9. 29</ls>; {#°vA vaDUH#}
+38366c38366
+<  {#arjako hyaMSamAharet#} <ls>Smṛti.</ls>
+---
+>  {#arjako hyaMSamAharet#} Smṛti.
+38678c38678
+<  a female as though it were male. ({#tantravArttika#} <ls n="tantravArttika">1. 2. 58. 3</ls>; <ls n="tantravArttika">6. 3. 34. 7</ls>).
+---
+>  a female as though it were male. ({#tantravArttika#} <ls n="tantravārttika">1. 2. 58. 3</ls>; <ls n="tantravārttika">6. 3. 34. 7</ls>).
+39310c39310
+< .{@{#-mAtnA#}@}
+---
+> .{@{#-mAtrA#}@}
+39585c39585
+< .²2 Mean, unworthy, censurable ({#garhya#} <ls>Uṇ. 4. 112</ls>; {#kutsita#} <ls n="Uṇ">5. 54</ls>
+---
+> .²2 Mean, unworthy, censurable ({#garhya#} <ls>Uṇ. 4. 112</ls>; {#kutsita#} <ls n="Uṇ.">5. 54</ls>
+40859c40859
+< .²1 To protect, defend; {#saha nAvavatu#} <ls>Tait. 2. 1. 1.</ls> {#yamavatAmavatAM#}
+---
+> .²1 To protect, defend; {#saha nAvavatu#} <ls>T. Up. 2. 1. 1.</ls> {#yamavatAmavatAM#}
+41106c41106
+<  <ls>Ns. 8. 177</ls>; {#pratikartuM prakfzwasya nAvakfzwena yujyate#} <ls>Rām.</ls>
+---
+>  <ls>Nyāya S. 8. 177</ls>; {#pratikartuM prakfzwasya nAvakfzwena yujyate#} <ls>Rām.</ls>
+52557c52557
+<  <ls>Vār. 1</ls>] The hymn beginning with the words {#asya vAm#} (<ls>Rv. 1. 164</ls>).
+---
+>  Vārt. 1] The hymn beginning with the words {#asya vAm#} (<ls>Rv. 1. 164</ls>).
+54080c54080
+<  {#vizayEH#} <ls>R. 1. 23</ls> not attracted or seduced; {#loBAkfzwaH#} <ls>H. 1</ls>; <ls>Sānti. 3. 5</ls>, <ls n="Sānti.">4. 16</ls>; 
+---
+>  {#vizayEH#} <ls>R. 1. 23</ls> not attracted or seduced; {#loBAkfzwaH#} <ls>H. 1</ls>; <ls>Śānti. 3. 5</ls>, <ls n="Śānti.">4. 16</ls>; 
+55906c55906
+<  {#padamanuBavituM kosti Danyo madanyaH#} <ls>Br. 4. 37.</ls>
+---
+>  {#padamanuBavituM kosti Danyo madanyaH#} <ls>Bṛ. S. 4. 37.</ls>
+57464c57464
+<  {#sa Atyantiko Bavizyati#} <ls>Mu. 4</ls>; {#vizRuguptahatakasyAtyantikaSreyase#} <ls n="Mu">2. 15</ls>; 
+---
+>  {#sa Atyantiko Bavizyati#} <ls>Mu. 4</ls>; {#vizRuguptahatakasyAtyantikaSreyase#} <ls n="Mu.">2. 15</ls>; 
+57859,57860c57859,57860
+< .²2 Devoted to, or originating from, Aditi {#AdityaM caruM nirbapet#} <ls>Yaj.</ls>
+<  <ls>Ts. 2. 2. 6. 1.</ls>
+---
+> .²2 Devoted to, or originating from, Aditi {#AdityaM caruM nirbapet#} 
+>  <ls>Yaj. Ts. 2. 2. 6. 1.</ls>
+59249c59249
+<  urging, driving forward; {#tasmA etamEndramAnuzUkam#} <ls>Yāj. Ts. 2. 3. 4. 2.</ls>
+---
+>  urging, driving forward; {#tasmA etamEndramAnuzUkam#} <ls>Yaj. Ts. 2. 3. 4. 2.</ls>
+59974c59974
+< {#ApiSarvara#}¦ {%a.%} Nightly, nocturnal. <ls>Yaj.</ls> <ls>Ts.</ls>
+---
+> {#ApiSarvara#}¦ {%a.%} Nightly, nocturnal. <ls>Yaj. Ts.</ls>
+61020c61020
+< {#Amanam#}¦ Ved. Friendly disposition or inclination, affection; <ls>Yaj.</ls> <ls>Ts. 2. 3. 9. 1.</ls>
+---
+> {#Amanam#}¦ Ved. Friendly disposition or inclination, affection; <ls>Yaj. Ts. 2. 3. 9. 1.</ls>
+61236c61236
+<  <ls>Yaj.</ls> <ls>Ts. 4. 5. 9. 2.</ls>
+---
+>  <ls>Yaj. Ts. 4. 5. 9. 2.</ls>
+61633c61633
+< {#Ayin#}¦ {%a.%} Ved. Coming or driving near, <ls>Yaj.</ls> <ls>Ts. 2. 47. 1.</ls>
+---
+> {#Ayin#}¦ {%a.%} Ved. Coming or driving near, <ls>Yaj. Ts. 2. 47. 1.</ls>
+64358,64359c64358,64359
+< .²2 Invoking a deity (to be present) (opp. {#visarjana#}); {#AbAhane biniyogaH#},
+<  {#AbAhanaM na jAnAmi na jAnAmi tavArcanam#} <ls>Pūjāmantra.</ls>
+---
+> .²2 Invoking a deity (to be present) (opp. {#visarjana#}); {#AvAhane viniyogaH#},
+>  {#AvAhanaM na jAnAmi na jAnAmi tavArcanam#} <ls>Pūjāmantra.</ls>
+66842c66842
+<  <ls>Mk. 1. 14</ls>; {#kariRyaH kAruRyAspadam#} <ls>Bv. 1. 2.</ls> {#AspadaM tbamasi sarvasaMpadAm#}
+---
+>  <ls>Mk. 1. 14</ls>; {#kariRyaH kAruRyAspadam#} <ls>Bv. 1. 2.</ls> {#AspadaM tvamasi sarvasaMpadAm#}
+68533c68533
+<  {#indro vfhaspatiH#} <ls>Tait.</ls> <ls>Vp. 1. 1. 1.</ls> <ls>Bṛ. Up. 1. 4. 11.</ls>
+---
+>  {#indro vfhaspatiH#} <ls>T. Up.</ls> <ls>Vp. 1. 1. 1.</ls> <ls>Bṛ. Up. 1. 4. 11.</ls>
+74650c74650
+<  {#puzye tu cCandasAM kuryAd bahirutsarjanaM dvijaH#} <ls>Ms. 4. 96</ls>; {#bedotsarjanAKyaM#}
+---
+>  {#puzye tu cCandasAM kuryAd bahirutsarjanaM dvijaH#} <ls>Ms. 4. 96</ls>; {#vedotsarjanAKyaM#}
+86763c86763
+<  (cf. Pāli {#obaraka#}, <ab>Mar.</ab> {#obarI#}?). (Ind. Ant. Vol. VII, Kuḍā 
+---
+>  (cf. Pāli {#obaraka#}, <ab>Mar.</ab> {#obarI#}?). (<ls>Ind. Ant. Vol. VII</ls>, Kuḍā
+96335c96335
+<  of philosophy.] {#fzi prasUtaM kapilaM yastamagre jYAnErbiBarti#} <ls>Sāṅk. Bhāṣ.</ls> on <ls>Bād. Sūtras 2. 1</ls>; 
+---
+>  of philosophy.] {#fzi prasUtaM kapilaM yastamagre jYAnErbiBarti#} <ls>Śāṅk. Bhāṣ.</ls> on <ls>Bād. Sūtras 2. 1</ls>; 
+104651c104651
+<  {#vyaracayadacirAt kIrtanAni … .#} (Ind. Ant. Vol. IX. p. 34.)
+---
+>  {#vyaracayadacirAt kIrtanAni … .#} (<ls>Ind. Ant. Vol. IX. p. 34.</ls>)
+114773c114773
+< .²4 Sore throat. {#vizavEdyo vijAnAti sarpasya kzavaTuM Druvam#} <ls>Subha.</ls>
+---
+> .²4 Sore throat. {#vizavEdyo vijAnAti sarpasya kzavaTuM Druvam#} <ls>Subhāṣ.</ls>
+119419c119419
+<  show signs of life; <ls>Bṛ. 21. 5.</ls>
+---
+>  show signs of life; <ls>Bṛ. S. 21. 5.</ls>
+122595c122595
+< .{@{#-ja, -jAta#}@} {%a.%} born in the house (a slave &c.); <ls>Bṛ. 5. 61. 7</ls>; <ls>Ms. 8. 415.</ls>
+---
+> .{@{#-ja, -jAta#}@} {%a.%} born in the house (a slave &c.); <ls>Bṛ. S. 61. 7</ls>; <ls>Ms. 8. 415.</ls>
+126376c126376
+< .²1 The act of smelling; {#na hi GrAturGrAterviparilopo vidyate#} <ls>Bṛ. 4. 3. 24</ls>; <ls n="Bṛ."></ls> 
+---
+> .²1 The act of smelling; {#na hi GrAturGrAterviparilopo vidyate#} <ls>Bṛ. Up. 4. 3. 24</ls>;
+137248c137248
+< {#jonarAjaH#}¦ <ab>N.</ab> of the author of <ls>Rāj. Tilak.</ls>
+---
+> {#jonarAjaH#}¦ <ab>N.</ab> of the author of <ls>Rāj. T.</ls>
+190024c190024
+< .²1 Complete attainment, perfection. <ls>Ks.</ls> -- <ls>Taraṅga 72. 362</ls> illustrates
+---
+> .²1 Complete attainment, perfection. <ls>Ks. Taraṅga 72. 362</ls> illustrates
+193140c193140
+< .{@{#-BAnuH#}@} the moon; {#tat sarbaM jayati prasAdamahimA pIyUzaBAnorayam#}
+---
+> .{@{#-BAnuH#}@} the moon; {#tat sarvaM jayati prasAdamahimA pIyUzaBAnorayam#}
+201886c201886
+< .{@{#-saMdeSaH#}@} a reply to the message; {#darpasArasya pratisaMdeSamAvedayat#} <ls>D. K. 2. 1.</ls>
+---
+> .{@{#-saMdeSaH#}@} a reply to the message; {#darpasArasya pratisaMdeSamAvedayat#} <ls>Dk. 2. 1.</ls>
+217108c217108
+<  ruled by its planetary regent; <ls>Bṛt. S.</ls>
+---
+>  ruled by its planetary regent; <ls>Bṛ. S.</ls>
+223071c223071
+<  <ls>Paśupata. Up. 7.</ls>
+---
+>  <ls>Pāśupata. Up. 7.</ls>
+223259c223259
+< .({@{#-nI#}@}) an epithet of Gāyatrī; {#AyAhi barade debi tryakzare brahmavAdini#}
+---
+> .({@{#-nI#}@}) an epithet of Gāyatrī; {#AyAhi varade devi tryakzare brahmavAdini#}
+229178c229178
+<  {#kfzIvalaH . aDamo BAravAhI syAdityevaM triviDo BftaH#} <ls>Mītā.</ls>
+---
+>  {#kfzIvalaH . aDamo BAravAhI syAdityevaM triviDo BftaH#} <ls>Mit.</ls>
+233965c233965
+< .²2 <ab>N.</ab> of one of the {#Sakti#}s of Durgā; {#‘kAlI karAlI ca manojavA ca’#} <ls>Śruti.</ls>
+---
+> .²2 <ab>N.</ab> of one of the {#Sakti#}s of Durgā; {#‘kAlI karAlI ca manojavA ca’#} Śruti.
+238120c238120
+< .{@{#-kAmaH#}@} fond of flesh; <ls>P. III. 2. 1</ls>; <ls>Vār. 7.</ls>
+---
+> .{@{#-kAmaH#}@} fond of flesh; <ls>P. III. 2. 1</ls>; Vārt. 7.
+238948c238948
+<  <ls>Ku. 4. 28</ls>; {#sa mADavenABimatena saKyA#} ({#anuprayAtaH#}) 3. 23; {#BADavapraTame#}
+---
+>  <ls>Ku. 4. 28</ls>; {#sa mADavenABimatena saKyA#} ({#anuprayAtaH#}) 3. 23; {#mADavapraTame#}
+249134c249134
+<  {#yuktarUpamidaM tava#} <ls>Ś. 1. 12</ls>; {#anukAriRi pUrvezAM yuktarUpamidaM tvayi#} <ls n="Ś">2. 17.</ls>
+---
+>  {#yuktarUpamidaM tava#} <ls>Ś. 1. 12</ls>; {#anukAriRi pUrvezAM yuktarUpamidaM tvayi#} <ls n="Ś.">2. 17.</ls>
+249548c249548
+<  <ls>Bharata</ls>; {#mAtulasya nagare yuDAjitaH prezitO BaratalakzmaRAnujO#} <ls>Rāmāyaṇachampū.</ls>
+---
+>  Bharata; {#mAtulasya nagare yuDAjitaH prezitO BaratalakzmaRAnujO#} <ls>Rāmāyaṇachampū.</ls>
+286826c286826
+< .²2 The faculty of speech; {#vEKarI sarvavidyAsu praSastA#} <ls>Narāyaṇapūrvatāpi. Up. 5. 8.</ls>
+---
+> .²2 The faculty of speech; {#vEKarI sarvavidyAsu praSastA#} <ls>Nārāyaṇapūrvatāpi. Up. 5. 8.</ls>
+311766c311766
+< .²4 An officer who introduces people at court; {#saMniDAtfceyakarma#} <ls>Kau. A. 1</ls> also <ls n="Kau.">2. 5.</ls>
+---
+> .²4 An officer who introduces people at court; {#saMniDAtfceyakarma#} <ls>Kau. A. 1</ls> also <ls n="Kau. A.">2.</ls> <ls n="Kau. A.">5.</ls>

@@ -1,0 +1,68 @@
+471c471
+<  {#BoktA#} Sāṅkhya; a subordinate agent; {#°tvam-tA#} an inferior or subordinate position.
+---
+>  {#BoktA#} <ls>Sāṅkhya</ls>; a subordinate agent; {#°tvam-tA#} an inferior or subordinate position.
+20077c20077
+<  {#vizayA ime .. antaHkaraRaM tribiDam#} <ls>Sāṅ. K. 33</ls>, i. e. {#budDapahaNkAramanAMsi#};
+---
+>  {#vizayA ime .. antaHkaraRaM triviDam#} <ls>Sāṅ. K. 33</ls>, i. e. {#budDapahaNkAramanAMsi#};
+24705c24705
+<  {#DarmayorgatO#} <ls>R. 8. 16</ls>; {#jYAnena cApavargaH#} Sāṅkhya <ls>K. 44.</ls>
+---
+>  {#DarmayorgatO#} <ls>R. 8. 16</ls>; {#jYAnena cApavargaH#} <ls>Sāṅkhya K. 44.</ls>
+39311c39311
+< .²1 half a (short) syllable. {#arDamAtrAlAGavena putrotsavaM manyante vEyAkaraRAH#} <ls>Pari Sik.</ls>
+---
+> .²1 half a (short) syllable. {#arDamAtrAlAGavena putrotsavaM manyante vEyAkaraRAH#} <ls>Pari. Śekh.</ls>
+41496c41496
+< .²3 To determine. {#vizayamavagAhate yasmAt#} <ls>Śāṅ. K. 35.</ls> -{%Caus.%}
+---
+> .²3 To determine. {#vizayamavagAhate yasmAt#} <ls>Sāṅ. K. 35.</ls> -{%Caus.%}
+51084c51084
+<  <ls>Vāj. 40. 9.</ls>; <ls>Iśop. 12</ls>
+---
+>  <ls>Vāj. 40. 9.</ls>; <ls>Īśop. 12</ls>
+60999c60999
+<  {#hi ..#} <ls>Prāchetasa.</ls>
+---
+>  {#hi ..#} <ls>Prācetasa.</ls>
+66844c66844
+< .²3 Rank, position, station; {#kAvyArTaBAbanenAyamapi saByapadAspadam#} <ls>D.</ls>
+---
+> .²3 Rank, position, station; {#kAvyArTaBAbanenAyamapi saByapadAspadam#} <ls>S. D.</ls>
+78580c78580
+< {#unmanIBAvaH#}¦ Absence of mind; {#yadvA yAtyunmanIBAvam#} <ls>Brahmamet. Up. 4.</ls>
+---
+> {#unmanIBAvaH#}¦ Absence of mind; {#yadvA yAtyunmanIBAvam#} <ls>Brahmabindu. Up. 4.</ls>
+83347c83347
+<  {#SrUyate tadvidurDIrA devapraSnamupaSrutim ..#} <ls>Hārāvali</ls>; {#parijano'pi#}
+---
+>  {#SrUyate tadvidurDIrA devapraSnamupaSrutim ..#} <ls>Hārāvalī</ls>; {#parijano'pi#}
+102811c102811
+< .²22 <ab>N.</ab> of the one of four contentments mentioned in {#sANKyakArikA#}; {#prakftyupAdAnakAlaBAgAKyAH#} <ls>Śāṅ. K. 50.</ls>
+---
+> .²22 <ab>N.</ab> of the one of four contentments mentioned in {#sANKyakArikA#}; {#prakftyupAdAnakAlaBAgAKyAH#} <ls>Sāṅ. K. 50.</ls>
+112117c112117
+< .²6 Plan, design, purpose; {#krato smara kftaM smara#} <ls>Iśop. 17</ls>; <ls>Bṛ. Up. 5. 15. 1.</ls>
+---
+> .²6 Plan, design, purpose; {#krato smara kftaM smara#} <ls>Īśop. 17</ls>; <ls>Bṛ. Up. 5. 15. 1.</ls>
+123783c123783
+<  {#tu paruzA#} ({%i. e.%} {#gOqI#}) <ls>M.</ls> P. 7; {#ojaHprakASakErvarRErbanDa#}
+---
+>  {#tu paruzA#} ({%i. e.%} {#gOqI#}) <ls>M. P. 7</ls>; {#ojaHprakASakErvarRErbanDa#}
+156966c156966
+<  {#drAk paryastakapAlasaMpuwamilat …#} <ls>Vīrachandrodaya.</ls>
+---
+>  {#drAk paryastakapAlasaMpuwamilat …#} <ls>Vīracandrodaya.</ls>
+243514c243514
+<  (q. v.); {#mUlaprakftiravikftiH#} <ls>Śāṅ. K. 3.</ls> (pl.) the four principal
+---
+>  (q. v.); {#mUlaprakftiravikftiH#} <ls>Sāṅ. K. 3.</ls> (pl.) the four principal
+286826c286826
+< .²2 The faculty of speech; {#vEKarI sarvavidyAsu praSastA#} <ls>Nārāyaṇapūrvatāpi. Up. 5. 8.</ls>
+---
+> .²2 The faculty of speech; {#vEKarI sarvavidyAsu praSastA#} <ls>Nārāyaṇapūrvatāp. Up. 5. 8.</ls>
+290658c290658
+<  Vālmīki's <ls>Gaṅgāṣtaka 6</ls>; {#vyAlolaH keSapASaH#} <ls>Gīt. 11.</ls>
+---
+>  Vālmīki's <ls>Gaṅgāṣṭaka 6</ls>; {#vyAlolaH keSapASaH#} <ls>Gīt. 11.</ls>

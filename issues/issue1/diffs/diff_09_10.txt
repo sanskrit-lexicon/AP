@@ -1,0 +1,319 @@
+679c679
+<  Ms. 3. 157; {#akAraRAt parityajya#} K. 167; {#tyakto bA syAdakAraRAt#}
+---
+>  Ms. 3. 157; {#akAraRAt parityajya#} K. 167; {#tyakto vA syAdakAraRAt#}
+1052c1052
+< {#akrama#}¦ {%a.%} [{#nAsti kramaH pAdaH kramaRaM bA yasya#}]
+---
+> {#akrama#}¦ {%a.%} [{#nAsti kramaH pAdaH kramaRaM vA yasya#}]
+8374c8374
+< {#atra#}¦ ({#atrA#} Ved.) {%ind.%} [{#asmin etAsmin vA, idaM-etad bA saptamyAH#}
+---
+> {#atra#}¦ ({#atrA#} Ved.) {%ind.%} [{#asmin etAsmin vA, idaM-etad vA saptamyAH#}
+10492c10492
+< .²2 [{#aDikaM BojanaM DanaM mUlyaM bA yasya#}] Very costly or valuable;
+---
+> .²2 [{#aDikaM BojanaM DanaM mUlyaM vA yasya#}] Very costly or valuable;
+18126c18126
+<  {#na duzyati anudivasaM bA dIyate iti anuvAsanaH#})
+---
+>  {#na duzyati anudivasaM vA dIyate iti anuvAsanaH#})
+18573c18573
+<  {#vikIya bA kiYcidyasyehAnuSayo Babet#} Ms. 8. 222; see {#kItAnuSaya#}. cf.
+---
+>  {#vikIya vA kiYcidyasyehAnuSayo Babet#} Ms. 8. 222; see {#kItAnuSaya#}. cf.
+52747c52747
+<  {#nikziptaM bA paradravyaM nazwaM labDvA'pahftya bA . vikIyate'samakzaM#}
+---
+>  {#nikziptaM vA paradravyaM nazwaM labDvA'pahftya vA . vikIyate'samakzaM#}
+54812c54812
+< .²1 A name, appellation; {#kiM bA Sakuntaletyasya mAturAKyA#} Ś. 7, 7.
+---
+> .²1 A name, appellation; {#kiM vA Sakuntaletyasya mAturAKyA#} Ś. 7, 7.
+55261c55261
+< {#Agnipada#}¦ {%a.%} [{#agnipade dIyate kAryaM bA vyuzwA° aR#}] To be 
+---
+> {#Agnipada#}¦ {%a.%} [{#agnipade dIyate kAryaM vA vyuzwA° aR#}] To be 
+59287c59287
+< .{@{#-AnfRyatA#}@} [{#anfRasya BAvaH karma bA zyaY#}] Acquittance of debt
+---
+> .{@{#-AnfRyatA#}@} [{#anfRasya BAvaH karma vA zyaY#}] Acquittance of debt
+62522c62522
+<  U. 1; {#yadi bA jAnakImapi, ArA‡DanAya lokAnAM muYcato nAsti me vyaTA#} 1. 12, 41.
+---
+>  U. 1; {#yadi vA jAnakImapi, ArA‡DanAya lokAnAM muYcato nAsti me vyaTA#} 1. 12, 41.
+76079c76079
+< .²1 Vomited; Śukra. 1. 163; {#udgIrRasya vAvagIrRasya bA manTo romanTaH#}
+---
+> .²1 Vomited; Śukra. 1. 163; {#udgIrRasya vAvagIrRasya vA manTo romanTaH#}
+137394c137394
+< .²5 The organ of intelligence, sense, intellect; {#kaccijjYAnAni sarvaRi#}
+---
+> .²5 The organ of intelligence, sense, intellect; {#kaccijjYAnAni sarvARi#}
+150112c150112
+<  {#mAtA pitA bA dadyAtAM yamadBiH putramApadi . sadfSaM prItisaMyuktaM #}
+---
+>  {#mAtA pitA vA dadyAtAM yamadBiH putramApadi . sadfSaM prItisaMyuktaM #}
+164701c164701
+< {#nasya#}¦ {%a.%} [{#nAsikAyE hitaM tatra BabaM bA yat nasAdeSaH#}] Nasal.
+---
+> {#nasya#}¦ {%a.%} [{#nAsikAyE hitaM tatra BabaM vA yat nasAdeSaH#}] Nasal.
+170300c170300
+< .²1 Explanation, derivation, etymological interpretation. {#sa bA eza AtmA#}
+---
+> .²1 Explanation, derivation, etymological interpretation. {#sa vA eza AtmA#}
+177009c177009
+< .{@{#-kam#}@} [{#paYc-vistAre karmaRi karaRe bA GaY kutvam#}]
+---
+> .{@{#-kam#}@} [{#paYc-vistAre karmaRi karaRe vA GaY kutvam#}]
+180108c180108,180109
+< .²11 Final, last. 12 (At the end of comp.) Having anything as ths highest
+---
+> .²11 Final, last. 
+> .²12 (At the end of comp.) Having anything as the highest
+185668c185669
+<  {#parihApayati vyayaM bA vivarDayati iti parihApaRam#}.
+---
+>  {#parihApayati vyayaM vA vivarDayati iti parihApaRam#}.
+189134c189135
+< {#pATeyam#}¦ [{#paTi tadvyahAre bA sADu QaY#}]
+---
+> {#pATeyam#}¦ [{#paTi tadvyahAre vA sADu QaY#}]
+189142c189143
+< {#pAdaH#}¦ [{#padyate gamyate'nena karaRe karmaRi bA GaY#}]
+---
+> {#pAdaH#}¦ [{#padyate gamyate'nena karaRe karmaRi vA GaY#}]
+192327c192328
+< {#pitrya#}¦ {%a.%} [{#pituridaM priyaM bA pitfta AgataM vA yat#}]
+---
+> {#pitrya#}¦ {%a.%} [{#pituridaM priyaM vA pitfta AgataM vA yat#}]
+195460c195461
+< .²3 To clean from chaff, winnow; {#pUtvA tfRa‡mizIkAM bA te laBante na #}
+---
+> .²3 To clean from chaff, winnow; {#pUtvA tfRa‡mizIkAM vA te laBante na #}
+195638c195639
+< .{@{#-tiH#}@} {%f.%} [{#pU-pUy bA BAve ktin#}]
+---
+> .{@{#-tiH#}@} {%f.%} [{#pU-pUy vA BAve ktin#}]
+197168c197169
+< .²4 Expert, clever, skilful; {#kiM bA tattvavivekapeSalamatiryogISvaraH#}
+---
+> .²4 Expert, clever, skilful; {#kiM vA tattvavivekapeSalamatiryogISvaraH#}
+197335c197336
+< .({@{#-kI#}@} {%f.%}) [{#pitfta AgataM pituridaM bA WaY#}]
+---
+> .({@{#-kI#}@} {%f.%}) [{#pitfta AgataM pituridaM vA WaY#}]
+200155c200156
+< .²3 Concealed, hidden; {#pracCannA bA prakASA vA veditavyAH svakarmaBiH#}
+---
+> .²3 Concealed, hidden; {#pracCannA vA prakASA vA veditavyAH svakarmaBiH#}
+200366c200367
+< .{@{#-antakaH#}@} Yama, the god of death; {#aTa bA mfdu vastu hiMsituM #}
+---
+> .{@{#-antakaH#}@} Yama, the god of death; {#aTa vA mfdu vastu hiMsituM #}
+201544c201545
+< .²1 hope, expectation; {#na yatra pratyASAmanupatati no bA rahayati#} Māl. 9. 8.
+---
+> .²1 hope, expectation; {#na yatra pratyASAmanupatati no vA rahayati#} Māl. 9. 8.
+202181c202182
+<  2; {#pratigfhItaM brAhmaRavacanam#} V. 2; {#mAtA bA pratigfhItA #}...
+---
+>  2; {#pratigfhItaM brAhmaRavacanam#} V. 2; {#mAtA vA pratigfhItA #}...
+203125c203126
+<  8. 80; Mv. 5. 4; {#sidDInAmasADanamanavatAraRamapraveSanaM bA pratibanDaH,#}
+---
+>  8. 80; Mv. 5. 4; {#sidDInAmasADanamanavatAraRamapraveSanaM vA pratibanDaH,#}
+210589c210590
+< ...{#kftisADyatAjYAnaM bA pravartakamiti jarannEyAyikAH#}.
+---
+> ...{#kftisADyatAjYAnaM vA pravartakamiti jarannEyAyikAH#}.
+211108c211109
+< .²1 Governing, ruling; {#etasya bA akzarasya praSAsane gArgi sUryAcandramasO#}
+---
+> .²1 Governing, ruling; {#etasya vA akzarasya praSAsane gArgi sUryAcandramasO#}
+213283c213284
+< .({@{#-tA, -tI#}@} {%f.%}) [{#prakfterayaM prakftyA nirvftto bA aR#}]
+---
+> .({@{#-tA, -tI#}@} {%f.%}) [{#prakfterayaM prakftyA nirvftto vA aR#}]
+222141c222142
+< .{@{#-antaH#}@} waking condition, the being awake; {#sa bA eza etasmin #}
+---
+> .{@{#-antaH#}@} waking condition, the being awake; {#sa vA eza etasmin #}
+223457c223458
+< .({@{#-hmI#}@} {%f.%}) [{#brahmaRa idaM tena proktaM bA aR wilopaH#}]
+---
+> .({@{#-hmI#}@} {%f.%}) [{#brahmaRa idaM tena proktaM vA aR wilopaH#}]
+223841c223842
+<  {#vyAsAdiBirbarRitasya vizRorbizRuBaktAnAM bA caritasya nava‡rasAtmakasya#}
+---
+>  {#vyAsAdiBirbarRitasya vizRorbizRuBaktAnAM vA caritasya nava‡rasAtmakasya#}
+224300c224301
+< .²2 To obtain for oneself, share in, partake of; {#pitryaM bA Bajate SIlam#} Ms. 10. 59.
+---
+> .²2 To obtain for oneself, share in, partake of; {#pitryaM vA Bajate SIlam#} Ms. 10. 59.
+224302c224303
+<  {#Bajasba pUjAm#} Māl. 5. 25.
+---
+>  {#Bajasva pUjAm#} Māl. 5. 25.
+224311,224313c224312,224314
+< {#BajatetarAM kalaNkam#} Bv. 1. 74; {#na Bejire BImabizeRa BItim#} Bh. 2.
+<  80; {#vyaktiM BajantyApagAH#} Ś. 7. 8; {#aBitaptamayo'pi mArdabaM Bajate#}
+<  {#kEba kaTA SarIrizu#} R. 8. 43; Māl. 3. 9; U. 1. 35.
+---
+> {#BajatetarAM kalaNkam#} Bv. 1. 74; {#na Bejire BImavizeRa BItim#} Bh. 2.
+>  80; {#vyaktiM BajantyApagAH#} Ś. 7. 8; {#aBitaptamayo'pi mArdavaM Bajate#}
+>  {#kEva kaTA SarIrizu#} R. 8. 43; Māl. 3. 9; U. 1. 35.
+224319,224320c224320,224321
+< .²10 To be attached or devoted to; {#Asannameba nfpatirBajate manuzyaM #}
+< {#vidyAbihInamakulInamasaMskftaM bA#} Pt. 1. 35.
+---
+> .²10 To be attached or devoted to; {#Asannameva nfpatirBajate manuzyaM #}
+> {#vidyAvihInamakulInamasaMskftaM vA#} Pt. 1. 35.
+224333c224334
+< {#Baj#} to go to sleep; {#mUrCAM Baj#} to swoon; {#BAbaM Baj#} to show love
+---
+> {#Baj#} to go to sleep; {#mUrCAM Baj#} to swoon; {#BAvaM Baj#} to show love
+225880c225881
+< .({@{#-tI#}@} {%f.%}) [{#BagavataH BagavatyA bA idaM so'sya devatA vA aR#}]
+---
+> .({@{#-tI#}@} {%f.%}) [{#BagavataH BagavatyA vA idaM so'sya devatA vA aR#}]
+226072c226073
+< .²7 (Fig.) Any valued possession, treasure; {#SAntaM bA raGunandane taduBayaM#}
+---
+> .²7 (Fig.) Any valued possession, treasure; {#SAntaM vA raGunandane taduBayaM#}
+227813c227814
+<  {#kzetraM bA BIzayA haran#} Ms. 8. 264.
+---
+>  {#kzetraM vA BIzayA haran#} Ms. 8. 264.
+238858c238859
+< .({@{#-rI#}@} {%f.%}) [{#maTurAyAM Bavo maTurAyA Agato bA aR#}]
+---
+> .({@{#-rI#}@} {%f.%}) [{#maTurAyAM Bavo maTurAyA Agato vA aR#}]
+243266c243267
+< .²3 A process in calcining metals; {#mUrcCAM gato mfto bA nidarSanaM pArado'tra#}
+---
+> .²3 A process in calcining metals; {#mUrcCAM gato mfto vA nidarSanaM pArado'tra#}
+257325c257326
+< .²18 Young, younger; {#dIvyatyuccErlaGuraGupatiH kiM nu bA syAt kimanyat#} Mv. 6. 53.
+---
+> .²18 Young, younger; {#dIvyatyuccErlaGuraGupatiH kiM nu vA syAt kimanyat#} Mv. 6. 53.
+257406c257407
+< .²2 To alleviate, lighten, lessen, mitigate; {#rahasi laGayedArabDA bA #}
+---
+> .²2 To alleviate, lighten, lessen, mitigate; {#rahasi laGayedArabDA vA #}
+263849c263850
+< .²3 An adherent, a friend; {#banuM bA ye suSruRaM suSruto DuH#} 10. 74. 1.
+---
+> .²3 An adherent, a friend; {#banuM vA ye suSruRaM suSruto DuH#} 10. 74. 1.
+266596c266597
+< .{@{#-rI#}@} {%f.%} [{#vall-ari bA NIp#}]
+---
+> .{@{#-rI#}@} {%f.%} [{#vall-ari vA NIp#}]
+267678c267679
+<  {#duryoDano bA SiKI#} Mk. 5. 6; {#snAnIyavastrakriyayA patrorRaM bopayujyate#}
+---
+>  {#duryoDano vA SiKI#} Mk. 5. 6; {#snAnIyavastrakriyayA patrorRaM bopayujyate#}
+267681c267682
+< Pāṇini); {#dozo RO bA cittabirAge#} P. VI. 4. 99, 91.
+---
+> Pāṇini); {#dozo RO vA cittabirAge#} P. VI. 4. 99, 91.
+267690c267691
+<  {#sA vA SaMBostadIyA bA mUrtirjala‡mayI mama#} Ku. 2. 60; {#tadatra pariSramAnuroDAdvA#}
+---
+>  {#sA vA SaMBostadIyA vA mUrtirjala‡mayI mama#} Ku. 2. 60; {#tadatra pariSramAnuroDAdvA#}
+267693c267694
+<  {#mriyate bA pipAsAyAM yAcate vA puraMdaram ..#} Subhāṣ. ({#aTavA#} or,
+---
+>  {#mriyate vA pipAsAyAM yAcate vA puraMdaram ..#} Subhāṣ. ({#aTavA#} or,
+267702c267703
+< .²1 To blow; {#vAtA vAtA diSi diSi na bA saptaDA saptaBinnAH#} Ve. 3. 6;
+---
+> .²1 To blow; {#vAtA vAtA diSi diSi na vA saptaDA saptaBinnAH#} Ve. 3. 6;
+267849c267850
+<  toils, meshes; {#ko bA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn#} Pt. 1. 146.
+---
+>  toils, meshes; {#ko vA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn#} Pt. 1. 146.
+268108c268109
+< {#vAcanam#}¦ [{#bac-Ric sbArTe bA Ric lyuw#}]
+---
+> {#vAcanam#}¦ [{#bac-Ric sbArTe vA Ric lyuw#}]
+269240c269241
+< .{@{#-pI#}@} {%f.%} [{#vap-iY bA NIp;#} Uṇ. 4. 125] A well, any large 
+---
+> .{@{#-pI#}@} {%f.%} [{#vap-iY vA NIp;#} Uṇ. 4. 125] A well, any large 
+270101c270102
+< {#vArdDakam#}¦ [{#bfdDAnAM samUhaH tasya BAbaH karma bA buY#}]
+---
+> {#vArdDakam#}¦ [{#bfdDAnAM samUhaH tasya BAbaH karma vA buY#}]
+270185c270186
+< .({@{#-kI#}@} {%f.%}) [{#barze barzAsu bA BavaH WaY#}]
+---
+> .({@{#-kI#}@} {%f.%}) [{#barze barzAsu vA BavaH WaY#}]
+270431c270432
+< {#vAsaH#}¦ [{#vas nivAse AcCAdane bA GaY#}]
+---
+> {#vAsaH#}¦ [{#vas nivAse AcCAdane vA GaY#}]
+270548c270549
+< .({@{#-yI#}@} {%f.%}) [{#vasataye hitaM sADu bA QaY#}] Habitable.
+---
+> .({@{#-yI#}@} {%f.%}) [{#vasataye hitaM sADu vA QaY#}] Habitable.
+272444c272445
+< .²7 Disfavour; {#anugrahaM vigrahaM bA manyase tadviDehi naH#} Bhāg. 10. 16. 59.
+---
+> .²7 Disfavour; {#anugrahaM vigrahaM vA manyase tadviDehi naH#} Bhāg. 10. 16. 59.
+274842c274843
+<  {#ha bA asya SrIrBavati#} Bṛ. Up. 2. 3. 6.
+---
+>  {#ha vA asya SrIrBavati#} Bṛ. Up. 2. 3. 6.
+275233c275234
+<  {#viDyanto bA prakftivat°#} MS. 7. 4. 10; {#somena yajeta iti viDyAdiH#}
+---
+>  {#viDyanto vA prakftivat°#} MS. 7. 4. 10; {#somena yajeta iti viDyAdiH#}
+278263c278264
+< {#prasftamapi punaH saMharan kAryajAtaM kartA bA nAwakAnAmimamanuBavati kleSamasmadviDo bA#} Mu. 4. 3.
+---
+> {#prasftamapi punaH saMharan kAryajAtaM kartA vA nAwakAnAmimamanuBavati kleSamasmadviDo bA#} Mu. 4. 3.
+281667c281668
+<  Ms. 9. 31; Śi. 1. 41; {#ko bA biSvajanInezu karmasu prAGawi‡zyata#} Bk. 21. 17.
+---
+>  Ms. 9. 31; Śi. 1. 41; {#ko vA biSvajanInezu karmasu prAGawi‡zyata#} Bk. 21. 17.
+281775c281776
+< .²4 Fire; {#biSvaMBaro bA viSvaMBarakulAye taM na paSyati#} Bṛ. 
+---
+> .²4 Fire; {#biSvaMBaro vA viSvaMBarakulAye taM na paSyati#} Bṛ. 
+287130c287131
+< .({@{#-kI#}@} {%f.%}) [{#bedaM-vettyaDIte bA WaY vedezu bihitaH Wak vA#}]
+---
+> .({@{#-kI#}@} {%f.%}) [{#bedaM-vettyaDIte vA WaY vedezu bihitaH Wak vA#}]
+287135c287136
+< .{@{#-kam#}@} A Vedic passage; {#ameDye bA patenmatto bEdikaM vApyudAharet#} Ms. 11. 96.
+---
+> .{@{#-kam#}@} A Vedic passage; {#ameDye vA patenmatto bEdikaM vApyudAharet#} Ms. 11. 96.
+299183c299184
+< .²4 Eminent, good, virtuous; {#yena kenApyupAyena SuBenApyaSuBena bA udDareddInamAtmAnam#} Pt. 1. 358.
+---
+> .²4 Eminent, good, virtuous; {#yena kenApyupAyena SuBenApyaSuBena vA udDareddInamAtmAnam#} Pt. 1. 358.
+320675c320676
+< .({@{#-kI#}@} {%f.%}) [{#sattvaguRena tatkAryeRa manasA bA nirvfttaH WaY#}]
+---
+> .({@{#-kI#}@} {%f.%}) [{#sattvaguRena tatkAryeRa manasA vA nirvfttaH WaY#}]
+326945c326946
+<  {#tu Sakawena vA . varAhamakarAByAM vA sUcyA bA garuqena vA#} Ms. 7. 187.
+---
+>  {#tu Sakawena vA . varAhamakarAByAM vA sUcyA vA garuqena vA#} Ms. 7. 187.
+330458c330459
+< {#stabDa#}¦ {%p. p.%} [{#stamB karmaRi kartari bA kta#}]
+---
+> {#stabDa#}¦ {%p. p.%} [{#stamB karmaRi kartari vA kta#}]
+337660c337661
+< .{@{#-golakaH#}@} a kind of insect; {#PalaM bA mUlakaM hftvA apUpaM vA #}
+---
+> .{@{#-golakaH#}@} a kind of insect; {#PalaM vA mUlakaM hftvA apUpaM vA #}
+340546c340547
+< .({@{#-nI#}@} {%f.%}) [{#hemanta eva hemante Bavo bA aR talopaH#}]
+---
+> .({@{#-nI#}@} {%f.%}) [{#hemanta eva hemante Bavo vA aR talopaH#}]
+340572c340573
+< .({@{#-tI#}@} {%f.%}) [{#himabato adUraBabo deSaH tasyedaM bA aR#}]
+---
+> .({@{#-tI#}@} {%f.%}) [{#himabato adUraBabo deSaH tasyedaM vA aR#}]

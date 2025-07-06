@@ -1,0 +1,20 @@
+19997c19997
+< .³({%b%}) By way of seizing or holding; {#antarhatbA gataH#} ({#hataM parigfhya#}). 
+---
+> .³({%b%}) By way of seizing or holding; {#antarhatvA gataH#} ({#hataM parigfhya#}). 
+20022c20022
+<  comp.) <ls>Ki. 1. 34</ls>; {#jbalayati tanUmantardAhaH#} (Tat. comp.) <ls>U. 3. 31</ls>; 
+---
+>  comp.) <ls>Ki. 1. 34</ls>; {#jvalayati tanUmantardAhaH#} (Tat. comp.) <ls>U. 3. 31</ls>; 
+29881c29881
+< .²2 Unaffected; {#kleSaleSEra‡Binnam#} <ls>Ś. 2. 4.</ls>
+---
+> .²2 Unaffected; {#kleSaleSEraBinnam#} <ls>Ś. 2. 4.</ls>
+65566c65566
+<  of a house-holder; {#bAnaprasTa#} the life of an anchorite or hermit, 
+---
+>  of a house-holder; {#vAnaprasTa#} the life of an anchorite or hermit, 
+85691c85691
+<  <ls>Ś. 7</ls>; {#uBayamAnaSire basuDADipAH#} <ls>R. 9. 9</ls>; {#uBayIM sidDimuBAbabApatuH#} 8. 23. 17. 38; 
+---
+>  <ls>Ś. 7</ls>; {#uBayamAnaSire vasuDADipAH#} <ls>R. 9. 9</ls>; {#uBayIM sidDimuBAvavApatuH#} 8. 23. 17. 38; 

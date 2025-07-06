@@ -1,0 +1,16 @@
+13367c13367
+< .{@{#-tmyam#}@} Want of affection for one's own family. Pride of tho possession
+---
+> .{@{#-tmyam#}@} Want of affection for one's own family. Pride of the possession
+43185c43185
+< .²2 (In drama) a scene during which a person enters ths stage in terror
+---
+> .²2 (In drama) a scene during which a person enters the stage in terror
+160772c160772
+< .{@{#-nATaH#}@} tho ocean.
+---
+> .{@{#-nATaH#}@} the ocean.
+285954c285954
+< .{@{#-anaDyayanam#}@} Remissness in tha Vedic study; Ms. 3. 63.
+---
+> .{@{#-anaDyayanam#}@} Remissness in the Vedic study; Ms. 3. 63.

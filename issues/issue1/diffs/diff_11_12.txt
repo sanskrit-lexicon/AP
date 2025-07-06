@@ -1,0 +1,17 @@
+85434c85434
+< .²4 Effort, exertion; {#vaSyAtmanA tu yatatA Sakyo'bAptumupAyataH#} ({#yogaH#})
+---
+> .²4 Effort, exertion; {#vaSyAtmanA tu yatatA Sakyo'vAptumupAyataH#} ({#yogaH#})
+246736c246736,246737
+< .²6 To join, associate with. 7 To go, proceed. -{%Caus.%} ({#yAtayati-te#})
+---
+> .²6 To join, associate with.
+> .²7 To go, proceed. -{%Caus.%} ({#yAtayati-te#})
+271292c271293
+<  9; {#biraheRa vikalahfdayA#} Bv. 2. 71, 164; {#Srutiyugale pikarutavikale#}
+---
+>  9; {#viraheRa vikalahfdayA#} Bv. 2. 71, 164; {#Srutiyugale pikarutavikale#}
+271294c271295
+< .²5 Ineffective, useless; {#vikalamiha pUrbasukftam#} Pt. 5. 9.
+---
+> .²5 Ineffective, useless; {#vikalamiha pUrvasukftam#} Pt. 5. 9.

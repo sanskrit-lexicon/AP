@@ -1,0 +1,21 @@
+136714,136715c136714,136718
+< {#juwikA#}¦ A tuft of hair on the top of the head; cf. {#cUqA#}. {#juq#}¦
+<  I. 6. P. ({#juqati#})
+---
+> {#juwikA#}¦ A tuft of hair on the top of the head; cf. {#cUqA#}.
+> <LEND>
+> 
+> <L>15687.1<pc>0741-1<k1>juq<k2>juq
+> {#juq#}¦ I. 6. P. ({#juqati#})
+245796,245797c245799,245800
+< <L>26771<pc>1294-1<k1>mOGyam<k2>mOGyam
+< {#mOGyam#}¦ [{#mugDa-zyaY#}]
+---
+> <L>26771<pc>1294-1<k1>mOgDyam<k2>mOgDyam
+> {#mOgDyam#}¦ [{#mugDa-zyaY#}]
+245803,245804c245806,245807
+< <L>26772<pc>1294-1<k1>mODyam<k2>mODyam
+< {#mODyam#}¦ Uselessness.
+---
+> <L>26772<pc>1294-1<k1>mOGyam<k2>mOGyam
+> {#mOGyam#}¦ Uselessness.

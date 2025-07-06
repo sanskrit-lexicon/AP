@@ -1,0 +1,4 @@
+329246c329246
+< .²1 A white-wahed mansion, any stuccoed house; {#sitaM sitimnA sutarAM#}
+---
+> .²1 A white-washed mansion, any stuccoed house; {#sitaM sitimnA sutarAM#}

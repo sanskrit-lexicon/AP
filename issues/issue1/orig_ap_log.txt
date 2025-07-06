@@ -1,0 +1,182 @@
+commit 4a608c8a8c102f4990a9ff88e919e7e1d7bce5ed
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Tue Jul 16 14:08:09 2024 -0400
+
+    AP: https://github.com/sanskrit-lexicon/csl-orig/issues/1700
+
+commit 02a6ee2e742da64abb0729777d1b1a2b2be58fa2
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Fri Jun 28 12:43:15 2024 -0400
+
+    ap: user correction.  readme updates
+
+commit 63ec2cffd006539242d9728f433586fa0fe10c90
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Wed Dec 13 17:45:47 2023 -0500
+
+    User correction
+
+commit 1fb1fcaf9940bc6223c0068a331592f402714e39
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Fri Sep 8 18:03:21 2023 -0400
+
+    ap: user correction
+
+commit 3f510827ed70886f9343ef76e3c5725e009176db
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Wed Mar 8 13:45:57 2023 -0500
+
+    AP user corrections
+
+commit c03958ce7e876f3d66b0d294d019e4cbe7b8d917
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Tue Dec 21 00:16:02 2021 -0500
+
+    AP: User corrections
+
+commit e722749e3c80b09f67f428a8fdc66819cabcc5c2
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Sun Aug 29 13:02:31 2021 -0400
+
+    AP correction gOqaH
+
+commit 7a86311fbce39f96fa3f5c8107803da894568e97
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Sat Aug 28 17:48:41 2021 -0400
+
+    ap revised re literary sources
+
+commit 694d321e374c378782c7355f6cf4f50af610871c
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Thu Aug 26 17:45:50 2021 -0400
+
+    ap. a few ls corrections
+
+commit ebf2c9c19f092101c775b93a85ea08426948411a
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Thu Jul 8 12:31:58 2021 -0400
+
+    ap57:  1) remove '?' in <ls> elements.
+    2) Remove Devanagari line break character ‡.
+
+commit e687506d9762989f97c95b1ae6ce03196774848a
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Sat Jul 3 20:51:45 2021 -0400
+
+    ap:  many literary source improvements. Done in context
+    of private apcomp repository
+
+commit 67390a8628d7bbe2923565655bbfc604c93d7955
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Wed Jun 23 15:39:27 2021 -0400
+
+    AP: user corrections
+
+commit 7b104dcd2849d3c0120666aadbf8d020aaff0d09
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Sat Jun 19 15:44:14 2021 -0400
+
+    Revisions to ls abbreviations, aiming for consistency
+
+commit 79cbb9dfa5fe4ca68cf9a4b13f8486ce5464ce49
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Sun Jun 13 17:10:22 2021 -0400
+
+    AP: Devanagari clean up:  spaces at beginning/end; comma and semicolon at end.
+    Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/526#issuecomment-860270548
+
+commit 511af42e8917500becaa029ca43007bad1555f16
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Sun Jun 13 13:25:43 2021 -0400
+
+    AP: Add literary source markup
+
+commit 332917f921f16810feb0c0b6202057a1cf91b892
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Tue Jun 1 16:27:23 2021 -0400
+
+    AP changes: L=26771, 26772, L=15687 (15687.1 new headword 'juq'
+
+commit bf92e0cdce2ba56847e530a10fff8c4a6f6c44a8
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Sun Mar 21 22:24:08 2021 -0400
+
+    User corrections to AP
+
+commit 6da6525e89f4bb41980597a8374d5f8b97bea4d4
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Fri Jan 15 16:55:25 2021 -0500
+
+    AP: 'thx' -> 'the'
+
+commit 4d13a9ae13b27925dc03a36583d0e5b78a4c7fa0
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Tue Jan 12 15:31:25 2021 -0500
+
+    user corrections to AP
+
+commit 5ab9045534ab8a59c69a8d42c9bc992fe980b46f
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Tue Dec 15 21:13:41 2020 -0500
+
+    AP. Change one double quote to Unicode LEFT DOUBLE QUOTE in
+    L=1251, aDvaryuH.
+    Change one double quote to RIGHT DOUBLE QUOTE in anurADa
+
+commit 43ea0866fdbb577e809ba3f5e81faa1211304da5
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Tue Dec 15 20:33:25 2020 -0500
+
+    Replace double quote by U+201D, RIGHT DOUBLE QUOTATION MARK.
+    Ref: https://github.com/sanskrit-lexicon/csl-pywork/issues/22 for discussion
+    of why this was required.
+
+commit c399d881abd2aed362cd3abf880ee2b9d58d31b1
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Fri Nov 20 14:52:19 2020 -0500
+
+    minor edit of readme_init.txt
+
+commit 58be979ab9e2e834387eb6e29338a2c5741ceedf
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Fri Nov 20 14:50:31 2020 -0500
+
+    AP:  from user corrections
+
+commit 0f9f400a67a479e7c0f5772a1973b71351d3a7f0
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Mon Oct 5 22:11:31 2020 -0400
+
+    Instructions for update
+
+commit a51899012b0501fb322438a88c4ea3557db03d1e
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Mon Oct 5 21:31:30 2020 -0400
+
+    AP: 5 user corrections
+
+commit f40e988469200f0bbb21e4b8ec842da97db70ba6
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Fri Jan 24 16:40:55 2020 -0500
+
+    describe initialization and usage of bare repository
+
+commit f09ce5696b26d044008ea0d7fd48ff47fcaf38e8
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Fri Jan 24 16:22:51 2020 -0500
+
+    Changed adj. to adv. for several words ending in 'am'; these are typos
+    These changes are for pd:
+    20031,acCaMvazawkAram
+    22907,ajYAtam
+    29197,atidozam
+    54607,anantaHpAdam
+    67916,anirjYAtajYAnArTam
+    72438,anujAnumaDyam
+    75845,anupahavam
+
+commit 3a4f1db16cf2f68dee42c3b00b8a6cf3afbf7f46
+Author: funderburkjim <funderburkjim@gmail.com>
+Date:   Fri Jan 24 16:13:52 2020 -0500
+
+    Initial commit for pd and ap

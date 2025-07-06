@@ -1,0 +1,14 @@
+53650,53651c53650,53651
+< .²1 To desire, long or wish for, expect; {#pratyASvasantaM ripurAcakAqkza#}
+<  <ls>R. 7. 47</ls>, <ls n="R.">5. 38</ls>; <ls>Ms. 2. 162</ls>, <ls n="Ms.">10. 121</ls>; <ls>Y. 1. 153</ls>; {#AkAqkzantI nayanasalilotpIqarudDAvakASAm#}
+---
+> .²1 To desire, long or wish for, expect; {#pratyASvasantaM ripurAcakANkza#}
+>  <ls>R. 7. 47</ls>, <ls n="R.">5. 38</ls>; <ls>Ms. 2. 162</ls>, <ls n="Ms.">10. 121</ls>; <ls>Y. 1. 153</ls>; {#AkANkzantI nayanasalilotpIqarudDAvakASAm#}
+53653c53653
+< .²2 To try to reach a place, turn to; {#dakziRAM diSamAkAqkzan#} <ls>Ms. 3. 258.</ls>
+---
+> .²2 To try to reach a place, turn to; {#dakziRAM diSamAkANkzan#} <ls>Ms. 3. 258.</ls>
+53656c53656
+<  of the sense; see {#AkAqkzA#} below.
+---
+>  of the sense; see {#AkANkzA#} below.

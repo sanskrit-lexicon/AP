@@ -1,0 +1,18 @@
+126316,126317c126316,126317
+<  Killing, destroying, removing, curing; {#brAhmaRaGnaH, bAlaDnaH, vAtaDnaH#},
+<  {#pittaDnaH#}; depriving one of, taking away; {#puRyaDna, DarmaDna#} &c.
+---
+>  Killing, destroying, removing, curing; {#brAhmaRaGnaH, bAlaGnaH, vAtaGnaH#},
+>  {#pittaGnaH#}; depriving one of, taking away; {#puRyaGna, DarmaGna#} &c.
+177459c177459
+<  {#jagatIM baSamAnayet . ahaM paYcANgabalavAnAkASaM vaSamAnaye ..#} <ls>Subhāṣ.</ls>
+---
+>  {#jagatIM vaSamAnayet . ahaM paYcANgabalavAnAkASaM vaSamAnaye ..#} <ls>Subhāṣ.</ls>
+183378c183378
+<  {#tayorna baSamAgacCet tO hyasya paripanTinO#} <ls>Bg. 3. 34.</ls>
+---
+>  {#tayorna vaSamAgacCet tO hyasya paripanTinO#} <ls>Bg. 3. 34.</ls>
+334004c334004
+<  {#api . taTApyanaNgastrElokyaM karoti baSamAtmanaH ..#}
+---
+>  {#api . taTApyanaNgastrElokyaM karoti vaSamAtmanaH ..#}

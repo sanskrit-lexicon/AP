@@ -1,0 +1,12 @@
+221066c221066
+< {#bAlukA#}¦ See {#bAlukA#}.
+---
+> {#bAlukA#}¦ See {#vAlukA#}.
+270849c270849
+< {#vAh#}¦ €1Ā. ({#bAhate#}) To try, exert oneself, endeavour.
+---
+> {#vAh#}¦ €1Ā. ({#vAhate#}) To try, exert oneself, endeavour.
+270924c270924
+< {#vAhin#}¦ {%a.%} [{#vah-Rini#}] Bearing, carrying; {#sparSaM betti ca#}
+---
+> {#vAhin#}¦ {%a.%} [{#vah-Rini#}] Bearing, carrying; {#sparSaM vetti ca#}

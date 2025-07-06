@@ -1,0 +1,68 @@
+12176c12176
+< .{@{#-vijayaH#}@} [{#anantAn vijayate DvanidvArA anena#}] N. of YudhiṢṭhira's
+---
+> .{@{#-vijayaH#}@} [{#anantAn vijayate DvanidvArA anena#}] N. of Yudhiṣṭhira's
+278694c278694
+< .²2 To separate; {#puro biyukte miTune kfpAbatI#} Ku. 5. 26.
+---
+> .²2 To separate; {#puro viyukte miTune kfpAvatI#} Ku. 5. 26.
+278697,278699c278697,278699
+< .²5 To free or deliver from, deprive of (with instr.); {#prARErna biyojayati#}
+<  Pt. 1; {#asuBirna biyujyate#} K. 38.
+< .²6 To break (a vow); {#na vratena biyujyate#} Ms. 5. 91.
+---
+> .²5 To free or deliver from, deprive of (with instr.); {#prARErna viyojayati#}
+>  Pt. 1; {#asuBirna viyujyate#} K. 38.
+> .²6 To break (a vow); {#na vratena viyujyate#} Ms. 5. 91.
+278702c278702
+< .²2 To free from, deprive of; {#ajAnatA mayA sEba patrEH SAKA biyojitA#} Mk. 4. 18.
+---
+> .²2 To free from, deprive of; {#ajAnatA mayA sEva patrEH SAKA viyojitA#} Mk. 4. 18.
+278708,278709c278708,278709
+< {#viyujya#}¦ (absolutive of {#bi + yuj#} 4 Ā.) Separately, singly, individually,
+<  one at a time; {#praDAnaBUte AKyAtArTe saMhatya biSezaRaM Bavati parArTe#}
+---
+> {#viyujya#}¦ (absolutive of {#vi + yuj#} 4 Ā.) Separately, singly, individually,
+>  one at a time; {#praDAnaBUte AKyAtArTe saMhatya viSezaRaM Bavati parArTe#}
+278719c278719
+< .²5 Disunited (as husband and wife); {#yaTA nABicaretAM tO biyuktAvitaretaram#} Ms. 9. 102.
+---
+> .²5 Disunited (as husband and wife); {#yaTA nABicaretAM tO viyuktAvitaretaram#} Ms. 9. 102.
+278725c278725
+<  {#me#} V. 4. 10; {#tvayopasTitabiyogasya tapo‡banasyApi samabasTA dfSyate#}
+---
+>  {#me#} V. 4. 10; {#tvayopasTitaviyogasya tapo‡vanasyApi samavasTA dfSyate#}
+278740c278740
+<  {#niraREzIdaTa tAM biyoginIti#} Bv. 4. 35.
+---
+>  {#niraREzIdaTa tAM viyoginIti#} Bv. 4. 35.
+278760c278760
+< .²2 The womb of animals; {#saMBabAMSca biyonIzu duHKaprAyAsu nityaSaH#}
+---
+> .²2 The womb of animals; {#saMBabAMSca viyonIzu duHKaprAyAsu nityaSaH#}
+278768c278768
+<  of vulva. {#°jaH#} an animal ({#pakzyAdi#}); {#viyonijAnAM ca bijAnate#}
+---
+>  of vulva. {#°jaH#} an animal ({#pakzyAdi#}); {#viyonijAnAM ca vijAnate#}
+278774,278775c278774,278775
+< .²1 To arrange; {#kzitibiracitaSayyaM kOtukAgAra‡mAgAt#} Ku. 7. 94.
+< .²2 To compose, put together, write; {#iti biracitabAgBirbandiputrEH#} 
+---
+> .²1 To arrange; {#kzitiviracitaSayyaM kOtukAgAra‡mAgAt#} Ku. 7. 94.
+> .²2 To compose, put together, write; {#iti viracitabAgBirbandiputrEH#} 
+278786c278786
+< .²1 Arrangement, disposition; {#tArAbalI‡biracanErvyarucannibAsAH#} Śi. 5. 21.
+---
+> .²1 Arrangement, disposition; {#tArAbalI‡viracanErvyarucannibAsAH#} Śi. 5. 21.
+278804c278804
+< {#sTAnaM birajenAtmanEba hi#} Bhāg. 1. 15. 48; 8. 8. 45.
+---
+> {#sTAnaM virajenAtmanEba hi#} Bhāg. 1. 15. 48; 8. 8. 45.
+278818c278818
+<  {#asaktadfzwirbirajAH sadEba#} Śi. 20. 80.
+---
+>  {#asaktadfzwirvirajAH sadEba#} Śi. 20. 80.
+334264c334264
+< .²1 A war-chaiot, a car or chariot in general; {#DarmAraRyaM praviSati #}
+---
+> .²1 A war-chariot, a car or chariot in general; {#DarmAraRyaM praviSati #}
