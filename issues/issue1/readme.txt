@@ -72,6 +72,11 @@ cp temp_difflog.txt difflog.txt
 # manually edit difflog.txt, adding <TAB>brief comment 
 # Example: diff_18_19.txt   32576	remove ‡; misc. <ls>
 
+# copy first commit ap_01.txt to issue1
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue1
+cp /e/ap_open/commits/ap_01.txt ap_01.txt
+# push issue1 to github
+
 ======================================================
 # temporary comments to ignore for now.
 #----- move currently untracked csl-orig/v02/ap
@@ -92,7 +97,159 @@ git clone git@github.com:sanskrit-lexicon/AP.git
 #---  get usual .gitignore
 cp AP90/.gitignore AP/
 
+#0a changes .gitignore of csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .gitignore
+git commit -m "AP: change csl-orig .gitignore to track ap.
+> Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
 
 
+#0b initialize csl-orig/v02/ap as empty directory
+
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+mkdir ap
+
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+
+------------------------------------------
 # ap_01.txt	(Fri Jan 24 16:13:52 2020)	initial commit
-cp commits/ap_01.txt /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_01.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_01.txt	(Fri Jan 24 16:13:52 2020)	initial commit
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_01.txt	(Fri Jan 24 16:13:52 2020)	initial commit
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_01.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_01.txt	(Fri Jan 24 16:13:52 2020)	initial commit
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_13.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_13.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_13.txt	(Tue Jun 1 16:27:23 2021)	diff_01_02.txt - diff_12_13.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_14.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_14.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_14.txt	(Sun Jun 13 13:25:43 2021)	diff_13_14.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_15.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_15.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_15.txt	(Sun Jun 13 17:10:22 2021)	diff_14_15.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_16.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_16.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_16.txt	(Sat Jun 19 15:44:14 2021)	diff_ap_15_16.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_17.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_17.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_17.txt	(Wed Jun 23 15:39:27 2021)	diff_ap_16_17.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_18.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_18.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_18.txt	(Sat Jul 3 20:51:45 2021)	diff_ap_17_18.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_19.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_19.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_19.txt	(Thu Jul 8 12:31:58 2021)	diff_ap_18_19.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# ap_28.txt
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp /e/ap_open/commits/ap_28.txt ap.txt
+git add ap.txt
+git commit -m "AP: ap_28.txt	(Tue Jul 16 14:08:09 2024)	diff_ap_19_20.txt - diff_27_28.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+diff ap.txt ../temp_ap_20250701/ap.txt | wc -l
+# 0 as expected
+# copy ap_28.txt to issue1
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue1/
+cp /e/ap_open/commits/ap_28.txt .
+# commit issue1 and push to github
+
+------------------------------------------
+# copy other files from temp_ap_20250701
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+cp ../temp_ap_20250701/ap-meta2.txt .
+cp ../temp_ap_20250701/ap_hwextra.txt .
+cp ../temp_ap_20250701/apheader.xml  .
+git add .
+git commit -m "AP: ap-meta2.txt,  ap_hwextra.txt,  apheader.xml
+Ref: https://github.com/sanskrit-lexicon/AP/issues/1"
+
+------------------------------------------
+# push all commits to github
+cd /c/xampp/htdocs/cologne/csl-orig/v02/ap
+git push
+
+------------------------------------------
+# save transcript
+Above work done in gitbash terminal, initially reset.
+select all (in terminal) and save to file readme_transcript.txt
+
+------------------------------------------
+sync csl-orig on cologne server
+
+#login to cologne server.
+# change directory to scans
+cd csl-orig/v02
+# rename old 'untracked' ap
+mv ap temp_ap_20250701
+# pull csl-orig to get revised and tracked .gitignore and 'ap'
+git pull
+
+# -----
+
+------------------------------------------
+csl-homepage
+# update on local server
+(see csl-homepage/readme_update.txt)
+# push to github
+# update on cologne server
+pull
+sh update_version.sh
+sh redo_cologne.sh
+
+------------------------------------------
+csl-apidev/sample/dictnames.js
+Add
+['AP' , 'Apte Practical Sanskrit-English Dictionary, revised']
+
+push to github
+
+on cologne server, pull
+
+------------------------------------------
+WHAT ELSE TO DO?
