@@ -1,0 +1,132 @@
+2026-01-12 107338c Dhaval Patel close #1812
+2026-01-10 5fb2195 funderburkjim AP:3041, apeta  Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/109
+2026-01-03 37ff01c funderburkjim Scott backlog of 20250418, ap/part2 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
+2026-01-02 2f966c3 funderburkjim Scott backlog of 20250418, ap/part2 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
+2025-12-17 8da03e5 funderburkjim Scott backlog of 20251126, ap, L=9525, uW Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102#issuecomment-3648839246
+2025-12-12 d534f20 funderburkjim Scott backlog of 20251126, ap/part2 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102
+2025-12-11 b7994c2 funderburkjim Scott backlog of 20251126, ap Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102
+2025-12-04 d47bac4 funderburkjim Scott backlog of 20250418, ap Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
+2025-08-24 9d1d397 funderburkjim ap 2 changes. Refer readme_althw_2.txt 'print change' Ref: https://github.com/sanskrit-lexicon/AP90/issues/26
+2025-07-23 dc6a73e Dhaval Patel MW corrections till #1860
+2025-07-23 a93bb8f Dhaval Patel AP corrections till 19 Apr 2025
+2025-07-23 df7072e Dhaval Patel AP errors till #2700
+2025-07-23 603cca6 Dhaval Patel typo corrections till #1825
+2025-07-23 c0745c3 Dhaval Patel closed issues #1808 to #1815
+2025-07-23 fb28b63 Dhaval Patel closed #1801 to #1805
+2025-07-06 966d79f funderburkjim AP: ap_28.txt	(Tue Jul 16 14:08:09 2024)	diff_ap_19_20.txt - diff_27_28.txt Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-06 2102691 funderburkjim AP: ap_19.txt	(Thu Jul 8 12:31:58 2021)	diff_ap_18_19.txt Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-06 8e8b272 funderburkjim AP: ap_18.txt	(Sat Jul 3 20:51:45 2021)	diff_ap_17_18.txt Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-06 a339eb3 funderburkjim AP: ap_17.txt	(Wed Jun 23 15:39:27 2021)	diff_ap_16_17.txt Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-06 b91472c funderburkjim AP: ap_16.txt	(Sat Jun 19 15:44:14 2021)	diff_ap_15_16.txt Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-06 78fc3eb funderburkjim AP: ap_15.txt	(Sun Jun 13 17:10:22 2021)	diff_14_15.txt Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-06 01a8f08 funderburkjim AP: ap_14.txt	(Sun Jun 13 13:25:43 2021)	diff_13_14.txt Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-06 1c7fdda funderburkjim AP: ap_13.txt	(Tue Jun 1 16:27:23 2021)	diff_01_02.txt - diff_12_13.txt Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-06 5a7a84a funderburkjim AP: ap_01.txt	(Fri Jan 24 16:13:52 2020)	initial commit Ref: https://github.com/sanskrit-lexicon/AP/issues/1
+2025-07-02 2d76a2c funderburkjim AP90. L=24427. Correction from srhodes, 06-12-2024
+2025-02-16 2440eba Dhaval Patel scott corrections till 50 from #92
+2025-02-16 74f5200 Dhaval Patel scott corrections till 15 from #92
+2024-10-12 d524dae funderburkjim AP90: See corrections_ap90.txt at Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-10 784cab8 funderburkjim User Corrections
+2024-08-27 f8c6bf7 funderburkjim AP90: hwxetra-Lbody conversion. Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/423
+2024-07-16 d2993bb funderburkjim AP90:821:adaDryaMc #1700
+2024-06-27 eb49de5 funderburkjim ap90: user corrections
+2024-06-25 45aec08 funderburkjim AP90:  correction backlog, 6.  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-09 fae4190 funderburkjim AP90: Ref #1642
+2024-02-26 a5f9859 Dhaval Patel close #1632
+2024-01-26 117440f drdhaval2785 user corrections till 26 Jan 2024 handled
+2024-01-13 471c0e8 shenyileirob बभभस्ति -> बभस्ति
+2024-01-13 b5f3e05 shenyileirob of dog -> of a dog
+2024-01-12 33b0419 drdhaval2785 user corrections
+2023-12-13 4481dbf funderburkjim ap90: user corrections
+2023-09-08 1102062 funderburkjim ap90: user corrections
+2023-06-08 00e9d1d funderburkjim ap90: User correction(s)
+2023-03-07 2f7f7e8 funderburkjim ap90: user corrections
+2023-01-23 b6be40c drdhaval2785 https://github.com/sanskrit-lexicon/csl-ldev/pull/14 correction
+2023-01-03 4b1d6ef drdhaval2785 close 748
+2022-12-23 233f76f funderburkjim AP90 user corrections
+2022-09-14 5598fe3 funderburkjim ap90 user corrections
+2022-04-27 f9553d9 funderburkjim ap90. user corrections
+2021-12-20 6d3cbd7 funderburkjim AP90: User corrections
+2021-12-15 cca1fc4 funderburkjim AP90: remove <> line-break indicator. Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-10-07 6f06ba4 drdhaval2785 corrections as per https://github.com/sanskrit-lexicon/csl-ldev/pull/1
+2021-10-01 bae2298 funderburkjim AP90: three user corrections
+2021-09-25 a4dbbe3 funderburkjim 10 dictionaries change MASCULINE ORDINAL INDICATOR character to DEGREE SIGN. ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/369
+2021-09-18 1c933cc drdhaval2785 close https://github.com/sanskrit-lexicon/alternateheadwords/issues/7
+2021-09-06 17ad89c drdhaval2785 https://github.com/sanskrit-lexicon/CORRECTIONS/issues/92#issuecomment-913174476 corrections carried to csl-orig
+2021-09-03 ef0fa38 drdhaval2785 close https://github.com/sanskrit-lexicon/csl-devanagari/issues/6
+2021-08-29 946f799 funderburkjim AP90: gOqaH. Correct ls M.P. to K.P. Ref: https://github.com/sanskrit-lexicon/AP90/issues/24
+2021-08-28 069a848 funderburkjim AP90 minor edit
+2021-08-26 f29ae4d funderburkjim AP90: ls corrections (3)
+2021-08-25 f0eafff funderburkjim ap90 correction
+2021-08-25 e1827d8 funderburkjim AP90: more literary source additions. Ref: https://github.com/sanskrit-lexicon/AP90/issues/24
+2021-08-24 8f94c9b funderburkjim AP90 literary source additions. Ref: https://github.com/sanskrit-lexicon/AP90/issues/24
+2021-08-14 a6a04ed funderburkjim ap90: Minor changes to ls markup
+2021-07-03 e2f3f42 funderburkjim ap90:  miscellaneous corrections, primarily involving <ls>
+2021-06-21 6cb19e1 funderburkjim ap90:  user corrections
+2021-06-19 7bbb753 funderburkjim AP90: two typos
+2021-06-19 b9a9b16 funderburkjim AP90: minor edit
+2021-06-19 47887bd funderburkjim AP90: ls abbreviation changes. # 527
+2021-06-13 e8896b1 funderburkjim AP90. Change '--' to '-' before broken-vertical bar in line after meta line
+2021-06-13 0ee9da0 funderburkjim ap90: Devanagari text with ending comma. #525
+2021-06-13 e60ec68 funderburkjim AP90: #524
+2021-06-13 ea060a1 funderburkjim ap90. #523
+2021-06-01 bb14a97 funderburkjim AP90: minor changes (for parsing) and a spelling correction
+2021-05-31 77a6146 funderburkjim AP90: {v..v} verb section markup. Ref: https://github.com/sanskrit-lexicon/AP90/issues/16#issuecomment-851588534
+2021-05-30 d0becf0 funderburkjim AP90:  nyAya maxim 'headowrds' moved into nyAya entry. Ref: https://github.com/sanskrit-lexicon/AP90/issues/20
+2021-05-30 e8f692d funderburkjim AP90: mostly markup changes. Ref: https://github.com/sanskrit-lexicon/AP90/issues/16#issuecomment-851032361
+2021-05-25 248b0e9 funderburkjim AP90: number markup {cNc} and {N} for classes and subsections. Ref: https://github.com/sanskrit-lexicon/AP90/issues/16
+2021-05-22 f6c510d funderburkjim AP90. Regularize Bold text. Ref: https://github.com/sanskrit-lexicon/AP90/issues/16 (Bold text section)
+2021-05-19 9256711 funderburkjim AP90:  two <ls>N.</ls> at end of line. Ref: https://github.com/sanskrit-lexicon/AP90/issues/15#issuecomment-844453004
+2021-05-19 6461417 funderburkjim AP90: parens, brackets, italics, etc. Ref: https://github.com/sanskrit-lexicon/AP90/issues/16
+2021-05-12 7eb0a4e funderburkjim AP90: more abbreviation markup. Ref: https://github.com/sanskrit-lexicon/AP90/issues/11
+2021-05-09 1794621 funderburkjim AP90: additional markup of bold '1' subsections
+2021-05-09 aed870d funderburkjim AP90: Bold markup added to '1' via: \(¦.*%}\) 1 -> \1 {@1@}. Ref: https://github.com/sanskrit-lexicon/AP90/issues/15
+2021-05-09 cce0c80 funderburkjim AP90: move single ending comma of Devanagari text outside of the Devanagari. Ref: https://github.com/sanskrit-lexicon/AP90/issues/14
+2021-05-08 5064fda funderburkjim AP90 move ending square bracket out of Devanagari. ']#}' -> '#}]'. Ref: https://github.com/sanskrit-lexicon/AP90/issues/14
+2021-05-08 e32a1f3 funderburkjim AP90.  ';#}' -> '#};'. Ref: https://github.com/sanskrit-lexicon/AP90/issues/14
+2021-05-08 991ac7b funderburkjim AP90. Remove a few more paired parens in Devanagari. Ref: https://github.com/sanskrit-lexicon/AP90/issues/14
+2021-05-08 0cdc5c9 funderburkjim AP90: Remove extra space at end of Devanagari text and before <lbinfo> tag. Ref: https://github.com/sanskrit-lexicon/AP90/issues/14
+2021-05-08 633e8f7 funderburkjim AP90. paren out of Devanagari. {#(X#} -> ({#X#}    PROVIDED X does not contain '(', ')' or '#' {#X)#} -> {#X#})  PROVIDED as above Ref: https://github.com/sanskrit-lexicon/AP90/issues/14
+2021-05-08 a57627e funderburkjim AP90: {#(X);#} -> ({#X#}); Ref https://github.com/sanskrit-lexicon/AP90/issues/14
+2021-05-08 eb8bc77 funderburkjim AP90: {#(X);#} -> ({#X#}); Ref #14
+2021-05-08 27a1ec8 funderburkjim AP90.  Move some parens out of Devanagari. e.g. {#(X)#} -> ({#X#}). Ref: https://github.com/sanskrit-lexicon/AP90/issues/14
+2021-05-07 ba10fd4 funderburkjim AP90 replace missing text ({??}). Ref: https://github.com/sanskrit-lexicon/AP90/issues/13
+2021-04-30 37f98f8 funderburkjim AP90 literary source abbreviations. Ref: https://github.com/sanskrit-lexicon/AP90/issues/11
+2021-04-21 19c7ee9 funderburkjim AP90: Abbreviation markup. Ref: https://github.com/sanskrit-lexicon/AP90/issues/4
+2021-04-18 29e18e6 funderburkjim AP90. Markup to resolve hyphenated Devanagari text at end of lines. Ref: https://github.com/sanskrit-lexicon/AP90/issues/8
+2021-04-14 9d6c17c funderburkjim ap90: change non-devanagari hyphenated words at end of line. Ref: https://github.com/sanskrit-lexicon/AP90/issues/7
+2021-03-20 70775b3 funderburkjim AP90:28048 #498
+2021-01-22 9337737 funderburkjim AP90 english word corrections. Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/48
+2021-01-04 ccd4740 funderburkjim AP90 English word corrections.  Misc additional changes. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-754354392
+2021-01-04 91aecd9 funderburkjim AP90 English Corrections, Batch 17 -- last batch. Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-754342828
+2021-01-04 fac2bf7 funderburkjim AP90 English Corrections. Batch 16. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-754298447
+2021-01-04 ed1ba5c funderburkjim AP90 English word corrections. Batch 15. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-754287392
+2020-12-30 ef2732f funderburkjim AP90 English corrections. Batch 14. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20
+2020-12-29 c85fa1a funderburkjim AP90 English Corrections. Batch 13. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-752246451
+2020-12-29 063a688 funderburkjim AP90 english corrections, batch 12. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-752230263
+2020-12-23 4756040 funderburkjim AP90 English Corrections, Batch 11. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-750536867
+2020-12-19 b8e8e98 funderburkjim ap90: English corrections Batch 10. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-748550443
+2020-12-18 3885821 funderburkjim AP90 English Corrections Batch 9. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-748406282
+2020-12-18 38a24cf funderburkjim ap90: English corrections, Batch 8. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-748401816
+2020-12-18 1bea967 funderburkjim ap90: English Corrections, Batch 7. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-748367320
+2020-12-09 095ae70 funderburkjim AP90 English corrections. Batch 6. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-742206068
+2020-12-09 70c7dff funderburkjim AP90 English corrections. Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-742199076
+2020-12-01 d3fd27a funderburkjim AP90 English word corrections, Batches 1-4. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20#issuecomment-736923105
+2020-11-19 4234cb3 funderburkjim AP90. two corrections
+2020-11-18 27f20f9 funderburkjim ap90  preliminary corrections for ap90 english word corrections
+2020-10-04 6aa54d4 funderburkjim ap90 user corrections
+2020-06-17 a5ebcef funderburkjim AP90 2 changes
+2020-05-02 de71665 funderburkjim ap90: 4 user corrections
+2020-03-15 245b150 funderburkjim ap90: Small changes to class-pada. Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/196#issuecomment-599260393
+2020-03-13 0b1e75e funderburkjim MW, AP90 small changes. #197
+2020-03-12 8bf9287 funderburkjim ap90. Remove bold markup of conjugation class in several verbs. Ref #196
+2020-03-12 08cc3a3 funderburkjim ap90: add period after P,A,U pada references. #195
+2020-02-17 30545a1 funderburkjim recorrect 26985 and 26986
+2020-02-17 f15a39f funderburkjim ap90:19052,pIUzaH; 26985, veSyaM (print change)
+2020-01-10 2b60859 funderburkjim ap90: 10066,kaWinikA; 86,akuSala; 106,akra; 247,aMk; 294,aMgiraH
+2019-12-28 c1bd4bb funderburkjim ap90:12876,Gana (print change)
+2019-12-20 e0e9bc9 drdhaval2785 closed #16, #17, #18, #19, #27, #32, #34, #47, #61, #68, #72, #76
+2019-11-05 d99c066 funderburkjim Correct .gitignore so ap90 tracked
+2019-11-04 5e0f026 funderburkjim reorganize so v00/csl-data/XXXScan/2020/orig/xxx.txt becomes v02/xxx/xxx.txt, and similarly for xxx_hwextra.txt
+2019-07-20 cb0ee44 drdhaval2785 2013 dicts added
+2019-07-20 6f45dd5 drdhaval2785 csl-orig initial commit
