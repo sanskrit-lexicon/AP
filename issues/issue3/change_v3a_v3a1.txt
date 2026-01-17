@@ -1,0 +1,45 @@
+; <L>2374<pc>0126-2<k1>antya<k2>antya
+21058 old .²1 A measure of number; 1000 billions (1000,000,000,000,000).
+;
+21058 new .²1 A measure of number; 1000 trillions (1000,000,000,000,000).
+;---------------------------------------------------
+; <L>2694<pc>0144-2<k1>aparavat<k2>aparavat
+23970 old {#aparavat#}¦ {%a.%} Like what follows.
+;
+23970 new {#aparavat#}¦ {%ind.%} Like what follows.
+;---------------------------------------------------
+; <L>3048<pc>0159-1<k1>apehi<k2>apehi
+26575 old  {#˚dvitIyA, ˚prakasA, ˚vARijA, ˚svAgatA#} where it has the sense of ‘excluding’,
+;
+26575 new  {#˚dvitIyA, ˚praGasA, ˚vARijA, ˚svAgatA#} where it has the sense of ‘excluding’,
+;---------------------------------------------------
+; <L>10632<pc>0493-c1<k1>eka<k2>eka
+89408 old  are; sine of 30°.
+;
+89408 new  arc; sine of 30°.
+;---------------------------------------------------
+; <L>12960<pc>0607-1<k1>kowiH<k2>kowiH,
+110851 old .²7 The complement of an are to 90˚ (in <ab>math.</ab>).
+;
+110851 new .²7 The complement of an arc to 90° (in <ab>math.</ab>).
+;---------------------------------------------------
+; <L>14097<pc>0661-2<k1>guRaH<k2>guRaH
+121255 old .²23 The chord of an are (in <ab>geom.</ab>).
+;
+121255 new .²23 The chord of an arc (in <ab>geom.</ab>).
+;---------------------------------------------------
+; <L>14845<pc>0704-1<k1>cApaH<k2>cApaH
+129160 old .²3 (In <ab>geom.</ab>) An are of a circle.
+;
+129160 new .²3 (In <ab>geom.</ab>) An arc of a circle.
+;---------------------------------------------------
+; <L>15673<pc>0740-2<k1>jIvA<k2>jIvA
+136596 old .²4 The chord of an are.
+;
+136596 new .²4 The chord of an arc.
+;---------------------------------------------------
+; <L>16848<pc>0789-1<k1>tri<k2>tri
+146768 old .{@{#-jIvA, -jyA#}@} the sine of three signs or 90˚, a radius.
+;
+146768 new .{@{#-jIvA, -jyA#}@} the sine of three signs or 90°, a radius.
+;---------------------------------------------------

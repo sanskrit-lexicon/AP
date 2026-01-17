@@ -70,7 +70,7 @@ cp prepchg2.txt prepchg2_edit.txt
 python ../updateByLine.py AP57_AB_v3.txt prepchg_edit.txt temp_abv3a.txt
 python ../updateByLine.py temp_abv3a.txt prepchg2_edit.txt temp_abv3b.txt
 
-python v3_v3a.py temp_abv3.txt AP57_AB_v3a.txt
+python v3_v3a.py temp_abv3b.txt AP57_AB_v3a.txt
 
 cd ../
 # install local displays using v3a
@@ -79,4 +79,25 @@ sh redo_ap.sh temp_ABuploads/AP57_AB_v3a.txt apABv3a
 python ../diff_to_changes_dict.py AP57_AB_v3.txt AP57_AB_v3a.txt ../change_v3_v3a.txt
 1777 changes written to ../change_v3_v3a.txt
 
-*
+* ==============================================
+* AP57_AB_v3b.txt
+cd temp_ABuploads
+
+cp AP57_AB_v3a.txt AP57_AB_v3a1.txt
+
+
+# manually Apply change_20251216_20260112.txt to  AP57_AB_v3a1.txt
+  [these are changes made to csl-orig since the version
+   prior to AB's download]
+ see change_20251216_20260112_notes.txt
+
+# temporary display install and check
+cd ../
+sh redo_ap.sh temp_ABuploads/AP57_AB_v3a1.txt apABv3a1
+# ok -- installs without error
+
+# generate changes 
+python ../diff_to_changes_dict.py AP57_AB_v3a.txt AP57_AB_v3a1.txt ../change_v3a_v3a1.txt
+9 changes written to ../change_v3a_v3a1.txt
+
+
