@@ -1,0 +1,32 @@
+Bab	Bav	2
+barD	varD	0
+bart	vart	0
+Bub	Buv	0
+ sba	 sva	0
+#sba	#sva	0
+ sarb	 sarv	0
+#sarb	#sarv	2
+eba 	eva 	0
+eba#	eva#	0
+dEba	dEva	0
+ bE 	 vE 	0
+Db	Dv	0
+pUrba	pUrva	0
+bidyA	vidyA	0
+Sib	Siv	16
+zb	zv	0
+iba 	iva 	6
+iba#	iva#	1
+jb	jv	0
+ biS	 viS	0
+kiyA	kriyA	5
+koD	kroD	0
+liqg	liNg	0
+qmu	Nmu	0
+dda	df	99
+Db	Dv	0
+qD	NG	1
+yaJa	yajYa	2
+addak	adfk	2
+gpy	gry	0
+M a	m a	31

@@ -80,11 +80,10 @@ python ../diff_to_changes_dict.py AP57_AB_v3.txt AP57_AB_v3a.txt ../change_v3_v3
 1777 changes written to ../change_v3_v3a.txt
 
 * ==============================================
-* AP57_AB_v3b.txt
+* AP57_AB_v3a1.txt  changes since
 cd temp_ABuploads
 
 cp AP57_AB_v3a.txt AP57_AB_v3a1.txt
-
 
 # manually Apply change_20251216_20260112.txt to  AP57_AB_v3a1.txt
   [these are changes made to csl-orig since the version
@@ -99,5 +98,121 @@ sh redo_ap.sh temp_ABuploads/AP57_AB_v3a1.txt apABv3a1
 # generate changes 
 python ../diff_to_changes_dict.py AP57_AB_v3a.txt AP57_AB_v3a1.txt ../change_v3a_v3a1.txt
 9 changes written to ../change_v3a_v3a1.txt
+* AP57_AB_v3a2.txt  M + space + vowel -> m + space + vowel
+cd temp_ABuploads
 
+cp AP57_AB_v3a1.txt AP57_AB_v3a2.txt
+
+# manually Apply changes to Sanskrit text
+"M a" -> "m a" 32
+"M A" -> "m A"  3
+"M i" -> "m i"  5
+"M I" -> "m I"  0
+"M u" -> "m u"  1
+"M U" -> "m U"  1
+"M f" -> "m f"  3
+"M F" -> "m F"  0
+"M x" -> "m x"  0
+"M X" -> "m X"  0
+"M e" -> "m e"  2
+"M E" -> "m E"  0
+"M o" -> "m o"  0
+"M O" -> "m O"  0
+               47
+
+# temporary display install and check
+cd ../
+sh redo_ap.sh temp_ABuploads/AP57_AB_v3a2.txt apABv3a2
+# ok -- installs without error
+
+# generate changes 
+cd temp_ABuploads
+python ../diff_to_changes_dict.py AP57_AB_v3a1.txt AP57_AB_v3a2.txt ../change_v3a1_v3a2.txt
+46 changes written to ../change_v3a_v3a2.txt  (line changes)
+
+* AP57_AB_v3b.txt  Handle '%% xxx' (remove/insert lines)
+cd temp_ABuploads
+
+cp AP57_AB_v3a2.txt AP57_AB_v3b.txt
+# manually edit AP57_AB_v3b.txt and make changes:
+1. delete-matching lines %%empty line (to be deleted)
+ 1528 lines deleted.
+ There remain 4 lines containing '%%'
+2. Delete two other lines = "%%" 
+3. two lines: <LEND>%%insert one empty line next
+   add empty line after <LEND>
+
+# temporary display install and check
+cd ../
+sh redo_ap.sh temp_ABuploads/AP57_AB_v3b.txt apABv3b
+# ok -- installs without error
+
+# diff
+cd temp_ABuploads
+diff AP57_AB_v3a2.txt AP57_AB_v3b.txt > ../diff_v3a2_v3b.txt
+wc -l ../diff_v3a2_v3b.txt
+3207 (lines in diff
+
+* =====================================================
+* installation of AP57_AB_v3b.txt
+# install AP57_AB_v3b.txt in csl-orig
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
+cp temp_ABuploads.txt/AP57_AB_v3b.txt /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh ap  ../../ap
+sh xmlchk_xampp.sh ap
+# ok, as expected
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
+-----------------------------
+# sync csl-orig to github:
+
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .
+git commit -m "AP: AP57_AB_v3b.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/3"
+#  1 file changed, 85280 insertions(+), 86808 deletions(-)
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
+
+-----------------------------
+# sync csl-pywork to github 
+
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
+cd /c/xampp/htdocs/cologne/csl-pywork/
+git pull
+git add .
+git commit -m "add <sab> element to one.dtd.
+Ref: https://github.com/sanskrit-lexicon/AP/issues/3"
+
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
+
+-----------------------------
+# sync to Cologne, pull changed repos, redo display
+---------------
+csl-orig #pull
+csl-pywork #pull
+
+---------------
+# update displays for ap
+cd csl-pywork/v02
+sh generate_dict.sh ap  ../../APScan/2020/
+
+* =====================================================
+* Further analysis
+* global
+# 
+mkdir global
+
+global/ap_global_san.txt from
+https://github.com/sanskrit-lexicon/csl-corrections/blob/master/batches/20251126/dictionaries/ap/ap_global_san.txt
+There are 26 change patterns (for sanskrit text) 
+Added 
+cd global
+python globcheck.py ap_global_san.txt ../temp_ABuploads/AP57_AB_v3a1.txt globcheck_v3a1.txt
+
+* AB doc on some changes
 

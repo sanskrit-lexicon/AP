@@ -1,0 +1,230 @@
+; <L>138<pc>0007-1<k1>akzaH<k2>akzaH
+1214 old  {#kzetratayA kalpitAnAM akzaBavAnAmazwAnAM kzetrARAmekaM#}).
+;
+1214 new  {#kzetratayA kalpitAnAm akzaBavAnAmazwAnAM kzetrARAmekaM#}).
+;---------------------------------------------------
+; <L>181<pc>0011-1<k1>akzoBya<k2>akzoBya
+1750 old .{@{#-kavacam#}@} [{#akzoBAya hitaM akzoByam#}] a sort of {#kavaca#} or
+;
+1750 new .{@{#-kavacam#}@} [{#akzoBAya hitam akzoByam#}] a sort of {#kavaca#} or
+;---------------------------------------------------
+; <L>199<pc>0011-2<k1>aKila<k2>aKila
+1873 old {#aKila#}¦ {%a.%} [{#nAsti KilaM avaSizwaM yasya#} <ls>Tv.</ls>]
+;
+1873 new {#aKila#}¦ {%a.%} [{#nAsti Kilam avaSizwaM yasya#} <ls>Tv.</ls>]
+;---------------------------------------------------
+; <L>222<pc>0012-2<k1>agasti<k2>agasti
+2051 old {#agasti#}¦ [{#vinDyAKyaM agaM asyati#}; {#as-ktic SakanDvAdi˚#}, <ls>Uṇ. 4. 179</ls>,
+;
+2051 new {#agasti#}¦ [{#vinDyAKyam agam asyati#}; {#as-ktic SakanDvAdi˚#}, <ls>Uṇ. 4. 179</ls>,
+;---------------------------------------------------
+; <L>227<pc>0013-2<k1>agAram<k2>agAram
+2153 old {#agAram#}¦ [{#agaM na gacCantaM fcCati prApnoti aga-f-aR#} <ls>Tv.</ls>] A house;
+;
+2153 new {#agAram#}¦ [{#agaM na gacCantam fcCati prApnoti aga-f-aR#} <ls>Tv.</ls>] A house;
+;---------------------------------------------------
+; <L>243<pc>0014-1<k1>agniH<k2>agniH
+2587 old .{@{#-mArutiH#}@} [{#agniSca marucca tayorapatyaM iY tato vfdDiH it ca#};
+;
+2587 new .{@{#-mArutiH#}@} [{#agniSca marucca tayorapatyam iY tato vfdDiH it ca#};
+;---------------------------------------------------
+; <L>243<pc>0014-1<k1>agniH<k2>agniH
+2612 old  {#sA#}, or {#agneriva muKaM prajApatimuKaM utpattidvAraM yasyAH, agninA#}
+;
+2612 new  {#sA#}, or {#agneriva muKaM prajApatimuKam utpattidvAraM yasyAH, agninA#}
+;---------------------------------------------------
+; <L>255<pc>0018-2<k1>agra<k2>agra
+2927 old .{@{#-ayaRIyama#}@} [{#agraM SrezwaM ayanaM jYAnaM tatra sADu Ca#}].
+;
+2927 new .{@{#-ayaRIyama#}@} [{#agraM Srezwam ayanaM jYAnaM tatra sADu Ca#}].
+;---------------------------------------------------
+; <L>268<pc>0021-1<k1>aGa<k2>aGa
+3255 old .²2 [{#aGaM anizwaM SaMsati icCati#}; {#SaMs-aR#}] a wicked man, such as a thief.
+;
+3255 new .²2 [{#aGam anizwaM SaMsati icCati#}; {#SaMs-aR#}] a wicked man, such as a thief.
+;---------------------------------------------------
+; <L>273<pc>0021-2<k1>aGArin<k2>aGArin
+3282 old {#aGArin#}¦ {%a.%} [{#aGaM vyasanaM fcCati#}; {#f-Rini#}] Suffering from evil
+;
+3282 new {#aGArin#}¦ {%a.%} [{#aGaM vyasanam fcCati#}; {#f-Rini#}] Suffering from evil
+;---------------------------------------------------
+; <L>381<pc>0029-2<k1>acCAvAkaH<k2>acCAvAkaH
+4532 old {#acCAvAkaH#}¦ [{#acCaM nirmalaM acCa ABimuKyena vA vakti SaMsati#}; {#vac#}
+;
+4532 new {#acCAvAkaH#}¦ [{#acCaM nirmalam acCa ABimuKyena vA vakti SaMsati#}; {#vac#}
+;---------------------------------------------------
+; <L>394<pc>0030-2<k1>aja<k2>aja
+4683 old .{@{#-karRaH, -karRakaH#}@} [{#ajasya karRaM iva parRaM yasya-svArTe kan#}]
+;
+4683 new .{@{#-karRaH, -karRakaH#}@} [{#ajasya karRam iva parRaM yasya-svArTe kan#}]
+;---------------------------------------------------
+; <L>511<pc>0036-2<k1>awwa<k2>awwa
+5721 old .{@{#-wwam#}@} Food, boiled rice; {#awwaSUlA janapadAH#} <ls>Mb.</ls> ({#awwaM annaM#}
+;
+5721 new .{@{#-wwam#}@} Food, boiled rice; {#awwaSUlA janapadAH#} <ls>Mb.</ls> ({#awwam annaM#}
+;---------------------------------------------------
+; <L>620<pc>0041-2<k1>atijagatI<k2>atijagatI
+6595 old {#atijagatI#}¦ [{#atikrAntA jagatIM dvAdaSAkzarapAdAM ekAkzarADikyAt#}]
+;
+6595 new {#atijagatI#}¦ [{#atikrAntA jagatIM dvAdaSAkzarapAdAm ekAkzarADikyAt#}]
+;---------------------------------------------------
+; <L>648<pc>0042-2<k1>atiDftiH<k2>atiDftiH
+6783 old {#atiDftiH#}¦ {%f.%} [{#atikAntA DftiM azwAdaSAkzarapAdAM vfttim ekAkzarADikyAt#}]
+;
+6783 new {#atiDftiH#}¦ {%f.%} [{#atikAntA Dftim azwAdaSAkzarapAdAM vfttim ekAkzarADikyAt#}]
+;---------------------------------------------------
+; <L>726<pc>0045-1<k1>atiruc<k2>atiruc
+7295 old {#atiruc#}¦ {%m.%} [{#rocate iti ruk strIRAM UrudeSaH#}; {#atikrAnto rucam#} <ls>Tv.</ls>] The knee.
+;
+7295 new {#atiruc#}¦ {%m.%} [{#rocate iti ruk strIRAm UrudeSaH#}; {#atikrAnto rucam#} <ls>Tv.</ls>] The knee.
+;---------------------------------------------------
+; <L>747<pc>0045-2<k1>ativAhaH<k2>ativAhaH
+7415 old {#ativAhaH#}¦ [{#atItya dehaM anyadehe vAhaH prApaRam#} <sab>{#sa˚ ta˚#}</sab>]
+;
+7415 new {#ativAhaH#}¦ [{#atItya deham anyadehe vAhaH prApaRam#} <sab>{#sa˚ ta˚#}</sab>]
+;---------------------------------------------------
+; <L>916<pc>0053-2<k1>adaDryaYc<k2>adaDryaYc
+8749 old {#adaDryaYc#}¦ [{#amuM aYcati adas-aYc kvip aDryAgamaH#} <ls>P. VIII. 2. 80-81.</ls>]
+;
+8749 new {#adaDryaYc#}¦ [{#amum aYcati adas-aYc kvip aDryAgamaH#} <ls>P. VIII. 2. 80-81.</ls>]
+;---------------------------------------------------
+; <L>979<pc>0057-1<k1>adyatana<k2>adyatana
+9319 old  {#punarAhuruBayato'rdDarAtraM adyatanaH kAlaH .#} <ls>Kāśi.</ls>, {#kalopasarjaneca tulyam#}.
+;
+9319 new  {#punarAhuruBayato'rdDarAtram adyatanaH kAlaH .#} <ls>Kāśi.</ls>, {#kalopasarjaneca tulyam#}.
+;---------------------------------------------------
+; <L>1016<pc>0059-1<k1>aDarAYc<k2>aDarAYc
+9683 old {#aDarAYc#}¦ {%a.%} [{#aDarAM dakziRAM diSaM aYcati aYc kvin#} <ls>P. III. 2. 59</ls>]
+;
+9683 new {#aDarAYc#}¦ {%a.%} [{#aDarAM dakziRAM diSam aYcati aYc kvin#} <ls>P. III. 2. 59</ls>]
+;---------------------------------------------------
+; <L>1022<pc>0059-2<k1>aDas<k2>aDas,
+9755 old  {#tadaDaraM grAhakatvABAvAt hInaM yasya saH#} <ls>Tv.</ls>; {#aDaHkftaM akzajam indriyajYAnaM#}
+;
+9755 new  {#tadaDaraM grAhakatvABAvAt hInaM yasya saH#} <ls>Tv.</ls>; {#aDaHkftam akzajam indriyajYAnaM#}
+;---------------------------------------------------
+; <L>1058<pc>0063-2<k1>aDigava<k2>aDigava
+10302 old {#aDigava#}¦ {%a.%} or {%<ab>adv.</ab>%} [{#gavi ityaDigavaM avyayI-sa#}.] Found
+;
+10302 new {#aDigava#}¦ {%a.%} or {%<ab>adv.</ab>%} [{#gavi ityaDigavam avyayI-sa#}.] Found
+;---------------------------------------------------
+; <L>1191<pc>0069-1<k1>aDyakza<k2>aDyakza
+11224 old {#aDyakza#}¦ {%a.%} [{#aDigataH akzaM indriyaM vyavahAraM vA#}]
+;
+11224 new {#aDyakza#}¦ {%a.%} [{#aDigataH akzam indriyaM vyavahAraM vA#}]
+;---------------------------------------------------
+; <L>1200<pc>0069-1<k1>aDyarDa<k2>aDyarDa
+11297 old .{@{#-rDaH#}@} Wind ({#yadasmina idaM sarvaM aDyArDnot aDikamavarDayat#}
+;
+11297 new .{@{#-rDaH#}@} Wind ({#yadasmina idaM sarvam aDyArDnot aDikamavarDayat#}
+;---------------------------------------------------
+; <L>1202<pc>0069-2<k1>aDyavaso<k2>aDyavaso
+11308 old .²1 To determine, resolve; {#kaTamidAnIM durjanavacanAdevaM aDyavasitaM#}
+;
+11308 new .²1 To determine, resolve; {#kaTamidAnIM durjanavacanAdevam aDyavasitaM#}
+;---------------------------------------------------
+; <L>1202<pc>0069-2<k1>aDyavaso<k2>aDyavaso
+11311 old .²2 To attempt, exert, undertake; {#mA sAhasaM aDyavasyaH#} <ls>Dk. 123</ls>; {#vrataM#}
+;
+11311 new .²2 To attempt, exert, undertake; {#mA sAhasam aDyavasyaH#} <ls>Dk. 123</ls>; {#vrataM#}
+;---------------------------------------------------
+; <L>1439<pc>0080-2<k1>anAga<k2>anAga
+13227 old {#anAga#}¦ {%a.%} [{#na A samyag gacCati svargaM anena nAgaH aDarmaH#};
+;
+13227 new {#anAga#}¦ {%a.%} [{#na A samyag gacCati svargam anena nAgaH aDarmaH#};
+;---------------------------------------------------
+; <L>1456<pc>0081-1<k1>anAtmya<k2>anAtmya
+13365 old {#anAtmya#}¦ {%a.%} [{#AtmanaH idaM AtmyaM SarIram#} <sab>{#na˚ ba˚#}</sab>] Impersonal,
+;
+13365 new {#anAtmya#}¦ {%a.%} [{#AtmanaH idam AtmyaM SarIram#} <sab>{#na˚ ba˚#}</sab>] Impersonal,
+;---------------------------------------------------
+; <L>1932<pc>0099-2<k1>anuprapAtam<k2>anuprapAtam,
+16725 old  {#Aste gehaM gehaM anuprapAtaM-dam#} <ls>P. III. 4. 56. Sk.</ls>
+;
+16725 new  {#Aste gehaM geham anuprapAtaM-dam#} <ls>P. III. 4. 56. Sk.</ls>
+;---------------------------------------------------
+; <L>1953<pc>0100-1<k1>anuplu<k2>anuplu
+16853 old {#anuplu#}¦ €1 <ab>Ā.</ab> To run after, follow; {#idamanyato vAnaradvayaM Aryasya#}
+;
+16853 new {#anuplu#}¦ €1 <ab>Ā.</ab> To run after, follow; {#idamanyato vAnaradvayam Aryasya#}
+;---------------------------------------------------
+; <L>2227<pc>0113-1<k1>anusf<k2>anusf
+19055 old  {#diSaM anusarestiryagAyAmaSoBI#} <ls n="Me.">59</ls>.
+;
+19055 new  {#diSam anusarestiryagAyAmaSoBI#} <ls n="Me.">59</ls>.
+;---------------------------------------------------
+; <L>2276<pc>0114-2<k1>anUpa<k2>anUpa
+19373 old  {#nadIM goyutAnUpAM atarat#} {%<ab>ibid.</ab>%}
+;
+19373 new  {#nadIM goyutAnUpAm atarat#} {%<ab>ibid.</ab>%}
+;---------------------------------------------------
+; <L>2328<pc>0117-1<k1>anta<k2>anta
+19861 old .{@{#-avasAyin#}@} [{#naKakeSAnAmantaM avasAtuM CettuM SIlamasya, so-Rini#}]
+;
+19861 new .{@{#-avasAyin#}@} [{#naKakeSAnAmantam avasAtuM CettuM SIlamasya, so-Rini#}]
+;---------------------------------------------------
+; <L>2334<pc>0118-2<k1>antar<k2>antar
+20293 old .{@{#-vA#}@} {%a.%} [{#antaH antaraNgaBAvaM antaHkaraRaM vA vAti gacCati#}
+;
+20293 new .{@{#-vA#}@} {%a.%} [{#antaH antaraNgaBAvam antaHkaraRaM vA vAti gacCati#}
+;---------------------------------------------------
+; <L>2334<pc>0118-2<k1>antar<k2>antar
+20345 old  contact of the vocal organs ({#IzatspfzwaM antasTAnAm#}); or they are
+;
+20345 new  contact of the vocal organs ({#Izatspfzwam antasTAnAm#}); or they are
+;---------------------------------------------------
+; <L>2335<pc>0122-1<k1>antara<k2>antara
+20431 old  room; {#antaraM antaram#} <ls>Mk. 2</ls> make way, make way.
+;
+20431 new  room; {#antaram antaram#} <ls>Mk. 2</ls> make way, make way.
+;---------------------------------------------------
+; <L>2335<pc>0122-1<k1>antara<k2>antara
+20444 old  {#nivedayituM antarAnvezI BavAmi#} <ls>Ś. 7</ls> find a fit or opportune time;
+;
+20444 new  {#nivedayitum antarAnvezI BavAmi#} <ls>Ś. 7</ls> find a fit or opportune time;
+;---------------------------------------------------
+; <L>2344<pc>0124-1<k1>antarAlam<k2>antarAlam,
+20665 old {#antarAlam, antarAlakam#}¦ [{#antaraM vyavaDAnasImAM ArAti gfhRAti#},
+;
+20665 new {#antarAlam, antarAlakam#}¦ [{#antaraM vyavaDAnasImAm ArAti gfhRAti#},
+;---------------------------------------------------
+; <L>2348<pc>0125-1<k1>antari<k2>antari
+20758 old  to <ls>Nir.</ls> {#antarA dyAvApfTivyoH kzAntaM avasTitaM Bavati#}, or {#antarA#}
+;
+20758 new  to <ls>Nir.</ls> {#antarA dyAvApfTivyoH kzAntam avasTitaM Bavati#}, or {#antarA#}
+;---------------------------------------------------
+; <L>2374<pc>0126-2<k1>antya<k2>antya
+21032 old  zodiacal signs. <ab>&c.</ab>; {#antye vayasi#} in old age <ls>R. 9. 79</ls>; {#antyaM fRam#}
+;
+21032 new  zodiacal signs. <ab>&c.</ab>; {#antye vayasi#} in old age <ls>R. 9. 79</ls>; {#antyam fRam#}
+;---------------------------------------------------
+; <L>2428<pc>0133-1<k1>anvakza<k2>anvakza
+21909 old {#anvakza#}¦ {%a.%} [{#anugataH akzaM indriyaM gati samA#}.]
+;
+21909 new {#anvakza#}¦ {%a.%} [{#anugataH akzam indriyaM gati samA#}.]
+;---------------------------------------------------
+; <L>2457<pc>0134-1<k1>anvAdeSaH<k2>anvAdeSaH
+22098 old  {#kiMcitkAryaM viDAtumupAttasya kAryAntaraM viDAtuM punarupAdAnaM anvAdeSaH#};
+;
+22098 new  {#kiMcitkAryaM viDAtumupAttasya kAryAntaraM viDAtuM punarupAdAnam anvAdeSaH#};
+;---------------------------------------------------
+; <L>2457<pc>0134-1<k1>anvAdeSaH<k2>anvAdeSaH
+22099 old  <ab>e. g.</ab> {#anena vyAkaraRamaDItaM enaM Cando'DyApaya#}; {#anayoH pavitraM kulaM#}
+;
+22099 new  <ab>e. g.</ab> {#anena vyAkaraRamaDItam enaM Cando'DyApaya#}; {#anayoH pavitraM kulaM#}
+;---------------------------------------------------
+; <L>2773<pc>0147-1<k1>apavad<k2>apavad
+24484 old  <ls>Śi. 17. 19</ls>; {#nArto'pyapavadedviprAn#} <ls>Ms. 4. 236</ls>; {#svaM putraM apavadati-te#}
+;
+24484 new  <ls>Śi. 17. 19</ls>; {#nArto'pyapavadedviprAn#} <ls>Ms. 4. 236</ls>; {#svaM putram apavadati-te#}
+;---------------------------------------------------
+; <L>2926<pc>0153-1<k1>apARinIya<k2>apARinIya
+25596 old .²2 ({#pARinIyaM azwADyAyIrUpaM granTaM yo nADIte#}) One who does not (properly)
+;
+25596 new .²2 ({#pARinIyam azwADyAyIrUpaM granTaM yo nADIte#}) One who does not (properly)
+;---------------------------------------------------
+; <L>12051<pc>0562-1<k1>kAravI<k2>kAravI
+102162 old {#kAravI#}¦ <ab>N.</ab> of many plants. (<lang>Mar.</lang> <ns>{#Sopa, ovA, jireM i#}</ns>.)
+;
+102162 new {#kAravI#}¦ <ab>N.</ab> of many plants. (<lang>Mar.</lang> <ns>{#Sopa, ovA, jirem i#}</ns>.)
+;---------------------------------------------------

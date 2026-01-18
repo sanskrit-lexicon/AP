@@ -1,0 +1,3207 @@
+883d882
+< %%empty line (to be deleted)
+934d932
+< %%empty line (to be deleted)
+1179d1176
+< %%empty line (to be deleted)
+1214c1211
+<  {#kzetratayA kalpitAnAm akzaBavAnAmazwAnAM kzetrARAmekaM#}).
+---
+>  {#kzetratayA kalpitAnAM akzaBavAnAmazwAnAM kzetrARAmekaM#}).
+1362d1358
+< %%empty line (to be deleted)
+1491d1486
+< %%empty line (to be deleted)
+1559d1553
+< %%empty line (to be deleted)
+1750c1744
+< .{@{#-kavacam#}@} [{#akzoBAya hitam akzoByam#}] a sort of {#kavaca#} or
+---
+> .{@{#-kavacam#}@} [{#akzoBAya hitaM akzoByam#}] a sort of {#kavaca#} or
+1873c1867
+< {#aKila#}¦ {%a.%} [{#nAsti Kilam avaSizwaM yasya#} <ls>Tv.</ls>]
+---
+> {#aKila#}¦ {%a.%} [{#nAsti KilaM avaSizwaM yasya#} <ls>Tv.</ls>]
+2051c2045
+< {#agasti#}¦ [{#vinDyAKyam agam asyati#}; {#as-ktic SakanDvAdi˚#}, <ls>Uṇ. 4. 179</ls>,
+---
+> {#agasti#}¦ [{#vinDyAKyaM agaM asyati#}; {#as-ktic SakanDvAdi˚#}, <ls>Uṇ. 4. 179</ls>,
+2153c2147
+< {#agAram#}¦ [{#agaM na gacCantam fcCati prApnoti aga-f-aR#} <ls>Tv.</ls>] A house;
+---
+> {#agAram#}¦ [{#agaM na gacCantaM fcCati prApnoti aga-f-aR#} <ls>Tv.</ls>] A house;
+2278d2271
+< %%empty line (to be deleted)
+2587c2580
+< .{@{#-mArutiH#}@} [{#agniSca marucca tayorapatyam iY tato vfdDiH it ca#};
+---
+> .{@{#-mArutiH#}@} [{#agniSca marucca tayorapatyaM iY tato vfdDiH it ca#};
+2612c2605
+<  {#sA#}, or {#agneriva muKaM prajApatimuKam utpattidvAraM yasyAH, agninA#}
+---
+>  {#sA#}, or {#agneriva muKaM prajApatimuKaM utpattidvAraM yasyAH, agninA#}
+2927c2920
+< .{@{#-ayaRIyama#}@} [{#agraM Srezwam ayanaM jYAnaM tatra sADu Ca#}].
+---
+> .{@{#-ayaRIyama#}@} [{#agraM SrezwaM ayanaM jYAnaM tatra sADu Ca#}].
+3255c3248
+< .²2 [{#aGam anizwaM SaMsati icCati#}; {#SaMs-aR#}] a wicked man, such as a thief.
+---
+> .²2 [{#aGaM anizwaM SaMsati icCati#}; {#SaMs-aR#}] a wicked man, such as a thief.
+3282c3275
+< {#aGArin#}¦ {%a.%} [{#aGaM vyasanam fcCati#}; {#f-Rini#}] Suffering from evil
+---
+> {#aGArin#}¦ {%a.%} [{#aGaM vyasanaM fcCati#}; {#f-Rini#}] Suffering from evil
+3679d3671
+< %%empty line (to be deleted)
+3694d3685
+< %%empty line (to be deleted)
+3965d3955
+< %%empty line (to be deleted)
+4152d4141
+< %%empty line (to be deleted)
+4532c4521
+< {#acCAvAkaH#}¦ [{#acCaM nirmalam acCa ABimuKyena vA vakti SaMsati#}; {#vac#}
+---
+> {#acCAvAkaH#}¦ [{#acCaM nirmalaM acCa ABimuKyena vA vakti SaMsati#}; {#vac#}
+4683c4672
+< .{@{#-karRaH, -karRakaH#}@} [{#ajasya karRam iva parRaM yasya-svArTe kan#}]
+---
+> .{@{#-karRaH, -karRakaH#}@} [{#ajasya karRaM iva parRaM yasya-svArTe kan#}]
+4803d4791
+< %%empty line (to be deleted)
+5266d5253
+< %%empty line (to be deleted)
+5332d5318
+< %%empty line (to be deleted)
+5721c5707
+< .{@{#-wwam#}@} Food, boiled rice; {#awwaSUlA janapadAH#} <ls>Mb.</ls> ({#awwam annaM#}
+---
+> .{@{#-wwam#}@} Food, boiled rice; {#awwaSUlA janapadAH#} <ls>Mb.</ls> ({#awwaM annaM#}
+6060d6045
+< %%empty line (to be deleted)
+6595c6580
+< {#atijagatI#}¦ [{#atikrAntA jagatIM dvAdaSAkzarapAdAm ekAkzarADikyAt#}]
+---
+> {#atijagatI#}¦ [{#atikrAntA jagatIM dvAdaSAkzarapAdAM ekAkzarADikyAt#}]
+6783c6768
+< {#atiDftiH#}¦ {%f.%} [{#atikAntA Dftim azwAdaSAkzarapAdAM vfttim ekAkzarADikyAt#}]
+---
+> {#atiDftiH#}¦ {%f.%} [{#atikAntA DftiM azwAdaSAkzarapAdAM vfttim ekAkzarADikyAt#}]
+6964d6948
+< %%empty line (to be deleted)
+7094d7077
+< %%empty line (to be deleted)
+7295c7278
+< {#atiruc#}¦ {%m.%} [{#rocate iti ruk strIRAm UrudeSaH#}; {#atikrAnto rucam#} <ls>Tv.</ls>] The knee.
+---
+> {#atiruc#}¦ {%m.%} [{#rocate iti ruk strIRAM UrudeSaH#}; {#atikrAnto rucam#} <ls>Tv.</ls>] The knee.
+7415c7398
+< {#ativAhaH#}¦ [{#atItya deham anyadehe vAhaH prApaRam#} <sab>{#sa˚ ta˚#}</sab>]
+---
+> {#ativAhaH#}¦ [{#atItya dehaM anyadehe vAhaH prApaRam#} <sab>{#sa˚ ta˚#}</sab>]
+8749c8732
+< {#adaDryaYc#}¦ [{#amum aYcati adas-aYc kvip aDryAgamaH#} <ls>P. VIII. 2. 80-81.</ls>]
+---
+> {#adaDryaYc#}¦ [{#amuM aYcati adas-aYc kvip aDryAgamaH#} <ls>P. VIII. 2. 80-81.</ls>]
+8803d8785
+< %%empty line (to be deleted)
+9177d9158
+< %%empty line (to be deleted)
+9319c9300
+<  {#punarAhuruBayato'rdDarAtram adyatanaH kAlaH .#} <ls>Kāśi.</ls>, {#kalopasarjaneca tulyam#}.
+---
+>  {#punarAhuruBayato'rdDarAtraM adyatanaH kAlaH .#} <ls>Kāśi.</ls>, {#kalopasarjaneca tulyam#}.
+9391d9371
+< %%empty line (to be deleted)
+9683c9663
+< {#aDarAYc#}¦ {%a.%} [{#aDarAM dakziRAM diSam aYcati aYc kvin#} <ls>P. III. 2. 59</ls>]
+---
+> {#aDarAYc#}¦ {%a.%} [{#aDarAM dakziRAM diSaM aYcati aYc kvin#} <ls>P. III. 2. 59</ls>]
+9755c9735
+<  {#tadaDaraM grAhakatvABAvAt hInaM yasya saH#} <ls>Tv.</ls>; {#aDaHkftam akzajam indriyajYAnaM#}
+---
+>  {#tadaDaraM grAhakatvABAvAt hInaM yasya saH#} <ls>Tv.</ls>; {#aDaHkftaM akzajam indriyajYAnaM#}
+10280d10259
+< %%empty line (to be deleted)
+10302c10281
+< {#aDigava#}¦ {%a.%} or {%<ab>adv.</ab>%} [{#gavi ityaDigavam avyayI-sa#}.] Found
+---
+> {#aDigava#}¦ {%a.%} or {%<ab>adv.</ab>%} [{#gavi ityaDigavaM avyayI-sa#}.] Found
+10709d10687
+< %%empty line (to be deleted)
+11224c11202
+< {#aDyakza#}¦ {%a.%} [{#aDigataH akzam indriyaM vyavahAraM vA#}]
+---
+> {#aDyakza#}¦ {%a.%} [{#aDigataH akzaM indriyaM vyavahAraM vA#}]
+11297c11275
+< .{@{#-rDaH#}@} Wind ({#yadasmina idaM sarvam aDyArDnot aDikamavarDayat#}
+---
+> .{@{#-rDaH#}@} Wind ({#yadasmina idaM sarvaM aDyArDnot aDikamavarDayat#}
+11308c11286
+< .²1 To determine, resolve; {#kaTamidAnIM durjanavacanAdevam aDyavasitaM#}
+---
+> .²1 To determine, resolve; {#kaTamidAnIM durjanavacanAdevaM aDyavasitaM#}
+11311c11289
+< .²2 To attempt, exert, undertake; {#mA sAhasam aDyavasyaH#} <ls>Dk. 123</ls>; {#vrataM#}
+---
+> .²2 To attempt, exert, undertake; {#mA sAhasaM aDyavasyaH#} <ls>Dk. 123</ls>; {#vrataM#}
+11566d11543
+< %%empty line (to be deleted)
+12073d12049
+< %%empty line (to be deleted)
+12375d12350
+< %%empty line (to be deleted)
+12591d12565
+< %%empty line (to be deleted)
+12727d12700
+< %%empty line (to be deleted)
+13227c13200
+< {#anAga#}¦ {%a.%} [{#na A samyag gacCati svargam anena nAgaH aDarmaH#};
+---
+> {#anAga#}¦ {%a.%} [{#na A samyag gacCati svargaM anena nAgaH aDarmaH#};
+13365c13338
+< {#anAtmya#}¦ {%a.%} [{#AtmanaH idam AtmyaM SarIram#} <sab>{#na˚ ba˚#}</sab>] Impersonal,
+---
+> {#anAtmya#}¦ {%a.%} [{#AtmanaH idaM AtmyaM SarIram#} <sab>{#na˚ ba˚#}</sab>] Impersonal,
+13478d13450
+< %%empty line (to be deleted)
+14048d14019
+< %%empty line (to be deleted)
+14435d14405
+< %%empty line (to be deleted)
+14961d14930
+< %%empty line (to be deleted)
+14999d14967
+< %%empty line (to be deleted)
+15064d15031
+< %%empty line (to be deleted)
+15070d15036
+< %%empty line (to be deleted)
+15270d15235
+< %%empty line (to be deleted)
+15402d15366
+< %%empty line (to be deleted)
+15488d15451
+< %%empty line (to be deleted)
+15619d15581
+< %%empty line (to be deleted)
+15629d15590
+< %%empty line (to be deleted)
+16288d16248
+< %%empty line (to be deleted)
+16583d16542
+< %%empty line (to be deleted)
+16591d16549
+< %%empty line (to be deleted)
+16725c16683
+<  {#Aste gehaM geham anuprapAtaM-dam#} <ls>P. III. 4. 56. Sk.</ls>
+---
+>  {#Aste gehaM gehaM anuprapAtaM-dam#} <ls>P. III. 4. 56. Sk.</ls>
+16853c16811
+< {#anuplu#}¦ €1 <ab>Ā.</ab> To run after, follow; {#idamanyato vAnaradvayam Aryasya#}
+---
+> {#anuplu#}¦ €1 <ab>Ā.</ab> To run after, follow; {#idamanyato vAnaradvayaM Aryasya#}
+16872d16829
+< %%empty line (to be deleted)
+17273d17229
+< %%empty line (to be deleted)
+17454d17409
+< %%empty line (to be deleted)
+17756d17710
+< %%empty line (to be deleted)
+17835d17788
+< %%empty line (to be deleted)
+18043d17995
+< %%empty line (to be deleted)
+18119d18070
+< %%empty line (to be deleted)
+18203d18153
+< %%empty line (to be deleted)
+18382d18331
+< %%empty line (to be deleted)
+18405d18353
+< %%empty line (to be deleted)
+18635d18582
+< %%empty line (to be deleted)
+18663d18609
+< %%empty line (to be deleted)
+19055c19001
+<  {#diSam anusarestiryagAyAmaSoBI#} <ls n="Me.">59</ls>.
+---
+>  {#diSaM anusarestiryagAyAmaSoBI#} <ls n="Me.">59</ls>.
+19095d19040
+< %%empty line (to be deleted)
+19373c19318
+<  {#nadIM goyutAnUpAm atarat#} {%<ab>ibid.</ab>%}
+---
+>  {#nadIM goyutAnUpAM atarat#} {%<ab>ibid.</ab>%}
+19861c19806
+< .{@{#-avasAyin#}@} [{#naKakeSAnAmantam avasAtuM CettuM SIlamasya, so-Rini#}]
+---
+> .{@{#-avasAyin#}@} [{#naKakeSAnAmantaM avasAtuM CettuM SIlamasya, so-Rini#}]
+20083d20027
+< %%
+20233d20176
+< %%empty line (to be deleted)
+20293c20236
+< .{@{#-vA#}@} {%a.%} [{#antaH antaraNgaBAvam antaHkaraRaM vA vAti gacCati#}
+---
+> .{@{#-vA#}@} {%a.%} [{#antaH antaraNgaBAvaM antaHkaraRaM vA vAti gacCati#}
+20345c20288
+<  contact of the vocal organs ({#Izatspfzwam antasTAnAm#}); or they are
+---
+>  contact of the vocal organs ({#IzatspfzwaM antasTAnAm#}); or they are
+20431c20374
+<  room; {#antaram antaram#} <ls>Mk. 2</ls> make way, make way.
+---
+>  room; {#antaraM antaram#} <ls>Mk. 2</ls> make way, make way.
+20444c20387
+<  {#nivedayitum antarAnvezI BavAmi#} <ls>Ś. 7</ls> find a fit or opportune time;
+---
+>  {#nivedayituM antarAnvezI BavAmi#} <ls>Ś. 7</ls> find a fit or opportune time;
+20665c20608
+< {#antarAlam, antarAlakam#}¦ [{#antaraM vyavaDAnasImAm ArAti gfhRAti#},
+---
+> {#antarAlam, antarAlakam#}¦ [{#antaraM vyavaDAnasImAM ArAti gfhRAti#},
+20758c20701
+<  to <ls>Nir.</ls> {#antarA dyAvApfTivyoH kzAntam avasTitaM Bavati#}, or {#antarA#}
+---
+>  to <ls>Nir.</ls> {#antarA dyAvApfTivyoH kzAntaM avasTitaM Bavati#}, or {#antarA#}
+20818d20760
+< %%empty line (to be deleted)
+20881d20822
+< %%empty line (to be deleted)
+20957d20897
+< %%empty line (to be deleted)
+21032c20972
+<  zodiacal signs. <ab>&c.</ab>; {#antye vayasi#} in old age <ls>R. 9. 79</ls>; {#antyam fRam#}
+---
+>  zodiacal signs. <ab>&c.</ab>; {#antye vayasi#} in old age <ls>R. 9. 79</ls>; {#antyaM fRam#}
+21058c20998
+< .²1 A measure of number; 1000 trillions (1000,000,000,000,000).
+---
+> .²1 A measure of number; 1000 billions (1000,000,000,000,000).
+21909c21849
+< {#anvakza#}¦ {%a.%} [{#anugataH akzam indriyaM gati samA#}.]
+---
+> {#anvakza#}¦ {%a.%} [{#anugataH akzaM indriyaM gati samA#}.]
+22098,22099c22038,22039
+<  {#kiMcitkAryaM viDAtumupAttasya kAryAntaraM viDAtuM punarupAdAnam anvAdeSaH#};
+<  <ab>e. g.</ab> {#anena vyAkaraRamaDItam enaM Cando'DyApaya#}; {#anayoH pavitraM kulaM#}
+---
+>  {#kiMcitkAryaM viDAtumupAttasya kAryAntaraM viDAtuM punarupAdAnaM anvAdeSaH#};
+>  <ab>e. g.</ab> {#anena vyAkaraRamaDItaM enaM Cando'DyApaya#}; {#anayoH pavitraM kulaM#}
+22230d22169
+< %%empty line (to be deleted)
+22397d22335
+< %%empty line (to be deleted)
+22770d22707
+< %%empty line (to be deleted)
+22803d22739
+< %%empty line (to be deleted)
+22937d22872
+< %%empty line (to be deleted)
+23026d22960
+< %%empty line (to be deleted)
+23584d23517
+< %%empty line (to be deleted)
+23682d23614
+< %%empty line (to be deleted)
+23952d23883
+< %%empty line (to be deleted)
+23970c23901
+< {#aparavat#}¦ {%ind.%} Like what follows.
+---
+> {#aparavat#}¦ {%a.%} Like what follows.
+24036d23966
+< %%empty line (to be deleted)
+24178d24107
+< %%empty line (to be deleted)
+24398d24326
+< %%empty line (to be deleted)
+24416d24343
+< %%empty line (to be deleted)
+24442d24368
+< %%empty line (to be deleted)
+24484c24410
+<  <ls>Śi. 17. 19</ls>; {#nArto'pyapavadedviprAn#} <ls>Ms. 4. 236</ls>; {#svaM putram apavadati-te#}
+---
+>  <ls>Śi. 17. 19</ls>; {#nArto'pyapavadedviprAn#} <ls>Ms. 4. 236</ls>; {#svaM putraM apavadati-te#}
+24577d24502
+< %%empty line (to be deleted)
+24821d24745
+< %%empty line (to be deleted)
+25032d24955
+< %%empty line (to be deleted)
+25202d25124
+< %%empty line (to be deleted)
+25596c25518
+< .²2 ({#pARinIyam azwADyAyIrUpaM granTaM yo nADIte#}) One who does not (properly)
+---
+> .²2 ({#pARinIyaM azwADyAyIrUpaM granTaM yo nADIte#}) One who does not (properly)
+25695d25616
+< %%empty line (to be deleted)
+25814d25734
+< %%empty line (to be deleted)
+26016d25935
+< %%empty line (to be deleted)
+26090d26008
+< %%empty line (to be deleted)
+26518d26435
+< %%empty line (to be deleted)
+26575c26492
+<  {#˚dvitIyA, ˚praGasA, ˚vARijA, ˚svAgatA#} where it has the sense of ‘excluding’,
+---
+>  {#˚dvitIyA, ˚prakasA, ˚vARijA, ˚svAgatA#} where it has the sense of ‘excluding’,
+26669d26585
+< %%empty line (to be deleted)
+26940d26855
+< %%empty line (to be deleted)
+27058d26972
+< %%empty line (to be deleted)
+27081d26994
+< %%empty line (to be deleted)
+27356d27268
+< %%empty line (to be deleted)
+27738d27649
+< %%empty line (to be deleted)
+27850d27760
+< %%empty line (to be deleted)
+27893d27802
+< %%empty line (to be deleted)
+27943d27851
+< %%empty line (to be deleted)
+28347d28254
+< %%empty line (to be deleted)
+28725d28631
+< %%empty line (to be deleted)
+29436d29341
+< %%empty line (to be deleted)
+30271d30175
+< %%empty line (to be deleted)
+30281d30184
+< %%empty line (to be deleted)
+30601d30503
+< %%empty line (to be deleted)
+30615d30516
+< %%empty line (to be deleted)
+30670d30570
+< %%empty line (to be deleted)
+31100d30999
+< %%empty line (to be deleted)
+31113d31011
+< %%empty line (to be deleted)
+31173d31070
+< %%empty line (to be deleted)
+31363d31259
+< %%empty line (to be deleted)
+31391d31286
+< %%empty line (to be deleted)
+31476d31370
+< %%empty line (to be deleted)
+31711d31604
+< %%empty line (to be deleted)
+31977d31869
+< %%empty line (to be deleted)
+32267d32158
+< %%empty line (to be deleted)
+32929d32819
+< %%empty line (to be deleted)
+33173d33062
+< %%empty line (to be deleted)
+33566d33454
+< %%empty line (to be deleted)
+33815d33702
+< %%empty line (to be deleted)
+33992d33878
+< %%empty line (to be deleted)
+34131d34016
+< %%empty line (to be deleted)
+34263d34147
+< %%empty line (to be deleted)
+34347d34230
+< %%empty line (to be deleted)
+34353d34235
+< %%empty line (to be deleted)
+34396d34277
+< %%empty line (to be deleted)
+34623d34503
+< %%empty line (to be deleted)
+34798d34677
+< %%empty line (to be deleted)
+35083d34961
+< %%empty line (to be deleted)
+35119d34996
+< %%empty line (to be deleted)
+35206d35082
+< %%empty line (to be deleted)
+35250d35125
+< %%empty line (to be deleted)
+35346d35220
+< %%empty line (to be deleted)
+35413d35286
+< %%empty line (to be deleted)
+36348d36220
+< %%empty line (to be deleted)
+36445d36316
+< %%empty line (to be deleted)
+36556d36426
+< %%empty line (to be deleted)
+36837d36706
+< %%empty line (to be deleted)
+36863d36731
+< %%empty line (to be deleted)
+36948d36815
+< %%empty line (to be deleted)
+36976d36842
+< %%
+37959d37824
+< %%empty line (to be deleted)
+38023d37887
+< %%empty line (to be deleted)
+38030d37893
+< %%empty line (to be deleted)
+38764,38765d38626
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+39030d38890
+< %%empty line (to be deleted)
+39600d39459
+< %%empty line (to be deleted)
+40348d40206
+< %%empty line (to be deleted)
+40656d40513
+< %%empty line (to be deleted)
+40794d40650
+< %%empty line (to be deleted)
+40804d40659
+< %%empty line (to be deleted)
+41316d41170
+< %%empty line (to be deleted)
+41467d41320
+< %%empty line (to be deleted)
+41513d41365
+< %%empty line (to be deleted)
+42356d42207
+< %%empty line (to be deleted)
+43041d42891
+< %%empty line (to be deleted)
+43536d43385
+< %%empty line (to be deleted)
+43820d43668
+< %%empty line (to be deleted)
+44923d44770
+< %%empty line (to be deleted)
+44973d44819
+< %%empty line (to be deleted)
+45202d45047
+< %%empty line (to be deleted)
+45725d45569
+< %%empty line (to be deleted)
+45807d45650
+< %%empty line (to be deleted)
+45938,45939d45780
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+45963d45803
+< %%empty line (to be deleted)
+46380d46219
+< %%empty line (to be deleted)
+47146d46984
+< %%empty line (to be deleted)
+47395d47232
+< %%empty line (to be deleted)
+48590d48426
+< %%empty line (to be deleted)
+48728d48563
+< %%empty line (to be deleted)
+49173d49007
+< %%empty line (to be deleted)
+49424d49257
+< %%empty line (to be deleted)
+49439d49271
+< %%empty line (to be deleted)
+49809d49640
+< %%empty line (to be deleted)
+50084d49914
+< %%empty line (to be deleted)
+50354d50183
+< %%empty line (to be deleted)
+50673d50501
+< %%empty line (to be deleted)
+50772d50599
+< %%empty line (to be deleted)
+50934d50760
+< %%empty line (to be deleted)
+50958d50783
+< %%empty line (to be deleted)
+50966d50790
+< %%empty line (to be deleted)
+51052d50875
+< %%empty line (to be deleted)
+51070d50892
+< %%empty line (to be deleted)
+51134d50955
+< %%empty line (to be deleted)
+51171d50991
+< %%empty line (to be deleted)
+51284d51103
+< %%empty line (to be deleted)
+51913d51731
+< %%empty line (to be deleted)
+52957d52774
+< %%empty line (to be deleted)
+53481d53297
+< %%empty line (to be deleted)
+53599d53414
+< %%empty line (to be deleted)
+53893d53707
+< %%empty line (to be deleted)
+54082d53895
+< %%empty line (to be deleted)
+54299d54111
+< %%empty line (to be deleted)
+54416d54227
+< %%empty line (to be deleted)
+54426d54236
+< %%empty line (to be deleted)
+54863d54672
+< %%empty line (to be deleted)
+54980d54788
+< %%empty line (to be deleted)
+55108d54915
+< %%empty line (to be deleted)
+55472d55278
+< %%empty line (to be deleted)
+56031d55836
+< %%empty line (to be deleted)
+56116d55920
+< %%empty line (to be deleted)
+56148d55951
+< %%empty line (to be deleted)
+56241d56043
+< %%empty line (to be deleted)
+56285d56086
+< %%empty line (to be deleted)
+56849d56649
+< %%empty line (to be deleted)
+58110d57909
+< %%empty line (to be deleted)
+58360d58158
+< %%empty line (to be deleted)
+59542d59339
+< %%empty line (to be deleted)
+59788d59584
+< %%empty line (to be deleted)
+59908d59703
+< %%empty line (to be deleted)
+59939d59733
+< %%empty line (to be deleted)
+60191d59984
+< %%empty line (to be deleted)
+60318d60110
+< %%empty line (to be deleted)
+60407d60198
+< %%empty line (to be deleted)
+61039d60829
+< %%empty line (to be deleted)
+61065d60854
+< %%empty line (to be deleted)
+61107d60895
+< %%empty line (to be deleted)
+61123d60910
+< %%empty line (to be deleted)
+61282d61068
+< %%empty line (to be deleted)
+61307d61092
+< %%empty line (to be deleted)
+61350d61134
+< %%empty line (to be deleted)
+61771d61554
+< %%empty line (to be deleted)
+62084d61866
+< %%empty line (to be deleted)
+62479d62260
+< %%empty line (to be deleted)
+63958d63738
+< %%empty line (to be deleted)
+64011d63790
+< %%empty line (to be deleted)
+64091d63869
+< %%empty line (to be deleted)
+64117d63894
+< %%empty line (to be deleted)
+64445d64221
+< %%empty line (to be deleted)
+64590d64365
+< %%empty line (to be deleted)
+64886d64660
+< %%empty line (to be deleted)
+65532d65305
+< %%empty line (to be deleted)
+65655d65427
+< %%empty line (to be deleted)
+65659d65430
+< %%empty line (to be deleted)
+65686d65456
+< %%empty line (to be deleted)
+65887d65656
+< %%empty line (to be deleted)
+66268d66036
+< %%empty line (to be deleted)
+66559d66326
+< %%empty line (to be deleted)
+66587d66353
+< %%empty line (to be deleted)
+66641d66406
+< %%empty line (to be deleted)
+66864d66628
+< %%empty line (to be deleted)
+66989d66752
+< %%empty line (to be deleted)
+67611d67373
+< %%empty line (to be deleted)
+67695c67457,67458
+< <LEND>%%insert one empty line next
+---
+> <LEND>
+> 
+68031,68032d67793
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+68089d67849
+< %%empty line (to be deleted)
+69285d69044
+< %%empty line (to be deleted)
+69731d69489
+< %%empty line (to be deleted)
+69842d69599
+< %%empty line (to be deleted)
+69903d69659
+< %%empty line (to be deleted)
+69974d69729
+< %%empty line (to be deleted)
+70026d69780
+< %%empty line (to be deleted)
+70132d69885
+< %%empty line (to be deleted)
+70140d69892
+< %%empty line (to be deleted)
+70211d69962
+< %%empty line (to be deleted)
+70545d70295
+< %%empty line (to be deleted)
+70617d70366
+< %%empty line (to be deleted)
+70947d70695
+< %%empty line (to be deleted)
+71172d70919
+< %%empty line (to be deleted)
+71277d71023
+< %%empty line (to be deleted)
+71335d71080
+< %%empty line (to be deleted)
+71666d71410
+< %%empty line (to be deleted)
+72806d72549
+< %%empty line (to be deleted)
+72936d72678
+< %%empty line (to be deleted)
+72997d72738
+< %%empty line (to be deleted)
+73238d72978
+< %%empty line (to be deleted)
+73327d73066
+< %%empty line (to be deleted)
+73970d73708
+< %%empty line (to be deleted)
+74093d73830
+< %%empty line (to be deleted)
+74507d74243
+< %%empty line (to be deleted)
+74685d74420
+< %%empty line (to be deleted)
+76279d76013
+< %%empty line (to be deleted)
+76307d76040
+< %%empty line (to be deleted)
+77120d76852
+< %%empty line (to be deleted)
+77212d76943
+< %%empty line (to be deleted)
+77426d77156
+< %%empty line (to be deleted)
+77512d77241
+< %%empty line (to be deleted)
+77616d77344
+< %%empty line (to be deleted)
+77823d77550
+< %%empty line (to be deleted)
+78670d78396
+< %%empty line (to be deleted)
+78703d78428
+< %%empty line (to be deleted)
+78829,78830d78553
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+78960d78682
+< %%empty line (to be deleted)
+79030d78751
+< %%empty line (to be deleted)
+79099,79100d78819
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+79119d78837
+< %%empty line (to be deleted)
+79161d78878
+< %%empty line (to be deleted)
+79443d79159
+< %%empty line (to be deleted)
+80057d79772
+< %%empty line (to be deleted)
+80090d79804
+< %%empty line (to be deleted)
+80100d79813
+< %%empty line (to be deleted)
+80129d79841
+< %%empty line (to be deleted)
+80373d80084
+< %%empty line (to be deleted)
+81520d81230
+< %%empty line (to be deleted)
+81636d81345
+< %%empty line (to be deleted)
+81671d81379
+< %%empty line (to be deleted)
+82937d82644
+< %%empty line (to be deleted)
+83013d82719
+< %%empty line (to be deleted)
+83038d82743
+< %%empty line (to be deleted)
+83305d83009
+< %%empty line (to be deleted)
+83374d83077
+< %%empty line (to be deleted)
+83411d83113
+< %%empty line (to be deleted)
+83557d83258
+< %%empty line (to be deleted)
+83736d83436
+< %%empty line (to be deleted)
+83740d83439
+< %%empty line (to be deleted)
+83974d83672
+< %%empty line (to be deleted)
+84059d83756
+< %%empty line (to be deleted)
+84097d83793
+< %%empty line (to be deleted)
+84138d83833
+< %%empty line (to be deleted)
+84332d84026
+< %%empty line (to be deleted)
+84733d84426
+< %%empty line (to be deleted)
+85312d85004
+< %%empty line (to be deleted)
+85966d85657
+< %%empty line (to be deleted)
+86428d86118
+< %%empty line (to be deleted)
+86763d86452
+< %%empty line (to be deleted)
+87113d86801
+< %%empty line (to be deleted)
+87541d87228
+< %%empty line (to be deleted)
+88472d88158
+< %%empty line (to be deleted)
+88641d88326
+< %%empty line (to be deleted)
+88671d88355
+< %%empty line (to be deleted)
+88722d88405
+< %%empty line (to be deleted)
+89041d88723
+< %%empty line (to be deleted)
+89319d89000
+< %%empty line (to be deleted)
+89408c89089
+<  arc; sine of 30°.
+---
+>  are; sine of 30°.
+90149,90150d89829
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+90531d90209
+< %%empty line (to be deleted)
+90879d90556
+< %%empty line (to be deleted)
+91418d91094
+< %%empty line (to be deleted)
+91951d91626
+< %%empty line (to be deleted)
+92239d91913
+< %%empty line (to be deleted)
+92287d91960
+< %%empty line (to be deleted)
+92700d92372
+< %%empty line (to be deleted)
+92742d92413
+< %%empty line (to be deleted)
+92795d92465
+< %%empty line (to be deleted)
+92798d92467
+< %%empty line (to be deleted)
+92883d92551
+< %%empty line (to be deleted)
+93013d92680
+< %%empty line (to be deleted)
+93175d92841
+< %%empty line (to be deleted)
+93184d92849
+< %%empty line (to be deleted)
+93332d92996
+< %%empty line (to be deleted)
+93556d93219
+< %%empty line (to be deleted)
+93920d93582
+< %%empty line (to be deleted)
+94099d93760
+< %%empty line (to be deleted)
+94352d94012
+< %%empty line (to be deleted)
+94361d94020
+< %%empty line (to be deleted)
+94446d94104
+< %%empty line (to be deleted)
+94453d94110
+< %%empty line (to be deleted)
+94464d94120
+< %%empty line (to be deleted)
+94534d94189
+< %%empty line (to be deleted)
+94577d94231
+< %%empty line (to be deleted)
+94633d94286
+< %%empty line (to be deleted)
+94666d94318
+< %%empty line (to be deleted)
+94796d94447
+< %%empty line (to be deleted)
+94983d94633
+< %%empty line (to be deleted)
+95322d94971
+< %%empty line (to be deleted)
+95867d95515
+< %%empty line (to be deleted)
+95933d95580
+< %%empty line (to be deleted)
+96621d96267
+< %%empty line (to be deleted)
+96830d96475
+< %%empty line (to be deleted)
+97153d96797
+< %%empty line (to be deleted)
+97529d97172
+< %%empty line (to be deleted)
+97630d97272
+< %%empty line (to be deleted)
+97705d97346
+< %%empty line (to be deleted)
+98071d97711
+< %%empty line (to be deleted)
+98132d97771
+< %%empty line (to be deleted)
+98165d97803
+< %%empty line (to be deleted)
+98242d97879
+< %%empty line (to be deleted)
+98948d98584
+< %%empty line (to be deleted)
+98963d98598
+< %%empty line (to be deleted)
+98989,98990d98623
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+99098d98730
+< %%empty line (to be deleted)
+99170d98801
+< %%empty line (to be deleted)
+99239d98869
+< %%empty line (to be deleted)
+99803d99432
+< %%empty line (to be deleted)
+100224d99852
+< %%empty line (to be deleted)
+100444d100071
+< %%empty line (to be deleted)
+100790d100416
+< %%empty line (to be deleted)
+100831d100456
+< %%empty line (to be deleted)
+101158d100782
+< %%empty line (to be deleted)
+101737d101360
+< %%empty line (to be deleted)
+101817d101439
+< %%empty line (to be deleted)
+101913d101534
+< %%empty line (to be deleted)
+102092,102093d101712
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+102132d101750
+< %%empty line (to be deleted)
+102162c101780
+< {#kAravI#}¦ <ab>N.</ab> of many plants. (<lang>Mar.</lang> <ns>{#Sopa, ovA, jirem i#}</ns>.)
+---
+> {#kAravI#}¦ <ab>N.</ab> of many plants. (<lang>Mar.</lang> <ns>{#Sopa, ovA, jireM i#}</ns>.)
+102167d101784
+< %%empty line (to be deleted)
+102420,102421d102036
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+102801d102415
+< %%empty line (to be deleted)
+103134d102747
+< %%empty line (to be deleted)
+103275d102887
+< %%empty line (to be deleted)
+103823d103434
+< %%empty line (to be deleted)
+104219d103829
+< %%empty line (to be deleted)
+104277d103886
+< %%empty line (to be deleted)
+104571d104179
+< %%empty line (to be deleted)
+104759d104366
+< %%empty line (to be deleted)
+104973d104579
+< %%empty line (to be deleted)
+105016d104621
+< %%empty line (to be deleted)
+105058d104662
+< %%empty line (to be deleted)
+105185d104788
+< %%empty line (to be deleted)
+105382d104984
+< %%empty line (to be deleted)
+105384d104985
+< %%empty line (to be deleted)
+105428d105028
+< %%empty line (to be deleted)
+105449d105048
+< %%empty line (to be deleted)
+105569d105167
+< %%empty line (to be deleted)
+105888d105485
+< %%empty line (to be deleted)
+106046d105642
+< %%empty line (to be deleted)
+106064d105659
+< %%empty line (to be deleted)
+106079d105673
+< %%empty line (to be deleted)
+106498d106091
+< %%empty line (to be deleted)
+106607d106199
+< %%empty line (to be deleted)
+106734d106325
+< %%empty line (to be deleted)
+106802d106392
+< %%empty line (to be deleted)
+107248d106837
+< %%empty line (to be deleted)
+107313d106901
+< %%empty line (to be deleted)
+107320d106907
+< %%empty line (to be deleted)
+107347d106933
+< %%empty line (to be deleted)
+108045d107630
+< %%empty line (to be deleted)
+108314d107898
+< %%empty line (to be deleted)
+108346d107929
+< %%empty line (to be deleted)
+108480d108062
+< %%empty line (to be deleted)
+108574d108155
+< %%empty line (to be deleted)
+109059d108639
+< %%empty line (to be deleted)
+109212d108791
+< %%empty line (to be deleted)
+109578d109156
+< %%empty line (to be deleted)
+110833d110410
+< %%empty line (to be deleted)
+110851c110428
+< .²7 The complement of an arc to 90° (in <ab>math.</ab>).
+---
+> .²7 The complement of an are to 90˚ (in <ab>math.</ab>).
+111073d110649
+< %%empty line (to be deleted)
+111177d110752
+< %%empty line (to be deleted)
+111188d110762
+< %%empty line (to be deleted)
+111373d110946
+< %%empty line (to be deleted)
+112174d111746
+< %%empty line (to be deleted)
+112343d111914
+< %%empty line (to be deleted)
+112455d112025
+< %%empty line (to be deleted)
+112490d112059
+< %%empty line (to be deleted)
+112508d112076
+< %%empty line (to be deleted)
+112663d112230
+< %%empty line (to be deleted)
+113037d112603
+< %%empty line (to be deleted)
+113223d112788
+< %%empty line (to be deleted)
+113309d112873
+< %%empty line (to be deleted)
+113622d113185
+< %%empty line (to be deleted)
+113876,113877d113438
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+114411d113971
+< %%empty line (to be deleted)
+114438d113997
+< %%empty line (to be deleted)
+114627d114185
+< %%empty line (to be deleted)
+114897d114454
+< %%empty line (to be deleted)
+115329d114885
+< %%empty line (to be deleted)
+115426d114981
+< %%empty line (to be deleted)
+115714d115268
+< %%empty line (to be deleted)
+115826d115379
+< %%empty line (to be deleted)
+116092d115644
+< %%empty line (to be deleted)
+116853d116404
+< %%empty line (to be deleted)
+116893d116443
+< %%empty line (to be deleted)
+117290d116839
+< %%empty line (to be deleted)
+117954d117502
+< %%empty line (to be deleted)
+118229d117776
+< %%empty line (to be deleted)
+119452d118998
+< %%empty line (to be deleted)
+119732d119277
+< %%empty line (to be deleted)
+119855d119399
+< %%empty line (to be deleted)
+119925d119468
+< %%empty line (to be deleted)
+120014,120015d119556
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+120388d119928
+< %%empty line (to be deleted)
+120416d119955
+< %%empty line (to be deleted)
+120530d120068
+< %%empty line (to be deleted)
+120834d120371
+< %%empty line (to be deleted)
+121064d120600
+< %%empty line (to be deleted)
+121255c120791
+< .²23 The chord of an arc (in <ab>geom.</ab>).
+---
+> .²23 The chord of an are (in <ab>geom.</ab>).
+121426d120961
+< %%empty line (to be deleted)
+121484d121018
+< %%empty line (to be deleted)
+122023d121556
+< %%empty line (to be deleted)
+122141d121673
+< %%empty line (to be deleted)
+122306d121837
+< %%empty line (to be deleted)
+123275d122805
+< %%empty line (to be deleted)
+123683d123212
+< %%empty line (to be deleted)
+123720d123248
+< %%empty line (to be deleted)
+124283d123810
+< %%empty line (to be deleted)
+124291d123817
+< %%empty line (to be deleted)
+124378d123903
+< %%empty line (to be deleted)
+124386d123910
+< %%empty line (to be deleted)
+124388d123911
+< %%empty line (to be deleted)
+124396d123918
+< %%empty line (to be deleted)
+124481d124002
+< %%empty line (to be deleted)
+124493d124013
+< %%empty line (to be deleted)
+124508d124027
+< %%empty line (to be deleted)
+124749d124267
+< %%empty line (to be deleted)
+124893d124410
+< %%empty line (to be deleted)
+125273d124789
+< %%empty line (to be deleted)
+125580d125095
+< %%empty line (to be deleted)
+126265d125779
+< %%empty line (to be deleted)
+126543d126056
+< %%empty line (to be deleted)
+126854d126366
+< %%empty line (to be deleted)
+127111d126622
+< %%empty line (to be deleted)
+127281d126791
+< %%empty line (to be deleted)
+127848d127357
+< %%empty line (to be deleted)
+127892d127400
+< %%empty line (to be deleted)
+128034d127541
+< %%empty line (to be deleted)
+128124d127630
+< %%empty line (to be deleted)
+128316d127821
+< %%empty line (to be deleted)
+128360d127864
+< %%empty line (to be deleted)
+128858d128361
+< %%empty line (to be deleted)
+129160c128663
+< .²3 (In <ab>geom.</ab>) An arc of a circle.
+---
+> .²3 (In <ab>geom.</ab>) An are of a circle.
+129343d128845
+< %%empty line (to be deleted)
+129379d128880
+< %%empty line (to be deleted)
+129450d128950
+< %%empty line (to be deleted)
+129765d129264
+< %%empty line (to be deleted)
+129919d129417
+< %%empty line (to be deleted)
+130373d129870
+< %%empty line (to be deleted)
+130545d130041
+< %%empty line (to be deleted)
+131103d130598
+< %%empty line (to be deleted)
+131230d130724
+< %%empty line (to be deleted)
+131334d130827
+< %%empty line (to be deleted)
+131477d130969
+< %%empty line (to be deleted)
+132026d131517
+< %%empty line (to be deleted)
+132411d131901
+< %%empty line (to be deleted)
+132862d132351
+< %%empty line (to be deleted)
+133387d132875
+< %%empty line (to be deleted)
+133690d133177
+< %%empty line (to be deleted)
+134035d133521
+< %%empty line (to be deleted)
+134324d133809
+< %%empty line (to be deleted)
+134919d134403
+< %%empty line (to be deleted)
+135275d134758
+< %%empty line (to be deleted)
+135756d135238
+< %%empty line (to be deleted)
+136596c136078
+< .²4 The chord of an arc.
+---
+> .²4 The chord of an are.
+136826d136307
+< %%empty line (to be deleted)
+137201d136681
+< %%empty line (to be deleted)
+137580d137059
+< %%empty line (to be deleted)
+138136d137614
+< %%empty line (to be deleted)
+138397d137874
+< %%empty line (to be deleted)
+138484d137960
+< %%empty line (to be deleted)
+138654d138129
+< %%empty line (to be deleted)
+138930d138404
+< %%empty line (to be deleted)
+138980d138453
+< %%empty line (to be deleted)
+139423d138895
+< %%empty line (to be deleted)
+139714d139185
+< %%empty line (to be deleted)
+139936d139406
+< %%empty line (to be deleted)
+140043d139512
+< %%empty line (to be deleted)
+140116d139584
+< %%empty line (to be deleted)
+140232d139699
+< %%empty line (to be deleted)
+140384d139850
+< %%empty line (to be deleted)
+140408d139873
+< %%empty line (to be deleted)
+140434d139898
+< %%empty line (to be deleted)
+140824d140287
+< %%empty line (to be deleted)
+141004d140466
+< %%empty line (to be deleted)
+141090d140551
+< %%empty line (to be deleted)
+141165d140625
+< %%empty line (to be deleted)
+141221d140680
+< %%empty line (to be deleted)
+141479d140937
+< %%empty line (to be deleted)
+141944d141401
+< %%empty line (to be deleted)
+141952d141408
+< %%empty line (to be deleted)
+142027d141482
+< %%empty line (to be deleted)
+142093d141547
+< %%empty line (to be deleted)
+142152d141605
+< %%empty line (to be deleted)
+142174d141626
+< %%empty line (to be deleted)
+142895d142346
+< %%empty line (to be deleted)
+143123d142573
+< %%empty line (to be deleted)
+143316d142765
+< %%empty line (to be deleted)
+143401d142849
+< %%empty line (to be deleted)
+143737d143184
+< %%empty line (to be deleted)
+144424d143870
+< %%empty line (to be deleted)
+144800d144245
+< %%empty line (to be deleted)
+145058d144502
+< %%empty line (to be deleted)
+145278d144721
+< %%empty line (to be deleted)
+145406d144848
+< %%empty line (to be deleted)
+145820d145261
+< %%empty line (to be deleted)
+146107d145547
+< %%empty line (to be deleted)
+146623d146062
+< %%empty line (to be deleted)
+146768c146207
+< .{@{#-jIvA, -jyA#}@} the sine of three signs or 90°, a radius.
+---
+> .{@{#-jIvA, -jyA#}@} the sine of three signs or 90˚, a radius.
+147171d146609
+< %%empty line (to be deleted)
+147384d146821
+< %%empty line (to be deleted)
+147426d146862
+< %%empty line (to be deleted)
+147433d146868
+< %%empty line (to be deleted)
+148345d147779
+< %%empty line (to be deleted)
+148348d147781
+< %%empty line (to be deleted)
+148486d147918
+< %%empty line (to be deleted)
+148968d148399
+< %%empty line (to be deleted)
+149099d148529
+< %%empty line (to be deleted)
+149370d148799
+< %%empty line (to be deleted)
+150332d149760
+< %%empty line (to be deleted)
+150566d149993
+< %%empty line (to be deleted)
+150908d150334
+< %%empty line (to be deleted)
+150958d150383
+< %%empty line (to be deleted)
+150965d150389
+< %%empty line (to be deleted)
+151052d150475
+< %%empty line (to be deleted)
+151159d150581
+< %%empty line (to be deleted)
+151611d151032
+< %%empty line (to be deleted)
+152321d151741
+< %%empty line (to be deleted)
+153682d153101
+< %%empty line (to be deleted)
+153880d153298
+< %%empty line (to be deleted)
+154234d153651
+< %%empty line (to be deleted)
+154413d153829
+< %%empty line (to be deleted)
+154425d153840
+< %%empty line (to be deleted)
+154459d153873
+< %%empty line (to be deleted)
+154474d153887
+< %%empty line (to be deleted)
+154599d154011
+< %%empty line (to be deleted)
+154945d154356
+< %%empty line (to be deleted)
+155403d154813
+< %%empty line (to be deleted)
+155526d154935
+< %%empty line (to be deleted)
+155786,155788d155194
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+155845d155250
+< %%empty line (to be deleted)
+155927d155331
+< %%empty line (to be deleted)
+156102d155505
+< %%empty line (to be deleted)
+156391,156392d155793
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+156605d156005
+< %%empty line (to be deleted)
+156791d156190
+< %%empty line (to be deleted)
+156903d156301
+< %%empty line (to be deleted)
+157238d156635
+< %%empty line (to be deleted)
+157504d156900
+< %%empty line (to be deleted)
+157624d157019
+< %%empty line (to be deleted)
+158590d157984
+< %%empty line (to be deleted)
+158594d157987
+< %%empty line (to be deleted)
+158736d158128
+< %%empty line (to be deleted)
+158970d158361
+< %%empty line (to be deleted)
+159163d158553
+< %%empty line (to be deleted)
+159282d158671
+< %%empty line (to be deleted)
+159350d158738
+< %%empty line (to be deleted)
+159399d158786
+< %%empty line (to be deleted)
+159445d158831
+< %%empty line (to be deleted)
+160049d159434
+< %%empty line (to be deleted)
+160226d159610
+< %%empty line (to be deleted)
+160444d159827
+< %%empty line (to be deleted)
+160592d159974
+< %%empty line (to be deleted)
+160680d160061
+< %%empty line (to be deleted)
+162124d161504
+< %%empty line (to be deleted)
+162375d161754
+< %%empty line (to be deleted)
+162445d161823
+< %%empty line (to be deleted)
+162634d162011
+< %%empty line (to be deleted)
+163233d162609
+< %%empty line (to be deleted)
+163602d162977
+< %%empty line (to be deleted)
+163767d163141
+< %%empty line (to be deleted)
+164039d163412
+< %%empty line (to be deleted)
+164146d163518
+< %%empty line (to be deleted)
+164437d163808
+< %%empty line (to be deleted)
+164461d163831
+< %%empty line (to be deleted)
+164957d164326
+< %%empty line (to be deleted)
+165070d164438
+< %%empty line (to be deleted)
+165184d164551
+< %%empty line (to be deleted)
+165875d165241
+< %%empty line (to be deleted)
+166057d165422
+< %%empty line (to be deleted)
+166265d165629
+< %%empty line (to be deleted)
+166570d165933
+< %%empty line (to be deleted)
+166585d165947
+< %%empty line (to be deleted)
+166651d166012
+< %%empty line (to be deleted)
+166801d166161
+< %%empty line (to be deleted)
+167535d166894
+< %%empty line (to be deleted)
+167598d166956
+< %%empty line (to be deleted)
+167713d167070
+< %%empty line (to be deleted)
+168248d167604
+< %%empty line (to be deleted)
+168394d167749
+< %%empty line (to be deleted)
+168763d168117
+< %%empty line (to be deleted)
+168886d168239
+< %%empty line (to be deleted)
+168935d168287
+< %%empty line (to be deleted)
+169487d168838
+< %%empty line (to be deleted)
+170278d169628
+< %%empty line (to be deleted)
+170425d169774
+< %%empty line (to be deleted)
+170500d169848
+< %%empty line (to be deleted)
+170582d169929
+< %%empty line (to be deleted)
+170810d170156
+< %%empty line (to be deleted)
+170828d170173
+< %%empty line (to be deleted)
+171001d170345
+< %%empty line (to be deleted)
+171003d170346
+< %%empty line (to be deleted)
+171078d170420
+< %%empty line (to be deleted)
+171367d170708
+< %%empty line (to be deleted)
+171411d170751
+< %%empty line (to be deleted)
+171504d170843
+< %%empty line (to be deleted)
+171548d170886
+< %%empty line (to be deleted)
+171839d171176
+< %%empty line (to be deleted)
+171968d171304
+< %%empty line (to be deleted)
+172179d171514
+< %%empty line (to be deleted)
+172340d171674
+< %%empty line (to be deleted)
+172484d171817
+< %%empty line (to be deleted)
+173214d172546
+< %%empty line (to be deleted)
+173236d172567
+< %%empty line (to be deleted)
+173792d173122
+< %%empty line (to be deleted)
+174010d173339
+< %%empty line (to be deleted)
+174786d174114
+< %%empty line (to be deleted)
+174954d174281
+< %%empty line (to be deleted)
+175110d174436
+< %%empty line (to be deleted)
+175435d174760
+< %%empty line (to be deleted)
+175611d174935
+< %%empty line (to be deleted)
+175655d174978
+< %%empty line (to be deleted)
+175706d175028
+< %%empty line (to be deleted)
+175725d175046
+< %%empty line (to be deleted)
+175778,175779d175098
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+175795d175113
+< %%empty line (to be deleted)
+175849d175166
+< %%empty line (to be deleted)
+175880d175196
+< %%empty line (to be deleted)
+175981d175296
+< %%empty line (to be deleted)
+176062,176063d175376
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+176147d175459
+< %%empty line (to be deleted)
+176340d175651
+< %%empty line (to be deleted)
+176515d175825
+< %%empty line (to be deleted)
+176678d175987
+< %%empty line (to be deleted)
+176709d176017
+< %%empty line (to be deleted)
+176761d176068
+< %%empty line (to be deleted)
+177147d176453
+< %%empty line (to be deleted)
+177214d176519
+< %%empty line (to be deleted)
+177466d176770
+< %%empty line (to be deleted)
+177853d177156
+< %%empty line (to be deleted)
+177886d177188
+< %%empty line (to be deleted)
+178003d177304
+< %%empty line (to be deleted)
+178129d177429
+< %%empty line (to be deleted)
+178165d177464
+< %%empty line (to be deleted)
+178251d177549
+< %%empty line (to be deleted)
+178271d177568
+< %%empty line (to be deleted)
+178658c177955,177956
+< <LEND>%%insert one empty line next
+---
+> <LEND>
+> 
+178661d177958
+< %%empty line (to be deleted)
+178993d178289
+< %%empty line (to be deleted)
+179356d178651
+< %%empty line (to be deleted)
+179440d178734
+< %%empty line (to be deleted)
+179450d178743
+< %%empty line (to be deleted)
+179615d178907
+< %%empty line (to be deleted)
+179657d178948
+< %%empty line (to be deleted)
+179684d178974
+< %%empty line (to be deleted)
+179908d179197
+< %%empty line (to be deleted)
+180540d179828
+< %%empty line (to be deleted)
+180725d180012
+< %%empty line (to be deleted)
+180846d180132
+< %%empty line (to be deleted)
+180849d180134
+< %%empty line (to be deleted)
+180990d180274
+< %%empty line (to be deleted)
+181015d180298
+< %%empty line (to be deleted)
+181391d180673
+< %%empty line (to be deleted)
+181557d180838
+< %%empty line (to be deleted)
+181627d180907
+< %%empty line (to be deleted)
+181708d180987
+< %%empty line (to be deleted)
+181721d180999
+< %%empty line (to be deleted)
+182171d181448
+< %%empty line (to be deleted)
+182341d181617
+< %%empty line (to be deleted)
+183090d182365
+< %%empty line (to be deleted)
+183250d182524
+< %%empty line (to be deleted)
+183429d182702
+< %%empty line (to be deleted)
+183837d183109
+< %%empty line (to be deleted)
+183871d183142
+< %%empty line (to be deleted)
+184108d183378
+< %%empty line (to be deleted)
+184200d183469
+< %%empty line (to be deleted)
+184328d183596
+< %%empty line (to be deleted)
+184654d183921
+< %%empty line (to be deleted)
+185083d184349
+< %%empty line (to be deleted)
+185215d184480
+< %%empty line (to be deleted)
+185662d184926
+< %%empty line (to be deleted)
+186065d185328
+< %%empty line (to be deleted)
+186220d185482
+< %%empty line (to be deleted)
+186670d185931
+< %%empty line (to be deleted)
+186825d186085
+< %%empty line (to be deleted)
+186874d186133
+< %%empty line (to be deleted)
+186883d186141
+< %%empty line (to be deleted)
+187017d186274
+< %%empty line (to be deleted)
+187217d186473
+< %%empty line (to be deleted)
+187282d186537
+< %%empty line (to be deleted)
+187358d186612
+< %%empty line (to be deleted)
+187556d186809
+< %%empty line (to be deleted)
+187874d187126
+< %%empty line (to be deleted)
+187990d187241
+< %%empty line (to be deleted)
+188090d187340
+< %%empty line (to be deleted)
+188118d187367
+< %%empty line (to be deleted)
+188125d187373
+< %%empty line (to be deleted)
+188230,188231d187477
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+188243d187488
+< %%empty line (to be deleted)
+188327d187571
+< %%empty line (to be deleted)
+188430d187673
+< %%empty line (to be deleted)
+188449d187691
+< %%empty line (to be deleted)
+188534d187775
+< %%empty line (to be deleted)
+188936d188176
+< %%empty line (to be deleted)
+188993d188232
+< %%empty line (to be deleted)
+189059d188297
+< %%empty line (to be deleted)
+189210d188447
+< %%empty line (to be deleted)
+189376d188612
+< %%empty line (to be deleted)
+189900d189135
+< %%empty line (to be deleted)
+189931d189165
+< %%empty line (to be deleted)
+190105d189338
+< %%empty line (to be deleted)
+190299d189531
+< %%empty line (to be deleted)
+190414d189645
+< %%empty line (to be deleted)
+190505d189735
+< %%empty line (to be deleted)
+190621d189850
+< %%empty line (to be deleted)
+190743d189971
+< %%empty line (to be deleted)
+191201d190428
+< %%empty line (to be deleted)
+191507d190733
+< %%empty line (to be deleted)
+191638d190863
+< %%empty line (to be deleted)
+191773d190997
+< %%empty line (to be deleted)
+191819d191042
+< %%empty line (to be deleted)
+191964d191186
+< %%empty line (to be deleted)
+192009d191230
+< %%empty line (to be deleted)
+192089d191309
+< %%empty line (to be deleted)
+192100d191319
+< %%empty line (to be deleted)
+192120d191338
+< %%empty line (to be deleted)
+192505d191722
+< %%empty line (to be deleted)
+192746d191962
+< %%empty line (to be deleted)
+193347d192562
+< %%empty line (to be deleted)
+193366d192580
+< %%empty line (to be deleted)
+193394d192607
+< %%empty line (to be deleted)
+193781d192993
+< %%empty line (to be deleted)
+193866d193077
+< %%empty line (to be deleted)
+194268d193478
+< %%empty line (to be deleted)
+194495d193704
+< %%empty line (to be deleted)
+194780d193988
+< %%empty line (to be deleted)
+194915d194122
+< %%empty line (to be deleted)
+195258d194464
+< %%empty line (to be deleted)
+195445d194650
+< %%empty line (to be deleted)
+195746d194950
+< %%empty line (to be deleted)
+195849d195052
+< %%empty line (to be deleted)
+195937d195139
+< %%empty line (to be deleted)
+196300d195501
+< %%empty line (to be deleted)
+196328d195528
+< %%empty line (to be deleted)
+196614d195813
+< %%empty line (to be deleted)
+196629d195827
+< %%empty line (to be deleted)
+196770,196772d195967
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+196836d196030
+< %%empty line (to be deleted)
+197010d196203
+< %%empty line (to be deleted)
+197020d196212
+< %%empty line (to be deleted)
+197087d196278
+< %%empty line (to be deleted)
+197127d196317
+< %%empty line (to be deleted)
+197198d196387
+< %%empty line (to be deleted)
+197360,197361d196548
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+197706d196892
+< %%empty line (to be deleted)
+198064d197249
+< %%empty line (to be deleted)
+198102d197286
+< %%empty line (to be deleted)
+198154d197337
+< %%empty line (to be deleted)
+198179d197361
+< %%empty line (to be deleted)
+198208d197389
+< %%empty line (to be deleted)
+198381d197561
+< %%empty line (to be deleted)
+198489d197668
+< %%empty line (to be deleted)
+198508d197686
+< %%empty line (to be deleted)
+198707d197884
+< %%empty line (to be deleted)
+199288d198464
+< %%empty line (to be deleted)
+199299d198474
+< %%empty line (to be deleted)
+199648d198822
+< %%empty line (to be deleted)
+199680d198853
+< %%empty line (to be deleted)
+199709,199711d198881
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+199800d198969
+< %%empty line (to be deleted)
+200080d199248
+< %%empty line (to be deleted)
+200841d200008
+< %%empty line (to be deleted)
+201085d200251
+< %%empty line (to be deleted)
+201261,201262d200426
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+201957d201120
+< %%empty line (to be deleted)
+202102d201264
+< %%empty line (to be deleted)
+202271d201432
+< %%empty line (to be deleted)
+202343d201503
+< %%empty line (to be deleted)
+202815d201974
+< %%empty line (to be deleted)
+202875d202033
+< %%empty line (to be deleted)
+202984d202141
+< %%empty line (to be deleted)
+203073d202229
+< %%empty line (to be deleted)
+203140d202295
+< %%empty line (to be deleted)
+203168d202322
+< %%empty line (to be deleted)
+203648d202801
+< %%empty line (to be deleted)
+203677d202829
+< %%empty line (to be deleted)
+204157d203308
+< %%empty line (to be deleted)
+204635d203785
+< %%empty line (to be deleted)
+205039d204188
+< %%empty line (to be deleted)
+205194d204342
+< %%empty line (to be deleted)
+205228d204375
+< %%empty line (to be deleted)
+205373d204519
+< %%empty line (to be deleted)
+205455d204600
+< %%empty line (to be deleted)
+205555d204699
+< %%empty line (to be deleted)
+205872d205015
+< %%empty line (to be deleted)
+205896d205038
+< %%empty line (to be deleted)
+205900d205041
+< %%empty line (to be deleted)
+206279d205419
+< %%empty line (to be deleted)
+206567d205706
+< %%empty line (to be deleted)
+206715d205853
+< %%empty line (to be deleted)
+206897d206034
+< %%empty line (to be deleted)
+207001d206137
+< %%empty line (to be deleted)
+207141d206276
+< %%empty line (to be deleted)
+207355d206489
+< %%empty line (to be deleted)
+208136d207269
+< %%empty line (to be deleted)
+208166d207298
+< %%empty line (to be deleted)
+208253d207384
+< %%empty line (to be deleted)
+208342d207472
+< %%empty line (to be deleted)
+209142d208271
+< %%empty line (to be deleted)
+209181d208309
+< %%empty line (to be deleted)
+210081d209208
+< %%empty line (to be deleted)
+210153,210154d209279
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+210156d209280
+< %%empty line (to be deleted)
+210390d209513
+< %%empty line (to be deleted)
+210588d209710
+< %%empty line (to be deleted)
+210777d209898
+< %%empty line (to be deleted)
+211018d210138
+< %%empty line (to be deleted)
+211516d210635
+< %%empty line (to be deleted)
+211526d210644
+< %%empty line (to be deleted)
+211675d210792
+< %%empty line (to be deleted)
+211788d210904
+< %%empty line (to be deleted)
+211942d211057
+< %%empty line (to be deleted)
+212155d211269
+< %%empty line (to be deleted)
+212237d211350
+< %%empty line (to be deleted)
+212273d211385
+< %%empty line (to be deleted)
+212659d211770
+< %%empty line (to be deleted)
+213341d212451
+< %%empty line (to be deleted)
+213454d212563
+< %%empty line (to be deleted)
+214148d213256
+< %%empty line (to be deleted)
+214159d213266
+< %%empty line (to be deleted)
+214178d213284
+< %%empty line (to be deleted)
+214186d213291
+< %%empty line (to be deleted)
+214205d213309
+< %%empty line (to be deleted)
+214249d213352
+< %%empty line (to be deleted)
+214299d213401
+< %%empty line (to be deleted)
+214317d213418
+< %%empty line (to be deleted)
+214373d213473
+< %%empty line (to be deleted)
+214389d213488
+< %%empty line (to be deleted)
+214408d213506
+< %%empty line (to be deleted)
+214419d213516
+< %%empty line (to be deleted)
+214554d213650
+< %%empty line (to be deleted)
+214731d213826
+< %%empty line (to be deleted)
+214843d213937
+< %%empty line (to be deleted)
+214893d213986
+< %%empty line (to be deleted)
+214922d214014
+< %%empty line (to be deleted)
+215006d214097
+< %%empty line (to be deleted)
+215191d214281
+< %%empty line (to be deleted)
+215213d214302
+< %%empty line (to be deleted)
+215254d214342
+< %%empty line (to be deleted)
+215262d214349
+< %%empty line (to be deleted)
+215395d214481
+< %%empty line (to be deleted)
+215399d214484
+< %%empty line (to be deleted)
+215456d214540
+< %%empty line (to be deleted)
+215474d214557
+< %%empty line (to be deleted)
+215489d214571
+< %%empty line (to be deleted)
+215498d214579
+< %%empty line (to be deleted)
+215764d214844
+< %%empty line (to be deleted)
+216132d215211
+< %%empty line (to be deleted)
+216178d215256
+< %%empty line (to be deleted)
+216281d215358
+< %%empty line (to be deleted)
+216288d215364
+< %%empty line (to be deleted)
+216349d215424
+< %%empty line (to be deleted)
+216725d215799
+< %%empty line (to be deleted)
+217071d216144
+< %%empty line (to be deleted)
+217669,217670d216741
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+217865d216935
+< %%empty line (to be deleted)
+217996d217065
+< %%empty line (to be deleted)
+218208d217276
+< %%empty line (to be deleted)
+218426d217493
+< %%empty line (to be deleted)
+218540d217606
+< %%empty line (to be deleted)
+219228d218293
+< %%empty line (to be deleted)
+219735d218799
+< %%empty line (to be deleted)
+220005d219068
+< %%empty line (to be deleted)
+220295d219357
+< %%empty line (to be deleted)
+220372d219433
+< %%empty line (to be deleted)
+221415d220475
+< %%empty line (to be deleted)
+221477d220536
+< %%empty line (to be deleted)
+221613d220671
+< %%empty line (to be deleted)
+221622d220679
+< %%empty line (to be deleted)
+221958d221014
+< %%empty line (to be deleted)
+222032d221087
+< %%empty line (to be deleted)
+222402d221456
+< %%empty line (to be deleted)
+223239d222292
+< %%empty line (to be deleted)
+223393d222445
+< %%empty line (to be deleted)
+223996d223047
+< %%empty line (to be deleted)
+224055d223105
+< %%empty line (to be deleted)
+224208d223257
+< %%empty line (to be deleted)
+224329d223377
+< %%empty line (to be deleted)
+224399d223446
+< %%empty line (to be deleted)
+224713d223759
+< %%empty line (to be deleted)
+224800d223845
+< %%empty line (to be deleted)
+224900d223944
+< %%empty line (to be deleted)
+225070,225071d224113
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+225117d224158
+< %%empty line (to be deleted)
+225365d224405
+< %%empty line (to be deleted)
+225423d224462
+< %%empty line (to be deleted)
+225437d224475
+< %%empty line (to be deleted)
+225443d224480
+< %%empty line (to be deleted)
+225512d224548
+< %%empty line (to be deleted)
+225943d224978
+< %%empty line (to be deleted)
+226592d225626
+< %%empty line (to be deleted)
+226610d225643
+< %%empty line (to be deleted)
+226615d225647
+< %%empty line (to be deleted)
+226823d225854
+< %%empty line (to be deleted)
+226922d225952
+< %%empty line (to be deleted)
+227119d226148
+< %%empty line (to be deleted)
+227745d226773
+< %%empty line (to be deleted)
+228190d227217
+< %%empty line (to be deleted)
+228449d227475
+< %%empty line (to be deleted)
+229062d228087
+< %%empty line (to be deleted)
+229382d228406
+< %%empty line (to be deleted)
+229415d228438
+< %%empty line (to be deleted)
+229571d228593
+< %%empty line (to be deleted)
+229887d228908
+< %%empty line (to be deleted)
+230015d229035
+< %%empty line (to be deleted)
+231220d230239
+< %%empty line (to be deleted)
+231600d230618
+< %%empty line (to be deleted)
+231641d230658
+< %%empty line (to be deleted)
+231648d230664
+< %%empty line (to be deleted)
+231922d230937
+< %%empty line (to be deleted)
+232057d231071
+< %%empty line (to be deleted)
+232137d231150
+< %%empty line (to be deleted)
+232139d231151
+< %%empty line (to be deleted)
+232216d231227
+< %%empty line (to be deleted)
+232754d231764
+< %%empty line (to be deleted)
+233758d232767
+< %%empty line (to be deleted)
+234326d233334
+< %%empty line (to be deleted)
+234708d233715
+< %%empty line (to be deleted)
+234806d233812
+< %%empty line (to be deleted)
+235193d234198
+< %%empty line (to be deleted)
+236052d235056
+< %%empty line (to be deleted)
+236204d235207
+< %%empty line (to be deleted)
+236848d235850
+< %%empty line (to be deleted)
+237976d236977
+< %%empty line (to be deleted)
+238788d237788
+< %%empty line (to be deleted)
+238822d237821
+< %%empty line (to be deleted)
+238906d237904
+< %%empty line (to be deleted)
+239059d238056
+< %%empty line (to be deleted)
+239207d238203
+< %%empty line (to be deleted)
+239232d238227
+< %%empty line (to be deleted)
+239272d238266
+< %%empty line (to be deleted)
+239362d238355
+< %%empty line (to be deleted)
+239411d238403
+< %%empty line (to be deleted)
+239500d238491
+< %%empty line (to be deleted)
+239515d238505
+< %%empty line (to be deleted)
+239524d238513
+< %%empty line (to be deleted)
+239604d238592
+< %%empty line (to be deleted)
+239679d238666
+< %%empty line (to be deleted)
+240225d239211
+< %%empty line (to be deleted)
+240568d239553
+< %%empty line (to be deleted)
+240587d239571
+< %%empty line (to be deleted)
+240594d239577
+< %%empty line (to be deleted)
+240619d239601
+< %%empty line (to be deleted)
+240706d239687
+< %%empty line (to be deleted)
+240719d239699
+< %%empty line (to be deleted)
+240734d239713
+< %%empty line (to be deleted)
+240958d239936
+< %%empty line (to be deleted)
+241629d240606
+< %%empty line (to be deleted)
+242100d241076
+< %%empty line (to be deleted)
+242305d241280
+< %%empty line (to be deleted)
+242461d241435
+< %%empty line (to be deleted)
+242922d241895
+< %%empty line (to be deleted)
+243040d242012
+< %%empty line (to be deleted)
+243243d242214
+< %%empty line (to be deleted)
+243956d242926
+< %%empty line (to be deleted)
+244060d243029
+< %%empty line (to be deleted)
+244064d243032
+< %%empty line (to be deleted)
+244220d243187
+< %%empty line (to be deleted)
+244331,244332d243297
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+244739d243703
+< %%empty line (to be deleted)
+244957d243920
+< %%empty line (to be deleted)
+245849d244811
+< %%empty line (to be deleted)
+245967d244928
+< %%empty line (to be deleted)
+246126d245086
+< %%empty line (to be deleted)
+246257d245216
+< %%empty line (to be deleted)
+247552d246510
+< %%empty line (to be deleted)
+247940d246897
+< %%empty line (to be deleted)
+247967d246923
+< %%empty line (to be deleted)
+248526d247481
+< %%empty line (to be deleted)
+248615,248616d247569
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+248626d247578
+< %%empty line (to be deleted)
+248671d247622
+< %%empty line (to be deleted)
+248686d247636
+< %%empty line (to be deleted)
+248697d247646
+< %%empty line (to be deleted)
+248788d247736
+< %%empty line (to be deleted)
+248822d247769
+< %%empty line (to be deleted)
+248904d247850
+< %%empty line (to be deleted)
+248908d247853
+< %%empty line (to be deleted)
+249331d248275
+< %%empty line (to be deleted)
+249846d248789
+< %%empty line (to be deleted)
+250355d249297
+< %%empty line (to be deleted)
+250381d249322
+< %%empty line (to be deleted)
+250543d249483
+< %%empty line (to be deleted)
+251419d250358
+< %%empty line (to be deleted)
+251520,251521d250458
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+251534d250470
+< %%empty line (to be deleted)
+252157d251092
+< %%empty line (to be deleted)
+252325d251259
+< %%empty line (to be deleted)
+252354d251287
+< %%empty line (to be deleted)
+252598d251530
+< %%empty line (to be deleted)
+252608d251539
+< %%empty line (to be deleted)
+252805d251735
+< %%empty line (to be deleted)
+252926d251855
+< %%empty line (to be deleted)
+253194d252122
+< %%empty line (to be deleted)
+253296d252223
+< %%empty line (to be deleted)
+253732d252658
+< %%empty line (to be deleted)
+253977d252902
+< %%empty line (to be deleted)
+254125d253049
+< %%empty line (to be deleted)
+254238d253161
+< %%empty line (to be deleted)
+254376d253298
+< %%empty line (to be deleted)
+254443d253364
+< %%empty line (to be deleted)
+254598d253518
+< %%empty line (to be deleted)
+254608d253527
+< %%empty line (to be deleted)
+254618d253536
+< %%empty line (to be deleted)
+254864d253781
+< %%empty line (to be deleted)
+255278d254194
+< %%empty line (to be deleted)
+256101d255016
+< %%empty line (to be deleted)
+256149d255063
+< %%empty line (to be deleted)
+256265d255178
+< %%empty line (to be deleted)
+256539d255451
+< %%empty line (to be deleted)
+256675d255586
+< %%empty line (to be deleted)
+256695d255605
+< %%empty line (to be deleted)
+256797d255706
+< %%empty line (to be deleted)
+256843d255751
+< %%empty line (to be deleted)
+257033d255940
+< %%empty line (to be deleted)
+257181d256087
+< %%empty line (to be deleted)
+257443d256348
+< %%empty line (to be deleted)
+258416d257320
+< %%empty line (to be deleted)
+258431d257334
+< %%empty line (to be deleted)
+258840d257742
+< %%empty line (to be deleted)
+259277d258178
+< %%empty line (to be deleted)
+259831d258731
+< %%empty line (to be deleted)
+260727d259626
+< %%empty line (to be deleted)
+260753d259651
+< %%empty line (to be deleted)
+261019d259916
+< %%empty line (to be deleted)
+261325d260221
+< %%empty line (to be deleted)
+261617d260512
+< %%empty line (to be deleted)
+261902d260796
+< %%empty line (to be deleted)
+262043d260936
+< %%empty line (to be deleted)
+262852d261744
+< %%empty line (to be deleted)
+263339,263340d262230
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+263381d262270
+< %%empty line (to be deleted)
+264513d263401
+< %%empty line (to be deleted)
+264672d263559
+< %%empty line (to be deleted)
+264945d263831
+< %%empty line (to be deleted)
+265234d264119
+< %%empty line (to be deleted)
+266122d265006
+< %%empty line (to be deleted)
+266151d265034
+< %%empty line (to be deleted)
+266309d265191
+< %%empty line (to be deleted)
+266774d265655
+< %%empty line (to be deleted)
+266847d265727
+< %%empty line (to be deleted)
+268060d266939
+< %%empty line (to be deleted)
+268250d267128
+< %%empty line (to be deleted)
+268359d267236
+< %%empty line (to be deleted)
+268443d267319
+< %%empty line (to be deleted)
+269047d267922
+< %%empty line (to be deleted)
+269453d268327
+< %%empty line (to be deleted)
+269890d268763
+< %%empty line (to be deleted)
+269962d268834
+< %%empty line (to be deleted)
+270407d269278
+< %%empty line (to be deleted)
+270470d269340
+< %%empty line (to be deleted)
+270560d269429
+< %%empty line (to be deleted)
+270817d269685
+< %%empty line (to be deleted)
+270911d269778
+< %%empty line (to be deleted)
+271334d270200
+< %%empty line (to be deleted)
+271392d270257
+< %%empty line (to be deleted)
+271515d270379
+< %%empty line (to be deleted)
+271750d270613
+< %%empty line (to be deleted)
+271774d270636
+< %%empty line (to be deleted)
+271794d270655
+< %%empty line (to be deleted)
+271961d270821
+< %%empty line (to be deleted)
+271985d270844
+< %%empty line (to be deleted)
+272163d271021
+< %%empty line (to be deleted)
+272175d271032
+< %%empty line (to be deleted)
+272399d271255
+< %%empty line (to be deleted)
+272510d271365
+< %%empty line (to be deleted)
+272644d271498
+< %%empty line (to be deleted)
+273233d272086
+< %%empty line (to be deleted)
+273513d272365
+< %%empty line (to be deleted)
+273631d272482
+< %%empty line (to be deleted)
+273833d272683
+< %%empty line (to be deleted)
+274046d272895
+< %%empty line (to be deleted)
+274104d272952
+< %%empty line (to be deleted)
+274190d273037
+< %%empty line (to be deleted)
+274520d273366
+< %%empty line (to be deleted)
+274580d273425
+< %%empty line (to be deleted)
+274681d273525
+< %%empty line (to be deleted)
+274861d273704
+< %%empty line (to be deleted)
+275168d274010
+< %%empty line (to be deleted)
+275170d274011
+< %%empty line (to be deleted)
+275174d274014
+< %%empty line (to be deleted)
+275176d274015
+< %%empty line (to be deleted)
+275191,275192d274029
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+275242d274078
+< %%empty line (to be deleted)
+276434d275269
+< %%empty line (to be deleted)
+276447d275281
+< %%empty line (to be deleted)
+276486d275319
+< %%empty line (to be deleted)
+276496d275328
+< %%empty line (to be deleted)
+276640d275471
+< %%empty line (to be deleted)
+277259d276089
+< %%empty line (to be deleted)
+277831d276660
+< %%empty line (to be deleted)
+277906d276734
+< %%empty line (to be deleted)
+278020d276847
+< %%empty line (to be deleted)
+278025d276851
+< %%empty line (to be deleted)
+278120d276945
+< %%empty line (to be deleted)
+278188d277012
+< %%empty line (to be deleted)
+278217d277040
+< %%empty line (to be deleted)
+278228d277050
+< %%empty line (to be deleted)
+278232d277053
+< %%empty line (to be deleted)
+278342d277162
+< %%empty line (to be deleted)
+278479d277298
+< %%empty line (to be deleted)
+278511d277329
+< %%empty line (to be deleted)
+278545d277362
+< %%empty line (to be deleted)
+278565d277381
+< %%empty line (to be deleted)
+278762d277577
+< %%empty line (to be deleted)
+278789d277603
+< %%empty line (to be deleted)
+279027d277840
+< %%empty line (to be deleted)
+279106d277918
+< %%empty line (to be deleted)
+279254d278065
+< %%empty line (to be deleted)
+279351d278161
+< %%empty line (to be deleted)
+279416,279417d278225
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+279711d278518
+< %%empty line (to be deleted)
+279903d278709
+< %%empty line (to be deleted)
+280120d278925
+< %%empty line (to be deleted)
+280153d278957
+< %%empty line (to be deleted)
+280388d279191
+< %%empty line (to be deleted)
+280718d279520
+< %%empty line (to be deleted)
+280788d279589
+< %%empty line (to be deleted)
+280877d279677
+< %%empty line (to be deleted)
+280904d279703
+< %%empty line (to be deleted)
+281059d279857
+< %%empty line (to be deleted)
+281245d280042
+< %%empty line (to be deleted)
+281261d280057
+< %%empty line (to be deleted)
+281781d280576
+< %%empty line (to be deleted)
+282043d280837
+< %%empty line (to be deleted)
+282201d280994
+< %%empty line (to be deleted)
+282912d281704
+< %%empty line (to be deleted)
+283201d281992
+< %%empty line (to be deleted)
+283231d282021
+< %%empty line (to be deleted)
+283286d282075
+< %%empty line (to be deleted)
+283407d282195
+< %%empty line (to be deleted)
+283886d282673
+< %%empty line (to be deleted)
+283926d282712
+< %%empty line (to be deleted)
+284312d283097
+< %%empty line (to be deleted)
+284524d283308
+< %%empty line (to be deleted)
+284621d283404
+< %%empty line (to be deleted)
+285162,285163d283944
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+285810d284590
+< %%empty line (to be deleted)
+286219d284998
+< %%empty line (to be deleted)
+286353d285131
+< %%empty line (to be deleted)
+286694d285471
+< %%empty line (to be deleted)
+286706d285482
+< %%empty line (to be deleted)
+286770d285545
+< %%empty line (to be deleted)
+286793d285567
+< %%empty line (to be deleted)
+286815d285588
+< %%empty line (to be deleted)
+286998d285770
+< %%empty line (to be deleted)
+287025d285796
+< %%empty line (to be deleted)
+287032d285802
+< %%empty line (to be deleted)
+287158,287159d285927
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+287210d285977
+< %%empty line (to be deleted)
+287318d286084
+< %%empty line (to be deleted)
+287346d286111
+< %%empty line (to be deleted)
+287535d286299
+< %%empty line (to be deleted)
+287584d286347
+< %%empty line (to be deleted)
+287695d286457
+< %%empty line (to be deleted)
+287894d286655
+< %%empty line (to be deleted)
+287973d286733
+< %%empty line (to be deleted)
+288435d287194
+< %%empty line (to be deleted)
+288530d287288
+< %%empty line (to be deleted)
+288987d287744
+< %%empty line (to be deleted)
+289031d287787
+< %%empty line (to be deleted)
+289391d288146
+< %%empty line (to be deleted)
+289556d288310
+< %%empty line (to be deleted)
+289688,289689d288441
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+290008d288759
+< %%empty line (to be deleted)
+290306d289056
+< %%empty line (to be deleted)
+290688d289437
+< %%empty line (to be deleted)
+290771d289519
+< %%empty line (to be deleted)
+291504d290251
+< %%empty line (to be deleted)
+291600d290346
+< %%empty line (to be deleted)
+292176d290921
+< %%empty line (to be deleted)
+292890d291634
+< %%empty line (to be deleted)
+293756d292499
+< %%empty line (to be deleted)
+294221d292963
+< %%empty line (to be deleted)
+294968d293709
+< %%empty line (to be deleted)
+295014d293754
+< %%empty line (to be deleted)
+295042d293781
+< %%empty line (to be deleted)
+295221d293959
+< %%empty line (to be deleted)
+295482d294219
+< %%empty line (to be deleted)
+295624d294360
+< %%empty line (to be deleted)
+295966d294701
+< %%empty line (to be deleted)
+295985d294719
+< %%empty line (to be deleted)
+296171d294904
+< %%empty line (to be deleted)
+296323d295055
+< %%empty line (to be deleted)
+296693d295424
+< %%empty line (to be deleted)
+297242d295972
+< %%empty line (to be deleted)
+297352d296081
+< %%empty line (to be deleted)
+298438d297166
+< %%empty line (to be deleted)
+298813d297540
+< %%empty line (to be deleted)
+299532d298258
+< %%empty line (to be deleted)
+299576d298301
+< %%empty line (to be deleted)
+299834,299835d298558
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+299993d298715
+< %%empty line (to be deleted)
+300056d298777
+< %%empty line (to be deleted)
+300697d299417
+< %%empty line (to be deleted)
+300784d299503
+< %%empty line (to be deleted)
+300810d299528
+< %%empty line (to be deleted)
+300864d299581
+< %%empty line (to be deleted)
+301067d299783
+< %%empty line (to be deleted)
+301117d299832
+< %%empty line (to be deleted)
+301314d300028
+< %%empty line (to be deleted)
+301580d300293
+< %%empty line (to be deleted)
+301596d300308
+< %%empty line (to be deleted)
+303038d301749
+< %%empty line (to be deleted)
+303133d301843
+< %%empty line (to be deleted)
+303148d301857
+< %%empty line (to be deleted)
+303227d301935
+< %%empty line (to be deleted)
+303450d302157
+< %%empty line (to be deleted)
+303967d302673
+< %%empty line (to be deleted)
+303972d302677
+< %%empty line (to be deleted)
+304183d302887
+< %%empty line (to be deleted)
+304515d303218
+< %%empty line (to be deleted)
+304793d303495
+< %%empty line (to be deleted)
+304955d303656
+< %%empty line (to be deleted)
+304971d303671
+< %%empty line (to be deleted)
+304990d303689
+< %%empty line (to be deleted)
+305091d303789
+< %%empty line (to be deleted)
+305422d304119
+< %%empty line (to be deleted)
+305585d304281
+< %%empty line (to be deleted)
+305780d304475
+< %%empty line (to be deleted)
+306073d304767
+< %%empty line (to be deleted)
+306374d305067
+< %%empty line (to be deleted)
+306700d305392
+< %%empty line (to be deleted)
+306966,306967d305657
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+307254d305943
+< %%empty line (to be deleted)
+307359d306047
+< %%empty line (to be deleted)
+307600d306287
+< %%empty line (to be deleted)
+307643d306329
+< %%empty line (to be deleted)
+307648d306333
+< %%empty line (to be deleted)
+308005d306689
+< %%empty line (to be deleted)
+308306d306989
+< %%empty line (to be deleted)
+308317d306999
+< %%empty line (to be deleted)
+308435d307116
+< %%empty line (to be deleted)
+308665d307345
+< %%empty line (to be deleted)
+308851d307530
+< %%empty line (to be deleted)
+308870d307548
+< %%empty line (to be deleted)
+309408d308085
+< %%empty line (to be deleted)
+309563d308239
+< %%empty line (to be deleted)
+309853d308528
+< %%empty line (to be deleted)
+310039d308713
+< %%empty line (to be deleted)
+310098d308771
+< %%empty line (to be deleted)
+310194d308866
+< %%empty line (to be deleted)
+310246,310247d308917
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+310449d309118
+< %%empty line (to be deleted)
+310621d309289
+< %%empty line (to be deleted)
+310633d309300
+< %%empty line (to be deleted)
+311036d309702
+< %%empty line (to be deleted)
+311106d309771
+< %%empty line (to be deleted)
+311372d310036
+< %%empty line (to be deleted)
+311493d310156
+< %%empty line (to be deleted)
+311766d310428
+< %%empty line (to be deleted)
+312335,312336d310996
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+312398d311057
+< %%empty line (to be deleted)
+312578d311236
+< %%empty line (to be deleted)
+313218d311875
+< %%empty line (to be deleted)
+313226d311882
+< %%empty line (to be deleted)
+313510d312165
+< %%empty line (to be deleted)
+313978d312632
+< %%empty line (to be deleted)
+314603d313256
+< %%empty line (to be deleted)
+314899d313551
+< %%empty line (to be deleted)
+314903d313554
+< %%empty line (to be deleted)
+315587d314237
+< %%empty line (to be deleted)
+315838d314487
+< %%empty line (to be deleted)
+315862d314510
+< %%empty line (to be deleted)
+316267d314914
+< %%empty line (to be deleted)
+316415d315061
+< %%empty line (to be deleted)
+316578d315223
+< %%empty line (to be deleted)
+316693d315337
+< %%empty line (to be deleted)
+317474d316117
+< %%empty line (to be deleted)
+317639d316281
+< %%empty line (to be deleted)
+317846,317847d316487
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+318304d316943
+< %%empty line (to be deleted)
+318484d317122
+< %%empty line (to be deleted)
+318502d317139
+< %%empty line (to be deleted)
+319197d317833
+< %%empty line (to be deleted)
+319552d318187
+< %%empty line (to be deleted)
+319638d318272
+< %%empty line (to be deleted)
+319952d318585
+< %%empty line (to be deleted)
+320094d318726
+< %%empty line (to be deleted)
+320113d318744
+< %%empty line (to be deleted)
+320142d318772
+< %%empty line (to be deleted)
+320176d318805
+< %%empty line (to be deleted)
+320352d318980
+< %%empty line (to be deleted)
+320399d319026
+< %%empty line (to be deleted)
+320444d319070
+< %%empty line (to be deleted)
+320602d319227
+< %%empty line (to be deleted)
+320806d319430
+< %%empty line (to be deleted)
+320810d319433
+< %%empty line (to be deleted)
+320846,320847d319468
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+320930d319550
+< %%empty line (to be deleted)
+320993d319612
+< %%empty line (to be deleted)
+321052,321053d319670
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+321085d319701
+< %%empty line (to be deleted)
+321342d319957
+< %%empty line (to be deleted)
+321381d319995
+< %%empty line (to be deleted)
+321392d320005
+< %%empty line (to be deleted)
+321431d320043
+< %%empty line (to be deleted)
+321439d320050
+< %%empty line (to be deleted)
+322117d320727
+< %%empty line (to be deleted)
+322272d320881
+< %%empty line (to be deleted)
+322367d320975
+< %%empty line (to be deleted)
+322411d321018
+< %%empty line (to be deleted)
+322433d321039
+< %%empty line (to be deleted)
+322549d321154
+< %%empty line (to be deleted)
+322695d321299
+< %%empty line (to be deleted)
+322873d321476
+< %%empty line (to be deleted)
+323376d321978
+< %%empty line (to be deleted)
+323510d322111
+< %%empty line (to be deleted)
+323814d322414
+< %%empty line (to be deleted)
+323821d322420
+< %%empty line (to be deleted)
+323925d322523
+< %%empty line (to be deleted)
+324364d322961
+< %%empty line (to be deleted)
+324626,324627d323222
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+324895d323489
+< %%empty line (to be deleted)
+324956,324957d323549
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+325117,325118d323708
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+325158d323747
+< %%empty line (to be deleted)
+325171d323759
+< %%empty line (to be deleted)
+325401,325402d323988
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+326407d324992
+< %%empty line (to be deleted)
+326675d325259
+< %%empty line (to be deleted)
+327028d325611
+< %%empty line (to be deleted)
+327516d326098
+< %%empty line (to be deleted)
+327722,327757d326303
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+< %%empty line (to be deleted)
+327985d326530
+< %%empty line (to be deleted)
+328405d326949
+< %%empty line (to be deleted)
+328409d326952
+< %%empty line (to be deleted)
+328541d327083
+< %%empty line (to be deleted)
+328928d327469
+< %%empty line (to be deleted)
+329081d327621
+< %%empty line (to be deleted)
+329118d327657
+< %%empty line (to be deleted)
+329182d327720
+< %%empty line (to be deleted)
+329329d327866
+< %%empty line (to be deleted)
+329426d327962
+< %%empty line (to be deleted)
+329463d327998
+< %%empty line (to be deleted)
+329498d328032
+< %%empty line (to be deleted)
+329533d328066
+< %%empty line (to be deleted)
+329541d328073
+< %%empty line (to be deleted)
+329601d328132
+< %%empty line (to be deleted)
+329656d328186
+< %%empty line (to be deleted)
+329727d328256
+< %%empty line (to be deleted)
+329758d328286
+< %%empty line (to be deleted)
+329776d328303
+< %%empty line (to be deleted)
+329808d328334
+< %%empty line (to be deleted)
+329821d328346
+< %%empty line (to be deleted)
+329837d328361
+< %%empty line (to be deleted)
+330080d328603
+< %%empty line (to be deleted)
+330162d328684
+< %%empty line (to be deleted)
+330486d329007
+< %%empty line (to be deleted)
+331337d329857
+< %%empty line (to be deleted)
+331365d329884
+< %%empty line (to be deleted)
+331702d330220
+< %%empty line (to be deleted)
+331706d330223
+< %%empty line (to be deleted)
+331788d330304
+< %%empty line (to be deleted)
+331965d330480
+< %%empty line (to be deleted)
+331974d330488
+< %%empty line (to be deleted)
+332002d330515
+< %%empty line (to be deleted)
+332104d330616
+< %%empty line (to be deleted)
+332120d330631
+< %%empty line (to be deleted)
+332197d330707
+< %%empty line (to be deleted)
+332317d330826
+< %%empty line (to be deleted)
+332484d330992
+< %%empty line (to be deleted)
+332547d331054
+< %%empty line (to be deleted)
+332799d331305
+< %%empty line (to be deleted)
+332886d331391
+< %%empty line (to be deleted)
+333037d331541
+< %%empty line (to be deleted)
+333603d332106
+< %%empty line (to be deleted)
+334263d332765
+< %%empty line (to be deleted)
+334275d332776
+< %%empty line (to be deleted)
+334293d332793
+< %%empty line (to be deleted)
+334669d333168
+< %%empty line (to be deleted)
+334687d333185
+< %%empty line (to be deleted)
+335003d333500
+< %%empty line (to be deleted)
+335037d333533
+< %%empty line (to be deleted)
+335418d333913
+< %%empty line (to be deleted)
+335445d333939
+< %%empty line (to be deleted)
+335529d334022
+< %%empty line (to be deleted)
+336076d334568
+< %%empty line (to be deleted)
+336105d334596
+< %%empty line (to be deleted)
+336113d334603
+< %%empty line (to be deleted)
+336158d334647
+< %%empty line (to be deleted)
+336472d334960
+< %%empty line (to be deleted)
+336486d334973
+< %%empty line (to be deleted)
+336874d335360
+< %%empty line (to be deleted)
+337156d335641
+< %%empty line (to be deleted)
+337592d336076
+< %%empty line (to be deleted)
+337598d336081
+< %%empty line (to be deleted)
+337740d336222
+< %%empty line (to be deleted)
+337781d336262
+< %%empty line (to be deleted)
+338491d336971
+< %%empty line (to be deleted)
+338889d337368
+< %%empty line (to be deleted)
+338977d337455
+< %%empty line (to be deleted)
+339066d337543
+< %%empty line (to be deleted)
+339711d338187
+< %%empty line (to be deleted)
+340299d338774
+< %%empty line (to be deleted)
+340427d338901
+< %%empty line (to be deleted)
+340999d339472
+< %%empty line (to be deleted)
+341133d339605
+< %%empty line (to be deleted)
