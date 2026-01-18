@@ -151,7 +151,7 @@ sh redo_ap.sh temp_ABuploads/AP57_AB_v3b.txt apABv3b
 cd temp_ABuploads
 diff AP57_AB_v3a2.txt AP57_AB_v3b.txt > ../diff_v3a2_v3b.txt
 wc -l ../diff_v3a2_v3b.txt
-3207 (lines in diff
+2989 (lines in diff)
 
 * =====================================================
 * installation of AP57_AB_v3b.txt
@@ -175,6 +175,20 @@ git commit -m "AP: AP57_AB_v3b.txt
 Ref: https://github.com/sanskrit-lexicon/AP/issues/3"
 #  1 file changed, 85280 insertions(+), 86808 deletions(-)
 git push
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
+
+-----------------------------
+# sync csl-orig to github:  correction
+
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .
+git commit -m "AP: AP57_AB_v3b.txt correction
+Ref: https://github.com/sanskrit-lexicon/AP/issues/3"
+#  1 file changed, 85280 insertions(+), 86808 deletions(-)
+git push
+#  1 file changed, 55 insertions(+), 55 deletions(-)
 cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue3/  # home
 
 -----------------------------

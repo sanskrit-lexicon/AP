@@ -4,54 +4,14 @@
 < %%empty line (to be deleted)
 1179d1176
 < %%empty line (to be deleted)
-1214c1211
-<  {#kzetratayA kalpitAnAm akzaBavAnAmazwAnAM kzetrARAmekaM#}).
----
->  {#kzetratayA kalpitAnAM akzaBavAnAmazwAnAM kzetrARAmekaM#}).
 1362d1358
 < %%empty line (to be deleted)
 1491d1486
 < %%empty line (to be deleted)
 1559d1553
 < %%empty line (to be deleted)
-1750c1744
-< .{@{#-kavacam#}@} [{#akzoBAya hitam akzoByam#}] a sort of {#kavaca#} or
----
-> .{@{#-kavacam#}@} [{#akzoBAya hitaM akzoByam#}] a sort of {#kavaca#} or
-1873c1867
-< {#aKila#}¦ {%a.%} [{#nAsti Kilam avaSizwaM yasya#} <ls>Tv.</ls>]
----
-> {#aKila#}¦ {%a.%} [{#nAsti KilaM avaSizwaM yasya#} <ls>Tv.</ls>]
-2051c2045
-< {#agasti#}¦ [{#vinDyAKyam agam asyati#}; {#as-ktic SakanDvAdi˚#}, <ls>Uṇ. 4. 179</ls>,
----
-> {#agasti#}¦ [{#vinDyAKyaM agaM asyati#}; {#as-ktic SakanDvAdi˚#}, <ls>Uṇ. 4. 179</ls>,
-2153c2147
-< {#agAram#}¦ [{#agaM na gacCantam fcCati prApnoti aga-f-aR#} <ls>Tv.</ls>] A house;
----
-> {#agAram#}¦ [{#agaM na gacCantaM fcCati prApnoti aga-f-aR#} <ls>Tv.</ls>] A house;
 2278d2271
 < %%empty line (to be deleted)
-2587c2580
-< .{@{#-mArutiH#}@} [{#agniSca marucca tayorapatyam iY tato vfdDiH it ca#};
----
-> .{@{#-mArutiH#}@} [{#agniSca marucca tayorapatyaM iY tato vfdDiH it ca#};
-2612c2605
-<  {#sA#}, or {#agneriva muKaM prajApatimuKam utpattidvAraM yasyAH, agninA#}
----
->  {#sA#}, or {#agneriva muKaM prajApatimuKaM utpattidvAraM yasyAH, agninA#}
-2927c2920
-< .{@{#-ayaRIyama#}@} [{#agraM Srezwam ayanaM jYAnaM tatra sADu Ca#}].
----
-> .{@{#-ayaRIyama#}@} [{#agraM SrezwaM ayanaM jYAnaM tatra sADu Ca#}].
-3255c3248
-< .²2 [{#aGam anizwaM SaMsati icCati#}; {#SaMs-aR#}] a wicked man, such as a thief.
----
-> .²2 [{#aGaM anizwaM SaMsati icCati#}; {#SaMs-aR#}] a wicked man, such as a thief.
-3282c3275
-< {#aGArin#}¦ {%a.%} [{#aGaM vyasanam fcCati#}; {#f-Rini#}] Suffering from evil
----
-> {#aGArin#}¦ {%a.%} [{#aGaM vyasanaM fcCati#}; {#f-Rini#}] Suffering from evil
 3679d3671
 < %%empty line (to be deleted)
 3694d3685
@@ -60,92 +20,28 @@
 < %%empty line (to be deleted)
 4152d4141
 < %%empty line (to be deleted)
-4532c4521
-< {#acCAvAkaH#}¦ [{#acCaM nirmalam acCa ABimuKyena vA vakti SaMsati#}; {#vac#}
----
-> {#acCAvAkaH#}¦ [{#acCaM nirmalaM acCa ABimuKyena vA vakti SaMsati#}; {#vac#}
-4683c4672
-< .{@{#-karRaH, -karRakaH#}@} [{#ajasya karRam iva parRaM yasya-svArTe kan#}]
----
-> .{@{#-karRaH, -karRakaH#}@} [{#ajasya karRaM iva parRaM yasya-svArTe kan#}]
 4803d4791
 < %%empty line (to be deleted)
 5266d5253
 < %%empty line (to be deleted)
 5332d5318
 < %%empty line (to be deleted)
-5721c5707
-< .{@{#-wwam#}@} Food, boiled rice; {#awwaSUlA janapadAH#} <ls>Mb.</ls> ({#awwam annaM#}
----
-> .{@{#-wwam#}@} Food, boiled rice; {#awwaSUlA janapadAH#} <ls>Mb.</ls> ({#awwaM annaM#}
 6060d6045
 < %%empty line (to be deleted)
-6595c6580
-< {#atijagatI#}¦ [{#atikrAntA jagatIM dvAdaSAkzarapAdAm ekAkzarADikyAt#}]
----
-> {#atijagatI#}¦ [{#atikrAntA jagatIM dvAdaSAkzarapAdAM ekAkzarADikyAt#}]
-6783c6768
-< {#atiDftiH#}¦ {%f.%} [{#atikAntA Dftim azwAdaSAkzarapAdAM vfttim ekAkzarADikyAt#}]
----
-> {#atiDftiH#}¦ {%f.%} [{#atikAntA DftiM azwAdaSAkzarapAdAM vfttim ekAkzarADikyAt#}]
 6964d6948
 < %%empty line (to be deleted)
 7094d7077
 < %%empty line (to be deleted)
-7295c7278
-< {#atiruc#}¦ {%m.%} [{#rocate iti ruk strIRAm UrudeSaH#}; {#atikrAnto rucam#} <ls>Tv.</ls>] The knee.
----
-> {#atiruc#}¦ {%m.%} [{#rocate iti ruk strIRAM UrudeSaH#}; {#atikrAnto rucam#} <ls>Tv.</ls>] The knee.
-7415c7398
-< {#ativAhaH#}¦ [{#atItya deham anyadehe vAhaH prApaRam#} <sab>{#sa˚ ta˚#}</sab>]
----
-> {#ativAhaH#}¦ [{#atItya dehaM anyadehe vAhaH prApaRam#} <sab>{#sa˚ ta˚#}</sab>]
-8749c8732
-< {#adaDryaYc#}¦ [{#amum aYcati adas-aYc kvip aDryAgamaH#} <ls>P. VIII. 2. 80-81.</ls>]
----
-> {#adaDryaYc#}¦ [{#amuM aYcati adas-aYc kvip aDryAgamaH#} <ls>P. VIII. 2. 80-81.</ls>]
 8803d8785
 < %%empty line (to be deleted)
 9177d9158
 < %%empty line (to be deleted)
-9319c9300
-<  {#punarAhuruBayato'rdDarAtram adyatanaH kAlaH .#} <ls>Kāśi.</ls>, {#kalopasarjaneca tulyam#}.
----
->  {#punarAhuruBayato'rdDarAtraM adyatanaH kAlaH .#} <ls>Kāśi.</ls>, {#kalopasarjaneca tulyam#}.
 9391d9371
 < %%empty line (to be deleted)
-9683c9663
-< {#aDarAYc#}¦ {%a.%} [{#aDarAM dakziRAM diSam aYcati aYc kvin#} <ls>P. III. 2. 59</ls>]
----
-> {#aDarAYc#}¦ {%a.%} [{#aDarAM dakziRAM diSaM aYcati aYc kvin#} <ls>P. III. 2. 59</ls>]
-9755c9735
-<  {#tadaDaraM grAhakatvABAvAt hInaM yasya saH#} <ls>Tv.</ls>; {#aDaHkftam akzajam indriyajYAnaM#}
----
->  {#tadaDaraM grAhakatvABAvAt hInaM yasya saH#} <ls>Tv.</ls>; {#aDaHkftaM akzajam indriyajYAnaM#}
 10280d10259
 < %%empty line (to be deleted)
-10302c10281
-< {#aDigava#}¦ {%a.%} or {%<ab>adv.</ab>%} [{#gavi ityaDigavam avyayI-sa#}.] Found
----
-> {#aDigava#}¦ {%a.%} or {%<ab>adv.</ab>%} [{#gavi ityaDigavaM avyayI-sa#}.] Found
 10709d10687
 < %%empty line (to be deleted)
-11224c11202
-< {#aDyakza#}¦ {%a.%} [{#aDigataH akzam indriyaM vyavahAraM vA#}]
----
-> {#aDyakza#}¦ {%a.%} [{#aDigataH akzaM indriyaM vyavahAraM vA#}]
-11297c11275
-< .{@{#-rDaH#}@} Wind ({#yadasmina idaM sarvam aDyArDnot aDikamavarDayat#}
----
-> .{@{#-rDaH#}@} Wind ({#yadasmina idaM sarvaM aDyArDnot aDikamavarDayat#}
-11308c11286
-< .²1 To determine, resolve; {#kaTamidAnIM durjanavacanAdevam aDyavasitaM#}
----
-> .²1 To determine, resolve; {#kaTamidAnIM durjanavacanAdevaM aDyavasitaM#}
-11311c11289
-< .²2 To attempt, exert, undertake; {#mA sAhasam aDyavasyaH#} <ls>Dk. 123</ls>; {#vrataM#}
----
-> .²2 To attempt, exert, undertake; {#mA sAhasaM aDyavasyaH#} <ls>Dk. 123</ls>; {#vrataM#}
 11566d11543
 < %%empty line (to be deleted)
 12073d12049
@@ -156,14 +52,6 @@
 < %%empty line (to be deleted)
 12727d12700
 < %%empty line (to be deleted)
-13227c13200
-< {#anAga#}¦ {%a.%} [{#na A samyag gacCati svargam anena nAgaH aDarmaH#};
----
-> {#anAga#}¦ {%a.%} [{#na A samyag gacCati svargaM anena nAgaH aDarmaH#};
-13365c13338
-< {#anAtmya#}¦ {%a.%} [{#AtmanaH idam AtmyaM SarIram#} <sab>{#na˚ ba˚#}</sab>] Impersonal,
----
-> {#anAtmya#}¦ {%a.%} [{#AtmanaH idaM AtmyaM SarIram#} <sab>{#na˚ ba˚#}</sab>] Impersonal,
 13478d13450
 < %%empty line (to be deleted)
 14048d14019
@@ -194,14 +82,6 @@
 < %%empty line (to be deleted)
 16591d16549
 < %%empty line (to be deleted)
-16725c16683
-<  {#Aste gehaM geham anuprapAtaM-dam#} <ls>P. III. 4. 56. Sk.</ls>
----
->  {#Aste gehaM gehaM anuprapAtaM-dam#} <ls>P. III. 4. 56. Sk.</ls>
-16853c16811
-< {#anuplu#}¦ €1 <ab>Ā.</ab> To run after, follow; {#idamanyato vAnaradvayam Aryasya#}
----
-> {#anuplu#}¦ €1 <ab>Ā.</ab> To run after, follow; {#idamanyato vAnaradvayaM Aryasya#}
 16872d16829
 < %%empty line (to be deleted)
 17273d17229
@@ -226,72 +106,18 @@
 < %%empty line (to be deleted)
 18663d18609
 < %%empty line (to be deleted)
-19055c19001
-<  {#diSam anusarestiryagAyAmaSoBI#} <ls n="Me.">59</ls>.
----
->  {#diSaM anusarestiryagAyAmaSoBI#} <ls n="Me.">59</ls>.
 19095d19040
 < %%empty line (to be deleted)
-19373c19318
-<  {#nadIM goyutAnUpAm atarat#} {%<ab>ibid.</ab>%}
----
->  {#nadIM goyutAnUpAM atarat#} {%<ab>ibid.</ab>%}
-19861c19806
-< .{@{#-avasAyin#}@} [{#naKakeSAnAmantam avasAtuM CettuM SIlamasya, so-Rini#}]
----
-> .{@{#-avasAyin#}@} [{#naKakeSAnAmantaM avasAtuM CettuM SIlamasya, so-Rini#}]
 20083d20027
 < %%
 20233d20176
 < %%empty line (to be deleted)
-20293c20236
-< .{@{#-vA#}@} {%a.%} [{#antaH antaraNgaBAvam antaHkaraRaM vA vAti gacCati#}
----
-> .{@{#-vA#}@} {%a.%} [{#antaH antaraNgaBAvaM antaHkaraRaM vA vAti gacCati#}
-20345c20288
-<  contact of the vocal organs ({#Izatspfzwam antasTAnAm#}); or they are
----
->  contact of the vocal organs ({#IzatspfzwaM antasTAnAm#}); or they are
-20431c20374
-<  room; {#antaram antaram#} <ls>Mk. 2</ls> make way, make way.
----
->  room; {#antaraM antaram#} <ls>Mk. 2</ls> make way, make way.
-20444c20387
-<  {#nivedayitum antarAnvezI BavAmi#} <ls>Ś. 7</ls> find a fit or opportune time;
----
->  {#nivedayituM antarAnvezI BavAmi#} <ls>Ś. 7</ls> find a fit or opportune time;
-20665c20608
-< {#antarAlam, antarAlakam#}¦ [{#antaraM vyavaDAnasImAm ArAti gfhRAti#},
----
-> {#antarAlam, antarAlakam#}¦ [{#antaraM vyavaDAnasImAM ArAti gfhRAti#},
-20758c20701
-<  to <ls>Nir.</ls> {#antarA dyAvApfTivyoH kzAntam avasTitaM Bavati#}, or {#antarA#}
----
->  to <ls>Nir.</ls> {#antarA dyAvApfTivyoH kzAntaM avasTitaM Bavati#}, or {#antarA#}
 20818d20760
 < %%empty line (to be deleted)
 20881d20822
 < %%empty line (to be deleted)
 20957d20897
 < %%empty line (to be deleted)
-21032c20972
-<  zodiacal signs. <ab>&c.</ab>; {#antye vayasi#} in old age <ls>R. 9. 79</ls>; {#antyam fRam#}
----
->  zodiacal signs. <ab>&c.</ab>; {#antye vayasi#} in old age <ls>R. 9. 79</ls>; {#antyaM fRam#}
-21058c20998
-< .²1 A measure of number; 1000 trillions (1000,000,000,000,000).
----
-> .²1 A measure of number; 1000 billions (1000,000,000,000,000).
-21909c21849
-< {#anvakza#}¦ {%a.%} [{#anugataH akzam indriyaM gati samA#}.]
----
-> {#anvakza#}¦ {%a.%} [{#anugataH akzaM indriyaM gati samA#}.]
-22098,22099c22038,22039
-<  {#kiMcitkAryaM viDAtumupAttasya kAryAntaraM viDAtuM punarupAdAnam anvAdeSaH#};
-<  <ab>e. g.</ab> {#anena vyAkaraRamaDItam enaM Cando'DyApaya#}; {#anayoH pavitraM kulaM#}
----
->  {#kiMcitkAryaM viDAtumupAttasya kAryAntaraM viDAtuM punarupAdAnaM anvAdeSaH#};
->  <ab>e. g.</ab> {#anena vyAkaraRamaDItaM enaM Cando'DyApaya#}; {#anayoH pavitraM kulaM#}
 22230d22169
 < %%empty line (to be deleted)
 22397d22335
@@ -310,10 +136,6 @@
 < %%empty line (to be deleted)
 23952d23883
 < %%empty line (to be deleted)
-23970c23901
-< {#aparavat#}¦ {%ind.%} Like what follows.
----
-> {#aparavat#}¦ {%a.%} Like what follows.
 24036d23966
 < %%empty line (to be deleted)
 24178d24107
@@ -324,10 +146,6 @@
 < %%empty line (to be deleted)
 24442d24368
 < %%empty line (to be deleted)
-24484c24410
-<  <ls>Śi. 17. 19</ls>; {#nArto'pyapavadedviprAn#} <ls>Ms. 4. 236</ls>; {#svaM putram apavadati-te#}
----
->  <ls>Śi. 17. 19</ls>; {#nArto'pyapavadedviprAn#} <ls>Ms. 4. 236</ls>; {#svaM putraM apavadati-te#}
 24577d24502
 < %%empty line (to be deleted)
 24821d24745
@@ -336,10 +154,6 @@
 < %%empty line (to be deleted)
 25202d25124
 < %%empty line (to be deleted)
-25596c25518
-< .²2 ({#pARinIyam azwADyAyIrUpaM granTaM yo nADIte#}) One who does not (properly)
----
-> .²2 ({#pARinIyaM azwADyAyIrUpaM granTaM yo nADIte#}) One who does not (properly)
 25695d25616
 < %%empty line (to be deleted)
 25814d25734
@@ -350,10 +164,6 @@
 < %%empty line (to be deleted)
 26518d26435
 < %%empty line (to be deleted)
-26575c26492
-<  {#˚dvitIyA, ˚praGasA, ˚vARijA, ˚svAgatA#} where it has the sense of ‘excluding’,
----
->  {#˚dvitIyA, ˚prakasA, ˚vARijA, ˚svAgatA#} where it has the sense of ‘excluding’,
 26669d26585
 < %%empty line (to be deleted)
 26940d26855
@@ -828,10 +638,6 @@
 < %%empty line (to be deleted)
 89319d89000
 < %%empty line (to be deleted)
-89408c89089
-<  arc; sine of 30°.
----
->  are; sine of 30°.
 90149,90150d89829
 < %%empty line (to be deleted)
 < %%empty line (to be deleted)
@@ -955,10 +761,6 @@
 < %%empty line (to be deleted)
 102132d101750
 < %%empty line (to be deleted)
-102162c101780
-< {#kAravI#}¦ <ab>N.</ab> of many plants. (<lang>Mar.</lang> <ns>{#Sopa, ovA, jirem i#}</ns>.)
----
-> {#kAravI#}¦ <ab>N.</ab> of many plants. (<lang>Mar.</lang> <ns>{#Sopa, ovA, jireM i#}</ns>.)
 102167d101784
 < %%empty line (to be deleted)
 102420,102421d102036
@@ -1040,10 +842,6 @@
 < %%empty line (to be deleted)
 110833d110410
 < %%empty line (to be deleted)
-110851c110428
-< .²7 The complement of an arc to 90° (in <ab>math.</ab>).
----
-> .²7 The complement of an are to 90˚ (in <ab>math.</ab>).
 111073d110649
 < %%empty line (to be deleted)
 111177d110752
@@ -1124,10 +922,6 @@
 < %%empty line (to be deleted)
 121064d120600
 < %%empty line (to be deleted)
-121255c120791
-< .²23 The chord of an arc (in <ab>geom.</ab>).
----
-> .²23 The chord of an are (in <ab>geom.</ab>).
 121426d120961
 < %%empty line (to be deleted)
 121484d121018
@@ -1194,10 +988,6 @@
 < %%empty line (to be deleted)
 128858d128361
 < %%empty line (to be deleted)
-129160c128663
-< .²3 (In <ab>geom.</ab>) An arc of a circle.
----
-> .²3 (In <ab>geom.</ab>) An are of a circle.
 129343d128845
 < %%empty line (to be deleted)
 129379d128880
@@ -1240,10 +1030,6 @@
 < %%empty line (to be deleted)
 135756d135238
 < %%empty line (to be deleted)
-136596c136078
-< .²4 The chord of an arc.
----
-> .²4 The chord of an are.
 136826d136307
 < %%empty line (to be deleted)
 137201d136681
@@ -1330,10 +1116,6 @@
 < %%empty line (to be deleted)
 146623d146062
 < %%empty line (to be deleted)
-146768c146207
-< .{@{#-jIvA, -jyA#}@} the sine of three signs or 90°, a radius.
----
-> .{@{#-jIvA, -jyA#}@} the sine of three signs or 90˚, a radius.
 147171d146609
 < %%empty line (to be deleted)
 147384d146821
