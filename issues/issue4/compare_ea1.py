@@ -157,10 +157,10 @@ def merge_asdict(d1,d2):
    assert counts1[1] == 0
    count1 = counts1[0]
    counts2 = [count1,count2]
-   d[c] = (ucode,namestr2,counts2)
+   d[c] = (ucode1,namestr2,counts2)
   else: # c not in d:
    counts2 = [0,count2]
-   d[c] = (ucode,namestr2,counts2)
+   d[c] = (ucode2,namestr2,counts2)
  return d
 
 def make_outlines(d,parm):
