@@ -1,0 +1,202 @@
+1935c1935
+<  <ls>Colacampūkāvya p. 9, Verse 12</ls>.
+---
+>  <ls>चोलचम्पूकाव्य p. 9, Verse 12</ls>.
+3385c3385
+<  ({#aNke kroqe sarvatoBAvena vartanaM hfdayAliNganam ityarTaH#} --<ls>Jagaddhara</ls>);
+---
+>  ({#aNke kroqe sarvatoBAvena vartanaM hfdayAliNganam ityarTaH#} --<ls>जगद्धर</ls>);
+5783c5783
+<  to indicate past tense (<ls>Vārtika 1. 30. 60. 4</ls>).
+---
+>  to indicate past tense (<ls>वार्तिक 1. 30. 60. 4</ls>).
+6040c6040
+<  (<ls>Vārttika 2. 2. 34. 1</ls>).
+---
+>  (<ls>वार्त्तिक 2. 2. 34. 1</ls>).
+8136c8136
+<  the accusation in the bud (<ls>P. Vārttika III. 2. 115.</ls>).
+---
+>  the accusation in the bud (<ls>P. वार्त्तिक III. 2. 115.</ls>).
+12516c12516
+< .²1 Absence of the expression of the desired meaning (<ls>Vārttika 2. 2. 24. 16</ls>).
+---
+> .²1 Absence of the expression of the desired meaning (<ls>वार्त्तिक 2. 2. 24. 16</ls>).
+18394c18394
+<  {#ruDireRa tasmin raktA Bavatyamarayozidanuvratena#}; <ls>Viśvaguṇādarśacampū 379</ls>.
+---
+>  {#ruDireRa tasmin raktA Bavatyamarayozidanuvratena#}; <ls>विश्वगुणादर्शचम्पू 379</ls>.
+19056c19056
+< .²3 Taking shelter with ({#SaraRAgata#}) --<ls>Mukundamālāstotra 15</ls>.
+---
+> .²3 Taking shelter with ({#SaraRAgata#}) --<ls>मुकुन्दमालास्तोत्र 15</ls>.
+21257c21257
+<  <ls>Colacampūkāvya p. 9, Verse 13</ls>.
+---
+>  <ls>चोलचम्पूकाव्य p. 9, Verse 13</ls>.
+21711c21711
+<  <ls>Colacampū p. 13</ls>.
+---
+>  <ls>चोलचम्पू p. 13</ls>.
+38547c38547
+<  (<ls>Tantravārttika 4. 3. 42. 2</ls>).
+---
+>  (<ls>तन्त्रवार्त्तिक 4. 3. 42. 2</ls>).
+38569c38569
+< .²2 Expression or denotation of the desired meaning (<ls>Vārttika 3. 1. 2. 5</ls>).
+---
+> .²2 Expression or denotation of the desired meaning (<ls>वार्त्तिक 3. 1. 2. 5</ls>).
+40717c40717
+<  {#nAjite tvayi#} <ls>R. 11. 75</ls>; {#na mAmavati sadvIpA ratnasUrapi#} <ls>Medinī. 1. 65</ls>.
+---
+> {#nAjite tvayi#} <ls>R. 11. 75</ls>; {#na mAmavati sadvIpA ratnasUrapi#} <ls>मेदिनी 1. 65</ls>.
+59419c59419
+<  <ls>Śālihotra of Bhoja ed. by Kulkarni, Appendix II, 153</ls>.
+---
+>  <ls>शालिहोत्र of भोज ed. by Kulkarni, Appendix II, 153</ls>.
+68535c68535
+<  {#mUtrakfcCre praSaMsanti piRqo'yaM vAjinAM hitaH ..#} <ls>Śālihotra of Bhoja 330</ls>.
+---
+>  {#mUtrakfcCre praSaMsanti piRqo'yaM vAjinAM hitaH ..#} <ls>शालिहोत्र of भोज 330</ls>.
+69531c69531
+<  <ab>cf.</ab> {#ihAmutrArTaBogavirAgaH .#} <ls>Śāṅkarabhāṣya on Brahmasūtra 1. 1. 1</ls>.
+---
+>  <ab>cf.</ab> {#ihAmutrArTaBogavirAgaH .#} <ls>शाङ्करभाष्य on ब्रह्मसूत्र 1. 1. 1</ls>.
+70949c70949
+< .²1 Moved, waved above {#nirJarocCalitaSItalaSIkarAsAravAhI … .#} <ls>Nāgānanda 1</ls>.
+---
+> .²1 Moved, waved above {#nirJarocCalitaSItalaSIkarAsAravAhI … .#} <ls>नागानन्द 1</ls>.
+74079c74079
+<  {#Bajet#} <ab>&c.</ab> <ls>Carakasaṃhitā, Sūtrasthāna, chap. 6, verse 14</ls>. {#vAtsyAyana#}
+---
+>  {#Bajet#} <ab>&c.</ab> <ls>चरकसंहिता, सूत्रस्थान, chap. 6, verse 14</ls>. {#vAtsyAyana#}
+98618c98618
+< .²2 Kṣīrasāgara (Note on <ls>Śāhendravilāsa 2. 68.</ls>). {#kakusTakulaparyAyakalaSArRavakOstuBaH#}
+---
+> .²2 Kṣīrasāgara (Note on <ls>शाहेन्द्रविलास 2. 68.</ls>). {#kakusTakulaparyAyakalaSArRavakOstuBaH#}
+99289c99289
+<  {#proktaH sarvakalyARakArakaH ..#} <ls>Śālihotra of Bhoja. 7</ls>.
+---
+>  {#proktaH sarvakalyARakArakaH ..#} <ls>Śālihotra of भोज. 7</ls>.
+102238c102238
+< --({%n.%}) {#kAryakAlaM saMjYApariBAzam#} <ls>Paribhāṣenduśekhara pari. 2 and 3</ls>.
+---
+> --({%n.%}) {#kAryakAlaM saMjYApariBAzam#} <ls>परिभाषेन्दुशेखर pari. 2 and 3</ls>.
+104738c104738
+<  {#Sani-ravi-kujAnAM vAsare nogratAre .’#} <ls>Śālihotra of Bhoja.</ls>
+---
+>  {#Sani-ravi-kujAnAM vAsare nogratAre .’#} <ls>शालिहोत्र of भोज.</ls>
+109513c109513
+<  {#prOQAhArASca maDyamAH#} <ls>Śālihotra of Bhoja, Appendix II. 26</ls>.
+---
+>  {#prOQAhArASca maDyamAH#} <ls>Śālihotra of भोज, Appendix II. 26</ls>.
+112182c112182
+<  <ls>Dānasāgara, Bibliotheca Indica 274. Face. I, p. 27</ls>.
+---
+>  <ls>दानसागर, Bibliotheca Indica 274. Face. I, p. 27</ls>.
+116131c116131
+<  <ab>cf.</ab> also <ls>Daṇḍaviveka, G. O. S. 52, p. 277</ls>.
+---
+>  <ab>cf.</ab> also <ls>दण्डविवेक, G. O. S. 52, p. 277</ls>.
+116744c116744
+< .²3 A village; {#nagarAdyojanaM KewaM KewAd grAmo'rDayojanam#} (<ls>Brahmānaṃda pu˚ Part I, II</ls>
+---
+> .²3 A village; {#nagarAdyojanaM KewaM KewAd grAmo'rDayojanam#} (<ls>ब्रह्मानंद पु॰ Part I, II</ls>
+121652c121652
+<  {#lakzmIDara#}; <ab>cf.</ab> also <ls>Daṇḍaviveka, G. O. S. 52, p. 31</ls>).
+---
+>  {#lakzmIDara#}; <ab>cf.</ab> also <ls>दण्डविवेक, G. O. S. 52, p. 31</ls>).
+122805c122805
+<  {#praKyApitaM mayA . yatra pARininA leBe vEyAkaraRikAgryatA ..#} <ls>Aruṇācalamāhātmyamuttarārdhaḥ 2 a˚ 68 Ślo˚</ls>
+---
+>  {#praKyApitaM mayA . yatra pARininA leBe vEyAkaraRikAgryatA ..#} <ls>अरुणाचलमाहात्म्यमुत्तरार्धः २ अ॰ ६८ श्लो॰</ls>
+123314c123314
+<  {#vAsarAH .. alaMkAraSeKara 6#}.
+---
+> {#vAsarAH ..#} <ls>अलंकारशेखर 6</ls>.
+132656c132656
+<  <ls>Brahmāṇḍa P. part 1, second Anuṣaṅgapāda. Ch. 7. 5. 115</ls>.
+---
+>  <ls>Brahmāṇḍa P. part 1, second अनुषङ्गपाद. Ch. 7. 5. 115</ls>.
+133243c133243
+< .²2 (= {#sUtikAgfham#}); <ls>Śāhendravilāsa 2. 2</ls>.
+---
+> .²2 (= {#sUtikAgfham#}); <ls>शाहेन्द्रविलास 2. 2</ls>.
+134036c134036
+<  <ls>Śālihotra of Bhoja, Appendix II, 12</ls>.
+---
+>  <ls>शालिहोत्र of भोज, Appendix II, 12</ls>.
+143883c143883
+<  {#tilakayan kulottuNga iti yaTArTanAmA baBUva SUdraH .#} <ls>Colacampū p. 6</ls>.
+---
+>  {#tilakayan kulottuNga iti yaTArTanAmA baBUva SUdraH .#} <ls>चोलचम्पू p. 6</ls>.
+150065c150065
+< {#dAmnI#}¦ A garland; {#‘yasyA dAmnyA triDAmno jaGanakalitayA˚’#} --<ls>Viṣṇupādādikeśāntavarṇanastotram 22</ls>.
+---
+> {#dAmnI#}¦ A garland; {#‘yasyA dAmnyA triDAmno jaGanakalitayA˚’#} --<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 22</ls>.
+161502c161502
+<  --<ls>Viṣṇupādādikeśāntavarṇanastotram 7</ls>.
+---
+>  --<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 7</ls>.
+162674c162674
+<  {#nandako naH .#} <ls>Viṣṇupādādikeśāntavarṇanastotram 4</ls>.
+---
+>  {#nandako naH .#} <ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 4</ls>.
+171261c171261
+<  ({#upacita#} <ls>Jagaddhara</ls>).
+---
+>  ({#upacita#} <ls>जगद्धर</ls>).
+171398c171398
+<  --<ls>Viṣṇupādādi stotram 10</ls>.
+---
+>  --<ls>विष्णुपादादि स्तोत्रम् १०</ls>.
+179301c179301
+<  <ls>Viṣṇupādādi stotram 12</ls>. {#˚yoniH#} (same as {#padmayoni#} = Brahmadeva);
+---
+>  <ls>विष्णुपादादि स्तोत्रम् 12</ls>. {#˚yoniH#} (same as {#padmayoni#} = Brahmadeva);
+179713c179713
+<  <ls>Bh.</ls> {#pare brahmaRi ko'pi na lagnaH#} <ls>Śaṅkara. (Carpaṭapañjarikā 7)</ls>.
+---
+>  <ls>Bh.</ls> {#pare brahmaRi ko'pi na lagnaH#} <ls>Śaṅkara. (चर्पटपञ्जरिका 7)</ls>.
+182705c182705
+<  ‘{#BavAni tvatpARigrahaRaparipAwIPalamidam .#}’ --<ls>devyaparādhakṣamāpaṇastotram 7</ls>.
+---
+>  ‘{#BavAni tvatpARigrahaRaparipAwIPalamidam .#}’ --<ls>देव्यपराधक्षमापणस्तोत्रम् 7</ls>.
+183311c183311
+<  {#ramAyAH#}; (<ls>Viṣṇupādā˚ varṇanastotram 18</ls>).
+---
+>  {#ramAyAH#}; (<ls>विष्णुपादा॰ वर्णनस्तोत्रम् 18</ls>).
+186473c186473
+<  {#palitEraNkitaM SiraH#} <ls>Bh.</ls>; {#aNgaM galitaM, palitaM muRqam#} <ls>Śaṅkara. (Carpaṭapañjarikāstotram 6)</ls>.
+---
+>  {#palitEraNkitaM SiraH#} <ls>Bh.</ls>; {#aNgaM galitaM, palitaM muRqam#} <ls>Śaṅkara. (चर्पटपञ्जरिकास्तोत्रम् 6)</ls>.
+216702,216703c216702,216703
+<  {#PalakAmA narADamAH . arcayanti jagannATaM te kAmaM nApnuvantyuta ..#} ({#mala#}.
+<  {#ta#}. <ls>Śabda Ch.</ls>)
+---
+> {#PalakAmA narADamAH . arcayanti jagannATaM te kAmaM nApnuvantyuta ..#} (<ls>मल॰ त॰</ls>
+> <ls>Śabda Ch.</ls>)
+231150c231150
+< .²20 Sexual dalliances; {#nAnAvicitrakftamaRqalamAvahantIm#} <ls>Bil. Ch. (uttarapīṭhikā) 38</ls>.
+---
+> .²20 Sexual dalliances; {#nAnAvicitrakftamaRqalamAvahantIm#} <ls>Bil. Ch. (उत्तरपीठिका) 38</ls>.
+272621c272621
+<  {#guRAnvitam .’#} --<ls>Śrīviṭhṭhalāṣṭottaraśatanāmastotram 1</ls>; {#‘Siro me viWWalaH#}
+---
+>  {#guRAnvitam .’#} --<ls>श्रीविठ्ठलाष्टोत्तरशतनामस्तोत्रम् 1</ls>; {#‘Siro me viWWalaH#}
+278128c278128
+<  {#satyam .#} (--<ls>tripādvibhūtimahānārāyaṇopaniṣat 4. 2.</ls>)
+---
+>  {#satyam .#} (--<ls>त्रिपाद्विभूतिमहानारायणोपनिषत् 4. 2.</ls>)
+292001c292001
+<  (<ab>cf.</ab> also {#‘Sabdo'kzare yaSogItyoH’#} --<ls>Haimaḥ</ls>).
+---
+> (<ab>cf.</ab> also {#‘Sabdo'kzare yaSogItyoH’#} --<ls>हैमः</ls>).
+294963c294963
+<  {#ca nirUpaRam#} <ls>Brav. P. Brahmakhaṇḍa 1. 28</ls>.
+---
+>  {#ca nirUpaRam#} <ls>Brav. P. ब्रह्मखण्ड 1. 28</ls>.
+304164c304164
+<  {#purARasUtraM tat saMvyasya vipulaM mahat#} <ls>Brav. P. (Brahmakhaṇḍa) 1. 62</ls>;
+---
+>  {#purARasUtraM tat saMvyasya vipulaM mahat#} <ls>Brav. P. (ब्रह्मखण्ड) 1. 62</ls>;

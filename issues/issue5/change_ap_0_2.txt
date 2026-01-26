@@ -1,0 +1,255 @@
+; <L>206<pc>0011-2<k1>aga<k2>aga
+1935 old  <ls>Colacampūkāvya p. 9, Verse 12</ls>.
+;
+1935 new  <ls>चोलचम्पूकाव्य p. 9, Verse 12</ls>.
+;---------------------------------------------------
+; <L>281<pc>0022-1<k1>aNkaH<k2>aNkaH
+3385 old  ({#aNke kroqe sarvatoBAvena vartanaM hfdayAliNganam ityarTaH#} --<ls>Jagaddhara</ls>);
+;
+3385 new  ({#aNke kroqe sarvatoBAvena vartanaM hfdayAliNganam ityarTaH#} --<ls>जगद्धर</ls>);
+;---------------------------------------------------
+; <L>522<pc>0037-1<k1>aqAgamaH<k2>aqAgamaH
+5783 old  to indicate past tense (<ls>Vārtika 1. 30. 60. 4</ls>).
+;
+5783 new  to indicate past tense (<ls>वार्तिक 1. 30. 60. 4</ls>).
+;---------------------------------------------------
+; <L>553<pc>0038-1<k1>atantra<k2>atantra
+6040 old  (<ls>Vārttika 2. 2. 34. 1</ls>).
+;
+6040 new  (<ls>वार्त्तिक 2. 2. 34. 1</ls>).
+;---------------------------------------------------
+; <L>845<pc>0049-2<k1>atyanta<k2>atyanta
+8136 old  the accusation in the bud (<ls>P. Vārttika III. 2. 115.</ls>).
+;
+8136 new  the accusation in the bud (<ls>P. वार्त्तिक III. 2. 115.</ls>).
+;---------------------------------------------------
+; <L>1342<pc>0076-2<k1>anaBiDAnam<k2>anaBiDAnam
+12516 old .²1 Absence of the expression of the desired meaning (<ls>Vārttika 2. 2. 24. 16</ls>).
+;
+12516 new .²1 Absence of the expression of the desired meaning (<ls>वार्त्तिक 2. 2. 24. 16</ls>).
+;---------------------------------------------------
+; <L>2147<pc>0109-2<k1>anuvrata<k2>anuvrata
+18394 old  {#ruDireRa tasmin raktA Bavatyamarayozidanuvratena#}; <ls>Viśvaguṇādarśacampū 379</ls>.
+;
+18394 new  {#ruDireRa tasmin raktA Bavatyamarayozidanuvratena#}; <ls>विश्वगुणादर्शचम्पू 379</ls>.
+;---------------------------------------------------
+; <L>2234<pc>0113-2<k1>anusfta<k2>anusfta
+19056 old .²3 Taking shelter with ({#SaraRAgata#}) --<ls>Mukundamālāstotra 15</ls>.
+;
+19056 new .²3 Taking shelter with ({#SaraRAgata#}) --<ls>मुकुन्दमालास्तोत्र 15</ls>.
+;---------------------------------------------------
+; <L>2393<pc>0128-2<k1>anDuH<k2>anDuH
+21257 old  <ls>Colacampūkāvya p. 9, Verse 13</ls>.
+;
+21257 new  <ls>चोलचम्पूकाव्य p. 9, Verse 13</ls>.
+;---------------------------------------------------
+; <L>2412<pc>0132-1<k1>anyaTayati<k2>anyaTayati
+21711 old  <ls>Colacampū p. 13</ls>.
+;
+21711 new  <ls>चोलचम्पू p. 13</ls>.
+;---------------------------------------------------
+; <L>4564<pc>0223-2<k1>arTaH<k2>arTaH
+38547 old  (<ls>Tantravārttika 4. 3. 42. 2</ls>).
+;
+38547 new  (<ls>तन्त्रवार्त्तिक 4. 3. 42. 2</ls>).
+;---------------------------------------------------
+; <L>4564<pc>0223-2<k1>arTaH<k2>arTaH
+38569 old .²2 Expression or denotation of the desired meaning (<ls>Vārttika 3. 1. 2. 5</ls>).
+;
+38569 new .²2 Expression or denotation of the desired meaning (<ls>वार्त्तिक 3. 1. 2. 5</ls>).
+;---------------------------------------------------
+; <L>4754<pc>0237-2<k1>av<k2>av
+40717 old  {#nAjite tvayi#} <ls>R. 11. 75</ls>; {#na mAmavati sadvIpA ratnasUrapi#} <ls>Medinī. 1. 65</ls>.
+;
+40717 new {#nAjite tvayi#} <ls>R. 11. 75</ls>; {#na mAmavati sadvIpA ratnasUrapi#} <ls>मेदिनी 1. 65</ls>.
+;---------------------------------------------------
+; <L>7059<pc>0338-1<k1>Apya<k2>Apya
+59419 old  <ls>Śālihotra of Bhoja ed. by Kulkarni, Appendix II, 153</ls>.
+;
+59419 new  <ls>शालिहोत्र of भोज ed. by Kulkarni, Appendix II, 153</ls>.
+;---------------------------------------------------
+; <L>8176<pc>0384-1<k1>indraH<k2>indraH
+68535 old  {#mUtrakfcCre praSaMsanti piRqo'yaM vAjinAM hitaH ..#} <ls>Śālihotra of Bhoja 330</ls>.
+;
+68535 new  {#mUtrakfcCre praSaMsanti piRqo'yaM vAjinAM hitaH ..#} <ls>शालिहोत्र of भोज 330</ls>.
+;---------------------------------------------------
+; <L>8285<pc>0391-2<k1>iha<k2>iha
+69531 old  <ab>cf.</ab> {#ihAmutrArTaBogavirAgaH .#} <ls>Śāṅkarabhāṣya on Brahmasūtra 1. 1. 1</ls>.
+;
+69531 new  <ab>cf.</ab> {#ihAmutrArTaBogavirAgaH .#} <ls>शाङ्करभाष्य on ब्रह्मसूत्र 1. 1. 1</ls>.
+;---------------------------------------------------
+; <L>8443<pc>0399-1<k1>ucCalita<k2>ucCalita
+70949 old .²1 Moved, waved above {#nirJarocCalitaSItalaSIkarAsAravAhI … .#} <ls>Nāgānanda 1</ls>.
+;
+70949 new .²1 Moved, waved above {#nirJarocCalitaSItalaSIkarAsAravAhI … .#} <ls>नागानन्द 1</ls>.
+;---------------------------------------------------
+; <L>8818<pc>0415-1<k1>utsAdanam<k2>utsAdanam
+74079 old  {#Bajet#} <ab>&c.</ab> <ls>Carakasaṃhitā, Sūtrasthāna, chap. 6, verse 14</ls>. {#vAtsyAyana#}
+;
+74079 new  {#Bajet#} <ab>&c.</ab> <ls>चरकसंहिता, सूत्रस्थान, chap. 6, verse 14</ls>. {#vAtsyAyana#}
+;---------------------------------------------------
+; <L>11717<pc>0545-1<k1>kalaSaH<k2>kalaSaH,
+98618 old .²2 Kṣīrasāgara (Note on <ls>Śāhendravilāsa 2. 68.</ls>). {#kakusTakulaparyAyakalaSArRavakOstuBaH#}
+;
+98618 new .²2 Kṣīrasāgara (Note on <ls>शाहेन्द्रविलास 2. 68.</ls>). {#kakusTakulaparyAyakalaSArRavakOstuBaH#}
+;---------------------------------------------------
+; <L>11771<pc>0549-1<k1>kalyARa<k2>kalyARa
+99289 old  {#proktaH sarvakalyARakArakaH ..#} <ls>Śālihotra of Bhoja. 7</ls>.
+;
+99289 new  {#proktaH sarvakalyARakArakaH ..#} <ls>Śālihotra of भोज. 7</ls>.
+;---------------------------------------------------
+; <L>12103<pc>0564-1<k1>kArya<k2>kArya
+102238 old --({%n.%}) {#kAryakAlaM saMjYApariBAzam#} <ls>Paribhāṣenduśekhara pari. 2 and 3</ls>.
+;
+102238 new --({%n.%}) {#kAryakAlaM saMjYApariBAzam#} <ls>परिभाषेन्दुशेखर pari. 2 and 3</ls>.
+;---------------------------------------------------
+; <L>12347<pc>0577-2<k1>kujaH<k2>kujaH
+104738 old  {#Sani-ravi-kujAnAM vAsare nogratAre .’#} <ls>Śālihotra of Bhoja.</ls>
+;
+104738 new  {#Sani-ravi-kujAnAM vAsare nogratAre .’#} <ls>शालिहोत्र of भोज.</ls>
+;---------------------------------------------------
+; <L>12854<pc>0602-2<k1>kekARaH<k2>kekARaH
+109513 old  {#prOQAhArASca maDyamAH#} <ls>Śālihotra of Bhoja, Appendix II. 26</ls>.
+;
+109513 new  {#prOQAhArASca maDyamAH#} <ls>Śālihotra of भोज, Appendix II. 26</ls>.
+;---------------------------------------------------
+; <L>13161<pc>0616-1<k1>krayaH<k2>krayaH
+112182 old  <ls>Dānasāgara, Bibliotheca Indica 274. Face. I, p. 27</ls>.
+;
+112182 new  <ls>दानसागर, Bibliotheca Indica 274. Face. I, p. 27</ls>.
+;---------------------------------------------------
+; <L>13603<pc>0637-1<k1>KarvawaH<k2>KarvawaH,
+116131 old  <ab>cf.</ab> also <ls>Daṇḍaviveka, G. O. S. 52, p. 277</ls>.
+;
+116131 new  <ab>cf.</ab> also <ls>दण्डविवेक, G. O. S. 52, p. 277</ls>.
+;---------------------------------------------------
+; <L>13702<pc>0640-1<k1>Kewa<k2>Kewa
+116744 old .²3 A village; {#nagarAdyojanaM KewaM KewAd grAmo'rDayojanam#} (<ls>Brahmānaṃda pu˚ Part I, II</ls>
+;
+116744 new .²3 A village; {#nagarAdyojanaM KewaM KewAd grAmo'rDayojanam#} (<ls>ब्रह्मानंद पु॰ Part I, II</ls>
+;---------------------------------------------------
+; <L>14174<pc>0666-2<k1>gulmaH<k2>gulmaH,
+121652 old  {#lakzmIDara#}; <ab>cf.</ab> also <ls>Daṇḍaviveka, G. O. S. 52, p. 31</ls>).
+;
+121652 new  {#lakzmIDara#}; <ab>cf.</ab> also <ls>दण्डविवेक, G. O. S. 52, p. 31</ls>).
+;---------------------------------------------------
+; <L>14268<pc>0671-1<k1>go<k2>go
+122805 old  {#praKyApitaM mayA . yatra pARininA leBe vEyAkaraRikAgryatA ..#} <ls>Aruṇācalamāhātmyamuttarārdhaḥ 2 a˚ 68 Ślo˚</ls>
+;
+122805 new  {#praKyApitaM mayA . yatra pARininA leBe vEyAkaraRikAgryatA ..#} <ls>अरुणाचलमाहात्म्यमुत्तरार्धः २ अ॰ ६८ श्लो॰</ls>
+;---------------------------------------------------
+; <L>14302<pc>0675-2<k1>gOqaH<k2>gOqaH
+123314 old  {#vAsarAH .. alaMkAraSeKara 6#}.
+;
+123314 new {#vAsarAH ..#} <ls>अलंकारशेखर 6</ls>.
+;---------------------------------------------------
+; <L>15334<pc>0723-2<k1>jaNGA<k2>jaNGA
+132656 old  <ls>Brahmāṇḍa P. part 1, second Anuṣaṅgapāda. Ch. 7. 5. 115</ls>.
+;
+132656 new  <ls>Brahmāṇḍa P. part 1, second अनुषङ्गपाद. Ch. 7. 5. 115</ls>.
+;---------------------------------------------------
+; <L>15397<pc>0726-2<k1>janus<k2>janus
+133243 old .²2 (= {#sUtikAgfham#}); <ls>Śāhendravilāsa 2. 2</ls>.
+;
+133243 new .²2 (= {#sUtikAgfham#}); <ls>शाहेन्द्रविलास 2. 2</ls>.
+;---------------------------------------------------
+; <L>15466<pc>0729-2<k1>jala<k2>jala
+134036 old  <ls>Śālihotra of Bhoja, Appendix II, 12</ls>.
+;
+134036 new  <ls>शालिहोत्र of भोज, Appendix II, 12</ls>.
+;---------------------------------------------------
+; <L>16593<pc>0779-1<k1>turIya<k2>turIya
+143883 old  {#tilakayan kulottuNga iti yaTArTanAmA baBUva SUdraH .#} <ls>Colacampū p. 6</ls>.
+;
+143883 new  {#tilakayan kulottuNga iti yaTArTanAmA baBUva SUdraH .#} <ls>चोलचम्पू p. 6</ls>.
+;---------------------------------------------------
+; <L>17211<pc>0810-1<k1>dAmnI<k2>dAmnI
+150065 old {#dAmnI#}¦ A garland; {#‘yasyA dAmnyA triDAmno jaGanakalitayA˚’#} --<ls>Viṣṇupādādikeśāntavarṇanastotram 22</ls>.
+;
+150065 new {#dAmnI#}¦ A garland; {#‘yasyA dAmnyA triDAmno jaGanakalitayA˚’#} --<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 22</ls>.
+;---------------------------------------------------
+; <L>18190<pc>0870-1<k1>DvaMsana<k2>DvaMsana
+161502 old  --<ls>Viṣṇupādādikeśāntavarṇanastotram 7</ls>.
+;
+161502 new  --<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 7</ls>.
+;---------------------------------------------------
+; <L>18296<pc>0876-2<k1>nandaka<k2>nandaka
+162674 old  {#nandako naH .#} <ls>Viṣṇupādādikeśāntavarṇanastotram 4</ls>.
+;
+162674 new  {#nandako naH .#} <ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 4</ls>.
+;---------------------------------------------------
+; <L>19154<pc>0920-2<k1>nirvyUQa<k2>nirvyUQa
+171261 old  ({#upacita#} <ls>Jagaddhara</ls>).
+;
+171261 new  ({#upacita#} <ls>जगद्धर</ls>).
+;---------------------------------------------------
+; <L>19169<pc>0921-1<k1>nilayaH<k2>nilayaH
+171398 old  --<ls>Viṣṇupādādi stotram 10</ls>.
+;
+171398 new  --<ls>विष्णुपादादि स्तोत्रम् १०</ls>.
+;---------------------------------------------------
+; <L>19929<pc>0962-2<k1>payas<k2>payas
+179301 old  <ls>Viṣṇupādādi stotram 12</ls>. {#˚yoniH#} (same as {#padmayoni#} = Brahmadeva);
+;
+179301 new  <ls>विष्णुपादादि स्तोत्रम् 12</ls>. {#˚yoniH#} (same as {#padmayoni#} = Brahmadeva);
+;---------------------------------------------------
+; <L>19937<pc>0963-1<k1>para<k2>para
+179713 old  <ls>Bh.</ls> {#pare brahmaRi ko'pi na lagnaH#} <ls>Śaṅkara. (Carpaṭapañjarikā 7)</ls>.
+;
+179713 new  <ls>Bh.</ls> {#pare brahmaRi ko'pi na lagnaH#} <ls>Śaṅkara. (चर्पटपञ्जरिका 7)</ls>.
+;---------------------------------------------------
+; <L>20309<pc>0980-1<k1>paripAwiH<k2>paripAwiH,
+182705 old  ‘{#BavAni tvatpARigrahaRaparipAwIPalamidam .#}’ --<ls>devyaparādhakṣamāpaṇastotram 7</ls>.
+;
+182705 new  ‘{#BavAni tvatpARigrahaRaparipAwIPalamidam .#}’ --<ls>देव्यपराधक्षमापणस्तोत्रम् 7</ls>.
+;---------------------------------------------------
+; <L>20393<pc>0982-2<k1>parimalanam<k2>parimalanam
+183311 old  {#ramAyAH#}; (<ls>Viṣṇupādā˚ varṇanastotram 18</ls>).
+;
+183311 new  {#ramAyAH#}; (<ls>विष्णुपादा॰ वर्णनस्तोत्रम् 18</ls>).
+;---------------------------------------------------
+; <L>20833<pc>0997-2<k1>palita<k2>palita
+186473 old  {#palitEraNkitaM SiraH#} <ls>Bh.</ls>; {#aNgaM galitaM, palitaM muRqam#} <ls>Śaṅkara. (Carpaṭapañjarikāstotram 6)</ls>.
+;
+186473 new  {#palitEraNkitaM SiraH#} <ls>Bh.</ls>; {#aNgaM galitaM, palitaM muRqam#} <ls>Śaṅkara. (चर्पटपञ्जरिकास्तोत्रम् 6)</ls>.
+;---------------------------------------------------
+; <L>24298<pc>1145-1<k1>Palam<k2>Palam
+216702 old  {#PalakAmA narADamAH . arcayanti jagannATaM te kAmaM nApnuvantyuta ..#} ({#mala#}.
+;
+216702 new {#PalakAmA narADamAH . arcayanti jagannATaM te kAmaM nApnuvantyuta ..#} (<ls>मल॰ त॰</ls>
+;---------------------------------------------------
+; <L>24298<pc>1145-1<k1>Palam<k2>Palam
+216703 old  {#ta#}. <ls>Śabda Ch.</ls>)
+;
+216703 new <ls>Śabda Ch.</ls>)
+;---------------------------------------------------
+; <L>25573<pc>1223-1<k1>maRqala<k2>maRqala
+231150 old .²20 Sexual dalliances; {#nAnAvicitrakftamaRqalamAvahantIm#} <ls>Bil. Ch. (uttarapīṭhikā) 38</ls>.
+;
+231150 new .²20 Sexual dalliances; {#nAnAvicitrakftamaRqalamAvahantIm#} <ls>Bil. Ch. (उत्तरपीठिका) 38</ls>.
+;---------------------------------------------------
+; <L>29492<pc>1435-2<k1>viwWalaH<k2>viwWa(WWa)laH
+272621 old  {#guRAnvitam .’#} --<ls>Śrīviṭhṭhalāṣṭottaraśatanāmastotram 1</ls>; {#‘Siro me viWWalaH#}
+;
+272621 new  {#guRAnvitam .’#} --<ls>श्रीविठ्ठलाष्टोत्तरशतनामस्तोत्रम् 1</ls>; {#‘Siro me viWWalaH#}
+;---------------------------------------------------
+; <L>30144<pc>1463-1<k1>viroDaH<k2>viroDaH
+278128 old  {#satyam .#} (--<ls>tripādvibhūtimahānārāyaṇopaniṣat 4. 2.</ls>)
+;
+278128 new  {#satyam .#} (--<ls>त्रिपाद्विभूतिमहानारायणोपनिषत् 4. 2.</ls>)
+;---------------------------------------------------
+; <L>31654<pc>1532-2<k1>SabdaH<k2>SabdaH
+292001 old  (<ab>cf.</ab> also {#‘Sabdo'kzare yaSogItyoH’#} --<ls>Haimaḥ</ls>).
+;
+292001 new (<ab>cf.</ab> also {#‘Sabdo'kzare yaSogItyoH’#} --<ls>हैमः</ls>).
+;---------------------------------------------------
+; <L>31965<pc>1547-2<k1>SAliH<k2>SAliH
+294963 old  {#ca nirUpaRam#} <ls>Brav. P. Brahmakhaṇḍa 1. 28</ls>.
+;
+294963 new  {#ca nirUpaRam#} <ls>Brav. P. ब्रह्मखण्ड 1. 28</ls>.
+;---------------------------------------------------
+; <L>32899<pc>1592-1<k1>saMvyas<k2>saMvyas
+304164 old  {#purARasUtraM tat saMvyasya vipulaM mahat#} <ls>Brav. P. (Brahmakhaṇḍa) 1. 62</ls>;
+;
+304164 new  {#purARasUtraM tat saMvyasya vipulaM mahat#} <ls>Brav. P. (ब्रह्मखण्ड) 1. 62</ls>;
+;---------------------------------------------------

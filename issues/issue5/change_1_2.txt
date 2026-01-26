@@ -1,0 +1,29 @@
+; changes to ap_1.txt based on
+; https://github.com/sanskrit-lexicon/AP/issues/5#issuecomment-3796040622
+;
+; <L>14302<pc>0675-2<k1>gOqaH<k2>gOqaH
+123314 old  {#vAsarAH .. alaMkAraSeKara 6#}.
+;  Note: also leading space removed 
+; 123314 new {#vAsarAH ..#} <ls>{#alaMkAraSeKara 6#}</ls>.
+123314 new {#vAsarAH ..#} <ls>अलंकारशेखर 6</ls>.
+; --------------------------------------
+; <L>31654<pc>1532-2<k1>SabdaH<k2>SabdaH
+292001 old  (<ab>cf.</ab> also {#‘Sabdo'kzare yaSogItyoH’#} --<ls>Haimaḥ</ls>).
+; Note: also leading space removed 
+292001 new (<ab>cf.</ab> also {#‘Sabdo'kzare yaSogItyoH’#} --<ls>हैमः</ls>).
+; --------------------------------------
+; <L>24298<pc>1145-1<k1>Palam<k2>Palam
+216702 old  {#PalakAmA narADamAH . arcayanti jagannATaM te kAmaM nApnuvantyuta ..#} ({#mala#}.
+; Note: also leading space removed 
+216702 new {#PalakAmA narADamAH . arcayanti jagannATaM te kAmaM nApnuvantyuta ..#} (<ls>मल॰ त॰</ls>
+; --------------------------------------
+; <L>24298<pc>1145-1<k1>Palam<k2>Palam
+216703 old  {#ta#}. <ls>Śabda Ch.</ls>)
+; Note: also leading space removed 
+216703 new <ls>Śabda Ch.</ls>)
+; --------------------------------------
+; <L>4754<pc>0237-2<k1>av<k2>av
+40717 old  {#nAjite tvayi#} <ls>R. 11. 75</ls>; {#na mAmavati sadvIpA ratnasUrapi#} <ls>Medinī. 1. 65</ls>.
+; Note: also leading space removed
+40717 new {#nAjite tvayi#} <ls>R. 11. 75</ls>; {#na mAmavati sadvIpA ratnasUrapi#} <ls>मेदिनी 1. 65</ls>.
+; --------------------------------------

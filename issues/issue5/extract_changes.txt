@@ -1,0 +1,225 @@
+; <L>25573<pc>1223-1<k1>maRqala<k2>maRqala
+232136 old .²20 Sexual dalliances; {#nAnAvicitrakftamaRqalamAvahantIm#} <ls>Bil. Ch. ({#uttarapIWikA#}) 38</ls>.
+; <ls>Bil. Ch. ({#uttarapIWikA#}) 38</ls>
+232136 new .²20 Sexual dalliances; {#nAnAvicitrakftamaRqalamAvahantIm#} <ls>Bil. Ch. (uttarapīṭhikā) 38</ls>.
+;---------------------------------------------------
+; <L>15334<pc>0723-2<k1>jaNGA<k2>jaNGA
+133167 old  <ls>Brahmāṇḍa P. part 1, second {#anuzaNgapAda#}. Ch. 7. 5. 115</ls>.
+; <ls>Brahmāṇḍa P. part 1, second {#anuzaNgapAda#}. Ch. 7. 5. 115</ls>
+133167 new  <ls>Brahmāṇḍa P. part 1, second Anuṣaṅgapāda. Ch. 7. 5. 115</ls>.
+;---------------------------------------------------
+; <L>32899<pc>1592-1<k1>saMvyas<k2>saMvyas
+305467 old  {#purARasUtraM tat saMvyasya vipulaM mahat#} <ls>Brav. P. ({#brahmaKaRqa#}) 1. 62</ls>;
+; <ls>Brav. P. ({#brahmaKaRqa#}) 1. 62</ls>
+305467 new  {#purARasUtraM tat saMvyasya vipulaM mahat#} <ls>Brav. P. (Brahmakhaṇḍa) 1. 62</ls>;
+;---------------------------------------------------
+; <L>31965<pc>1547-2<k1>SAliH<k2>SAliH
+296230 old  {#ca nirUpaRam#} <ls>Brav. P. {#brahmaKaRqa#} 1. 28</ls>.
+; <ls>Brav. P. {#brahmaKaRqa#} 1. 28</ls>
+296230 new  {#ca nirUpaRam#} <ls>Brav. P. Brahmakhaṇḍa 1. 28</ls>.
+;---------------------------------------------------
+; <L>845<pc>0049-2<k1>atyanta<k2>atyanta
+8153 old  the accusation in the bud (<ls>P. {#vArttika#} III. 2. 115.</ls>).
+; <ls>P. {#vArttika#} III. 2. 115.</ls>
+8153 new  the accusation in the bud (<ls>P. Vārttika III. 2. 115.</ls>).
+;---------------------------------------------------
+; <L>8285<pc>0391-2<k1>iha<k2>iha
+69773 old  <ab>cf.</ab> {#ihAmutrArTaBogavirAgaH .#} <ls>{#SANkaraBAzya#} on {#brahmasUtra#} 1. 1. 1</ls>.
+; <ls>{#SANkaraBAzya#} on {#brahmasUtra#} 1. 1. 1</ls>
+69773 new  <ab>cf.</ab> {#ihAmutrArTaBogavirAgaH .#} <ls>Śāṅkarabhāṣya on Brahmasūtra 1. 1. 1</ls>.
+;---------------------------------------------------
+; <L>15397<pc>0726-2<k1>janus<k2>janus
+133756 old .²2 (= {#sUtikAgfham#}); <ls>{#SAhendravilAsa#} 2. 2</ls>.
+; <ls>{#SAhendravilAsa#} 2. 2</ls>
+133756 new .²2 (= {#sUtikAgfham#}); <ls>Śāhendravilāsa 2. 2</ls>.
+;---------------------------------------------------
+; <L>11717<pc>0545-1<k1>kalaSaH<k2>kalaSaH,
+98983 old .²2 Kṣīrasāgara (Note on <ls>{#SAhendravilAsa#} 2. 68.</ls>). {#kakusTakulaparyAyakalaSArRavakOstuBaH#}
+; <ls>{#SAhendravilAsa#} 2. 68.</ls>
+98983 new .²2 Kṣīrasāgara (Note on <ls>Śāhendravilāsa 2. 68.</ls>). {#kakusTakulaparyAyakalaSArRavakOstuBaH#}
+;---------------------------------------------------
+; <L>8176<pc>0384-1<k1>indraH<k2>indraH
+68775 old  {#mUtrakfcCre praSaMsanti piRqo'yaM vAjinAM hitaH ..#} <ls>{#SAlihotra#} of {#Boja#} 330</ls>.
+; <ls>{#SAlihotra#} of {#Boja#} 330</ls>
+68775 new  {#mUtrakfcCre praSaMsanti piRqo'yaM vAjinAM hitaH ..#} <ls>Śālihotra of Bhoja 330</ls>.
+;---------------------------------------------------
+; <L>7059<pc>0338-1<k1>Apya<k2>Apya
+59622 old  <ls>{#SAlihotra#} of {#Boja#} ed. by Kulkarni, Appendix II, 153</ls>.
+; <ls>{#SAlihotra#} of {#Boja#} ed. by Kulkarni, Appendix II, 153</ls>
+59622 new  <ls>Śālihotra of Bhoja ed. by Kulkarni, Appendix II, 153</ls>.
+;---------------------------------------------------
+; <L>15466<pc>0729-2<k1>jala<k2>jala
+134551 old  <ls>{#SAlihotra#} of {#Boja#}, Appendix II, 12</ls>.
+; <ls>{#SAlihotra#} of {#Boja#}, Appendix II, 12</ls>
+134551 new  <ls>Śālihotra of Bhoja, Appendix II, 12</ls>.
+;---------------------------------------------------
+; <L>12347<pc>0577-2<k1>kujaH<k2>kujaH
+105134 old  {#Sani-ravi-kujAnAM vAsare nogratAre .’#} <ls>{#SAlihotra#} of {#Boja#}.</ls>
+; <ls>{#SAlihotra#} of {#Boja#}.</ls>
+105134 new  {#Sani-ravi-kujAnAM vAsare nogratAre .’#} <ls>Śālihotra of Bhoja.</ls>
+;---------------------------------------------------
+; <L>29492<pc>1435-2<k1>viwWalaH<k2>viwWa(WWa)laH
+273770 old  {#guRAnvitam .’#} --<ls>{#SrIviWWalAzwottaraSatanAmastotram#} 1</ls>; {#‘Siro me viWWalaH#}
+; <ls>{#SrIviWWalAzwottaraSatanAmastotram#} 1</ls>
+273770 new  {#guRAnvitam .’#} --<ls>Śrīviṭhṭhalāṣṭottaraśatanāmastotram 1</ls>; {#‘Siro me viWWalaH#}
+;---------------------------------------------------
+; <L>14268<pc>0671-1<k1>go<k2>go
+123274 old  {#praKyApitaM mayA . yatra pARininA leBe vEyAkaraRikAgryatA ..#} <ls>{#aruRAcalamAhAtmyamuttarArDaH 2 a˚ 68 Slo˚#}</ls>
+; <ls>{#aruRAcalamAhAtmyamuttarArDaH 2 a˚ 68 Slo˚#}</ls>
+123274 new  {#praKyApitaM mayA . yatra pARininA leBe vEyAkaraRikAgryatA ..#} <ls>Aruṇācalamāhātmyamuttarārdhaḥ 2 a˚ 68 Ślo˚</ls>
+;---------------------------------------------------
+; <L>13702<pc>0640-1<k1>Kewa<k2>Kewa
+117194 old .²3 A village; {#nagarAdyojanaM KewaM KewAd grAmo'rDayojanam#} (<ls>{#brahmAnaMda pu˚#} Part I, II</ls>
+; <ls>{#brahmAnaMda pu˚#} Part I, II</ls>
+117194 new .²3 A village; {#nagarAdyojanaM KewaM KewAd grAmo'rDayojanam#} (<ls>Brahmānaṃda pu˚ Part I, II</ls>
+;---------------------------------------------------
+; <L>8818<pc>0415-1<k1>utsAdanam<k2>utsAdanam
+74342 old  {#Bajet#} <ab>&c.</ab> <ls>{#carakasaMhitA, sUtrasTAna#}, chap. 6, verse 14</ls>. {#vAtsyAyana#}
+; <ls>{#carakasaMhitA, sUtrasTAna#}, chap. 6, verse 14</ls>
+74342 new  {#Bajet#} <ab>&c.</ab> <ls>Carakasaṃhitā, Sūtrasthāna, chap. 6, verse 14</ls>. {#vAtsyAyana#}
+;---------------------------------------------------
+; <L>2412<pc>0132-1<k1>anyaTayati<k2>anyaTayati
+21771 old  <ls>{#colacampU#} p. 13</ls>.
+; <ls>{#colacampU#} p. 13</ls>
+21771 new  <ls>Colacampū p. 13</ls>.
+;---------------------------------------------------
+; <L>16593<pc>0779-1<k1>turIya<k2>turIya
+144437 old  {#tilakayan kulottuNga iti yaTArTanAmA baBUva SUdraH .#} <ls>{#colacampU#} p. 6</ls>.
+; <ls>{#colacampU#} p. 6</ls>
+144437 new  {#tilakayan kulottuNga iti yaTArTanAmA baBUva SUdraH .#} <ls>Colacampū p. 6</ls>.
+;---------------------------------------------------
+; <L>206<pc>0011-2<k1>aga<k2>aga
+1941 old  <ls>{#colacampUkAvya#} p. 9, Verse 12</ls>.
+; <ls>{#colacampUkAvya#} p. 9, Verse 12</ls>
+1941 new  <ls>Colacampūkāvya p. 9, Verse 12</ls>.
+;---------------------------------------------------
+; <L>2393<pc>0128-2<k1>anDuH<k2>anDuH
+21317 old  <ls>{#colacampUkAvya#} p. 9, Verse 13</ls>.
+; <ls>{#colacampUkAvya#} p. 9, Verse 13</ls>
+21317 new  <ls>Colacampūkāvya p. 9, Verse 13</ls>.
+;---------------------------------------------------
+; <L>13161<pc>0616-1<k1>krayaH<k2>krayaH
+112614 old  <ls>{#dAnasAgara#}, Bibliotheca Indica 274. Face. I, p. 27</ls>.
+; <ls>{#dAnasAgara#}, Bibliotheca Indica 274. Face. I, p. 27</ls>
+112614 new  <ls>Dānasāgara, Bibliotheca Indica 274. Face. I, p. 27</ls>.
+;---------------------------------------------------
+; <L>13603<pc>0637-1<k1>KarvawaH<k2>KarvawaH,
+116579 old  <ab>cf.</ab> also <ls>{#daRqaviveka#}, G. O. S. 52, p. 277</ls>.
+; <ls>{#daRqaviveka#}, G. O. S. 52, p. 277</ls>
+116579 new  <ab>cf.</ab> also <ls>Daṇḍaviveka, G. O. S. 52, p. 277</ls>.
+;---------------------------------------------------
+; <L>14174<pc>0666-2<k1>gulmaH<k2>gulmaH,
+122119 old  {#lakzmIDara#}; <ab>cf.</ab> also <ls>{#daRqaviveka#}, G. O. S. 52, p. 31</ls>).
+; <ls>{#daRqaviveka#}, G. O. S. 52, p. 31</ls>
+122119 new  {#lakzmIDara#}; <ab>cf.</ab> also <ls>Daṇḍaviveka, G. O. S. 52, p. 31</ls>).
+;---------------------------------------------------
+; <L>20309<pc>0980-1<k1>paripAwiH<k2>paripAwiH,
+183432 old  ‘{#BavAni tvatpARigrahaRaparipAwIPalamidam .#}’ --<ls>{#devyaparADakzamApaRastotram#} 7</ls>.
+; <ls>{#devyaparADakzamApaRastotram#} 7</ls>
+183432 new  ‘{#BavAni tvatpARigrahaRaparipAwIPalamidam .#}’ --<ls>devyaparādhakṣamāpaṇastotram 7</ls>.
+;---------------------------------------------------
+; <L>281<pc>0022-1<k1>aNkaH<k2>aNkaH
+3392 old  ({#aNke kroqe sarvatoBAvena vartanaM hfdayAliNganam ityarTaH#} --<ls>{#jagadDara#}</ls>);
+; <ls>{#jagadDara#}</ls>
+3392 new  ({#aNke kroqe sarvatoBAvena vartanaM hfdayAliNganam ityarTaH#} --<ls>Jagaddhara</ls>);
+;---------------------------------------------------
+; <L>2234<pc>0113-2<k1>anusfta<k2>anusfta
+19111 old .²3 Taking shelter with ({#SaraRAgata#}) --<ls>{#mukundamAlAstotra#} 15</ls>.
+; <ls>{#mukundamAlAstotra#} 15</ls>
+19111 new .²3 Taking shelter with ({#SaraRAgata#}) --<ls>Mukundamālāstotra 15</ls>.
+;---------------------------------------------------
+; <L>8443<pc>0399-1<k1>ucCalita<k2>ucCalita
+71202 old .²1 Moved, waved above {#nirJarocCalitaSItalaSIkarAsAravAhI … .#} <ls>{#nAgAnanda#} 1</ls>.
+; <ls>{#nAgAnanda#} 1</ls>
+71202 new .²1 Moved, waved above {#nirJarocCalitaSItalaSIkarAsAravAhI … .#} <ls>Nāgānanda 1</ls>.
+;---------------------------------------------------
+; <L>12103<pc>0564-1<k1>kArya<k2>kArya
+102623 old --({%n.%}) {#kAryakAlaM saMjYApariBAzam#} <ls>{#pariBAzenduSeKara#} pari. 2 and 3</ls>.
+; <ls>{#pariBAzenduSeKara#} pari. 2 and 3</ls>
+102623 new --({%n.%}) {#kAryakAlaM saMjYApariBAzam#} <ls>Paribhāṣenduśekhara pari. 2 and 3</ls>.
+;---------------------------------------------------
+; <L>4564<pc>0223-2<k1>arTaH<k2>arTaH
+38684 old  (<ls>{#tantravArttika#} 4. 3. 42. 2</ls>).
+; <ls>{#tantravArttika#} 4. 3. 42. 2</ls>
+38684 new  (<ls>Tantravārttika 4. 3. 42. 2</ls>).
+;---------------------------------------------------
+; <L>30144<pc>1463-1<k1>viroDaH<k2>viroDaH
+279317 old  {#satyam .#} (--<ls>{#tripAdviBUtimahAnArAyaRopanizat#} 4. 2.</ls>)
+; <ls>{#tripAdviBUtimahAnArAyaRopanizat#} 4. 2.</ls>
+279317 new  {#satyam .#} (--<ls>tripādvibhūtimahānārāyaṇopaniṣat 4. 2.</ls>)
+;---------------------------------------------------
+; <L>522<pc>0037-1<k1>aqAgamaH<k2>aqAgamaH
+5797 old  to indicate past tense (<ls>{#vArtika#} 1. 30. 60. 4</ls>).
+; <ls>{#vArtika#} 1. 30. 60. 4</ls>
+5797 new  to indicate past tense (<ls>Vārtika 1. 30. 60. 4</ls>).
+;---------------------------------------------------
+; <L>1342<pc>0076-2<k1>anaBiDAnam<k2>anaBiDAnam
+12541 old .²1 Absence of the expression of the desired meaning (<ls>{#vArttika#} 2. 2. 24. 16</ls>).
+; <ls>{#vArttika#} 2. 2. 24. 16</ls>
+12541 new .²1 Absence of the expression of the desired meaning (<ls>Vārttika 2. 2. 24. 16</ls>).
+;---------------------------------------------------
+; <L>553<pc>0038-1<k1>atantra<k2>atantra
+6054 old  (<ls>{#vArttika#} 2. 2. 34. 1</ls>).
+; <ls>{#vArttika#} 2. 2. 34. 1</ls>
+6054 new  (<ls>Vārttika 2. 2. 34. 1</ls>).
+;---------------------------------------------------
+; <L>4564<pc>0223-2<k1>arTaH<k2>arTaH
+38706 old .²2 Expression or denotation of the desired meaning (<ls>{#vArttika#} 3. 1. 2. 5</ls>).
+; <ls>{#vArttika#} 3. 1. 2. 5</ls>
+38706 new .²2 Expression or denotation of the desired meaning (<ls>Vārttika 3. 1. 2. 5</ls>).
+;---------------------------------------------------
+; <L>2147<pc>0109-2<k1>anuvrata<k2>anuvrata
+18446 old  {#ruDireRa tasmin raktA Bavatyamarayozidanuvratena#}; <ls>{#viSvaguRAdarSacampU#} 379</ls>.
+; <ls>{#viSvaguRAdarSacampU#} 379</ls>
+18446 new  {#ruDireRa tasmin raktA Bavatyamarayozidanuvratena#}; <ls>Viśvaguṇādarśacampū 379</ls>.
+;---------------------------------------------------
+; <L>19169<pc>0921-1<k1>nilayaH<k2>nilayaH
+172062 old  --<ls>{#vizRupAdAdi stotram 10#}</ls>.
+; <ls>{#vizRupAdAdi stotram 10#}</ls>
+172062 new  --<ls>Viṣṇupādādi stotram 10</ls>.
+;---------------------------------------------------
+; <L>19929<pc>0962-2<k1>payas<k2>payas
+180012 old  <ls>{#vizRupAdAdi stotram#} 12</ls>. {#˚yoniH#} (same as {#padmayoni#} = Brahmadeva);
+; <ls>{#vizRupAdAdi stotram#} 12</ls>
+180012 new  <ls>Viṣṇupādādi stotram 12</ls>. {#˚yoniH#} (same as {#padmayoni#} = Brahmadeva);
+;---------------------------------------------------
+; <L>17211<pc>0810-1<k1>dAmnI<k2>dAmnI
+150638 old {#dAmnI#}¦ A garland; {#‘yasyA dAmnyA triDAmno jaGanakalitayA˚’#} --<ls>{#vizRupAdAdikeSAntavarRanastotram#} 22</ls>.
+; <ls>{#vizRupAdAdikeSAntavarRanastotram#} 22</ls>
+150638 new {#dAmnI#}¦ A garland; {#‘yasyA dAmnyA triDAmno jaGanakalitayA˚’#} --<ls>Viṣṇupādādikeśāntavarṇanastotram 22</ls>.
+;---------------------------------------------------
+; <L>18296<pc>0876-2<k1>nandaka<k2>nandaka
+163298 old  {#nandako naH .#} <ls>{#vizRupAdAdikeSAntavarRanastotram#} 4</ls>.
+; <ls>{#vizRupAdAdikeSAntavarRanastotram#} 4</ls>
+163298 new  {#nandako naH .#} <ls>Viṣṇupādādikeśāntavarṇanastotram 4</ls>.
+;---------------------------------------------------
+; <L>18190<pc>0870-1<k1>DvaMsana<k2>DvaMsana
+162121 old  --<ls>{#vizRupAdAdikeSAntavarRanastotram#} 7</ls>.
+; <ls>{#vizRupAdAdikeSAntavarRanastotram#} 7</ls>
+162121 new  --<ls>Viṣṇupādādikeśāntavarṇanastotram 7</ls>.
+;---------------------------------------------------
+; <L>20393<pc>0982-2<k1>parimalanam<k2>parimalanam
+184040 old  {#ramAyAH#}; (<ls>{#vizRupAdA˚ varRanastotram#} 18</ls>).
+; <ls>{#vizRupAdA˚ varRanastotram#} 18</ls>
+184040 new  {#ramAyAH#}; (<ls>Viṣṇupādā˚ varṇanastotram 18</ls>).
+;---------------------------------------------------
+; <L>19937<pc>0963-1<k1>para<k2>para
+180424 old  <ls>Bh.</ls> {#pare brahmaRi ko'pi na lagnaH#} <ls>Śaṅkara. ({#carpawapaYjarikA#} 7)</ls>.
+; <ls>Śaṅkara. ({#carpawapaYjarikA#} 7)</ls>
+180424 new  <ls>Bh.</ls> {#pare brahmaRi ko'pi na lagnaH#} <ls>Śaṅkara. (Carpaṭapañjarikā 7)</ls>.
+;---------------------------------------------------
+; <L>20833<pc>0997-2<k1>palita<k2>palita
+187216 old  {#palitEraNkitaM SiraH#} <ls>Bh.</ls>; {#aNgaM galitaM, palitaM muRqam#} <ls>Śaṅkara. ({#carpawapaYjarikAstotram#} 6)</ls>.
+; <ls>Śaṅkara. ({#carpawapaYjarikAstotram#} 6)</ls>
+187216 new  {#palitEraNkitaM SiraH#} <ls>Bh.</ls>; {#aNgaM galitaM, palitaM muRqam#} <ls>Śaṅkara. (Carpaṭapañjarikāstotram 6)</ls>.
+;---------------------------------------------------
+; <L>12854<pc>0602-2<k1>kekARaH<k2>kekARaH
+109935 old  {#prOQAhArASca maDyamAH#} <ls>Śālihotra of {#Boja#}, Appendix II. 26</ls>.
+; <ls>Śālihotra of {#Boja#}, Appendix II. 26</ls>
+109935 new  {#prOQAhArASca maDyamAH#} <ls>Śālihotra of Bhoja, Appendix II. 26</ls>.
+;---------------------------------------------------
+; <L>11771<pc>0549-1<k1>kalyARa<k2>kalyARa
+99659 old  {#proktaH sarvakalyARakArakaH ..#} <ls>Śālihotra of {#Boja#}. 7</ls>.
+; <ls>Śālihotra of {#Boja#}. 7</ls>
+99659 new  {#proktaH sarvakalyARakArakaH ..#} <ls>Śālihotra of Bhoja. 7</ls>.
+;---------------------------------------------------

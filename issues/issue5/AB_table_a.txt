@@ -1,0 +1,25 @@
+; This file is essentially same as
+; https://github.com/sanskrit-lexicon/AP/issues/5#issuecomment-3796040622
+; Used to construct change_1_2.txt
+* line 123314:
+{#vAsarAH .. alaMkAraSeKara 6#}.
+->
+{#vAsarAH ..#} <ls>{#alaMkAraSeKara 6#}</ls>.
+=======================================
+* line 292001:
+(<ab>cf.</ab> also {#‘Sabdo'kzare yaSogItyoH’#} --<ls>Haimaḥ</ls>).
+->
+(<ab>cf.</ab> also {#‘Sabdo'kzare yaSogItyoH’#} --<ls>{#hEmaH#}</ls>).
+
+========================================
+* lines 216702-3:
+{#PalakAmA narADamAH . arcayanti jagannATaM te kAmaM nApnuvantyuta ..#} ({#mala#}.
+{#ta#}. <ls>Śabda Ch.</ls>)
+->
+{#PalakAmA narADamAH . arcayanti jagannATaM te kAmaM nApnuvantyuta ..#} (<ls>{#mala˚ ta˚#}</ls>
+<ls>Śabda Ch.</ls>)
+=======================================
+* line 40717:
+{#nAjite tvayi#} <ls>R. 11. 75</ls>; {#na mAmavati sadvIpA ratnasUrapi#} <ls>Medinī. 1. 65</ls>.
+->
+{#nAjite tvayi#} <ls>R. 11. 75</ls>; {#na mAmavati sadvIpA ratnasUrapi#} <ls>{#medinI#} 1. 65</ls>.
