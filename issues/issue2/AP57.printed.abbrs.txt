@@ -1,0 +1,93 @@
+Abbreviations and Symbols [1]
+------------------------------------------
+
+Ā.	Ātmanepada.
+Ātm.	Ātmanepada.
+a.	Adjective.
+abl.	Ablative.
+acc.	Accusative.
+adv.	Adverb.
+alg.	Algebra.
+Arith.	Arithmetic.
+A. S.	Anglo-Saxon.
+astr.	Astronomy.
+astrol.	Astrology.
+Avyayi.	Avyayībhāva.
+Bah.	Bahuvrīhi.
+Caus.	Causal.
+cf.	Compare.
+Com.	Commentary.
+Comp.	Compound.
+dat.	Dative.
+Den.	Denominative.
+desid.	Desiderative.
+du.	Dual.
+e. g.	Exempli gratia, for example.
+Eng.	English.
+Etym.	Etymology.
+Ety.	Etymology.
+f.	Feminine.
+fem.	Feminine.
+fig.	Figurative.
+fr.	From.
+freq.	Frequentative.
+gen.	Genitive.
+Germ.	German.
+Goth.	Gothic.
+Gr.	Greek.
+gram.	Grammar.
+ibid.	The same.
+i. e.	id est, that is.
+ind.	Indeclinable.
+inf.	Infinitive.
+instr.	Instrumental.
+L.	Latin.
+lit.	Literal.
+loc.	Locative.
+m.	Masculine.
+mas.	Masculine.
+Mar.	Marathi.
+Math.	Mathematics.
+Medic.	Medicine.
+n.	Neuter.
+N.	Name.
+Nom.	Nominative.
+num. a.	Numeral adjective.
+oft.	Often times.
+opp.	Opposite of.
+P.	Parasmaipada.
+pass.	Passive.
+Pers.	Persian.
+phil.	Philosophy.
+pl.	Plural.
+pot. p.	Potential passive participle.
+p. p.	Past passive participle.
+Pres.	Present tense.
+pres. p.	Present participle.
+pron. a.	Pronominal adjective.
+q. v.	quod vide, which see.
+Rhet.	Rhetoric.
+sing.	Singular.
+Subst.	Substantive.
+s. v.	sub voce, see under the word.
+Tat.	Tatpurusha.
+U.	Ubhayapada (Parasmai and Atmane).
+Vārt.	Vārtika.
+Ved.	Vedic.
+v. l.	Various reading.
+Voc.	Vocative.
+=	Equal or equivalent to, same as.
++	Plus.
+&c.	Et cetera. denotes that the rest of the word under consideration is to be supplied; e. g. रत्नप्रभवस्य यस्य under अनन्त means अनन्तरत्न &c.
+
+
+A Supplementary List [2]
+------------------------------------------
+
+Circ.	Circa, about (with dates).
+Com.	Commentary.
+com.	Commentary.
+Geom.	Geometry.
+cl.	Class.
+Ref.	Refer, Reference.
+Scil.	Scilicet, that is to say.
