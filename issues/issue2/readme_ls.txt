@@ -1,5 +1,5 @@
 
-AP/issues/issue2/readme.txt
+AP/issues/issue2/readme_ls.txt
 
 cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue2  # work directory
 
