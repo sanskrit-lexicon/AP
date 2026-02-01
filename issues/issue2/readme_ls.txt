@@ -175,3 +175,51 @@ git add .
 git commit -m "ap: Activate ls tooltips 
 Ref: https://github.com/sanskrit-lexicon/AP/issues/2"
 git push
+======================================================
+
+Revise apauth/tooltip.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/2#issuecomment-3827450873
+    and following comment
+    
+Edit /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/ap/pywork/apauth/tooltip.txt
+1. '{#' -> '',  and '#}' -> ''   (remove {#...#} tagging inside the ls tooltips)
+2. "Śāraṅgdhara Samhitā" -> "Śāraṅgadhara Samhitā"  (incidentally, this is a print change
+
+-----------------------------------------
+local install of revised displays:
+
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh ap  ../../ap
+sh xmlchk_xampp.sh ap
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue2/  # home
+
+----------------------------------------------------
+# sync csl-pywork to github 
+cd /c/xampp/htdocs/cologne/csl-pywork/
+git pull
+git add .
+git commit -m "ap: edits to ls tooltips
+Ref: https://github.com/sanskrit-lexicon/AP/issues/2#issuecomment-3827450873"
+
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue2/  # home
+
+-----------------------------
+# sync to Cologne, pull changed repos, redo display
+---------------
+ssh login to Cologne
+cd csl-pywork #pull
+
+# update displays for ap
+cd csl-pywork/v02
+sh generate_dict.sh ap  ../../APScan/2020/
+
+# sync this issue to github
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue2/  # home
+
+git pull
+git add .
+git commit -m "ap: Activate ls tooltips 
+Ref: https://github.com/sanskrit-lexicon/AP/issues/2"
+git push
+
