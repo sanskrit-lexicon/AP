@@ -1,0 +1,112 @@
+char  : ucode    :  cdsl :   v4a :  diff :   uname
+¦     : (\u00a6) : 36688 : 36692 :     4 :   BROKEN BAR
+§     : (\u00a7) :     1 :     1 :     0 :   SECTION SIGN
+°     : (\u00b0) :     3 :     3 :     0 :   DEGREE SIGN
+²     : (\u00b2) : 91497 : 91501 :     4 :   SUPERSCRIPT TWO
+³     : (\u00b3) :  1187 :  1188 :     1 :   SUPERSCRIPT THREE
+¹     : (\u00b9) :    15 :    33 :    18 :   SUPERSCRIPT ONE
+¼     : (\u00bc) :     6 :     0 :    -6 :   VULGAR FRACTION ONE QUARTER
+½     : (\u00bd) :    11 :     0 :   -11 :   VULGAR FRACTION ONE HALF
+¾     : (\u00be) :     1 :     0 :    -1 :   VULGAR FRACTION THREE QUARTERS
+×     : (\u00d7) :     2 :     2 :     0 :   MULTIPLICATION SIGN
+ñ     : (\u00f1) :   269 :   269 :     0 :   LATIN SMALL LETTER N WITH TILDE
+Ā     : (\u0100) :  1440 :  1440 :     0 :   LATIN CAPITAL LETTER A WITH MACRON
+ā     : (\u0101) : 16707 : 16707 :     0 :   LATIN SMALL LETTER A WITH MACRON
+Ī     : (\u012a) :    27 :    27 :     0 :   LATIN CAPITAL LETTER I WITH MACRON
+ī     : (\u012b) :  2129 :  2132 :     3 :   LATIN SMALL LETTER I WITH MACRON
+Ś     : (\u015a) :  8965 :  8964 :    -1 :   LATIN CAPITAL LETTER S WITH ACUTE
+ś     : (\u015b) :  1466 :  1466 :     0 :   LATIN SMALL LETTER S WITH ACUTE
+Ū     : (\u016a) :     4 :     4 :     0 :   LATIN CAPITAL LETTER U WITH MACRON
+ū     : (\u016b) :   662 :   662 :     0 :   LATIN SMALL LETTER U WITH MACRON
+ʼ     : (\u02bc) :  2067 :  2067 :     0 :   MODIFIER LETTER APOSTROPHE
+˚     : (\u02da) :  5121 :  5157 :    36 :   RING ABOVE
+ं     : (\u0902) :     3 :     1 :    -2 :   DEVANAGARI SIGN ANUSVARA
+ः     : (\u0903) :     2 :     1 :    -1 :   DEVANAGARI SIGN VISARGA
+अ     : (\u0905) :     4 :     0 :    -4 :   DEVANAGARI LETTER A
+उ     : (\u0909) :     1 :     0 :    -1 :   DEVANAGARI LETTER U
+क     : (\u0915) :    21 :     0 :   -21 :   DEVANAGARI LETTER KA
+ख     : (\u0916) :     4 :     0 :    -4 :   DEVANAGARI LETTER KHA
+ग     : (\u0917) :     6 :     0 :    -6 :   DEVANAGARI LETTER GA
+ङ     : (\u0919) :     2 :     0 :    -2 :   DEVANAGARI LETTER NGA
+च     : (\u091a) :    13 :     0 :   -13 :   DEVANAGARI LETTER CA
+ज     : (\u091c) :    10 :     0 :   -10 :   DEVANAGARI LETTER JA
+ञ     : (\u091e) :     2 :     0 :    -2 :   DEVANAGARI LETTER NYA
+ट     : (\u091f) :     3 :     0 :    -3 :   DEVANAGARI LETTER TTA
+ठ     : (\u0920) :     3 :     0 :    -3 :   DEVANAGARI LETTER TTHA
+ड     : (\u0921) :     4 :     0 :    -4 :   DEVANAGARI LETTER DDA
+ण     : (\u0923) :    18 :     0 :   -18 :   DEVANAGARI LETTER NNA
+त     : (\u0924) :    55 :     0 :   -55 :   DEVANAGARI LETTER TA
+थ     : (\u0925) :     1 :     0 :    -1 :   DEVANAGARI LETTER THA
+द     : (\u0926) :    27 :     0 :   -27 :   DEVANAGARI LETTER DA
+ध     : (\u0927) :     4 :     0 :    -4 :   DEVANAGARI LETTER DHA
+न     : (\u0928) :    23 :     0 :   -23 :   DEVANAGARI LETTER NA
+प     : (\u092a) :    23 :     0 :   -23 :   DEVANAGARI LETTER PA
+ब     : (\u092c) :     4 :     0 :    -4 :   DEVANAGARI LETTER BA
+भ     : (\u092d) :     9 :     0 :    -9 :   DEVANAGARI LETTER BHA
+म     : (\u092e) :    29 :     0 :   -29 :   DEVANAGARI LETTER MA
+य     : (\u092f) :     6 :     0 :    -6 :   DEVANAGARI LETTER YA
+र     : (\u0930) :    56 :     0 :   -56 :   DEVANAGARI LETTER RA
+ल     : (\u0932) :    16 :     0 :   -16 :   DEVANAGARI LETTER LA
+व     : (\u0935) :    29 :     0 :   -29 :   DEVANAGARI LETTER VA
+श     : (\u0936) :    17 :     0 :   -17 :   DEVANAGARI LETTER SHA
+ष     : (\u0937) :    12 :     0 :   -12 :   DEVANAGARI LETTER SSA
+स     : (\u0938) :    17 :     0 :   -17 :   DEVANAGARI LETTER SA
+ह     : (\u0939) :    14 :     0 :   -14 :   DEVANAGARI LETTER HA
+ा     : (\u093e) :    61 :     0 :   -61 :   DEVANAGARI VOWEL SIGN AA
+ि     : (\u093f) :    37 :     0 :   -37 :   DEVANAGARI VOWEL SIGN I
+ी     : (\u0940) :     3 :     0 :    -3 :   DEVANAGARI VOWEL SIGN II
+ु     : (\u0941) :    14 :     0 :   -14 :   DEVANAGARI VOWEL SIGN U
+ू     : (\u0942) :     8 :     0 :    -8 :   DEVANAGARI VOWEL SIGN UU
+े     : (\u0947) :    12 :     0 :   -12 :   DEVANAGARI VOWEL SIGN E
+ै     : (\u0948) :     1 :     0 :    -1 :   DEVANAGARI VOWEL SIGN AI
+ो     : (\u094b) :    27 :     0 :   -27 :   DEVANAGARI VOWEL SIGN O
+्     : (\u094d) :   114 :     0 :  -114 :   DEVANAGARI SIGN VIRAMA
+०     : (\u0966) :     1 :     0 :    -1 :   DEVANAGARI DIGIT ZERO
+१     : (\u0967) :     1 :     0 :    -1 :   DEVANAGARI DIGIT ONE
+२     : (\u0968) :     1 :     0 :    -1 :   DEVANAGARI DIGIT TWO
+६     : (\u096c) :     1 :     0 :    -1 :   DEVANAGARI DIGIT SIX
+८     : (\u096e) :     1 :     0 :    -1 :   DEVANAGARI DIGIT EIGHT
+॰     : (\u0970) :     6 :     0 :    -6 :   DEVANAGARI ABBREVIATION SIGN
+Ḍ     : (\u1e0c) :     2 :     2 :     0 :   LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ     : (\u1e0d) :   499 :   498 :    -1 :   LATIN SMALL LETTER D WITH DOT BELOW
+ḥ     : (\u1e25) :     1 :     1 :     0 :   LATIN SMALL LETTER H WITH DOT BELOW
+ṃ     : (\u1e43) :   197 :   197 :     0 :   LATIN SMALL LETTER M WITH DOT BELOW
+ṅ     : (\u1e45) :   635 :   632 :    -3 :   LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ     : (\u1e47) :  4332 :  4332 :     0 :   LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ     : (\u1e5a) :   368 :   374 :     6 :   LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ     : (\u1e5b) :  1286 :  1293 :     7 :   LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ     : (\u1e62) :     4 :     4 :     0 :   LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ     : (\u1e63) :  2929 :  2929 :     0 :   LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ     : (\u1e6c) :     1 :     1 :     0 :   LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ     : (\u1e6d) :   575 :   575 :     0 :   LATIN SMALL LETTER T WITH DOT BELOW
+–     : (\u2013) :     2 :     2 :     0 :   EN DASH
+‘     : (\u2018) :  2827 :  2848 :    21 :   LEFT SINGLE QUOTATION MARK
+’     : (\u2019) :  2827 :  2848 :    21 :   RIGHT SINGLE QUOTATION MARK
+“     : (\u201c) :    35 :    35 :     0 :   LEFT DOUBLE QUOTATION MARK
+”     : (\u201d) :    35 :    35 :     0 :   RIGHT DOUBLE QUOTATION MARK
+…     : (\u2026) :   909 :   909 :     0 :   HORIZONTAL ELLIPSIS
+⁄     : (\u2044) :    18 :    37 :    19 :   FRACTION SLASH
+⁞     : (\u205e) :     0 : 48507 : 48507 :   VERTICAL FOUR DOTS
+⁴     : (\u2074) :     1 :     1 :     0 :   SUPERSCRIPT FOUR
+⁵     : (\u2075) :     1 :     1 :     0 :   SUPERSCRIPT FIVE
+₀     : (\u2080) :     6 :     6 :     0 :   SUBSCRIPT ZERO
+₁     : (\u2081) :     8 :     8 :     0 :   SUBSCRIPT ONE
+₂     : (\u2082) :     1 :    12 :    11 :   SUBSCRIPT TWO
+₃     : (\u2083) :     2 :     3 :     1 :   SUBSCRIPT THREE
+₄     : (\u2084) :     1 :     8 :     7 :   SUBSCRIPT FOUR
+₅     : (\u2085) :     3 :     3 :     0 :   SUBSCRIPT FIVE
+₆     : (\u2086) :     7 :     7 :     0 :   SUBSCRIPT SIX
+₇     : (\u2087) :     1 :     1 :     0 :   SUBSCRIPT SEVEN
+₈     : (\u2088) :     4 :     4 :     0 :   SUBSCRIPT EIGHT
+€     : (\u20ac) :  4375 :  4374 :    -1 :   EURO SIGN
+⅓     : (\u2153) :     1 :     0 :    -1 :   VULGAR FRACTION ONE THIRD
+−     : (\u2212) :     0 :   486 :   486 :   MINUS SIGN
+⏑     : (\u23d1) :     1 :     1 :     0 :   METRICAL BREVE
+━     : (\u2501) :     0 :  7458 :  7458 :   BOX DRAWINGS HEAVY HORIZONTAL
+〔     : (\u3014) :     0 : 30105 : 30105 :   LEFT TORTOISE SHELL BRACKET
+〕     : (\u3015) :     0 : 30105 : 30105 :   RIGHT TORTOISE SHELL BRACKET
+卐     : (\u5350) :     1 :     1 :     0 :   CJK UNIFIED IDEOGRAPH-5350
+ꣲ     : (\ua8f2) :     1 :     1 :     0 :   DEVANAGARI SIGN SPACING CANDRABINDU
+ꣳ     : (\ua8f3) :     1 :     1 :     0 :   DEVANAGARI SIGN CANDRABINDU VIRAMA
+🞄     : (\u1f784) :     0 : 267668 : 267668 :   BLACK SLIGHTLY SMALL CIRCLE
+🠚     : (\u1f81a) :     0 : 46915 : 46915 :   HEAVY RIGHTWARDS ARROW WITH EQUILATERAL ARROWHEAD
