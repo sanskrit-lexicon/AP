@@ -217,6 +217,8 @@ cp temp_ap_0d.txt temp_ap_0d_work9.txt
 python db_comp.py 3 temp_ap_0d.txt temp_v4a_0c.txt temp.txt
 compare_groups finds 0 problem entries
 
+* change_ap_0c_0d.txt
+python diff_to_changes_dict.py temp_ap_0c.txt temp_ap_0d.txt change_ap_0c_0d.txt
 * 02-18-2026 Install temp_ap_0d.txt at Github, Cologne
 ------------
 get change file
