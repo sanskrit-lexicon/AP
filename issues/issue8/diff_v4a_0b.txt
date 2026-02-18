@@ -1,0 +1,28 @@
+6142c6142
+< <L>3260<pc>0166-2<k1>abjA<k2>abjA	{#abjA#}	¦ Born in water (<ls>P. III. 2. 67</ls>, <ls n="P.">VI. 4. 21</ls>.) ▪ {#abjA gojA ftajA adrijA ftam#} <ls>Rv. 4. 40. 5</ls>.
+---
+> <L>3260<pc>0166-2<k1>abjA<k2>abjA	{#abjA#}	¦ {%〔m.〕%} <ab>Ved.</ab> ({#bjAH#} Born in water (<ls>P. III. 2. 67</ls>, <ls n="P.">VI. 4. 21</ls>.) ▪ {#abjA gojA ftajA adrijA ftam#} <ls>Rv. 4. 40. 5</ls>.
+7679c7679
+< →	▪.{@{#-darSin, -dfzwi#}@}	⁞ {%〔m.〕%} ‘of unerring mind or view’, <ab>N.</ab> of a Bodhisattva.
+---
+> →	▪.{@{#-darSin, -dfzwi#}@}	⁞ {%〔a.〕%} ‘of unerring mind or view’, <ab>N.</ab> of a Bodhisattva.
+13443c13443
+< <L>7029<pc>0336-2<k1>AntarAla<k2>AntarAla	{#AntarAla#}	¦ {%〔m.〕%} [{#antarAlaM vetti aR#}] ‘One conversant with the ▪ inner nature’, <ab>N.</ab> of a philosophical sect. ▪<LEND> ▪$
+---
+> <L>7029<pc>0336-2<k1>AntarAla<k2>AntarAla	{#AntarAla#}	¦ {%〔a.〕%} [{#antarAlaM vetti aR#}] ‘One conversant with the ▪ inner nature’, <ab>N.</ab> of a philosophical sect. ▪<LEND> ▪$
+16440c16440
+< →	▪.{@{#-ojas#}@}	⁞ {%〔m.〕%} ‘of excellent valour’, <ab>N.</ab> of one of the warriors of ▪ the Mahābhārata; {#uttamOjASca vIryavAn#} <ls>Bg. 1. 6</ls>.
+---
+> →	▪.{@{#-ojas#}@}	⁞ {%〔a.〕%} ‘of excellent valour’, <ab>N.</ab> of one of the warriors of ▪ the Mahābhārata; {#uttamOjASca vIryavAn#} <ls>Bg. 1. 6</ls>.
+42709c42709
+< →	▪.{@{#-prati(tI)kAra#}@} ({#nizprati(tI)kAra#}), {@{#-pratikriya#}@}, ({@{#-ram#}@})	⁞ {%〔ind.〕%} uninterruptedly.
+---
+> →	▪.{@{#-prati(tI)kAra#}@} ({#nizprati(tI)kAra#}), {@{#-pratikriya#}@}, ({@{#nizpratikriya#}@}) {%〔a.〕%}  ▪.²1 incurable, irremediable; {#sarvaTA nizpratIkAreyamApadupasTitA#} <ls>K. 151</ls>.  ▪.²2 unobstructed, uninterrupted. ({@{#-ram#}@})	⁞ {%〔ind.〕%} uninterruptedly.
+42760c42760
+< →	▪.{@{#-saMtati#}@} ({#niHsaMtati#}), {@{#-saMtAna#}@}, {@{#-saMdigDa#}@} ({#niHsaMdigDa#}), {@{#-saMdeha#}@}, {@{#-saMDi#}@} ({#nissaMDi, niHsaMDi#})	⁞ {%〔a.〕%} having no joints perceptible, ▪ compact, firm, close.
+---
+> →	▪.{@{#-saMtati#}@} ({#niHsaMtati#}), {@{#-saMtAna#}@} ({@{#niHsaMtAna#}@}) ▪ {%〔a.〕%} childless. ▪.{@{#-saMdigDa#}@} ({#niHsaMdigDa#}), {@{#-saMdeha#}@}, ({@{#niHsaMdeha#}@}) ▪ {%〔a.〕%} see {#niHsaMSaya#}. ▪.{@{#-saMDi#}@} ({#nissaMDi, niHsaMDi#})	⁞ {%〔a.〕%} having no joints perceptible, ▪ compact, firm, close.
+51775c51775
+< →	▪.{@{#-janman#}@} ({#prAgjanman#}) {%〔n.〕%}, {@{#-jAtiH#}@}, {@{#-jyotizaH#}@} ({#prAgjyotizaH#})	⁞ ▪∙²1 <ab>N.</ab> of country, also called Kāmarūpa. ▪∙²2 (<ab>pl.</ab>). the people of this country.
+---
+> →	▪.{@{#-janman#}@} ({#prAgjanman#}) {%〔n.〕%}, {@{#-jAtiH#}@}, ({#prAgjAtiH#}) {%〔f.〕%} ▪ a former birth. {@{#-jyotizaH#}@} ({#prAgjyotizaH#})	⁞ ▪∙²1 <ab>N.</ab> of country, also called Kāmarūpa. ▪∙²2 (<ab>pl.</ab>). the people of this country.
