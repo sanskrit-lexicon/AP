@@ -1,0 +1,2870 @@
+; <L>1<pc>0001-1<k1>a<k2>a
+24 old  changed to {#an#} before vowels (except in the word {@{#a-fRin#}@}). The
+;
+24 new  changed to {#an#} before vowels (except in the word {#a-fRin#}). The
+;---------------------------------------------------
+; <L>153<pc>0009-1<k1>akzara<k2>akzara
+1503 old  lives by writing’, a scribe. ({@{#-vi#}@}) {@{#nyAsaH#}@} [<sab>{#za˚ ta˚#}</sab> {#BAve GaY#}]
+;
+1503 new  lives by writing’, a scribe. {@{#-(vi)nyAsaH#}@} [<sab>{#za˚ ta˚#}</sab> {#BAve GaY#}]
+;---------------------------------------------------
+; <L>303<pc>0023-2<k1>aNg<k2>aNg
+3584 old .²2 To mark (<ab>cf.</ab> {#aNk#}). --{%With%} {#pari#} ({#pali#}) to stir up. {#-vipali#}
+;
+3584 new .²2 To mark (<ab>cf.</ab> {#aNk#}). ━{%With%} {@{#pari (pali)#}@} to stir up. ━{@{#vipali#}@}
+;---------------------------------------------------
+; <L>305<pc>0023-2<k1>aNgam<k2>aNgam
+3657 old .{@{#-aNgi#}@}, [{@{#aNgIBAvaH#}@} {#-aNgasya aNgino BAvaH#}] the relation
+;
+3657 new .{@{#-aNgi#}@}, [{#aNgIBAvaH#} {#-aNgasya aNgino BAvaH#}] the relation
+;---------------------------------------------------
+; <L>385<pc>0029-2<k1>acCidra<k2>acCidra
+4561 old .{@{#-UDan#}@} [{@{#UDnI#}@}] having a faultless udder. {#acCidroDnI pIpayadyaTA#}
+;
+4561 new .{@{#-UDan#}@} [{@{#-UDnI#}@}] having a faultless udder. {#acCidroDnI pIpayadyaTA#}
+;---------------------------------------------------
+; <L>401<pc>0031-2<k1>ajakAvaH<k2>ajakAvaH
+4797 old .({@{#-vam#}@} in this sense) {#mEtrAvaruRapAtram#}
+;
+4797 new .({#-vam#} in this sense) {#mEtrAvaruRapAtram#}
+;---------------------------------------------------
+; <L>474<pc>0034-1<k1>aYc<k2>aYc
+5333 old ━{@{#-upa#}@} to draw or raise (water).
+;
+5333 new ━{@{#upa#}@} to draw or raise (water).
+;---------------------------------------------------
+; <L>474<pc>0034-1<k1>aYc<k2>aYc
+5334 old ━{@{#-pari#}@} to cause to revolve, whirl, twist.
+;
+5334 new ━{@{#pari#}@} to cause to revolve, whirl, twist.
+;---------------------------------------------------
+; <L>474<pc>0034-1<k1>aYc<k2>aYc
+5335 old ━{@{#-vi#}@} to draw or bend asunder; to extend, stretch out.
+;
+5335 new ━{@{#vi#}@} to draw or bend asunder; to extend, stretch out.
+;---------------------------------------------------
+; <L>474<pc>0034-1<k1>aYc<k2>aYc
+5336 old ━{@{#-sam#}@} to crowd or drive together, to bend together. See {#samakna#}
+;
+5336 new ━{@{#sam#}@} to crowd or drive together, to bend together. See {#samakna#}
+;---------------------------------------------------
+; <L>478<pc>0034-2<k1>aYj<k2>aYj
+5390 old .²3 To cause to go. [<ab>cf.</ab> <lang>Zend.</lang> {%anj%}; <lang>L.</lang> {%unctum, ungo%}.] {%With%} {@{#aDi#}@} 
+;
+5390 new .²3 To cause to go. [<ab>cf.</ab> <lang>Zend.</lang> {%anj%}; <lang>L.</lang> {%unctum, ungo%}.] ━{%With%} {@{#aDi#}@} 
+;---------------------------------------------------
+; <L>478<pc>0034-2<k1>aYj<k2>aYj
+5396 old ━{@{#-ni#}@}
+;
+5396 new ━{@{#ni#}@}
+;---------------------------------------------------
+; <L>478<pc>0034-2<k1>aYj<k2>aYj
+5399 old ━{@{#-prati#}@}
+;
+5399 new ━{@{#prati#}@}
+;---------------------------------------------------
+; <L>478<pc>0034-2<k1>aYj<k2>aYj
+5402 old ━{@{#-sam#}@}
+;
+5402 new ━{@{#sam#}@}
+;---------------------------------------------------
+; <L>776<pc>0047-1<k1>atiSI<k2>atiSI
+7621 old .--{%<ab>Caus.</ab>%} ({@{#-SAyayati#}@})
+;
+7621 new .--{%<ab>Caus.</ab>%} ({#-SAyayati#})
+;---------------------------------------------------
+; <L>877<pc>0051-1<k1>atra<k2>atra
+8375 old .{@{#-Bavat#}@} ({%<lex>m.</lex>%} {@{#BavAn#}@}) an honorific epithet meaning ‘worthy’,
+;
+8375 new .{@{#-Bavat#}@} ({%<lex>m.</lex>%} {@{#-BavAn#}@}) an honorific epithet meaning ‘worthy’,
+;---------------------------------------------------
+; <L>903<pc>0053-1<k1>ad<k2>ad
+8648 old  <lang>Goth.</lang> {%at%}, <lang>Zend.</lang> {%ad%}] With {#ava#} to satisfy by food, get rid of
+;
+8648 new  <lang>Goth.</lang> {%at%}, <lang>Zend.</lang> {%ad%}] ━{%With%} {@{#ava#}@} to satisfy by food, get rid of
+;---------------------------------------------------
+; <L>903<pc>0053-1<k1>ad<k2>ad
+8649 old  with feeding; (<ab>fig.</ab>) stop the mouth of. {#-A#} to eat <ab>&c.</ab> {#-pra-sam#}
+;
+8649 new  with feeding; (<ab>fig.</ab>) stop the mouth of. ━{@{#A#}@} to eat <ab>&c.</ab> ━{@{#pra-sam#}@}
+;---------------------------------------------------
+; <L>986<pc>0057-1<k1>adriH<k2>adriH
+9371 old .²2 {@{#-kanyA, -tanayA -sutA#}@} <ab>&c.</ab> Pārvatī.
+;
+9371 new .²2 {@{#-kanyA, -tanayA, -sutA#}@} <ab>&c.</ab> Pārvatī.
+;---------------------------------------------------
+; <L>2276<pc>0114-2<k1>anUpa<k2>anUpa
+19314 old .({@{#-pAH#}@} <ab>pl.</ab>); {#tAmagrataH anUparAjasya viDAya#} <ls>R. 6. 37</ls>.
+;
+19314 new .({#-pAH#} <ab>pl.</ab>); {#tAmagrataH anUparAjasya viDAya#} <ls>R. 6. 37</ls>.
+;---------------------------------------------------
+; <L>2334<pc>0118-2<k1>antar<k2>antar
+20245 old .{@{#-vidvas#}@} {%<lex>a.</lex>%} <ab>Ved.</ab> ({@{#viduzI#}@} {%<lex>f.</lex>%}) knowing correctly
+;
+20245 new .{@{#-vidvas#}@} {%<lex>a.</lex>%} <ab>Ved.</ab> ({#viduzI#} {%<lex>f.</lex>%}) knowing correctly
+;---------------------------------------------------
+; <L>2370<pc>0126-2<k1>antika<k2>antika
+20931 old  <ls>H. 1. 43</ls>; <ab>oft.</ab> in <ab>comp.</ab>; {#˚nyasta#} <ls>R. 2. 24</ls>; {@{#karRa-, ˚caraH#}@} <ls>Ś. 1. 23</ls>;
+;
+20931 new  <ls>H. 1. 43</ls>; <ab>oft.</ab> in <ab>comp.</ab>; {#˚nyasta#} <ls>R. 2. 24</ls>; {#karRa-, ˚caraH#} <ls>Ś. 1. 23</ls>;
+;---------------------------------------------------
+; <L>2385<pc>0127-2<k1>anDa<k2>anDa
+21167 old .({@{#-sraH, sram#}@})
+;
+21167 new .({@{#-sraH, -sram#}@})
+;---------------------------------------------------
+; <L>3214<pc>0164-2<k1>aprItiH<k2>aprItiH
+27601 old .({@{#-rI#}@} {%<lex>f.</lex>%}).
+;
+27601 new .({#-rI#} {%<lex>f.</lex>%}).
+;---------------------------------------------------
+; <L>3223<pc>0164-2<k1>apsaH<k2>apsaH,
+27650 old .({@{#-psAH#}@}) <ab>Ved.</ab> [{#apaHsanoti, san-qa#}]
+;
+27650 new .({#-psAH#} <ab>Ved.</ab>) [{#apaHsanoti, san-qa#}]
+;---------------------------------------------------
+; <L>4114<pc>0199-1<k1>am<k2>am
+34093 old .²2 To be ill or be afflicted or diseased. --{%With%} {#sam#} <ab>Ved.</ab> €1 <ab>Ā.</ab>
+;
+34093 new .²2 To be ill or be afflicted or diseased. ━{%With%} {@{#sam#}@} <ab>Ved.</ab> €1 <ab>Ā.</ab>
+;---------------------------------------------------
+; <L>4157<pc>0201-2<k1>amala<k2>amala
+34530 old .{@{#-patatrin#}@} {%<lex>m.</lex>%} ({@{#trI#}@}) the wild goose; {#mADuryAdamalapatatriRAM#}
+;
+34530 new .{@{#-patatrin#}@} {%<lex>m.</lex>%} ({@{#-trI#}@}) the wild goose; {#mADuryAdamalapatatriRAM#}
+;---------------------------------------------------
+; <L>4282<pc>0208-1<k1>amBas<k2>amBas
+35764 old  {#SrImadamBojaKaRqam#} <ls>Śi. 9. 11</ls>, <ls n="Śi. 9.">64</ls>; {#˚janman#} {%<lex>m.</lex>%}, {@{#-janiH, -yoniH#}@}
+;
+35764 new  {#SrImadamBojaKaRqam#} <ls>Śi. 9. 11</ls>, <ls n="Śi. 9.">64</ls>; {#˚janman#} {%<lex>m.</lex>%}, {#-janiH, -yoniH#}
+;---------------------------------------------------
+; <L>4530<pc>0221-1<k1>arc<k2>arc
+38099 old ━{@{#-sam#}@}
+;
+38099 new ━{@{#sam#}@}
+;---------------------------------------------------
+; <L>4547<pc>0222-1<k1>arj<k2>arj
+38220 old ━{@{#-apyati#}@} to add, append; say something in addition to what is already said.
+;
+38220 new ━{@{#apyati#}@} to add, append; say something in addition to what is already said.
+;---------------------------------------------------
+; <L>4547<pc>0222-1<k1>arj<k2>arj
+38221 old ━{@{#-ava#}@} to permit to leave, release, let go.
+;
+38221 new ━{@{#ava#}@} to permit to leave, release, let go.
+;---------------------------------------------------
+; <L>4547<pc>0222-1<k1>arj<k2>arj
+38222 old ━{@{#-ud#}@} to drive out, remove.
+;
+38222 new ━{@{#ud#}@} to drive out, remove.
+;---------------------------------------------------
+; <L>4547<pc>0222-1<k1>arj<k2>arj
+38223 old ━{@{#-pra#}@} {%<ab>caus.</ab>%} to furnish, supply, procure.
+;
+38223 new ━{@{#pra#}@} {%<ab>caus.</ab>%} to furnish, supply, procure.
+;---------------------------------------------------
+; <L>5160<pc>0252-1<k1>avayAj<k2>avayAj
+43542 old .({@{#-yAH, yAjO#}@}) A kind of priest.
+;
+43542 new .({@{#-yAH, -yAjO#}@}) A kind of priest.
+;---------------------------------------------------
+; <L>5923<pc>0282-1<k1>azwan<k2>azwan
+49413 old .{@{#-triMSat#}@}
+;
+49413 new .{@{#-triMSat#}@} ({#-˚zwA˚#})
+;---------------------------------------------------
+; <L>5923<pc>0282-1<k1>azwan<k2>azwan
+49414 old .({@{#-˚zwA˚#}@}) {%<lex>a.</lex>%} thirty-eight.
+;
+49414 new  {%<lex>a.</lex>%} thirty-eight.
+;---------------------------------------------------
+; <L>5944<pc>0285-2<k1>as<k2>as
+49826 old  <lang>Zend.</lang> {%āsti%}; <lang>Pers.</lang> {%hast, ast%}] {%With%} {@{#ati#}@}
+;
+49826 new  <lang>Zend.</lang> {%āsti%}; <lang>Pers.</lang> {%hast, ast%}] ━{%With%} {@{#ati#}@}
+;---------------------------------------------------
+; <L>5944<pc>0285-2<k1>as<k2>as
+49855 old {@{#-as#}@} --II. €4 <ab>P.</ab> ({#asyati, Asa, AsTat, asitum, asta#})
+;
+49855 new  ━II. €4 <ab>P.</ab> ({#asyati, Asa, AsTat, asitum, asta#})
+;---------------------------------------------------
+; <L>5944<pc>0285-2<k1>as<k2>as
+49869 old  {@{#-as#}@} --III. €1 <ab>U.</ab> ({#asati-te, asita#}).
+;
+49869 new  ━III. €1 <ab>U.</ab> ({#asati-te, asita#}).
+;---------------------------------------------------
+; <L>6380<pc>0305-2<k1>AkAlika<k2>AkAlika
+53533 old .({@{#-kI#}@} {%<lex>f.</lex>%})
+;
+53533 new .({#-kI#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>6934<pc>0333-1<k1>AnakaH<k2>AnakaH
+58500 old .({@{#-BiH, BI#}@} {%<lex>f.</lex>%}) a large drum or {%dhol%}, kettle-drum (beaten at one end).
+;
+58500 new .({@{#-BiH, -BI#}@} {%<lex>f.</lex>%}) a large drum or {%dhol%}, kettle-drum (beaten at one end).
+;---------------------------------------------------
+; <L>7855<pc>0369-2<k1>ASvatTa<k2>ASvatTa
+65601 old .({@{#-kI#}@} {%<lex>f.</lex>%}) [{#aSvatTasyedam aR Wak vA#} <ls>P. IV. 2. 22</ls>]
+;
+65601 new  ({#-kI#} {%<lex>f.</lex>%}) [{#aSvatTasyedam aR Wak vA#} <ls>P. IV. 2. 22</ls>]
+;---------------------------------------------------
+; <L>8129<pc>0381-2<k1>itas<k2>itas
+67849 old .²6 From this time. {@{#itaH-itaH#}@}
+;
+67849 new .²6 From this time. {@{#itaH━itaH#}@}
+;---------------------------------------------------
+; <L>8290<pc>0391-a1<k1>Ikz<k2>Ikz
+69589 old  <ls>Bk. 8. 76</ls>. --{%With%} {#aDi#} to suspect; {#satye'pyapAyamaDIkzate#} <ls>H. 4. 102</ls> <ab>v. l.</ab>
+;
+69589 new  <ls>Bk. 8. 76</ls>. ━{%With%} {@{#aDi#}@} to suspect; {#satye'pyapAyamaDIkzate#} <ls>H. 4. 102</ls> <ab>v. l.</ab>
+;---------------------------------------------------
+; <L>8670<pc>0407-1<k1>uttama<k2>uttama
+72637 old  excellent. {@{#fRaH, fRikaH#}@} ({#uttamarRaH#}) a creditor (<ab>opp.</ab> {#aDamarRaH#})
+;
+72637 new  excellent. {@{#fRaH, -fRikaH#}@} ({#uttamarRaH#}) a creditor (<ab>opp.</ab> {#aDamarRaH#})
+;---------------------------------------------------
+; <L>8763<pc>0413-1<k1>utpala<k2>utpala
+73676 old .{@{#-SArivA#}@} see {@{#utpalagopA#}@} (= {#SyAmA#}) Ichno Carpus Frutescens
+;
+73676 new .{@{#-SArivA#}@} see {#utpalagopA#} (= {#SyAmA#}) Ichno Carpus Frutescens
+;---------------------------------------------------
+; <L>8870<pc>0417-2<k1>udakam<k2>udakam
+74522 old .{@{#udakaM dA, -pradA#}@} or {@{#kf#}@} To offer a libation of water to a dead person;
+;
+74522 new .{@{#udakaM dA, -pradA#}@} or {@{#-kf#}@} To offer a libation of water to a dead person;
+;---------------------------------------------------
+; <L>9826<pc>0458-1<k1>upari<k2>upari
+82135 old .{@{#-zWaH#}@} ({@{#-sTa#}@}) {%<lex>a.</lex>%} Above, staying up; {#parvatasyoparizWasya#}
+;
+82135 new .{@{#-zWaH#}@} ({#-sTa#}) {%<lex>a.</lex>%} Above, staying up; {#parvatasyoparizWasya#}
+;---------------------------------------------------
+; <L>10293<pc>0477-1<k1>uru<k2>uru
+85738 old .({@{#-yam#}@} also).
+;
+85738 new .({#-yam#} also).
+;---------------------------------------------------
+; <L>10463<pc>0483-a2<k1>UruH<k2>UruH
+87065 old .{@{#-Binna#}@} {%<lex>a.</lex>%} having a rent in the thigh; see {@{#-nnI#}@} {%<lex>f.</lex>%} <ls>P. IV. 1. 52</ls>.
+;
+87065 new .{@{#-Binna#}@} {%<lex>a.</lex>%} having a rent in the thigh; see {#-nnI#} {%<lex>f.</lex>%} <ls>P. IV. 1. 52</ls>.
+;---------------------------------------------------
+; <L>10582<pc>0490-1<k1>ftuH<k2>ftuH
+88288 old .({@{#-sTA#}@}) {%<lex>a.</lex>%} fixed at the proper seasons; <ls>Vāj. 17. 3</ls>.
+;
+88288 new ({#-sTA#}) {%<lex>a.</lex>%} fixed at the proper seasons; <ls>Vāj. 17. 3</ls>.
+;---------------------------------------------------
+; <L>10632<pc>0493-c1<k1>eka<k2>eka
+88983 old .{@{#-fc#}@} {%<lex>a.</lex>%} consisting of one verse ({@{#fc#}@}).
+;
+88983 new .{@{#-fc#}@} {%<lex>a.</lex>%} consisting of one verse ({#fc#}).
+;---------------------------------------------------
+; <L>10632<pc>0493-c1<k1>eka<k2>eka
+88987 old .({@{#-kam#}@}), {@{#-ekEkaSaH#}@}, {%<lex>ind.</lex>%}
+;
+88987 new .({@{#-kam#}@}), {@{#ekEkaSaH#}@}, {%<lex>ind.</lex>%}
+;---------------------------------------------------
+; <L>10632<pc>0493-c1<k1>eka<k2>eka
+89002 old .²2 ({@{#-rA#}@}) one-handed.
+;
+89002 new .²2 ({#-rA#}) one-handed.
+;---------------------------------------------------
+; <L>10943<pc>0509-2<k1>OdaSvita<k2>OdaSvita,
+91627 old .({@{#-tI, kI#}@} {%<lex>f.</lex>%}) [{#udaSvit aR Wak vA#}] <ls>P. IV. 2. 19</ls>; and <ls n="P.">VII. 3. 51</ls>.
+;
+91627 new .({#-tI, kI#} {%<lex>f.</lex>%}) [{#udaSvit aR Wak vA#}] <ls>P. IV. 2. 19</ls>; and <ls n="P.">VII. 3. 51</ls>.
+;---------------------------------------------------
+; <L>11086<pc>0514-1<k1>kaMsaH<k2>kaMsaH,
+92585 old .({@{#-rI#}@} {%<lex>f.</lex>%})
+;
+92585 new  ({#-rI#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>11858<pc>0552-1<k1>kAMsya<k2>kAMsya
+99926 old .({@{#-rI#}@} {%<lex>f.</lex>%}) a brazier, a worker in the bell-metal. {#kAMsyakArAH#}
+;
+99926 new  ({#-rI#} {%<lex>f.</lex>%}) a brazier, a worker in the bell-metal. {#kAMsyakArAH#}
+;---------------------------------------------------
+; <L>11863<pc>0553-1<k1>kAkaruka<k2>kAkaru(rU)ka
+100048 old .²2 ({@{#-kI#}@} {%<lex>f.</lex>%})
+;
+100048 new .²2 ({#-kI#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>12240<pc>0571-2<k1>kim<k2>kim<h>1
+103592 old  and the head of a horse ({@{#aSvamuKa#}@}); {#jayodAharaRaM bAhvorgApayAmAsa#}
+;
+103592 new  and the head of a horse ({#aSvamuKa#}); {#jayodAharaRaM bAhvorgApayAmAsa#}
+;---------------------------------------------------
+; <L>12318<pc>0576-1<k1>kuH<k2>kuH
+104398 old  {@{#-vamaH#}@} <ls>Mb. 13. 93. 90</ls>. (see {#wIkA#}).
+;
+104398 new  {#-vamaH#} <ls>Mb. 13. 93. 90</ls>. (see {#wIkA#}).
+;---------------------------------------------------
+; <L>12434<pc>0580-2<k1>kuRqaH<k2>kuRqaH
+105379 old .{@{#-qaH#}@}
+;
+105379 new .{@{#-qaH#}@} ({#-qA#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>12434<pc>0580-2<k1>kuRqaH<k2>kuRqaH
+105380 old .({@{#-qA#}@} {%<lex>f.</lex>%}) A son born in adultery, the son of a woman by a man
+;
+105380 new  A son born in adultery, the son of a woman by a man
+;---------------------------------------------------
+; <L>12434<pc>0580-2<k1>kuRqaH<k2>kuRqaH
+105389 old .{@{#-UDas#}@} ({@{#kuRqoDnI#}@} <ls>P. V. 4. 131</ls>)
+;
+105389 new .{@{#-UDas#}@} ({#kuRqoDnI#} <ls>P. V. 4. 131</ls>)
+;---------------------------------------------------
+; <L>12705<pc>0592-1<k1>kUj<k2>kUj
+107650 old  {#veRum#} <ls>Bhāg. 10. 21. 2</ls>. --{%With%} {#ni, pari#} or {#vi#} to coo, to make
+;
+107650 new  {#veRum#} <ls>Bhāg. 10. 21. 2</ls>. ━{%With%} {@{#ni, pari#}@} or {@{#vi#}@} to coo, to make
+;---------------------------------------------------
+; <L>12708<pc>0592-1<k1>kUwa<k2>kUwa
+107758 old .({@{#-sTaH#}@}, {@{#-sTam#}@}) a kind of perfume (<lang>Mar.</lang> <ns>{#naKalA#}</ns>).
+;
+107758 new .({@{#-sTaH, -sTam#}@}) a kind of perfume (<lang>Mar.</lang> <ns>{#naKalA#}</ns>).
+;---------------------------------------------------
+; <L>13171<pc>0616-2<k1>krIq<k2>krIq
+112253 old ━{@{#A, -pari, -sam#}@} [Ā. {#krIqo'nusaMpariByaSca#} <ls>P. I. 3. 21</ls>] to
+;
+112253 new ━{@{#A, pari, sam#}@} [Ā. {#krIqo'nusaMpariByaSca#} <ls>P. I. 3. 21</ls>] to
+;---------------------------------------------------
+; <L>13269<pc>0620-2<k1>kzaR<k2>kzaR
+113037 old  <ls>R. 11. 72</ls>; (with {@{#parA, -pari, -vi#}@} used in the same senses as {#kzaR#}).
+;
+113037 new  <ls>R. 11. 72</ls>; (with {@{#parA, pari, vi#}@} used in the same senses as {#kzaR#}).
+;---------------------------------------------------
+; <L>13317<pc>0623-1<k1>kzar<k2>kzar
+113497 old  To accuse, traduce (usually with {#A#}). --{%With%} {@{#vi#}@} to melt away, dissolve.
+;
+113497 new  To accuse, traduce (usually with {#A#}). ━{%With%} {@{#vi#}@} to melt away, dissolve.
+;---------------------------------------------------
+; <L>13328<pc>0623-2<k1>kzal<k2>kzal
+113625 old .²2 To wipe away. --{%With%} {#vi#} to wash off; {#niHSezavikzAlitaDAtunApi#} <ls>R. 5. 44</ls>.
+;
+113625 new .²2 To wipe away. ━{%With%} {@{#vi#}@} to wash off; {#niHSezavikzAlitaDAtunApi#} <ls>R. 5. 44</ls>.
+;---------------------------------------------------
+; <L>13360<pc>0625-2<k1>kzip<k2>kzip
+113966 old .²13 (in <ab>math.</ab>) To add; <ls>Golādh.</ls> --{%With%} {@{#paryA#}@} to bind or tie up,
+;
+113966 new .²13 (in <ab>math.</ab>) To add; <ls>Golādh.</ls> ━{%With%} {@{#paryA#}@} to bind or tie up,
+;---------------------------------------------------
+; <L>13407<pc>0627-2<k1>kzud<k2>kzud
+114359 old --{%With%} {@{#pra#}@} to crush, bruise, pound; {#mitraGnasya pracukzoda#}
+;
+114359 new ━{%With%} {@{#pra#}@} to crush, bruise, pound; {#mitraGnasya pracukzoda#}
+;---------------------------------------------------
+; <L>13475<pc>0630-2<k1>kzRu<k2>kzRu
+114974 old  {#damayantsapatnAn#} <ls>Av. 5. 20. 1</ls>. --{%With%} {@{#saM#}@} (<ab>Ā.</ab>) to sharpen (<ab>fig.</ab>
+;
+114974 new  {#damayantsapatnAn#} <ls>Av. 5. 20. 1</ls>. ━{%With%} {@{#saM#}@} (<ab>Ā.</ab>) to sharpen (<ab>fig.</ab>
+;---------------------------------------------------
+; <L>13482<pc>0631-1<k1>kzviq<k2>kzviq
+115019 old .²2 To emit sap, or discharge juice, ichor <ab>&c.</ab>, exude. With {@{#pra#}@}
+;
+115019 new .²2 To emit sap, or discharge juice, ichor <ab>&c.</ab>, exude. ━{%With%} {@{#pra#}@}
+;---------------------------------------------------
+; <L>13762<pc>0643-2<k1>gaR<k2>gaR
+117373 old  <ls>H. 2. 131</ls>; <ls>Ś. 7. 1</ls>, <ls n="Ś.">4. 19</ls>. --{%With%} {#aDi#}
+;
+117373 new  <ls>H. 2. 131</ls>; <ls>Ś. 7. 1</ls>, <ls n="Ś.">4. 19</ls>. ━{%With%} {@{#aDi#}@}
+;---------------------------------------------------
+; <L>13909<pc>0653-2<k1>gal<k2>gal
+119152 old .²3 To flow (<ab>Ā.</ab>). .²4 To fuse, liquefy, dissolve, melt. --{%With%} {@{#nis#}@} to
+;
+119152 new .²3 To flow (<ab>Ā.</ab>). .²4 To fuse, liquefy, dissolve, melt. ━{%With%} {@{#nis#}@} to
+;---------------------------------------------------
+; <L>14043<pc>0658-2<k1>gAh<k2>gAh
+120194 old .²6 To destroy. With {#sam#} to enter, go to or into, penetrate into; {#samagAhizwa#}
+;
+120194 new .²6 To destroy. ━{%With%} {@{#sam#}@} to enter, go to or into, penetrate into; {#samagAhizwa#}
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120270 old .{@{#-devI#}@} ({@{#gIrdevI#}@}) Sarasvatī, the goddess of speech.
+;
+120270 new .{@{#-devI#}@} ({#gIrdevI#}) Sarasvatī, the goddess of speech.
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120271 old .{@{#-patiH#}@} (written as {@{#gIHpatiH, gIzpatiH#}@} and {@{#gIrpatiH#}@})
+;
+120271 new .{@{#-patiH#}@} (written as {#gIHpatiH, gIzpatiH#} and {#gIrpatiH#})
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120273 old .²2 a learned man; so {#girISaH#}, .{@{#-raTaH#}@} ({@{#gIraTaH#}@}) <ab>N.</ab> of Bṛhaspati.
+;
+120273 new .²2 a learned man; so {#girISaH#}, .{@{#-raTaH#}@} ({#gIraTaH#}) <ab>N.</ab> of Bṛhaspati.
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120274 old .{@{#-vA(bA)RaH#}@} ({@{#gIrvARa#}@}) a god, deity; {#parimalo#}
+;
+120274 new .{@{#-vA(bA)RaH#}@} ({#gIrvARa#}) a god, deity; {#parimalo#}
+;---------------------------------------------------
+; <L>14052<pc>0659-1<k1>giri<k2>giri
+120313 old .{@{#-kaRwakaH#}@} Indraʼs thunderbolt. {@{#kadambaH, -mbakaH#}@} a species
+;
+120313 new .{@{#-kaRwakaH#}@} Indraʼs thunderbolt. {@{#-kadambaH, -mbakaH#}@} a species
+;---------------------------------------------------
+; <L>14052<pc>0659-1<k1>giri<k2>giri
+120351 old .{@{#-RadDa#}@} ({@{#nadDa#}@}) {%<lex>a.</lex>%} enclosed by a mountain.
+;
+120351 new .{@{#-RadDa#}@} ({@{#-nadDa#}@}) {%<lex>a.</lex>%} enclosed by a mountain.
+;---------------------------------------------------
+; <L>14052<pc>0659-1<k1>giri<k2>giri
+120356 old .{@{#-RitambaH#}@} ({@{#nitambaH#}@}) the declivity of a mountain.
+;
+120356 new .{@{#-RitambaH#}@} ({@{#-nitambaH#}@}) the declivity of a mountain.
+;---------------------------------------------------
+; <L>14052<pc>0659-1<k1>giri<k2>giri
+120382 old .{@{#-zad#}@} ({@{#sad#}@}) {%<lex>m.</lex>%} an epithet of Śiva.
+;
+120382 new .{@{#-zad#}@} ({@{#-sad#}@}) {%<lex>m.</lex>%} an epithet of Śiva.
+;---------------------------------------------------
+; <L>14239<pc>0670-1<k1>gF<k2>gF
+122317 old  With {#anu#} to encourage; {#gfRadByo'nugfRantyanye#} <ls>Bk. 8. 77</ls>.
+;
+122317 new  ━{%With%} {@{#anu#}@} to encourage; {#gfRadByo'nugfRantyanye#} <ls>Bk. 8. 77</ls>.
+;---------------------------------------------------
+; <L>14239<pc>0670-1<k1>gF<k2>gF
+122322 old .²2 To send forth, pour out, spit out, or eject, from the mouth. With {#ava#}
+;
+122322 new .²2 To send forth, pour out, spit out, or eject, from the mouth. ━{%With%} {@{#ava#}@}
+;---------------------------------------------------
+; <L>14349<pc>0677-2<k1>gras<k2>gras
+123718 old .²5 To destroy. --{%With%} {#saM#} to destroy; {#saMgrasyate'sO puruzA#}
+;
+123718 new .²5 To destroy. ━{%With%} {@{#saM#}@} to destroy; {#saMgrasyate'sO puruzA#}
+;---------------------------------------------------
+; <L>14528<pc>0687-2<k1>Gfta<k2>Gfta
+125605 old .{@{#-pUraH, -varaH#}@} a kind of sweetmeat; also {@{#˚pUrvakaH#}. {#-pfc#}@}
+;
+125605 new .{@{#-pUraH, -varaH#}@} a kind of sweetmeat; also {#˚pUrvakaH#}. {@{#-pfc#}@}
+;---------------------------------------------------
+; <L>14571<pc>0690-1<k1>cakAs<k2>cakAs
+125999 old  illuminate; <ls>Śi. 3. 6</ls>. With {#vi#} to shine, be bright.
+;
+125999 new  illuminate; <ls>Śi. 3. 6</ls>. ━{%With%} {@{#vi#}@} to shine, be bright.
+;---------------------------------------------------
+; <L>14573<pc>0690-1<k1>cakoraH<k2>cakoraH
+126015 old .{@{#-akza#}@} {%<lex>a.</lex>%} (=  {@{#-dfS#}@});
+;
+126015 new .{@{#-akza#}@} {%<lex>a.</lex>%} (=  {#-dfS#});
+;---------------------------------------------------
+; <L>14577<pc>0690-2<k1>cakram<k2>cakram
+126187 old .²1 ({@{#-kI#}@} {%<lex>f.</lex>%})
+;
+126187 new .²1 ({#-kI#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>14593<pc>0692-1<k1>cakzus<k2>cakzus
+126337 old .{@{#-Sruti#}@} {%<lex>m.</lex>%} (= {@{#-Sravas#}@})
+;
+126337 new .{@{#-Sruti#}@} {%<lex>m.</lex>%} (= {#-Sravas#})
+;---------------------------------------------------
+; <L>14641<pc>0693-2<k1>catur<k2>catur
+126742 old .({@{#-SraH, sraH#}@})
+;
+126742 new .({@{#-SraH, -sraH#}@})
+;---------------------------------------------------
+; <L>14719<pc>0698-2<k1>caraRaH<k2>caraRaH
+127669 old .{@{#-yoDin#}@} {%<lex>m.</lex>%} (= {@{#-AyuDaH#}@})
+;
+127669 new .{@{#-yoDin#}@} {%<lex>m.</lex>%} (= {#-AyuDaH#})
+;---------------------------------------------------
+; <L>14848<pc>0704-1<k1>cAmaraH<k2>cAmaraH,
+128688 old  [{#camaryAH vikAraH tatpucCanirmitatvAt#}] also
+;
+128688 new  [{#camaryAH vikAraH tatpucCanirmitatvAt#}] also {#-rA, -rI#} sometimes. 
+;---------------------------------------------------
+; <L>14848<pc>0704-1<k1>cAmaraH<k2>cAmaraH,
+128689 old  {@{#-rA, -rI#}@} sometimes. .²1 A {%chowrie%} or bushy tail of the Chamara
+;
+128689 new .²1 A {%chowrie%} or bushy tail of the Chamara
+;---------------------------------------------------
+; <L>15075<pc>0713-2<k1>culump<k2>culump
+130624 old {#culump#}¦ €1 <ab>P.</ab> ({#culumpati#}) To swing, rock, move to and fro, agitate. With {#ud#}
+;
+130624 new {#culump#}¦ €1 <ab>P.</ab> ({#culumpati#}) To swing, rock, move to and fro, agitate. ━{%With%} {@{#ud#}@}
+;---------------------------------------------------
+; <L>15134<pc>0715-2<k1>cezw<k2>cezw
+131030 old .²5 To behave, act. With {#vi#}
+;
+131030 new .²5 To behave, act. ━{%With%} {@{#vi#}@}
+;---------------------------------------------------
+; <L>15207<pc>0718-1<k1>Candas<k2>Candas
+131635 old .{@{#-gaH#}@}
+;
+131635 new .{@{#-gaH#}@} ({#CandogaH#})
+;---------------------------------------------------
+; <L>15207<pc>0718-1<k1>Candas<k2>Candas
+131636 old .({@{#-CandogaH#}@})
+;
+131636 new 
+;---------------------------------------------------
+; <L>15232<pc>0719-1<k1>CAga<k2>CAga
+131791 old .{@{#-gaH#}@}
+;
+131791 new .{@{#-gaH#}@} ({#-gI#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>15232<pc>0719-1<k1>CAga<k2>CAga
+131792 old .({@{#-gI#}@} {%<lex>f.</lex>%})
+;
+131792 new 
+;---------------------------------------------------
+; <L>15466<pc>0729-2<k1>jala<k2>jala
+134028 old .({@{#-jaH, jam#}@})
+;
+134028 new .({@{#-jaH, -jam#}@})
+;---------------------------------------------------
+; <L>15591<pc>0736-1<k1>jAlma<k2>jAlma
+135241 old .{@{#-lmaH#}@}
+;
+135241 new .{@{#-lmaH#}@} ({#-lmI#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>15591<pc>0736-1<k1>jAlma<k2>jAlma
+135242 old .({@{#-lmI#}@} {%<lex>f.</lex>%})
+;
+135242 new 
+;---------------------------------------------------
+; <L>15600<pc>0736-2<k1>ji<k2>ji
+135312 old  {#hi cetaH#} <ls>Ki. 10. 29</ls>. With {#aDi#} to conquer defeat, vanquish; <ls>Bk. 19. 2</ls>.
+;
+135312 new  {#hi cetaH#} <ls>Ki. 10. 29</ls>. ━{%With%} {@{#aDi#}@} to conquer defeat, vanquish; <ls>Bk. 19. 2</ls>.
+;---------------------------------------------------
+; <L>15810<pc>0746-1<k1>jyotis<k2>jyotis
+137212 old .{@{#-raTaH#}@} ({@{#jyotIraTaH#}@}) the polar star.
+;
+137212 new .{@{#-raTaH#}@} ({#jyotIraTaH#}) the polar star.
+;---------------------------------------------------
+; <L>15810<pc>0746-1<k1>jyotis<k2>jyotis
+137215 old .{@{#-vidyA, -SAstram#}@} ({@{#jyotiHSAstram#}@}) astronomy or astrology.
+;
+137215 new .{@{#-vidyA, -SAstram#}@} ({#jyotiHSAstram#}) astronomy or astrology.
+;---------------------------------------------------
+; <L>15810<pc>0746-1<k1>jyotis<k2>jyotis
+137216 old .{@{#-stomaH#}@} ({@{#jyotizwomaH#}@}) a Soma sacrifice considered as the
+;
+137216 new .{@{#-stomaH#}@} ({#jyotizwomaH#}) a Soma sacrifice considered as the
+;---------------------------------------------------
+; <L>15915<pc>0749-a1<k1>waNk<k2>waNk
+137909 old .²2 To cover. --{%With%} {#ud#}
+;
+137909 new .²2 To cover. ━{%With%} {@{#ud#}@}
+;---------------------------------------------------
+; <L>15920<pc>0749-a1<k1>waNkaRam<k2>waNkaRam
+137963 old .{@{#-RaH#}@} ({@{#naH#}@})
+;
+137963 new .{@{#-RaH#}@} ({@{#-naH#}@})
+;---------------------------------------------------
+; <L>15943<pc>0750-1<k1>wIk<k2>wIk
+138089 old  {#koyazwikazwIkate#} <ls>Māl. 9. 7</ls>. --{%With%} {#A#} to go, move, go about; {#AwIkase'Nga#}
+;
+138089 new  {#koyazwikazwIkate#} <ls>Māl. 9. 7</ls>. ━{%With%} {@{#A#}@} to go, move, go about; {#AwIkase'Nga#}
+;---------------------------------------------------
+; <L>15994<pc>0751-2<k1>qI<k2>qI
+138412 old .²2 To go. --{%With%} {@{#pra#}@} to fly up; {#haMsEH praqInEriva#} <ls>Mk. 5. 5</ls>.
+;
+138412 new .²2 To go. ━{%With%} {@{#pra#}@} to fly up; {#haMsEH praqInEriva#} <ls>Mk. 5. 5</ls>.
+;---------------------------------------------------
+; <L>16017<pc>0752-2<k1>QOk<k2>QOk
+138534 old .²2 To present, offer. --{%With%} {#upa#} to present, offer; {#ekEkaM paSumupaQOkayAmaH#} <ls>Pt. 1</ls>.
+;
+138534 new .²2 To present, offer. ━{%With%} {@{#upa#}@} to present, offer; {#ekEkaM paSumupaQOkayAmaH#} <ls>Pt. 1</ls>.
+;---------------------------------------------------
+; <L>16034<pc>0752-b2<k1>takz<k2>takz
+138671 old .²9 To make thin. --{%With%} {#nis#}
+;
+138671 new .²9 To make thin. ━{%With%} {@{#nis#}@}
+;---------------------------------------------------
+; <L>16349<pc>0768-1<k1>tApasa<k2>tApasa
+141630 old .{@{#-saH#}@}
+;
+141630 new .{@{#-saH#}@} ({#-sI#} {%<lex>f.</lex>%}) A hermit, devotee, an ascetic.
+;---------------------------------------------------
+; <L>16349<pc>0768-1<k1>tApasa<k2>tApasa
+141631 old .({@{#-sI#}@} {%<lex>f.</lex>%}) A hermit, devotee, an ascetic.
+;
+141631 new 
+;---------------------------------------------------
+; <L>16372<pc>0769-1<k1>tAy<k2>tAy
+141856 old .²2 To protect, preserve. --{%With%} {#vi#} to spread, create; {#uBO mAyAM vyatAyetAm#} <ls>Bk. 17. 105</ls>.
+;
+141856 new .²2 To protect, preserve. ━{%With%} {@{#vi#}@} to spread, create; {#uBO mAyAM vyatAyetAm#} <ls>Bk. 17. 105</ls>.
+;---------------------------------------------------
+; <L>16660<pc>0781-2<k1>tUlaH<k2>tUlaH,
+144457 old .{@{#-nAlI#}@} ({@{#liH#}@}) {%<lex>f.</lex>%}, {@{#-nAlikA#}@}
+;
+144457 new .{@{#-nAlI#}@} ({@{#-liH#}@}) {%<lex>f.</lex>%}, {@{#-nAlikA#}@}
+;---------------------------------------------------
+; <L>16826<pc>0788-1<k1>trap<k2>trap
+145870 old  <ls>Rāj. T. 3. 94</ls>. --{%With%} {#apa#} to turn away or retire through shame;
+;
+145870 new  <ls>Rāj. T. 3. 94</ls>. ━{%With%} {@{#apa#}@} to turn away or retire through shame;
+;---------------------------------------------------
+; <L>16848<pc>0789-1<k1>tri<k2>tri
+146123 old .{@{#-fcam#}@} ({@{#tfcam#}@} also) three {%Riks%} taken collectively; <ls>Ms. 8. 106</ls>.
+;
+146123 new .{@{#-fcam#}@} ({@{#-tfcam#}@} also) three {%Riks%} taken collectively; <ls>Ms. 8. 106</ls>.
+;---------------------------------------------------
+; <L>16865<pc>0793-1<k1>trE<k2>trE
+146731 old  <ls>Bk. 5. 54</ls>, <ls n="Bk.">15. 120</ls>. --With {#pari#} to save <ab>&c.</ab>; {#paritrAyasva, paritrAyasva#} (in dramas).
+;
+146731 new  <ls>Bk. 5. 54</ls>, <ls n="Bk.">15. 120</ls>. ━{%With%} {@{#pari#}@}} to save <ab>&c.</ab>; {#paritrAyasva, paritrAyasva#} (in dramas).
+;---------------------------------------------------
+; <L>16907<pc>0794-1<k1>tvac<k2>tvac
+147021 old .{@{#-sAraH#}@} ({@{#tvacisAraH#}@})
+;
+147021 new .{@{#-sAraH#}@} ({#tvacisAraH#})
+;---------------------------------------------------
+; <L>17000<pc>0800-1<k1>dat<k2>dat
+148038 old .({@{#-dacCadaH#}@}) a lip; {#raBasA dazWadacCadam#} <ls>Bhāg. 7. 2. 30</ls>.
+;
+148038 new .({#dacCadaH#}) a lip; {#raBasA dazWadacCadam#} <ls>Bhāg. 7. 2. 30</ls>.
+;---------------------------------------------------
+; <L>17109<pc>0805-1<k1>daSan<k2>daSan
+149064 old  {#niGaRwu, Canda#} and {#nirukta#}; hence {@{#daSagranTin#}@} = A person
+;
+149064 new  {#niGaRwu, Canda#} and {#nirukta#}; hence {#daSagranTin#} = A person
+;---------------------------------------------------
+; <L>17109<pc>0805-1<k1>daSan<k2>daSan
+149075 old .{@{#-banDaH#}@} a tenth part; <ls>Ms. 8. 107</ls>; also {@{#˚banDaka#}@}; <ls>Y. 2. 76</ls>.
+;
+149075 new .{@{#-banDaH#}@} a tenth part; <ls>Ms. 8. 107</ls>; also {#˚banDaka#}; <ls>Y. 2. 76</ls>.
+;---------------------------------------------------
+; <L>17137<pc>0807-1<k1>dAhaH<k2>dAhaH
+149435 old .({@{#-ram, Ram#}@}) the Uśīra plant.
+;
+149435 new .({@{#-ram, -Ram#}@}) the Uśīra plant.
+;---------------------------------------------------
+; <L>17145<pc>0807-1<k1>dA<k2>dA
+149495 old {#dA#}¦ I. €1 <ab>P.</ab> ({#yacCati, datta#}) To give, grant. --{%With%} {#prati#} to
+;
+149495 new {#dA#}¦ I. €1 <ab>P.</ab> ({#yacCati, datta#}) To give, grant. ━{%With%} {@{#prati#}@} to
+;---------------------------------------------------
+; <L>17296<pc>0813-2<k1>div<k2>div
+150787 old --{%With%} {#pari#} to lament, moan, suffer pain; {#KaradUzaRayorBrAtroH paryadevizwa#}
+;
+150787 new ━{%With%} {@{#pari#}@} to lament, moan, suffer pain; {#KaradUzaRayorBrAtroH paryadevizwa#}
+;---------------------------------------------------
+; <L>17421<pc>0826-1<k1>dus<k2>dus
+153056 old .{@{#-prajYa#}@} ({@{#duzprajYa#}@}) {%<lex>a.</lex>%} weak-minded, stupid.
+;
+153056 new .{@{#-prajYa#}@} ({#duzprajYa#}) {%<lex>a.</lex>%} weak-minded, stupid.
+;---------------------------------------------------
+; <L>17421<pc>0826-1<k1>dus<k2>dus
+153073 old .{@{#-prasaha#}@} ({@{#duzprasaha#}@}) {%<lex>a.</lex>%}
+;
+153073 new .{@{#-prasaha#}@} ({#duzprasaha#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>17421<pc>0826-1<k1>dus<k2>dus
+153096 old .{@{#-SIla#}@} ({@{#duSSIla#}@}) {%<lex>a.</lex>%} ill-mannered or ill behaved, reprobate.
+;
+153096 new .{@{#-SIla#}@} ({#duSSIla#}) {%<lex>a.</lex>%} ill-mannered or ill behaved, reprobate.
+;---------------------------------------------------
+; <L>17421<pc>0826-1<k1>dus<k2>dus
+153101 old .{@{#-zama#}@} ({@{#duHzama#}@} or {@{#duzzama#}@}), {@{#-sama#}@} ({@{#duHsama#}@} or {@{#dussama#}@}) {%<lex>a.</lex>%}
+;
+153101 new .{@{#-zama#}@} ({#duHzama#} or {#duzzama#}), {@{#-sama#}@} ({#duHsama#} or {#dussama#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>17421<pc>0826-1<k1>dus<k2>dus
+153133 old .{@{#-spfzwam#}@} ({@{#duH, duspfzwam#}@})
+;
+153133 new .{@{#-spfzwam#}@} ({#duH, duspfzwam#})
+;---------------------------------------------------
+; <L>17516<pc>0833-1<k1>dev<k2>dev
+154238 old .²4 To throw, cast. --{%With%} {#pari#} to lament, mourn.
+;
+154238 new .²4 To throw, cast. ━{%With%} {@{#pari#}@} to lament, mourn.
+;---------------------------------------------------
+; <L>17564<pc>0837-2<k1>dE<k2>dE
+155144 old .²3 To protect. --{%With%} {#ava#}
+;
+155144 new .²3 To protect. ━{%With%} {@{#ava#}@}
+;---------------------------------------------------
+; <L>17592<pc>0839-1<k1>do<k2>do
+155424 old .²2 To mow, reap. --{%With%} {#aba#} to cut or lop off; {#yadanyasmin yajYe#}
+;
+155424 new .²2 To mow, reap. ━{%With%} {@{#ava#}@} to cut or lop off; {#yadanyasmin yajYe#}
+;---------------------------------------------------
+; <L>17666<pc>0841-2<k1>dyut<k2>dyut
+155906 old .²3 To express, mean. --{%With%} {#aBi#} ({%<ab>Caus.</ab>%}) to illuminate;
+;
+155906 new .²3 To express, mean. ━{%With%} {@{#aBi#}@} ({%<ab>Caus.</ab>%}) to illuminate;
+;---------------------------------------------------
+; <L>17666<pc>0841-2<k1>dyut<k2>dyut
+155907 old  {#tasminnaBidyotitabanDupadme#} ({#BAvaM na babanDa#}) <ls>R. 6. 36</ls>. {#-vi#}
+;
+155907 new  {#tasminnaBidyotitabanDupadme#} ({#BAvaM na babanDa#}) <ls>R. 6. 36</ls>. ━{@{#vi#}@}
+;---------------------------------------------------
+; <L>17677<pc>0841-2<k1>dyotis<k2>dyotis
+155984 old .{@{#-iNgaRaH#}@} ({@{#dyotiriNgaRaH#}@}) a fire-fly.
+;
+155984 new .{@{#-iNgaRaH#}@} ({#dyotiriNgaRaH#}) a fire-fly.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157279 old .{@{#-triMSa#}@} ({@{#dvAtriMSa#}@}) {%<lex>a.</lex>%}
+;
+157279 new .{@{#-triMSa#}@} ({#dvAtriMSa#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157282 old .{@{#-triMSat#}@} ({@{#dvAtriMSat#}@}) {%<lex>f.</lex>%} thirty-two. {#˚lakzaRa#}
+;
+157282 new .{@{#-triMSat#}@} ({#dvAtriMSat#}) {%<lex>f.</lex>%} thirty-two. {#˚lakzaRa#}
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157292 old .{@{#-daSan#}@} ({@{#dvAdaSan#}@}) {%<lex>a.</lex>%} (<ab>pl.</ab>) twelve. {#˚aMSuH, ˚arcis#}
+;
+157292 new .{@{#-daSan#}@} ({#dvAdaSan#}) {%<lex>a.</lex>%} (<ab>pl.</ab>) twelve. {#˚aMSuH, ˚arcis#}
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157310 old .{@{#-daSI#}@} ({@{#dvAdaSI#}@}) the twelfth day of a lunar fortnight.
+;
+157310 new .{@{#-daSI#}@} ({#dvAdaSI#}) the twelfth day of a lunar fortnight.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157312 old .{@{#-daSam#}@} ({@{#dvAdaSam#}@}) a collection of twelve, {#˚AdityAH#}
+;
+157312 new .{@{#-daSam#}@} ({#dvAdaSam#}) a collection of twelve, {#˚AdityAH#}
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157323 old .{@{#-navata#}@} ({@{#dvi(dvA)navata#}@}) {%<lex>a.</lex>%} ninety-second.
+;
+157323 new .{@{#-navata#}@} ({#dvi(dvA)navata#}) {%<lex>a.</lex>%} ninety-second.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157324 old .{@{#-navatiH#}@} ({@{#dvi(dvA)navatiH#}@}) {%<lex>f.</lex>%} ninety-two.
+;
+157324 new .{@{#-navatiH#}@} ({#dvi(dvA)navatiH#}) {%<lex>f.</lex>%} ninety-two.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157332 old .{@{#-paYcASa#}@} ({@{#dvi(dvA)paYcASa#}@}) {%<lex>a.</lex>%} fifty-second.
+;
+157332 new .{@{#-paYcASa#}@} ({#dvi(dvA)paYcASa#}) {%<lex>a.</lex>%} fifty-second.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157333 old .{@{#-paYcASat#}@} {%<lex>f.</lex>%} ({@{#dvi(dvA)paYcASat#}@}) fifty-two.
+;
+157333 new .{@{#-paYcASat#}@} {%<lex>f.</lex>%} ({#dvi(dvA)paYcASat#}) fifty-two.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157400 old .{@{#-viMSa#}@} ({@{#dvAviMSa#}@}) {%<lex>a.</lex>%} twenty-second.
+;
+157400 new .{@{#-viMSa#}@} ({#dvAviMSa#}) {%<lex>a.</lex>%} twenty-second.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157401 old .{@{#-viMSatiH#}@} {%<lex>f.</lex>%} ({@{#dvAviMSati#}@}) twenty-two.
+;
+157401 new .{@{#-viMSatiH#}@} {%<lex>f.</lex>%} ({#dvAviMSati#}) twenty-two.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157415 old .{@{#-zazwa#}@} ({@{#dvizazwa, dvAzazwa#}@}) {%<lex>a.</lex>%} sixty-second.
+;
+157415 new .{@{#-zazwa#}@} ({#dvizazwa, dvAzazwa#}) {%<lex>a.</lex>%} sixty-second.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157416 old .{@{#-zazwiH#}@} {%<lex>f.</lex>%} ({@{#dvizazwiH, dvAzazwiH#}@}) sixty-two.
+;
+157416 new .{@{#-zazwiH#}@} {%<lex>f.</lex>%} ({#dvizazwiH, dvAzazwiH#}) sixty-two.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157418 old .{@{#-saptata#}@} ({@{#dvi(dvA)saptata#}@}) {%<lex>a.</lex>%} seventy-second.
+;
+157418 new .{@{#-saptata#}@} ({#dvi(dvA)saptata#}) {%<lex>a.</lex>%} seventy-second.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157419 old .{@{#-saptatiH#}@} {%<lex>f.</lex>%} ({@{#dvi(dvA)saptatiH#}@}) seventy
+;
+157419 new .{@{#-saptatiH#}@} {%<lex>f.</lex>%} ({#dvi(dvA)saptatiH#}) seventy
+;---------------------------------------------------
+; <L>17812<pc>0850-1<k1>dvis<k2>dvis
+157547 old .{@{#-Agamanam#}@} ({@{#dvirAgamanam#}@}) the ceremony of the second entrance
+;
+157547 new .{@{#-Agamanam#}@} ({#dvirAgamanam#}) the ceremony of the second entrance
+;---------------------------------------------------
+; <L>17812<pc>0850-1<k1>dvis<k2>dvis
+157549 old .{@{#-ApaH#}@} ({@{#dvirApaH#}@}) an elephant.
+;
+157549 new .{@{#-ApaH#}@} ({#dvirApaH#}) an elephant.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158163 old .{@{#-Asanam#}@} ({@{#DanurAsanam#}@}) a particular mode of sitting.
+;
+158163 new .{@{#-Asanam#}@} ({#DanurAsanam#}) a particular mode of sitting.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158164 old .{@{#-kara#}@} ({@{#Danuzkara#}@}) {%<lex>a.</lex>%} having or armed with a bow.
+;
+158164 new .{@{#-kara#}@} ({#Danuzkara#}) {%<lex>a.</lex>%} having or armed with a bow.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158166 old .{@{#-kARqam#}@} ({@{#DanuzkARqam#}@}) a bow and arrow.
+;
+158166 new .{@{#-kARqam#}@} ({#DanuzkARqam#}) a bow and arrow.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158167 old .{@{#-KaRqam#}@} ({@{#DanuzKaRqam#}@}) part of a bow; <ls>Me. 15</ls>.
+;
+158167 new .{@{#-KaRqam#}@} ({#DanuzKaRqam#}) part of a bow; <ls>Me. 15</ls>.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158168 old .{@{#-guRaH#}@} ({@{#DanurguRaH#}@}) a bow-string.
+;
+158168 new .{@{#-guRaH#}@} ({#DanurguRaH#}) a bow-string.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158169 old .{@{#-grahaH#}@} ({@{#DanurgrahaH#}@}), {@{#-grAhaH#}@}
+;
+158169 new .{@{#-grahaH#}@} ({#DanurgrahaH#}), {@{#-grAhaH#}@}
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158173 old .{@{#-jyA#}@} ({@{#DanurjyA#}@}) a bow-string; {#anavarataDanurjyAsPAlanakrUrapUrvam#} <ls>Ś. 2. 4</ls>.
+;
+158173 new .{@{#-jyA#}@} ({#DanurjyA#}) a bow-string; {#anavarataDanurjyAsPAlanakrUrapUrvam#} <ls>Ś. 2. 4</ls>.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158174 old .{@{#-durgam#}@} ({@{#Danurdurgam#}@}) a place protected by a desert; <ls>Ms. 7. 70</ls>.
+;
+158174 new .{@{#-durgam#}@} ({#Danurdurgam#}) a place protected by a desert; <ls>Ms. 7. 70</ls>.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158175 old .{@{#-drumaH#}@} ({@{#DanurdrumaH#}@}) a bamboo.
+;
+158175 new .{@{#-drumaH#}@} ({#DanurdrumaH#}) a bamboo.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158181 old .{@{#-DArin#}@} ({@{#DanurDArin#}@}) {%<lex>m.</lex>%} an archer.
+;
+158181 new .{@{#-DArin#}@} ({#DanurDArin#}) {%<lex>m.</lex>%} an archer.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158184 old .{@{#-mArgaH#}@} ({@{#DanurmArgaH#}@}) a line curved like a bow, a curve.
+;
+158184 new .{@{#-mArgaH#}@} ({#DanurmArgaH#}) a line curved like a bow, a curve.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158185 old .{@{#-mAsaH#}@} ({@{#DanurmAsaH#}@}) The period during which the sun is
+;
+158185 new .{@{#-mAsaH#}@} ({#DanurmAsaH#}) The period during which the sun is
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158187 old .{@{#-muzwiH#}@} ({@{#DanurmuzwiH#}@}) a measure, a cubit of 26 aṅgulas; <ls>Māna. 2. 51</ls>.
+;
+158187 new .{@{#-muzwiH#}@} ({#DanurmuzwiH#}) a measure, a cubit of 26 aṅgulas; <ls>Māna. 2. 51</ls>.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158191 old .{@{#-vAtaH#}@} ({@{#DanurvAtaH#}@}) a kind of disease.
+;
+158191 new .{@{#-vAtaH#}@} ({#DanurvAtaH#}) a kind of disease.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158192 old .{@{#-vidyA#}@} ({@{#DanurvidyA#}@}) the science of archery.
+;
+158192 new .{@{#-vidyA#}@} ({#DanurvidyA#}) the science of archery.
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158193 old .{@{#-vfkzaH#}@} ({@{#DanurvfkzaH#}@})
+;
+158193 new .{@{#-vfkzaH#}@} ({#DanurvfkzaH#})
+;---------------------------------------------------
+; <L>17881<pc>0853-1<k1>Danus<k2>Danus
+158196 old .{@{#-vedaH#}@} ({@{#DanurvedaH#}@}) the science of archery, one of the
+;
+158196 new .{@{#-vedaH#}@} ({#DanurvedaH#}) the science of archery, one of the
+;---------------------------------------------------
+; <L>17931<pc>0857-2<k1>DarzaRam<k2>DarzaRam,
+159018 old .{@{#-Atman#}@} ({@{#DarzaRAtman#}@}) having a violent nature (<ab>N.</ab> of Śiva).
+;
+159018 new .{@{#-Atman#}@} ({#DarzaRAtman#}) having a violent nature (<ab>N.</ab> of Śiva).
+;---------------------------------------------------
+; <L>17942<pc>0858-1<k1>DA<k2>DA
+159144 old  {#DA#} to place the hand on the ear <ab>&c.</ab>]. --{%With%} {#api#} (the
+;
+159144 new  {#DA#} to place the hand on the ear <ab>&c.</ab>]. ━{%With%} {@{#api#}@} (the
+;---------------------------------------------------
+; <L>18005<pc>0861-2<k1>Di<k2>Di
+159816 old {#Di#}¦ I. €6 <ab>P.</ab> ({#Diyati#}) To hold, have, possess. --{%With%} {#sam#}
+;
+159816 new {#Di#}¦ I. €6 <ab>P.</ab> ({#Diyati#}) To hold, have, possess. ━{%With%} {@{#sam#}@}
+;---------------------------------------------------
+; <L>18040<pc>0863-2<k1>Dukz<k2>Dukz
+160146 old --{%With%} {#sam#} to be kindled or excited (<ab>fig.</ab> also); {#saMduDukze tayoH#}
+;
+160146 new ━{%With%} {@{#sam#}@} to be kindled or excited (<ab>fig.</ab> also); {#saMduDukze tayoH#}
+;---------------------------------------------------
+; <L>18219<pc>0872-1<k1>nakulaH<k2>nakulaH
+161862 old .{@{#-ISaH#}@} ({@{#nakulISa#}@})
+;
+161862 new .{@{#-ISaH#}@} ({#nakulISa#})
+;---------------------------------------------------
+; <L>18279<pc>0875-1<k1>nad<k2>nad
+162480 old .²2 To cause to make a sound. --{%With%} {#ud#} to roar, cry (loudly), bellow
+;
+162480 new .²2 To cause to make a sound. ━{%With%} {@{#ud#}@} to roar, cry (loudly), bellow
+;---------------------------------------------------
+; <L>18488<pc>0887-2<k1>nAndI<k2>nAndI
+164832 old .{@{#-SrAdDam#}@} see {@{#nAndImuKam#}@} above.
+;
+164832 new .{@{#-SrAdDam#}@} see {#nAndImuKam#} above.
+;---------------------------------------------------
+; <L>18554<pc>0891-1<k1>nASana<k2>nASana
+165455 old .({@{#-nI#}@} {%<lex>f.</lex>%}) Destroying, causing to perish, removing (in <ab>comp.</ab>).
+;
+165455 new .({#-nI#} {%<lex>f.</lex>%}) Destroying, causing to perish, removing (in <ab>comp.</ab>).
+;---------------------------------------------------
+; <L>18736<pc>0897-1<k1>nij<k2>nij
+166787 old .²3 To nourish. --{%With%} {#nis#} to wash, clean, purify; {#toyanirRiktapARayaH#}
+;
+166787 new .²3 To nourish. ━{%With%} {@{#nis#}@} to wash, clean, purify; {#toyanirRiktapARayaH#}
+;---------------------------------------------------
+; <L>18739<pc>0897-2<k1>niYj<k2>niYj
+166809 old {#niYj#}¦ €2 <ab>Ā.</ab> ({#niMkte#}) To wash. --{%With%} {#pra#} to wash ({#praRiNkte#}).
+;
+166809 new {#niYj#}¦ €2 <ab>Ā.</ab> ({#niMkte#}) To wash. ━{%With%} {@{#pra#}@} to wash ({#praRiNkte#}).
+;---------------------------------------------------
+; <L>18867<pc>0903-1<k1>nimittam<k2>nimittam
+167927 old .{@{#-AvfttiH#}@} {%<lex>f.</lex>%} dependence on a special cause. {@{#kAraRam, hetuH#}@}
+;
+167927 new .{@{#-AvfttiH#}@} {%<lex>f.</lex>%} dependence on a special cause. {@{#-kAraRam, -hetuH#}@}
+;---------------------------------------------------
+; <L>18884<pc>0903-2<k1>nimna<k2>nimna
+168057 old .²1 Depth, low ground, low land; ({#kaH#}) {@{#payaSca#}@}
+;
+168057 new .²1 Depth, low ground, low land; ({#kaH#}) {#payaSca#}
+;---------------------------------------------------
+; <L>18897<pc>0904-2<k1>niyamaH<k2>niyamaH
+168244 old  only with something else. -{@{#DarmaH#}@} a law prescribing restraints.
+;
+168244 new  only with something else. {@{#-DarmaH#}@} a law prescribing restraints.
+;---------------------------------------------------
+; <L>18923<pc>0906-1<k1>nir<k2>nir
+169174 old .{@{#-rajas#}@} ({@{#narijas#}@}) {%<lex>a.</lex>%} see {@{#nIraja#}@}. --({%<lex>f.</lex>%})
+;
+169174 new .{@{#-rajas#}@} ({#narijas#}) {%<lex>a.</lex>%} see {#nIraja#}. --({%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>18923<pc>0906-1<k1>nir<k2>nir
+169176 old .{@{#-rata#}@} ({@{#nIrata#}@}) {%<lex>a.</lex>%} not attached to, indifferent.
+;
+169176 new .{@{#-rata#}@} ({#nIrata#}) {%<lex>a.</lex>%} not attached to, indifferent.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173149 old .{@{#-kaRwaka#}@} ({@{#nizkaRwaka#}@}) {%<lex>a.</lex>%}
+;
+173149 new .{@{#-kaRwaka#}@} ({#nizkaRwaka#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173155 old .{@{#-kanda#}@} ({@{#nizkanda#}@}) {%<lex>a.</lex>%} without edible roots.
+;
+173155 new .{@{#-kanda#}@} ({#nizkanda#}) {%<lex>a.</lex>%} without edible roots.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173156 old .{@{#-kapawa#}@} ({@{#nizkapawa#}@}) {%<lex>a.</lex>%} guileless, sincere.
+;
+173156 new .{@{#-kapawa#}@} ({#nizkapawa#}) {%<lex>a.</lex>%} guileless, sincere.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173157 old .{@{#-kampa#}@} ({@{#nizkampa#}@}) {%<lex>a.</lex>%} motionless, steady, immovable;
+;
+173157 new .{@{#-kampa#}@} ({#nizkampa#}) {%<lex>a.</lex>%} motionless, steady, immovable;
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173159 old .{@{#-karuRa#}@} ({@{#nizkaruRa#}@}) {%<lex>a.</lex>%} merciless, pitiless, cruel.
+;
+173159 new .{@{#-karuRa#}@} ({#nizkaruRa#}) {%<lex>a.</lex>%} merciless, pitiless, cruel.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173160 old .{@{#-karUza#}@} ({@{#nizka rUza#}@}) {%<lex>a.</lex>%} free from dirt.
+;
+173160 new .{@{#-karUza#}@} ({#nizkarUza#}) {%<lex>a.</lex>%} free from dirt.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173161 old .{@{#-karman#}@} ({@{#nizkarman#}@}) {%<lex>a.</lex>%} inactive.
+;
+173161 new .{@{#-karman#}@} ({#nizkarman#}) {%<lex>a.</lex>%} inactive.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173162 old .{@{#-kala#}@} ({@{#nizkala#}@}) {%<lex>a.</lex>%}
+;
+173162 new .{@{#-kala#}@} ({#nizkala#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173175 old .{@{#-kalaNka#}@}, ({@{#nizkalaNka#}@})
+;
+173175 new .{@{#-kalaNka#}@}, ({#nizkalaNka#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173177 old .{@{#-kazAya#}@} ({@{#nizkazAya#}@}) {%<lex>a.</lex>%} free from dirt or impure passions.
+;
+173177 new .{@{#-kazAya#}@} ({#nizkazAya#}) {%<lex>a.</lex>%} free from dirt or impure passions.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173178 old .{@{#-kAnta#}@} ({@{#nizkAnta#}@}) {%<lex>a.</lex>%} not lovely, ugly.
+;
+173178 new .{@{#-kAnta#}@} ({#nizkAnta#}) {%<lex>a.</lex>%} not lovely, ugly.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173179 old .{@{#-kAma#}@} ({@{#nizkAma#}@}) {%<lex>a.</lex>%}
+;
+173179 new .{@{#-kAma#}@} ({#nizkAma#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173185 old .{@{#-kAraRa#}@} ({@{#nizkAraRa#}@}) {%<lex>a.</lex>%}
+;
+173185 new .{@{#-kAraRa#}@} ({#nizkAraRa#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173190 old .{@{#-kAlakaH#}@} ({@{#nizkAlakaH#}@}) a penitent shaven and smeared with
+;
+173190 new .{@{#-kAlakaH#}@} ({#nizkAlakaH#}) a penitent shaven and smeared with
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173192 old .{@{#-kAlika#}@} ({@{#nizkAlika#}@}) {%<lex>a.</lex>%}
+;
+173192 new .{@{#-kAlika#}@} ({#nizkAlika#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173195 old .{@{#-kiYcana#}@} ({@{#nizkiYcana#}@}) {%<lex>a.</lex>%} penniless, poor, indigent;
+;
+173195 new .{@{#-kiYcana#}@} ({#nizkiYcana#}) {%<lex>a.</lex>%} penniless, poor, indigent;
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173198 old .{@{#-kilviza#}@} ({@{#nizkilviza#}@}) {%<lex>a.</lex>%} sinless, faultless.
+;
+173198 new .{@{#-kilviza#}@} ({#nizkilviza#}) {%<lex>a.</lex>%} sinless, faultless.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173199 old .{@{#-kula#}@} ({@{#nizkula#}@}) {%<lex>a.</lex>%} having no kindred, left alone in
+;
+173199 new .{@{#-kula#}@} ({#nizkula#}) {%<lex>a.</lex>%} having no kindred, left alone in
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173203 old .{@{#-kulIna#}@} ({@{#nizkulIna#}@}) {%<lex>a.</lex>%} of low family.
+;
+173203 new .{@{#-kulIna#}@} ({#nizkulIna#}) {%<lex>a.</lex>%} of low family.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173204 old .{@{#-kUja#}@} ({@{#nizkUja#}@}) {%<lex>a.</lex>%} still, silent; <ls>U. 2. 16</ls>.
+;
+173204 new .{@{#-kUja#}@} ({#nizkUja#}) {%<lex>a.</lex>%} still, silent; <ls>U. 2. 16</ls>.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173205 old .{@{#-kUwa#}@} ({@{#nizkUwa#}@}) {%<lex>a.</lex>%} pitiless, merciless, cruel.
+;
+173205 new .{@{#-kUwa#}@} ({#nizkUwa#}) {%<lex>a.</lex>%} pitiless, merciless, cruel.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173206 old .{@{#-kEvalya#}@} ({@{#nizkEvalya#}@}) {%<lex>a.</lex>%}
+;
+173206 new .{@{#-kEvalya#}@} ({#nizkEvalya#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173209 old .{@{#-koSa#}@} ({@{#nizkoSa#}@}) {%<lex>a.</lex>%} unsheathed.
+;
+173209 new .{@{#-koSa#}@} ({#nizkoSa#}) {%<lex>a.</lex>%} unsheathed.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173210 old .{@{#-kOSAmbi#}@} ({@{#nizkOSAmbi#}@}) {%<lex>a.</lex>%} who has gone out of Kauśāmbī.
+;
+173210 new .{@{#-kOSAmbi#}@} ({#nizkOSAmbi#}) {%<lex>a.</lex>%} who has gone out of Kauśāmbī.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173211 old .{@{#-kriya#}@} ({@{#nizkriya#}@}) {%<lex>a.</lex>%}
+;
+173211 new .{@{#-kriya#}@} ({#nizkriya#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173217 old .{@{#-kzatra#}@} ({@{#niHkzatra#}@}), {@{#-kzatriya#}@} ({@{#niHkzatriya#}@})
+;
+173217 new .{@{#-kzatra#}@} ({#niHkzatra#}), {@{#-kzatriya#}@} ({#niHkzatriya#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173219 old .{@{#-kzepaH#}@} ({@{#niHkzepa#}@}) = {#nikzepa#} <ab>q. v.</ab>
+;
+173219 new .{@{#-kzepaH#}@} ({#niHkzepa#}) = {#nikzepa#} <ab>q. v.</ab>
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173220 old .{@{#-cakram#}@} ({@{#niScakam#}@}) {%<lex>ind.</lex>%} completely; {#niScakaM hatarAkzasaH#}
+;
+173220 new .{@{#-cakram#}@} ({#niScakam#}) {%<lex>ind.</lex>%} completely; {#niScakaM hatarAkzasaH#}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173222 old .{@{#-cakrika#}@} ({@{#niScakrika#}@}) {%<lex>a.</lex>%} without tricks, honest.
+;
+173222 new .{@{#-cakrika#}@} ({#niScakrika#}) {%<lex>a.</lex>%} without tricks, honest.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173223 old .{@{#-cakzus#}@} ({@{#niScakzus#}@}) {%<lex>a.</lex>%} blind, eyeless.
+;
+173223 new .{@{#-cakzus#}@} ({#niScakzus#}) {%<lex>a.</lex>%} blind, eyeless.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173224 old .{@{#-catvAriMSaH#}@} ({@{#niScatvAriMSa#}@}) {%<lex>a.</lex>%} past forty.
+;
+173224 new .{@{#-catvAriMSaH#}@} ({#niScatvAriMSa#}) {%<lex>a.</lex>%} past forty.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173225 old .{@{#-cinta#}@} ({@{#niScinta#}@}) {%<lex>a.</lex>%}
+;
+173225 new .{@{#-cinta#}@} ({#niScinta#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173228 old .{@{#-cetana#}@} ({@{#niScetana#}@})
+;
+173228 new .{@{#-cetana#}@} ({#niScetana#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173231 old .{@{#-cetas#}@} ({@{#niScetas#}@}) {%<lex>a.</lex>%} not in oneʼs right senses, mad.
+;
+173231 new .{@{#-cetas#}@} ({#niScetas#}) {%<lex>a.</lex>%} not in oneʼs right senses, mad.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173232 old .{@{#-cezwa#}@} ({@{#niScezwa#}@}) {%<lex>a.</lex>%} motionless, powerless.
+;
+173232 new .{@{#-cezwa#}@} ({#niScezwa#}) {%<lex>a.</lex>%} motionless, powerless.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173233 old .{@{#-cezwAkaraRa#}@} ({@{#niScezwAkaraRa#}@}) {%<lex>a.</lex>%} depriving (one) of
+;
+173233 new .{@{#-cezwAkaraRa#}@} ({#niScezwAkaraRa#}) {%<lex>a.</lex>%} depriving (one) of
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173235 old .{@{#-Candas#}@} ({@{#niSCandas#}@}) {%<lex>a.</lex>%} not studying the Vedas ({#Candas#}) <ls>Ms. 3</ls>, <ls n="Ms.">7</ls>.
+;
+173235 new .{@{#-Candas#}@} ({#niSCandas#}) {%<lex>a.</lex>%} not studying the Vedas ({#Candas#}) <ls>Ms. 3</ls>, <ls n="Ms.">7</ls>.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173236 old .{@{#-Cidra#}@} ({@{#niSCidra#}@}) {%<lex>a.</lex>%}
+;
+173236 new .{@{#-Cidra#}@} ({#niSCidra#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173280 old .{@{#-pakva#}@} ({@{#nizpakva#}@}) well cooked, boiled.
+;
+173280 new .{@{#-pakva#}@} ({#nizpakva#}) well cooked, boiled.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173281 old .{@{#-paNka#}@} ({@{#nizpaNka#}@}) {%<lex>a.</lex>%} free from mud, clear, pure.
+;
+173281 new .{@{#-paNka#}@} ({#nizpaNka#}) {%<lex>a.</lex>%} free from mud, clear, pure.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173282 old .{@{#-patAka#}@} ({@{#nizpatAka#}@}) {%<lex>a.</lex>%} having no flag or banner.
+;
+173282 new .{@{#-patAka#}@} ({#nizpatAka#}) {%<lex>a.</lex>%} having no flag or banner.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173283 old .{@{#-patisutA#}@} ({@{#nizpatisutA#}@}) a woman having no husband and no sons.
+;
+173283 new .{@{#-patisutA#}@} ({#nizpatisutA#}) a woman having no husband and no sons.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173284 old .{@{#-patra#}@} ({@{#nizpatra#}@}) {%<lex>a.</lex>%}
+;
+173284 new .{@{#-patra#}@} ({#nizpatra#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173292 old .{@{#-paTya#}@} ({@{#nizpaTya#}@}) {%<lex>a.</lex>%} unwell, ill
+;
+173292 new .{@{#-paTya#}@} ({#nizpaTya#}) {%<lex>a.</lex>%} unwell, ill
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173293 old .{@{#-pada#}@} ({@{#nizpada#}@}) {%<lex>a.</lex>%} having no foot.
+;
+173293 new .{@{#-pada#}@} ({#nizpada#}) {%<lex>a.</lex>%} having no foot.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173295 old .{@{#-parAkrama#}@} ({@{#nizparAkrama#}@}) {%<lex>a.</lex>%} weak, powerless.
+;
+173295 new .{@{#-parAkrama#}@} ({#nizparAkrama#}) {%<lex>a.</lex>%} weak, powerless.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173296 old .{@{#-parAmarSa#}@} ({@{#nizparAmarSa#}@}) {%<lex>a.</lex>%} without advice, helpless; <ls>M. 4. 2/3</ls>
+;
+173296 new .{@{#-parAmarSa#}@} ({#nizparAmarSa#}) {%<lex>a.</lex>%} without advice, helpless; <ls>M. 4. 2/3</ls>
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173297 old .{@{#-parikara#}@} ({@{#nizparikara#}@}) {%<lex>a.</lex>%} without preparations.
+;
+173297 new .{@{#-parikara#}@} ({#nizparikara#}) {%<lex>a.</lex>%} without preparations.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173298 old .{@{#-parigraha#}@} ({@{#nizparigraha#}@}) {%<lex>a.</lex>%} having no property or
+;
+173298 new .{@{#-parigraha#}@} ({#nizparigraha#}) {%<lex>a.</lex>%} having no property or
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173301 old .{@{#-paricCada#}@} ({@{#nizparicCada#}@}) {%<lex>a.</lex>%} having no retinue or train.
+;
+173301 new .{@{#-paricCada#}@} ({#nizparicCada#}) {%<lex>a.</lex>%} having no retinue or train.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173302 old .{@{#-paridAha#}@} ({@{#nizparidAha#}@}) {%<lex>a.</lex>%} incombustible.
+;
+173302 new .{@{#-paridAha#}@} ({#nizparidAha#}) {%<lex>a.</lex>%} incombustible.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173303 old .{@{#-parihArya#}@} ({@{#nizparihAryaM#}@}) {%<lex>a.</lex>%} To be applied by all means.
+;
+173303 new .{@{#-parihArya#}@} ({#nizparihAryaM#}) {%<lex>a.</lex>%} To be applied by all means.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173304 old .{@{#-parIkza#}@} ({@{#nizparIkza#}@}) {%<lex>a.</lex>%} not examining or
+;
+173304 new .{@{#-parIkza#}@} ({#nizparIkza#}) {%<lex>a.</lex>%} not examining or
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173307 old .{@{#-parIhAra#}@} ({@{#nizparIhAra#}@}) {%<lex>a.</lex>%}
+;
+173307 new .{@{#-parIhAra#}@} ({#nizparIhAra#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173310 old .{@{#-paruza#}@} ({@{#nizparuza#}@}) {%<lex>a.</lex>%} (in music) soft.
+;
+173310 new .{@{#-paruza#}@} ({#nizparuza#}) {%<lex>a.</lex>%} (in music) soft.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173311 old .{@{#-paryanta#}@} ({@{#nizparyanta#}@}), {@{#-pAra#}@} ({@{#nizpAra#}@})
+;
+173311 new .{@{#-paryanta#}@} ({#nizparyanta#}), {@{#-pAra#}@} ({#nizpAra#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173313 old .{@{#-paryAya#}@} ({@{#nizparyAya#}@}) {%<lex>a.</lex>%} out of order.
+;
+173313 new .{@{#-paryAya#}@} ({#nizparyAya#}) {%<lex>a.</lex>%} out of order.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173314 old .{@{#-pApa#}@} ({@{#nizpApa#}@}) sinless, guiltless, pure.
+;
+173314 new .{@{#-pApa#}@} ({#nizpApa#}) sinless, guiltless, pure.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173315 old .{@{#-putra#}@} ({@{#nizputra#}@}) {%<lex>a.</lex>%} sonless, childless.
+;
+173315 new .{@{#-putra#}@} ({#nizputra#}) {%<lex>a.</lex>%} sonless, childless.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173316 old .{@{#-purARa#}@} ({@{#nizpurARa#}@}) {%<lex>a.</lex>%} not existing before, unheard of, new.
+;
+173316 new .{@{#-purARa#}@} ({#nizpurARa#}) {%<lex>a.</lex>%} not existing before, unheard of, new.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173317 old .{@{#-puruza#}@} ({@{#nizpuruza#}@})
+;
+173317 new .{@{#-puruza#}@} ({#nizpuruza#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173323 old .{@{#-pulAka#}@} ({@{#nizpulAka#}@}) {%<lex>a.</lex>%} freed from chaff.
+;
+173323 new .{@{#-pulAka#}@} ({#nizpulAka#}) {%<lex>a.</lex>%} freed from chaff.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173324 old .{@{#-pOruza#}@} ({@{#nizpOruza#}@}) {%<lex>a.</lex>%} unmanly.
+;
+173324 new .{@{#-pOruza#}@} ({#nizpOruza#}) {%<lex>a.</lex>%} unmanly.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173325 old .{@{#-prakampa#}@} ({@{#nizprakampa#}@}) {%<lex>a.</lex>%} steady, immovable, motionless.
+;
+173325 new .{@{#-prakampa#}@} ({#nizprakampa#}) {%<lex>a.</lex>%} steady, immovable, motionless.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173326 old .{@{#-prakAraka#}@} ({@{#nizprakAraka#}@})
+;
+173326 new .{@{#-prakAraka#}@} ({#nizprakAraka#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173330 old .{@{#-prakASa#}@} ({@{#nizprakASa#}@}) {%<lex>a.</lex>%} not transparent, not clear, dark.
+;
+173330 new .{@{#-prakASa#}@} ({#nizprakASa#}) {%<lex>a.</lex>%} not transparent, not clear, dark.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173331 old .{@{#-pracAra#}@} ({@{#nizpracAra#}@}) {%<lex>a.</lex>%}
+;
+173331 new .{@{#-pracAra#}@} ({#nizpracAra#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173335 old .{@{#-prajYa#}@} ({@{#nizprajYa#}@}) {%<lex>a.</lex>%} ignorant, stupid.
+;
+173335 new .{@{#-prajYa#}@} ({#nizprajYa#}) {%<lex>a.</lex>%} ignorant, stupid.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173336 old .{@{#-praRaya#}@} ({@{#nizpraRaya#}@}) {%<lex>a.</lex>%} cold.
+;
+173336 new .{@{#-praRaya#}@} ({#nizpraRaya#}) {%<lex>a.</lex>%} cold.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173337 old .{@{#-pratApa#}@} ({@{#nizpratApa#}@}) {%<lex>a.</lex>%} destitute of glory, mean,
+;
+173337 new .{@{#-pratApa#}@} ({#nizpratApa#}) {%<lex>a.</lex>%} destitute of glory, mean,
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173339 old .{@{#-prati(tI)kAra#}@} ({@{#nizprati(tI)kAra#}@}), {@{#-pratikriya#}@} ({@{#nizpratikriya#}@}) {%<lex>a.</lex>%}
+;
+173339 new .{@{#-prati(tI)kAra#}@} ({#nizprati(tI)kAra#}), {@{#-pratikriya#}@} ({@{#nizpratikriya#}@}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173343 old .{@{#-pratigraha#}@} ({@{#nizpratigraha#}@}) {%<lex>a.</lex>%} not accepting gifts.
+;
+173343 new .{@{#-pratigraha#}@} ({#nizpratigraha#}) {%<lex>a.</lex>%} not accepting gifts.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173344 old .{@{#-pratiGa#}@} ({@{#nizpratiGa#}@}) {%<lex>a.</lex>%} unhindered, unobstructed,
+;
+173344 new .{@{#-pratiGa#}@} ({#nizpratiGa#}) {%<lex>a.</lex>%} unhindered, unobstructed,
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173346 old .{@{#-pratidvandva#}@} ({@{#nizpratidvandva#}@}) {%<lex>a.</lex>%} without enemies, unopposed.
+;
+173346 new .{@{#-pratidvandva#}@} ({#nizpratidvandva#}) {%<lex>a.</lex>%} without enemies, unopposed.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173348 old .{@{#-pratiBa#}@} ({@{#nizpratiBa#}@}) {%<lex>a.</lex>%}
+;
+173348 new .{@{#-pratiBa#}@} ({#nizpratiBa#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173352 old .{@{#-pratiBAna#}@} ({@{#nizpratiBAna#}@}) {%<lex>a.</lex>%} cowardly, timid.
+;
+173352 new .{@{#-pratiBAna#}@} ({#nizpratiBAna#}) {%<lex>a.</lex>%} cowardly, timid.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173353 old .{@{#-pratIpa#}@} ({@{#nizpratIpa#}@}) {%<lex>a.</lex>%}
+;
+173353 new .{@{#-pratIpa#}@} ({#nizpratIpa#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173356 old .{@{#-pratyASa#}@} ({@{#nizpratyASa#}@}) {%<lex>a.</lex>%} hopeless, despondent.
+;
+173356 new .{@{#-pratyASa#}@} ({#nizpratyASa#}) {%<lex>a.</lex>%} hopeless, despondent.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173357 old .{@{#-pratyUha#}@} ({@{#nizpratyUha#}@}) {%<lex>a.</lex>%} unobstructed, unimpeded;
+;
+173357 new .{@{#-pratyUha#}@} ({#nizpratyUha#}) {%<lex>a.</lex>%} unobstructed, unimpeded;
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173360 old .{@{#-prapaYca#}@} ({@{#nizprapaYca#}@}) {%<lex>a.</lex>%}
+;
+173360 new .{@{#-prapaYca#}@} ({#nizprapaYca#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173363 old .{@{#-praBa#}@} ({@{#niHpraBa#}@} or {@{#nizpraBa#}@}) {%<lex>a.</lex>%}
+;
+173363 new .{@{#-praBa#}@} ({#niHpraBa#} or {#nizpraBa#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173366 old .{@{#-pramARaka#}@} ({@{#nizpramARaka#}@}) {%<lex>a.</lex>%} without authority.
+;
+173366 new .{@{#-pramARaka#}@} ({#nizpramARaka#}) {%<lex>a.</lex>%} without authority.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173367 old .{@{#-prayatna#}@} ({@{#nizprayatna#}@}) {%<lex>a.</lex>%} inactive, dull.
+;
+173367 new .{@{#-prayatna#}@} ({#nizprayatna#}) {%<lex>a.</lex>%} inactive, dull.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173368 old .{@{#-prayojana#}@} ({@{#nizprayojana#}@}) {%<lex>a.</lex>%}
+;
+173368 new .{@{#-prayojana#}@} ({#nizprayojana#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173374 old .{@{#-pravaRi, -pravARa, -pravARi#}@} ({@{#nizpravaRi, -zpravARa, -zpravARi#}@})
+;
+173374 new .{@{#-pravaRi, -pravARa, -pravARi#}@} ({#nizpravaRi, -zpravARa, -zpravARi#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173376 old .{@{#-prARa#}@} ({@{#nizpARa#}@}) {%<lex>a.</lex>%}
+;
+173376 new .{@{#-prARa#}@} ({#nizpARa#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173379 old .{@{#-Pala#}@} ({@{#nizPala#}@}) {%<lex>a.</lex>%}
+;
+173379 new .{@{#-Pala#}@} ({#nizPala#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173388 old .{@{#-Pena#}@} ({@{#nizPena#}@}) {%<lex>a.</lex>%} foamless. --{%<lex>n.</lex>%} opium.
+;
+173388 new .{@{#-Pena#}@} ({#nizPena#}) {%<lex>a.</lex>%} foamless. --{%<lex>n.</lex>%} opium.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173389 old .{@{#-SaNka#}@} ({@{#niHSaNka#}@}) {%<lex>a.</lex>%} free from fear or risk, secure,
+;
+173389 new .{@{#-SaNka#}@} ({#niHSaNka#}) {%<lex>a.</lex>%} free from fear or risk, secure, fearless. 
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173390 old  fearless. ({@{#niHSaNkaH#}@}) (in music) a kind of dance. --{%<lex>f.</lex>%} ({#niHSaNkA#})
+;
+173390 new  ({@{#niHSaNkaH#}@}) (in music) a kind of dance. --{%<lex>f.</lex>%} ({#niHSaNkA#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173392 old .{@{#-Sabda#}@} ({@{#niHSabda#}@}) {%<lex>a.</lex>%} not expressed in words, inaudible;
+;
+173392 new .{@{#-Sabda#}@} ({#niHSabda#}) {%<lex>a.</lex>%} not expressed in words, inaudible;
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173395 old .{@{#-SamaH#}@} ({@{#niHSamaH#}@}) uneasiness, anxiety.
+;
+173395 new .{@{#-SamaH#}@} ({#niHSamaH#}) uneasiness, anxiety.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173397 old .{@{#-Sarkara#}@} ({@{#niHSarkara#}@}) {%<lex>a.</lex>%} free from pebbles (as a bathing place).
+;
+173397 new .{@{#-Sarkara#}@} ({#niHSarkara#}) {%<lex>a.</lex>%} free from pebbles (as a bathing place).
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173398 old .{@{#-SalAka#}@} ({@{#niHSalAka#}@}) {%<lex>a.</lex>%} lonely, solitary, retired.
+;
+173398 new .{@{#-SalAka#}@} ({#niHSalAka#}) {%<lex>a.</lex>%} lonely, solitary, retired.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173403 old .{@{#-SUka#}@} ({@{#niHSUka#}@}) {%<lex>a.</lex>%} merciless, cruel.
+;
+173403 new .{@{#-SUka#}@} ({#niHSUka#}) {%<lex>a.</lex>%} merciless, cruel.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173405 old .{@{#-Seza#}@} ({@{#niHSeza#}@}) {%<lex>a.</lex>%} without remainder (either finished
+;
+173405 new .{@{#-Seza#}@} ({#niHSeza#}) {%<lex>a.</lex>%} without remainder (either finished
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173407 old .{@{#-SoDya#}@} ({@{#niHSoDya#}@}) {%<lex>a.</lex>%} washed, pure, clean.
+;
+173407 new .{@{#-SoDya#}@} ({#niHSoDya#}) {%<lex>a.</lex>%} washed, pure, clean.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173418 old .{@{#-saMSaya#}@} ({@{#niHsaMSaya#}@}) {%<lex>a.</lex>%}
+;
+173418 new .{@{#-saMSaya#}@} ({#niHsaMSaya#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173423 old .{@{#-saMskAra#}@} ({@{#niHsaMskAra#}@}) {%<lex>a.</lex>%} uneducated, ill-mannered.
+;
+173423 new .{@{#-saMskAra#}@} ({#niHsaMskAra#}) {%<lex>a.</lex>%} uneducated, ill-mannered.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173424 old .{@{#-saMKya#}@} ({@{#niHsaMKya#}@}) {%<lex>a.</lex>%} innumerable.
+;
+173424 new .{@{#-saMKya#}@} ({#niHsaMKya#}) {%<lex>a.</lex>%} innumerable.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173425 old .{@{#-saMga#}@} ({@{#niHsaMga#}@}) {%<lex>a.</lex>%}
+;
+173425 new .{@{#-saMga#}@} ({#niHsaMga#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173433 old .{@{#-saMcAraH#}@} ({@{#niHsaMcAraH#}@}) not taking a walk; <ls>Māl.</ls>
+;
+173433 new .{@{#-saMcAraH#}@} ({#niHsaMcAraH#}) not taking a walk; <ls>Māl.</ls>
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173434 old .{@{#-saMjYa#}@} ({@{#niHsaMjYa#}@}) {%<lex>a.</lex>%} unconscious.
+;
+173434 new .{@{#-saMjYa#}@} ({#niHsaMjYa#}) {%<lex>a.</lex>%} unconscious.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173435 old .{@{#-sattva#}@} ({@{#niHsattva#}@}) {%<lex>a.</lex>%}
+;
+173435 new .{@{#-sattva#}@} ({#niHsattva#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173444 old .{@{#-saMtati#}@} ({@{#niHsaMtati#}@}), {@{#-saMtAna#}@} ({@{#niHsaMtAna#}@})
+;
+173444 new .{@{#-saMtati#}@} ({#niHsaMtati#}), {@{#-saMtAna#}@} ({@{#niHsaMtAna#}@})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173446 old .{@{#-saMdigDa#}@} ({@{#niHsaMdigDa#}@}) {@{#-saMdeha#}@} ({@{#niHsaMdeha#}@})
+;
+173446 new .{@{#-saMdigDa#}@} ({#niHsaMdigDa#}) {@{#-saMdeha#}@} ({@{#niHsaMdeha#}@})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173448 old .{@{#-saMDi#}@} ({@{#nissaMDi, niHsaMDi#}@}) {%<lex>a.</lex>%} having no joints perceptible,
+;
+173448 new .{@{#-saMDi#}@} ({#nissaMDi, niHsaMDi#}) {%<lex>a.</lex>%} having no joints perceptible,
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173450 old .{@{#-sapatna#}@} ({@{#niHsapatna#}@}) {%<lex>a.</lex>%}
+;
+173450 new .{@{#-sapatna#}@} ({#niHsapatna#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173454 old .{@{#-samam#}@} ({@{#niHsamam#}@}) {%<lex>ind.</lex>%}
+;
+173454 new .{@{#-samam#}@} ({#niHsamam#}) {%<lex>ind.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173457 old .{@{#-saMpAta#}@} ({@{#niHsaMpAta#}@}) {%<lex>a.</lex>%} affording no passage, blocked up.
+;
+173457 new .{@{#-saMpAta#}@} ({#niHsaMpAta#}) {%<lex>a.</lex>%} affording no passage, blocked up.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173459 old .{@{#-saMbADa#}@} ({@{#niHsaMbADa#}@}) {%<lex>a.</lex>%} not contracted, spacious, large.
+;
+173459 new .{@{#-saMbADa#}@} ({#niHsaMbADa#}) {%<lex>a.</lex>%} not contracted, spacious, large.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173461 old .{@{#-saMBrama#}@} ({@{#niHsaMBrama#}@}) {%<lex>a.</lex>%} not perplexed, unembarrassed.
+;
+173461 new .{@{#-saMBrama#}@} ({#niHsaMBrama#}) {%<lex>a.</lex>%} not perplexed, unembarrassed.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173462 old .{@{#-saraRi#}@} ({@{#niHsaraRi#}@}) {%<lex>a.</lex>%} pathless.
+;
+173462 new .{@{#-saraRi#}@} ({#niHsaraRi#}) {%<lex>a.</lex>%} pathless.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173463 old .{@{#-saha#}@} ({@{#niHsaha#}@}) {%<lex>a.</lex>%}
+;
+173463 new .{@{#-saha#}@} ({#niHsaha#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173466 old .{@{#-sAra#}@} ({@{#niHsAra#}@}) {%<lex>a.</lex>%}
+;
+173466 new .{@{#-sAra#}@} ({#niHsAra#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173472 old .{@{#-sIma#}@} ({@{#niHsIma#}@}), {@{#-sIman#}@} ({@{#niHsIman#}@})
+;
+173472 new .{@{#-sIma#}@} ({#niHsIma#}), {@{#-sIman#}@} ({#niHsIman#})
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173475 old .{@{#-stamBa#}@} ({@{#niHstamBa#}@}) {%<lex>a.</lex>%} having no pillars.
+;
+173475 new .{@{#-stamBa#}@} ({#niHstamBa#}) {%<lex>a.</lex>%} having no pillars.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173479 old .{@{#-sneha#}@} ({@{#niHsneha#}@}) {%<lex>a.</lex>%}
+;
+173479 new .{@{#-sneha#}@} ({#niHsneha#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173485 old .{@{#-spanda#}@} ({@{#niHspanda#}@} or {@{#nisspanda#}@}) {%<lex>a.</lex>%} motionless,
+;
+173485 new .{@{#-spanda#}@} ({#niHspanda#} or {#nisspanda#}) {%<lex>a.</lex>%} motionless,
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173487 old .{@{#-sparSa#}@} ({@{#niHsparSa#}@}) {%<lex>a.</lex>%} hard, rough.
+;
+173487 new .{@{#-sparSa#}@} ({#niHsparSa#}) {%<lex>a.</lex>%} hard, rough.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173488 old .{@{#-spfha#}@} ({@{#niHspfha#}@}) {%<lex>a.</lex>%} free from desire; {#niHspfhasya tfRaM jagat#}.
+;
+173488 new .{@{#-spfha#}@} ({#niHspfha#}) {%<lex>a.</lex>%} free from desire; {#niHspfhasya tfRaM jagat#}.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173493 old .{@{#-sva#}@} ({@{#niHsva#}@}) {%<lex>a.</lex>%} poor, indigent; {#nisvo vazwi Satam#}
+;
+173493 new .{@{#-sva#}@} ({#niHsva#}) {%<lex>a.</lex>%} poor, indigent; {#nisvo vazwi Satam#}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173495 old .{@{#-svana#}@} ({@{#niHsvana#}@}) {%<lex>a.</lex>%} soundless.
+;
+173495 new .{@{#-svana#}@} ({#niHsvana#}) {%<lex>a.</lex>%} soundless.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173496 old .{@{#-svaBAvaH#}@} ({@{#niHsvaBAvaH#}@}) poverty. --{%<lex>a.</lex>%} void of peculiarities.
+;
+173496 new .{@{#-svaBAvaH#}@} ({#niHsvaBAvaH#}) poverty. --{%<lex>a.</lex>%} void of peculiarities.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173497 old .{@{#-svAdu#}@} ({@{#niHsvAdu#}@}) {%<lex>a.</lex>%} tasteless, insipid.
+;
+173497 new .{@{#-svAdu#}@} ({#niHsvAdu#}) {%<lex>a.</lex>%} tasteless, insipid.
+;---------------------------------------------------
+; <L>19472<pc>0936-2<k1>nud<k2>nud
+174432 old .²2 To prompt, incite, push on or urge forward. --{%With%} {#upa#} to drive
+;
+174432 new .²2 To prompt, incite, push on or urge forward. ━{%With%} {@{#upa#}@} to drive
+;---------------------------------------------------
+; <L>19472<pc>0936-2<k1>nud<k2>nud
+174433 old  away, remove; <ls>Śi. 4. 61</ls>. {#pra˚#} to dispel, drive off, remove; {#nayanaprasarapraRunnamiva#}
+;
+174433 new  away, remove; <ls>Śi. 4. 61</ls>. ━{@{#pra˚#}@} to dispel, drive off, remove; {#nayanaprasarapraRunnamiva#}
+;---------------------------------------------------
+; <L>19477<pc>0937-1<k1>nUtana<k2>nUtana,
+174470 old .{@{#-vayas#}@} ({@{#nUtnavayas#}@}) in the bloom of youth, in the spring of life.
+;
+174470 new .{@{#-vayas#}@} ({#nUtnavayas#}) in the bloom of youth, in the spring of life.
+;---------------------------------------------------
+; <L>19482<pc>0937-1<k1>nf<k2>nf
+174581 old .{@{#-sadanam#}@} ({@{#nfzadanam#}@}) the hall of sacrifice.
+;
+174581 new .{@{#-sadanam#}@} ({#nfzadanam#}) the hall of sacrifice.
+;---------------------------------------------------
+; <L>19487<pc>0938-1<k1>nft<k2>nft
+174630 old .²2 To cause to move. --{%With%} {#A#} ({%<ab>caus.</ab>%})
+;
+174630 new .²2 To cause to move. ━{%With%} {@{#A#}@} ({%<ab>caus.</ab>%})
+;---------------------------------------------------
+; <L>19487<pc>0938-1<k1>nft<k2>nft
+174634 old  <ls>Ṛs. 3. 10</ls>. {@{#pra˚#}@} to dance <ab>&c.</ab> {@{#prati˚#}@} to ridicule by dancing in return.
+;
+174634 new  <ls>Ṛs. 3. 10</ls>. ━{@{#pra˚#}@} to dance <ab>&c.</ab> {@{#prati˚#}@} to ridicule by dancing in return.
+;---------------------------------------------------
+; <L>19617<pc>0942-1<k1>nO<k2>nO
+175535 old .{@{#-ArohaH#}@} ({@{#nAvArohaH#}@})
+;
+175535 new .{@{#-ArohaH#}@} ({#nAvArohaH#})
+;---------------------------------------------------
+; <L>19705<pc>0947-1<k1>pac<k2>pac
+176505 old --{%With%} {#pari#} to ripen, mature, develop. {@{#vi˚#}@}
+;
+176505 new ━{%With%} {@{#pari#}@} to ripen, mature, develop. ━{@{#vi˚#}@}
+;---------------------------------------------------
+; <L>19790<pc>0953-2<k1>paW<k2>paW
+177679 old  ({#pipaWizati#}) To wish to recite <ab>&c.</ab> --{%With%} {#pari#} to mention,
+;
+177679 new  ({#pipaWizati#}) To wish to recite <ab>&c.</ab> ━{%With%} {@{#pari#}@} to mention,
+;---------------------------------------------------
+; <L>19790<pc>0953-2<k1>paW<k2>paW
+177681 old .{@{#sam#}@}- to read, learn; {#vedANgAni ca sarvARi kfzRapakzezu saMpaWet#} <ls>Ms. 4. 98</ls>.
+;
+177681 new .{@{#sam#}@} to read, learn; {#vedANgAni ca sarvARi kfzRapakzezu saMpaWet#} <ls>Ms. 4. 98</ls>.
+;---------------------------------------------------
+; <L>19800<pc>0954-1<k1>paR<k2>paR
+177745 old .²2 To honour; {#yakzAScApi paRAyanti tadviBUtiM gfhe gfhe#}. --{%With%}
+;
+177745 new .²2 To honour; {#yakzAScApi paRAyanti tadviBUtiM gfhe gfhe#}. ━{%With%}
+;---------------------------------------------------
+; <L>19800<pc>0954-1<k1>paR<k2>paR
+177746 old  {#vi#} to sell, barter; {#ABIradeSe kila candrakAntaM triBirvarAwErvipaRanti#}
+;
+177746 new  {@{#vi#}@} to sell, barter; {#ABIradeSe kila candrakAntaM triBirvarAwErvipaRanti#}
+;---------------------------------------------------
+; <L>19886<pc>0959-1<k1>pad<k2>pad
+178650 old .{@{#-gaH#}@} ({@{#padgaH#}@}) a foot-soldier.
+;
+178650 new .{@{#-gaH#}@} ({#padgaH#}) a foot-soldier.
+;---------------------------------------------------
+; <L>19886<pc>0959-1<k1>pad<k2>pad
+178656 old .{@{#-raTaH#}@} ({@{#padraTaH#}@}) a footsoldier, footman; {#tvaM padraTAnAM#}
+;
+178656 new .{@{#-raTaH#}@} ({#padraTaH#}) a footsoldier, footman; {#tvaM padraTAnAM#}
+;---------------------------------------------------
+; <L>19886<pc>0959-1<k1>pad<k2>pad
+178659 old .{@{#-hatiH, -tI#}@} {%<lex>f.</lex>%} ({@{#padDatiH, -tI#}@})
+;
+178659 new .{@{#-hatiH, -tI#}@} {%<lex>f.</lex>%} ({#padDatiH, -tI#})
+;---------------------------------------------------
+; <L>19886<pc>0959-1<k1>pad<k2>pad
+178667 old .{@{#-himam#}@} ({@{#padDimam#}@}) coldness of the feet.
+;
+178667 new .{@{#-himam#}@} ({#padDimam#}) coldness of the feet.
+;---------------------------------------------------
+; <L>19929<pc>0962-2<k1>payas<k2>payas
+179299 old .{@{#-cayaH#}@} ({@{#payaScayaH#}@}) a reservoir or lake.
+;
+179299 new .{@{#-cayaH#}@} ({#payaScayaH#}) a reservoir or lake.
+;---------------------------------------------------
+; <L>20899<pc>1000-2<k1>pAMsuH<k2>pAMsuH
+187158 old .{@{#-nipAtaH#}@} a shower of dust; also {@{#-varzaH#}@} <ls>Ms. 4. 115</ls>.
+;
+187158 new .{@{#-nipAtaH#}@} a shower of dust; also {#-varzaH#} <ls>Ms. 4. 115</ls>.
+;---------------------------------------------------
+; <L>21385<pc>1021-1<k1>pitf<k2>pitf
+191410 old .{@{#-putrO#}@} ({@{#pitA-putrO#}@} dual) father and son. ({#pituH putraH#}
+;
+191410 new .{@{#-putrO#}@} ({#pitA-putrO#} dual) father and son. ({#pituH putraH#}
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192463 old .{@{#-anujA#}@} ({@{#pumanujA#}@}) a girl born after the male child; {%<ab>i. e.</ab>%}
+;
+192463 new .{@{#-anujA#}@} ({#pumanujA#}) a girl born after the male child; {%<ab>i. e.</ab>%}
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192465 old .{@{#-apatyam#}@} ({@{#pumapatyam#}@}) a male child.
+;
+192465 new .{@{#-apatyam#}@} ({#pumapatyam#}) a male child.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192466 old .{@{#-arTaH#}@} ({@{#pumarTaH#}@})
+;
+192466 new .{@{#-arTaH#}@} ({#pumarTaH#})
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192470 old .{@{#-AKyA#}@} ({@{#pumAKyA#}@}) a designation of a male being.
+;
+192470 new .{@{#-AKyA#}@} ({#pumAKyA#}) a designation of a male being.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192471 old .{@{#-AcAraH#}@} ({@{#pumAcAraH#}@}) a usage of men.
+;
+192471 new .{@{#-AcAraH#}@} ({#pumAcAraH#}) a usage of men.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192476 old .{@{#-KewaH#}@} ({@{#puMKewaH#}@}) a male plant.
+;
+192476 new .{@{#-KewaH#}@} ({#puMKewaH#}) a male plant.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192477 old .{@{#-gavaH#}@} ({@{#puMgavaH#}@})
+;
+192477 new .{@{#-gavaH#}@} ({#puMgavaH#})
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192483 old .{@{#-calaH#}@} ({@{#puMScalaH#}@}) an adulterer.
+;
+192483 new .{@{#-calaH#}@} ({#puMScalaH#}) an adulterer.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192484 old .{@{#-calI#}@} ({@{#puMScalI#}@}) a harlot, an unchaste woman; <ls>Y. 1. 162</ls>; <ls>Ms. 4. 220</ls>;
+;
+192484 new .{@{#-calI#}@} ({#puMScalI#}) a harlot, an unchaste woman; <ls>Y. 1. 162</ls>; <ls>Ms. 4. 220</ls>;
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192487 old .{@{#-calIyaH#}@} ({@{#puMScalIyaH#}@}) the son of a harlot.
+;
+192487 new .{@{#-calIyaH#}@} ({#puMScalIyaH#}) the son of a harlot.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192489 old .{@{#-cihnam#}@} ({@{#puMScihnam#}@}) the characteristic of a male, the
+;
+192489 new .{@{#-cihnam#}@} ({#puMScihnam#}) the characteristic of a male, the
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192491 old .{@{#-janman#}@} ({@{#puMjanman#}@}) {%<lex>n.</lex>%} the birth of a male child.
+;
+192491 new .{@{#-janman#}@} ({#puMjanman#}) {%<lex>n.</lex>%} the birth of a male child.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192493 old .{@{#-dAsaH#}@} ({@{#puMdAsaH#}@}) a male slave.
+;
+192493 new .{@{#-dAsaH#}@} ({#puMdAsaH#}) a male slave.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192494 old .{@{#-DvajaH#}@} ({@{#puMDvajaH#}@})
+;
+192494 new .{@{#-DvajaH#}@} ({#puMDvajaH#})
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192496 old .{@{#-nakzatram#}@} ({@{#puMnakzatram#}@}) a male asterism.
+;
+192496 new .{@{#-nakzatram#}@} ({#puMnakzatram#}) a male asterism.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192498 old .{@{#-nAgaH#}@} ({@{#puMnAgaH#}@})
+;
+192498 new .{@{#-nAgaH#}@} ({#puMnAgaH#})
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192505 old .{@{#-nAwaH, -qaH#}@} ({@{#puMnAwaH, -qaH#}@}) <ab>N.</ab> of a tree.
+;
+192505 new .{@{#-nAwaH, -qaH#}@} ({#puMnAwaH, -qaH#}) <ab>N.</ab> of a tree.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192506 old .{@{#-nAmaDeyaH#}@} ({@{#puMnAmaDeyaH#}@}) a male.
+;
+192506 new .{@{#-nAmaDeyaH#}@} ({#puMnAmaDeyaH#}) a male.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192507 old .{@{#-nAman#}@} ({@{#puMnAman#}@}) {%<lex>a.</lex>%} holding a masculine name. ({%<lex>m.</lex>%}) the
+;
+192507 new .{@{#-nAman#}@} ({#puMnAman#}) {%<lex>a.</lex>%} holding a masculine name. ({%<lex>m.</lex>%}) the
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192511 old .{@{#-BAvaH#}@} ({@{#puMBAvaH#}@}) manhood, masculine gender.
+;
+192511 new .{@{#-BAvaH#}@} ({#puMBAvaH#}) manhood, masculine gender.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192512 old .{@{#-BUman#}@} ({@{#puMBUman#}@}) {%<lex>m.</lex>%} a word of the masculine gender used only
+;
+192512 new .{@{#-BUman#}@} ({#puMBUman#}) {%<lex>m.</lex>%} a word of the masculine gender used only
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192514 old .{@{#-yogaH#}@} ({@{#puMyogaH#}@})
+;
+192514 new .{@{#-yogaH#}@} ({#puMyogaH#})
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192517 old .{@{#-ratnam#}@} ({@{#puMratnam#}@})
+;
+192517 new .{@{#-ratnam#}@} ({#puMratnam#})
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192520 old .{@{#-rASiH#}@} ({@{#puMrASiH#}@}) a male sign of the zodiac.
+;
+192520 new .{@{#-rASiH#}@} ({#puMrASiH#}) a male sign of the zodiac.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192521 old .{@{#-rUpam#}@} ({@{#puMrUpam#}@}) the form of a man.
+;
+192521 new .{@{#-rUpam#}@} ({#puMrUpam#}) the form of a man.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192528 old .{@{#-vatsaH#}@} ({@{#puMvatsaH#}@}) a bull-calf.
+;
+192528 new .{@{#-vatsaH#}@} ({#puMvatsaH#}) a bull-calf.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192529 old .{@{#-vfzaH#}@} ({@{#puMvfzaH#}@}) the musk-rat.
+;
+192529 new .{@{#-vfzaH#}@} ({#puMvfzaH#}) the musk-rat.
+;---------------------------------------------------
+; <L>21495<pc>1026-2<k1>puMs<k2>puMs
+192531 old .{@{#-savana#}@} ({@{#puMsavana#}@}) {%<lex>a.</lex>%} causing the birth of a male child.
+;
+192531 new .{@{#-savana#}@} ({#puMsavana#}) {%<lex>a.</lex>%} causing the birth of a male child.
+;---------------------------------------------------
+; <L>21558<pc>1030-1<k1>punar<k2>punar
+193245 old .{@{#-punA#}@} ({@{#punaHpunA#}@}) <ab>N.</ab> of a river in Behār; {#kIkawezu#}
+;
+193245 new .{@{#-punA#}@} ({#punaHpunA#}) <ab>N.</ab> of a river in Behār; {#kIkawezu#}
+;---------------------------------------------------
+; <L>21558<pc>1030-1<k1>punar<k2>punar
+193275 old .{@{#-saMskAraH#}@} ({@{#punaHsaMskAraH#}@}) repetition of any Saṃskāra
+;
+193275 new .{@{#-saMskAraH#}@} ({#punaHsaMskAraH#}) repetition of any Saṃskāra
+;---------------------------------------------------
+; <L>21558<pc>1030-1<k1>punar<k2>punar
+193278 old .{@{#-saMgamaH, -saMDAnam#}@} ({@{#punaHsaMDAnam#}@} <ab>&c.</ab>)
+;
+193278 new .{@{#-saMgamaH, -saMDAnam#}@} ({#punaHsaMDAnam#} <ab>&c.</ab>)
+;---------------------------------------------------
+; <L>21558<pc>1030-1<k1>punar<k2>punar
+193281 old .{@{#-saMBavaH#}@} ({@{#punaHsaMBavaH#}@}) being born again (into the world), metempsychosis.
+;
+193281 new .{@{#-saMBavaH#}@} ({#punaHsaMBavaH#}) being born again (into the world), metempsychosis.
+;---------------------------------------------------
+; <L>21564<pc>1031-1<k1>pur<k2>pur
+193314 old .{@{#-dvAr#}@} {%<lex>f.</lex>%}, {@{#-dvAram#}@} ({@{#pUrdvAr#}@})
+;
+193314 new .{@{#-dvAr#}@} {%<lex>f.</lex>%}, {@{#-dvAram#}@} ({#pUrdvAr#})
+;---------------------------------------------------
+; <L>21575<pc>1031-2<k1>puras<k2>puras
+193450 old .{@{#-anuvAkyA#}@} ({@{#puro'nuvAkyA#}@}) an introductory verse or hymn.
+;
+193450 new .{@{#-anuvAkyA#}@} ({#puro'nuvAkyA#}) an introductory verse or hymn.
+;---------------------------------------------------
+; <L>21575<pc>1031-2<k1>puras<k2>puras
+193452 old .{@{#-ga, -gama#}@} ({@{#puroga, -gama#}@}) {%<lex>a.</lex>%}
+;
+193452 new .{@{#-ga, -gama#}@} ({#puroga, -gama#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>21575<pc>1031-2<k1>puras<k2>puras
+193466 old .{@{#-caraRam#}@} ({@{#puraScaraRam#}@})
+;
+193466 new .{@{#-caraRam#}@} ({#puraScaraRam#})
+;---------------------------------------------------
+; <L>21575<pc>1031-2<k1>puras<k2>puras
+193472 old .{@{#-CadaH#}@} ({@{#puraSCadaH#}@}) a nipple.
+;
+193472 new .{@{#-CadaH#}@} ({#puraSCadaH#}) a nipple.
+;---------------------------------------------------
+; <L>21575<pc>1031-2<k1>puras<k2>puras
+193473 old .{@{#-janman#}@} ({@{#purojanman#}@}) {%<lex>a.</lex>%} born before.
+;
+193473 new .{@{#-janman#}@} ({#purojanman#}) {%<lex>a.</lex>%} born before.
+;---------------------------------------------------
+; <L>21575<pc>1031-2<k1>puras<k2>puras
+193478 old .{@{#-qAS#}@} {%<lex>m.</lex>%}, {@{#-qASaH#}@} ({@{#puroqAS, -SaH#}@})
+;
+193478 new .{@{#-qAS#}@} {%<lex>m.</lex>%}, {@{#-qASaH#}@} ({#puroqAS, -SaH#})
+;---------------------------------------------------
+; <L>21575<pc>1031-2<k1>puras<k2>puras
+193493 old .{@{#-BAga#}@} ({@{#puroBAga#}@}) {%<lex>a.</lex>%}
+;
+193493 new .{@{#-BAga#}@} ({#puroBAga#}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>21575<pc>1031-2<k1>puras<k2>puras
+193507 old .{@{#-mArutaH, -vAtaH#}@} ({@{#puromArutaH, -vAtaH#}@}) a fore-wind, wind
+;
+193507 new .{@{#-mArutaH, -vAtaH#}@} ({#puromArutaH, -vAtaH#}) a fore-wind, wind
+;---------------------------------------------------
+; <L>21715<pc>1041-1<k1>pUrva<k2>pUrva
+195245 old  ‘previously, subsequently’, {@{#pUrvam-aDunA#}@} or {@{#-adya#}@}
+;
+195245 new  ‘previously, subsequently’, {@{#pUrvam━aDunA#}@} or {@{#━adya#}@}
+;---------------------------------------------------
+; <L>21770<pc>1045-2<k1>pfzat<k2>pfzat
+195991 old .{@{#-patiH#}@} ({@{#-pfzatAMpatiH#}@}) wind.
+;
+195991 new .{@{#-patiH#}@} ({#pfzatAMpatiH#}) wind.
+;---------------------------------------------------
+; <L>22198<pc>1061-1<k1>pracCAdaka<k2>pracCAdaka
+199340 old  covert description of her sorrows); also {@{#pracCedaka#}@} in this sense.
+;
+199340 new  covert description of her sorrows); also {#pracCedaka#} in this sense.
+;---------------------------------------------------
+; <L>22785<pc>1085-1<k1>pratyakza<k2>pratyakza
+204319 old .{@{#-darSanam#}@} ocular evidence, direct proof. {@{#darSanaH, -darSin#}@}
+;
+204319 new .{@{#-darSanam#}@} ocular evidence, direct proof. {@{#-darSanaH, -darSin#}@}
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204376 old .({@{#-pratIcI#}@} {%<lex>f.</lex>%} or according to Vopadeva {#pratyaYcI#} also)
+;
+204376 new .({#-pratIcI#} {%<lex>f.</lex>%} or according to Vopadeva {#pratyaYcI#} also)
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204391 old .{@{#-akzam#}@} ({@{#pratyagakzam#}@}) an inner organ.
+;
+204391 new .{@{#-akzam#}@} ({#pratyagakzam#}) an inner organ.
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204392 old .{@{#-Atman#}@} {%<lex>m.</lex>%} ({@{#pratyagAtman#}@}) the individual soul; {#kaScidDIraH#}
+;
+204392 new .{@{#-Atman#}@} {%<lex>m.</lex>%} ({#pratyagAtman#}) the individual soul; {#kaScidDIraH#}
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204395 old .{@{#-ASApatiH#}@} ({@{#pratyagASApatiH#}@}) ‘The lord of the western direction’,
+;
+204395 new .{@{#-ASApatiH#}@} ({#pratyagASApatiH#}) ‘The lord of the western direction’,
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204397 old .{@{#-udac#}@} {%<lex>f.</lex>%} ({@{#pratyagudac#}@}) the north-west.
+;
+204397 new .{@{#-udac#}@} {%<lex>f.</lex>%} ({#pratyagudac#}) the north-west.
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204404 old .{@{#-dakziRataH#}@} ({@{#pratyagdakziRataH#}@}) {%<lex>ind.</lex>%} towards the south-west.
+;
+204404 new .{@{#-dakziRataH#}@} ({#pratyagdakziRataH#}) {%<lex>ind.</lex>%} towards the south-west.
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204405 old .{@{#-dfS#}@} {%<lex>f.</lex>%} ({@{#pratyagdfS#}@}) an inward glance, a glance directed
+;
+204405 new .{@{#-dfS#}@} {%<lex>f.</lex>%} ({#pratyagdfS#}) an inward glance, a glance directed
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204411 old .{@{#-muKa#}@} {%<lex>a.</lex>%} (@{#pratyaNmuKa#})
+;
+204411 new .{@{#-muKa#}@} {%<lex>a.</lex>%} ({#pratyaNmuKa#})
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204414 old .{@{#-raTAH#}@} (<ab>Pl.</ab>) ({@{#pratyagraTAH#}@}) <ab>N.</ab> of the Ahichchhatra country; <ls>L. D. B.</ls>
+;
+204414 new .{@{#-raTAH#}@} (<ab>Pl.</ab>) ({#pratyagraTAH#}) <ab>N.</ab> of the Ahichchhatra country; <ls>L. D. B.</ls>
+;---------------------------------------------------
+; <L>22791<pc>1085-2<k1>pratyaYc<k2>pratyaYc,
+204415 old .{@{#-srotas#}@} ({@{#pratyaksrotas#}@}) flowing towards the west; <ls>Malli.</ls>
+;
+204415 new .{@{#-srotas#}@} ({#pratyaksrotas#}) flowing towards the west; <ls>Malli.</ls>
+;---------------------------------------------------
+; <L>23162<pc>1099-2<k1>praButA<k2>praButA,
+207275 old .{@{#-AkzepaH#}@} ({@{#praButvAkzepaH#}@}) (in <ab>rhet.</ab>) an objection based
+;
+207275 new .{@{#-AkzepaH#}@} ({#praButvAkzepaH#}) (in <ab>rhet.</ab>) an objection based
+;---------------------------------------------------
+; <L>23572<pc>1114-2<k1>prasaNgaH<k2>prasaNgaH
+210489 old .({@{#prasaMgena#}@}, {@{#prasaMgataH, prasaMgAt#}@} are used adverbially in the sense of:−
+;
+210489 new .({@{#prasaMgena, prasaMgataH, prasaMgAt#}@} are used adverbially in the sense of:−
+;---------------------------------------------------
+; <L>23804<pc>1124-1<k1>prAkfta<k2>prAkfta
+212411 old .²2 A kind of fever; {#varzASaradvasantezu vAtAdyEH prAkftaH kamAt#} <ls>Mādhava</ls>; (see {@{#-jvaraH#}@})
+;
+212411 new .²2 A kind of fever; {#varzASaradvasantezu vAtAdyEH prAkftaH kamAt#} <ls>Mādhava</ls>; (see {#-jvaraH#})
+;---------------------------------------------------
+; <L>23824<pc>1125-1<k1>prAc<k2>prAc,
+212610 old  {@{#-jyotizaH#}@} ({@{#prAgjyotizaH#}@})
+;
+212610 new  {@{#-jyotizaH#}@} ({#prAgjyotizaH#})
+;---------------------------------------------------
+; <L>23824<pc>1125-1<k1>prAc<k2>prAc,
+212622 old .{@{#-PalaH#}@} (@{#prAkPalaH#}) the bread-fruit tree.
+;
+212622 new .{@{#-PalaH#}@} ({#prAkPalaH#}) the bread-fruit tree.
+;---------------------------------------------------
+; <L>23826<pc>1126-1<k1>prAcIna<k2>prAcIna
+212693 old .{@{#-AvItam#}@} the sacred thread ({@{#yajYopavIta#}@}) worn over the
+;
+212693 new .{@{#-AvItam#}@} the sacred thread ({#yajYopavIta#}) worn over the
+;---------------------------------------------------
+; <L>23836<pc>1126-2<k1>prAC<k2>prAC
+212770 old .{@{#-vivAkaH#}@} ({@{#prAqvivAkaH#}@}) a judge, the presiding officer in a court
+;
+212770 new .{@{#-vivAkaH#}@} ({#prAqvivAkaH#}) a judge, the presiding officer in a court
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213173 old .{@{#-karman#}@} {%<lex>n.</lex>%}, {@{#-kAryam, -kftyam#}@} ({@{#prAtaHkarma#}@} <ab>&c.</ab>)
+;
+213173 new .{@{#-karman#}@} {%<lex>n.</lex>%}, {@{#-kAryam, -kftyam#}@} ({#prAtaHkarma#} <ab>&c.</ab>)
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213176 old .{@{#-kAlaH#}@} ({@{#prAtaHkAlaH#}@}) morning time.
+;
+213176 new .{@{#-kAlaH#}@} ({#prAtaHkAlaH#}) morning time.
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213179 old .{@{#-candraH#}@} ({@{#prAtaScandraH#}@}) the moon in the morning. {#˚dyUti#} {%<lex>a.</lex>%} pale.
+;
+213179 new .{@{#-candraH#}@} ({#prAtaScandraH#}) the moon in the morning. {#˚dyUti#} {%<lex>a.</lex>%} pale.
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213180 old .{@{#-trivargA#}@} ({@{#prAtastrivargA#}@}) the river Ganges.
+;
+213180 new .{@{#-trivargA#}@} ({#prAtastrivargA#}) the river Ganges.
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213183 old .{@{#-praharaH#}@} ({@{#prAtaHpraharaH#}@}) the first watch of the day.
+;
+213183 new .{@{#-praharaH#}@} ({#prAtaHpraharaH#}) the first watch of the day.
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213186 old .{@{#-saMDyA#}@} ({@{#prAtaHsaMDyA#}@})
+;
+213186 new .{@{#-saMDyA#}@} ({#prAtaHsaMDyA#})
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213189 old .{@{#-samayaH#}@} ({@{#prAtaHsamayaH#}@}) morning-time, day-break.
+;
+213189 new .{@{#-samayaH#}@} ({#prAtaHsamayaH#}) morning-time, day-break.
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213190 old .{@{#-savaH, -savanam#}@} ({@{#prAtaHsavaH#}@} <ab>&c.</ab>) the morning libation of {%Soma%}.
+;
+213190 new .{@{#-savaH, -savanam#}@} ({#prAtaHsavaH#} <ab>&c.</ab>) the morning libation of {%Soma%}.
+;---------------------------------------------------
+; <L>23865<pc>1128-2<k1>prAtar<k2>prAtar
+213191 old .{@{#-snAnam#}@} ({@{#prAtaHsnAnam#}@}) morning ablution.
+;
+213191 new .{@{#-snAnam#}@} ({#prAtaHsnAnam#}) morning ablution.
+;---------------------------------------------------
+; <L>23939<pc>1131-2<k1>prApya<k2>prApya,
+213760 old .{@{#-kArin#}@} ({@{#prApyakArin#}@}) {%<lex>a.</lex>%} effective (only) when touched.
+;
+213760 new .{@{#-kArin#}@} ({#prApyakArin#}) {%<lex>a.</lex>%} effective (only) when touched.
+;---------------------------------------------------
+; <L>23939<pc>1131-2<k1>prApya<k2>prApya,
+213761 old .{@{#-rUpa#}@} ({@{#prApyarUpa#}@}) {%<lex>a.</lex>%} rather easy to attain.
+;
+213761 new .{@{#-rUpa#}@} ({#prApyarUpa#}) {%<lex>a.</lex>%} rather easy to attain.
+;---------------------------------------------------
+; <L>24017<pc>1134-1<k1>prAvfz<k2>prAvfz
+214292 old .{@{#-atyayaH#}@} ({@{#prAvfqatyayaH#}@}) end of the rainy season.
+;
+214292 new .{@{#-atyayaH#}@} ({#prAvfqatyayaH#}) end of the rainy season.
+;---------------------------------------------------
+; <L>24017<pc>1134-1<k1>prAvfz<k2>prAvfz
+214293 old .{@{#-kAlaH#}@} ({@{#prAvfwkAlaH#}@}) the rainy season.
+;
+214293 new .{@{#-kAlaH#}@} ({#prAvfwkAlaH#}) the rainy season.
+;---------------------------------------------------
+; <L>24241<pc>1142-2<k1>plu<k2>plu
+216113 old .²6 To lengthen, prolate (a vowel). --{%With%} {#aBi#}
+;
+216113 new .²6 To lengthen, prolate (a vowel). ━{%With%} {@{#aBi#}@}
+;---------------------------------------------------
+; <L>24298<pc>1145-1<k1>Palam<k2>Palam
+216741 old .{@{#-pariRatiH#}@} {%<lex>f.</lex>%}, {@{#-pariRAmaH, -pAkaH#}@} ({@{#-PalepAkaH#}@} also)
+;
+216741 new .{@{#-pariRatiH#}@} {%<lex>f.</lex>%}, {@{#-pariRAmaH, -pAkaH#}@} ({@{#PalepAkaH#}@} also)
+;---------------------------------------------------
+; <L>24434<pc>1153-1<k1>banDyA<k2>banDyA
+218094 old .{@{#-tanayaH, -putraH, -sutaH#}@}, or {@{#duhitA, -sutA#}@} <ab>&c.</ab> the son
+;
+218094 new .{@{#-tanayaH, -putraH, -sutaH#}@}, or {@{#-duhitA, -sutA#}@} <ab>&c.</ab> the son
+;---------------------------------------------------
+; <L>24456<pc>1153-2<k1>barh<k2>barh
+218253 old .²2 To speak. --{%With%} {#ni#} to kill, destroy; {#nibarhayantaScAnyonyaM#}
+;
+218253 new .²2 To speak. ━{%With%} {@{#ni#}@} to kill, destroy; {#nibarhayantaScAnyonyaM#}
+;---------------------------------------------------
+; <L>24464<pc>1154-1<k1>barhis<k2>barhis
+218330 old .{@{#-muKaH#}@} ({@{#barhirmuKaH#}@})
+;
+218330 new .{@{#-muKaH#}@} ({#barhirmuKaH#})
+;---------------------------------------------------
+; <L>24464<pc>1154-1<k1>barhis<k2>barhis
+218334 old .{@{#-sad#}@} ({@{#barhizad#}@}) {%<lex>a.</lex>%} seated on a layer of Kuśa grass. --({%<lex>m.</lex>%})
+;
+218334 new .{@{#-sad#}@} ({#barhizad#}) {%<lex>a.</lex>%} seated on a layer of Kuśa grass. --({%<lex>m.</lex>%})
+;---------------------------------------------------
+; <L>24612<pc>1164-1<k1>bAzkalaH<k2>bAzkalaH
+220172 old .{@{#-SAKA#}@} the {@{#bAzkala#}@} recension of the Ṛgveda.
+;
+220172 new .{@{#-SAKA#}@} the {#bAzkala#} recension of the Ṛgveda.
+;---------------------------------------------------
+; <L>24757<pc>1171-1<k1>bfh<k2>bfh
+221531 old .²2 To roar. --{%With%} {#ud#} .²1 to lift, raise; {#udbabarha SaraM nIlastasya#}
+;
+221531 new .²2 To roar. ━{%With%} {@{#ud#}@} .²1 to lift, raise; {#udbabarha SaraM nIlastasya#}
+;---------------------------------------------------
+; <L>24757<pc>1171-1<k1>bfh<k2>bfh
+221533 old  {#manaH sadasadAtmakam#} <ls>Ms. 1. 14</ls>; <ls>Bk. 14. 18</ls>. {#-ni#} to destroy, remove;
+;
+221533 new  {#manaH sadasadAtmakam#} <ls>Ms. 1. 14</ls>; <ls>Bk. 14. 18</ls>. ━{@{#ni#}@} to destroy, remove;
+;---------------------------------------------------
+; <L>24789<pc>1173-1<k1>brahman<k2>brahman
+222032 old .{@{#-fziH#}@} ({@{#brahmarziH#}@} or {@{#brahmafziH#}@}) a Brahmanical
+;
+222032 new .{@{#-fziH#}@} ({#brahmarziH#} or {#brahmafziH#}) a Brahmanical
+;---------------------------------------------------
+; <L>24817<pc>1178-2<k1>brU<k2>brU
+222725 old .²6 To call or profess oneself to be. ━{%With%} {@{#-ati#}@}
+;
+222725 new .²6 To call or profess oneself to be. ━{%With%} {@{#ati#}@}
+;---------------------------------------------------
+; <L>24972<pc>1187-2<k1>Bavat<k2>Bavat
+224408 old .({@{#-tI#}@} {%<lex>f.</lex>%}) A respectful or honorific pronoun, translated by
+;
+224408 new .({#-tI#} {%<lex>f.</lex>%}) A respectful or honorific pronoun, translated by
+;---------------------------------------------------
+; <L>25122<pc>1196-1<k1>BAz<k2>BAz
+225970 old .²6 To describe. --{%With%} {#anu#}
+;
+225970 new .²6 To describe. ━{%With%} {@{#anu#}@}
+;---------------------------------------------------
+; <L>25234<pc>1203-2<k1>BUH<k2>BUH
+227446 old .{@{#-lokaH#}@} ({@{#BUrlokaH#}@})
+;
+227446 new .{@{#-lokaH#}@} ({#BUrlokaH#})
+;---------------------------------------------------
+; <L>25259<pc>1208-1<k1>BUz<k2>BUz
+228113 old  <ls>R. 2. 31</ls>. --{%With%} {#aBi#} to adorn, grace, give beauty to; {#aharata#}
+;
+228113 new  <ls>R. 2. 31</ls>. ━{%With%} {@{#aBi#}@} to adorn, grace, give beauty to; {#aharata#}
+;---------------------------------------------------
+; <L>25368<pc>1214-1<k1>BOma<k2>BOma
+229268 old .{@{#-brahman#}@} ({@{#BOmabrahman#}@}) Vedas, Brāhmaṇas and sacrifices;
+;
+229268 new .{@{#-brahman#}@} ({#BOmabrahman#}) Vedas, Brāhmaṇas and sacrifices;
+;---------------------------------------------------
+; <L>25407<pc>1215-2<k1>BrAj<k2>BrAj
+229596 old  irradiate. --{%With%} {#vi#} to shine brilliantly or intensely; {#viBrAjase#}
+;
+229596 new  irradiate. ━{%With%} {@{#vi#}@} to shine brilliantly or intensely; {#viBrAjase#}
+;---------------------------------------------------
+; <L>25684<pc>1233-1<k1>manas<k2>manas
+233005 old .{@{#-praRIta#}@} {%<lex>a.</lex>%} ({@{#manaHpraRIta#}@}) agreeable or pleasing to the mind.
+;
+233005 new .{@{#-praRIta#}@} {%<lex>a.</lex>%} ({#manaHpraRIta#}) agreeable or pleasing to the mind.
+;---------------------------------------------------
+; <L>25795<pc>1241-1<k1>marAla<k2>marAla
+234321 old .({@{#-lI#}@} {%<lex>f.</lex>%}) A swan, flamingo, goose; {#marAlakulanAyakaH kaTaya#}
+;
+234321 new .({#-lI#} {%<lex>f.</lex>%}) A swan, flamingo, goose; {#marAlakulanAyakaH kaTaya#}
+;---------------------------------------------------
+; <L>25943<pc>1247-2<k1>mahA<k2>mahA
+235962 old .{@{#-ozWa#}@} ({@{#mahozWa#}@}) {%<lex>a.</lex>%} having large lips.
+;
+235962 new .{@{#-ozWa#}@} ({#mahozWa#}) {%<lex>a.</lex>%} having large lips.
+;---------------------------------------------------
+; <L>25943<pc>1247-2<k1>mahA<k2>mahA
+236741 old .{@{#-SUdraH#}@}
+;
+236741 new .{@{#-SUdraH#}@} ({#-drI#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>25943<pc>1247-2<k1>mahA<k2>mahA
+236742 old .({@{#-drI#}@} {%<lex>f.</lex>%})
+;
+236742 new 
+;---------------------------------------------------
+; <L>26036<pc>1258-1<k1>mAtf<k2>mAtf
+237676 old .{@{#-putrO#}@} ({@{#mAtAputrO#}@}) a mother and son.
+;
+237676 new .{@{#-putrO#}@} ({#mAtAputrO#}) a mother and son.
+;---------------------------------------------------
+; <L>26155<pc>1264-2<k1>mArg<k2>mArg
+238873 old .²2 To decorate, adorn. --{%With%} {#pari#} to seek, look out for.
+;
+238873 new .²2 To decorate, adorn. ━{%With%} {@{#pari#}@} to seek, look out for.
+;---------------------------------------------------
+; <L>26595<pc>1287-1<k1>mfd<k2>mfd
+243244 old .{@{#-cayaH#}@} ({@{#mfccayaH#}@}) a heap of earth.
+;
+243244 new .{@{#-cayaH#}@} ({#mfccayaH#}) a heap of earth.
+;---------------------------------------------------
+; <L>26595<pc>1287-1<k1>mfd<k2>mfd
+243253 old .{@{#-SakawikA#}@} ({@{#mfcCakawikA#}@}) a small car of earth, a toy-cart;
+;
+243253 new .{@{#-SakawikA#}@} ({#mfcCakawikA#}) a small car of earth, a toy-cart;
+;---------------------------------------------------
+; <L>26621<pc>1288-1<k1>me<k2>me
+243506 old  or barter. --{%With%} {#ni#} or {#vini#} to exchange or barter.
+;
+243506 new  or barter. ━{%With%} {@{#ni#}@} or {@{#vini#}@} to exchange or barter.
+;---------------------------------------------------
+; <L>26628<pc>1288-2<k1>meGaH<k2>meGaH
+243571 old .{@{#-aDvan#}@} {%<lex>m.</lex>%}, {@{#-paTaH, mArgaH#}@}
+;
+243571 new .{@{#-aDvan#}@} {%<lex>m.</lex>%}, {@{#-paTaH, -mArgaH#}@}
+;---------------------------------------------------
+; <L>26946<pc>1307-2<k1>yaSas<k2>yaSas
+247008 old .{@{#-pawahaH#}@} ({@{#yaSaHpawahaH#}@}) a double drum.
+;
+247008 new .{@{#-pawahaH#}@} ({#yaSaHpawahaH#}) a double drum.
+;---------------------------------------------------
+; <L>26946<pc>1307-2<k1>yaSas<k2>yaSas
+247009 old .{@{#-praKyApanam#}@} ({@{#yaSaHpraKyApanam#}@}) spreading or proclaiming the glory.
+;
+247009 new .{@{#-praKyApanam#}@} ({#yaSaHpraKyApanam#}) spreading or proclaiming the glory.
+;---------------------------------------------------
+; <L>26960<pc>1308-1<k1>yA<k2>yA
+247167 old  to go <ab>&c.</ab> --{%With%} {#ati#}
+;
+247167 new  to go <ab>&c.</ab> ━{%With%} {@{#ati#}@}
+;---------------------------------------------------
+; <L>26960<pc>1308-1<k1>yA<k2>yA
+247169 old .²2 to surpass. {#aDi#} to go away or forth; escape; {#kuto 'DiyAsyasi#}
+;
+247169 new .²2 to surpass. ━{@{#aDi#}@} to go away or forth; escape; {#kuto 'DiyAsyasi#}
+;---------------------------------------------------
+; <L>27009<pc>1310-2<k1>yAdfkza<k2>yAdfkza
+247573 old .{@{#-guRa#}@} ({@{#yAdfgguRa#}@}) {%<lex>a.</lex>%} of whatever qualities; {#yAdfgguRena#}
+;
+247573 new .{@{#-guRa#}@} ({#yAdfgguRa#}) {%<lex>a.</lex>%} of whatever qualities; {#yAdfgguRena#}
+;---------------------------------------------------
+; <L>27042<pc>1312-1<k1>yAvat<k2>yAvat
+247921 old .{@{#-BAzita#}@} or {@{#ukta#}@} {%<lex>a.</lex>%} as much as said.
+;
+247921 new .{@{#-BAzita#}@} or {@{#-ukta#}@} {%<lex>a.</lex>%} as much as said.
+;---------------------------------------------------
+; <L>27058<pc>1312-2<k1>yu<k2>yu
+248023 old .²6 To worship, respect. --IV. €10 <ab>Ā.</ab> ({#yAvayate#}) To censure. --{%With%}
+;
+248023 new .²6 To worship, respect. --IV. €10 <ab>Ā.</ab> ({#yAvayate#}) To censure. ━{%With%}
+;---------------------------------------------------
+; <L>27058<pc>1312-2<k1>yu<k2>yu
+248024 old  {#vyati#} to mix; {#anyonyaM sma vyatiyutaH SabdAY SabdEstu BIzaRAn#} <ls>Bk. 8. 6</ls>.
+;
+248024 new  {@{#vyati#}@} to mix; {#anyonyaM sma vyatiyutaH SabdAY SabdEstu BIzaRAn#} <ls>Bk. 8. 6</ls>.
+;---------------------------------------------------
+; <L>27087<pc>1315-1<k1>yuD<k2>yuD
+248436 old --{%With%} {#ni#} to wrestle, box. {#-prati#} to encounter in fight, oppose.
+;
+248436 new ━{%With%} {@{#ni#}@} to wrestle, box. {@{#prati#}@} to encounter in fight, oppose.
+;---------------------------------------------------
+; <L>27127<pc>1316-2<k1>yogaH<k2>yogaH
+248951 old .²2 engaged in meditation (<ab>s. v.</ab> {@{#-ArUQa#}@});
+;
+248951 new .²2 engaged in meditation (<ab>s. v.</ab> {#-ArUQa#});
+;---------------------------------------------------
+; <L>27155<pc>1320-1<k1>yozA<k2>yozA,
+249302 old .{@{#-grAhaH#}@} ({@{#yozidgrAhaH#}@}) one who takes the wife of deceased man.
+;
+249302 new .{@{#-grAhaH#}@} ({#yozidgrAhaH#}) one who takes the wife of deceased man.
+;---------------------------------------------------
+; <L>27329<pc>1331-1<k1>rasaH<k2>rasaH
+251659 old .({@{#rasajYatA, tvam#}@} means
+;
+251659 new .({@{#rasajYatA, -tvam#}@} means
+;---------------------------------------------------
+; <L>27379<pc>1334-2<k1>rAjan<k2>rAjan
+252304 old .{@{#-fziH#}@} ({@{#rAjaFziH#}@} or {@{#rAjarziH#}@}) a royal sage, a saint-like
+;
+252304 new .{@{#-fziH#}@} ({#rAjaFziH#} or {#rAjarziH#}) a royal sage, a saint-like
+;---------------------------------------------------
+; <L>27379<pc>1334-2<k1>rAjan<k2>rAjan
+252508 old  so {@{#rAjaSAstram#}@}; {#vIrASca niyatotsAhA rAjaSAstramanuzWitAH#} <ls>Rām. 1. 7. 12</ls>.
+;
+252508 new  so {#rAjaSAstram#}; {#vIrASca niyatotsAhA rAjaSAstramanuzWitAH#} <ls>Rām. 1. 7. 12</ls>.
+;---------------------------------------------------
+; <L>27408<pc>1337-2<k1>rAtriH<k2>rAtriH,
+252791 old .({@{#-rI#}@} {%<lex>f.</lex>%})
+;
+252791 new .({#-rI#} {%<lex>f.</lex>%})
+;---------------------------------------------------
+; <L>27544<pc>1344-2<k1>rud<k2>rud
+254131 old .²2 To howl, roar, scream. --{%With%} {#pra#} to weep bitterly.
+;
+254131 new .²2 To howl, roar, scream. ━{%With%} {@{#pra#}@} to weep bitterly.
+;---------------------------------------------------
+; <L>27810<pc>1358-1<k1>lap<k2>lap
+256810 old  <ab>&c.</ab> --{%With%} {#ud#} to call out loudly to.
+;
+256810 new  <ab>&c.</ab> ━{%With%} {@{#ud#}@} to call out loudly to.
+;---------------------------------------------------
+; <L>27828<pc>1359-1<k1>lamb<k2>lamb
+257014 old .²5 To depress. --{%With%} {#ud#} to stand up, stand erect; {#pAdenEkena#}
+;
+257014 new .²5 To depress. ━{%With%} {@{#ud#}@} to stand up, stand erect; {#pAdenEkena#}
+;---------------------------------------------------
+; <L>27829<pc>1359-2<k1>lamba<k2>lamba
+257041 old .{@{#-ozWaH#}@} ({@{#lambo(mbO)zWaH#}@}) a camel.
+;
+257041 new .{@{#-ozWaH#}@} ({#lambo(mbO)zWaH#}) a camel.
+;---------------------------------------------------
+; <L>28262<pc>1379-1<k1>vakzas<k2>vakzas
+261025 old .{@{#-jaH, -ruh, -ruhaH#}@}, ({@{#vakzojaH, vakzoruh, vakzoruhaH#}@})
+;
+261025 new .{@{#-jaH, -ruh, -ruhaH#}@}, ({#vakzojaH, vakzoruh, vakzoruhaH#})
+;---------------------------------------------------
+; <L>28262<pc>1379-1<k1>vakzas<k2>vakzas
+261031 old .{@{#-sTalam#}@} ({@{#vakza#}@} or {@{#vakzaH, -sTalam#}@}) the breast or bosom.
+;
+261031 new .{@{#-sTalam#}@} ({#vakza#} or {#vakzaH, -sTalam#}) the breast or bosom.
+;---------------------------------------------------
+; <L>28407<pc>1386-1<k1>vanam<k2>vanam
+262460 old .({@{#-siH#}@} {%<lex>f.</lex>%}) the wild cotton tree.
+;
+262460 new  ({#-siH#} {%<lex>f.</lex>%}) the wild cotton tree.
+;---------------------------------------------------
+; <L>28430<pc>1387-2<k1>vand<k2>vand
+262759 old .²3 To praise, extol. --{%With%} {#aBi#} to salute, greet respectfully;
+;
+262759 new .²3 To praise, extol. ━{%With%} {@{#aBi#}@} to salute, greet respectfully;
+;---------------------------------------------------
+; <L>28822<pc>1406-1<k1>vA<k2>vA
+266593 old .²2 ({#vAjayati-te#}) To shake. --{%With%} {#A#} to blow; {#badDAM badDAM#}
+;
+266593 new .²2 ({#vAjayati-te#}) To shake. ━{%With%} {@{#A#}@} to blow; {#badDAM badDAM#}
+;---------------------------------------------------
+; <L>28822<pc>1406-1<k1>vA<k2>vA
+266595 old  {#-pra, vi#} to blow; {#vAyurvivAti hfdayAni harannarARAm#} <ls>Ṛs. 6. 23</ls>.
+;
+266595 new  ━{@{#pra, vi#}@} to blow; {#vAyurvivAti hfdayAni harannarARAm#} <ls>Ṛs. 6. 23</ls>.
+;---------------------------------------------------
+; <L>28841<pc>1407-1<k1>vAc<k2>vAc
+266802 old .{@{#-ISaH#}@} ({@{#vAgISaH#}@})
+;
+266802 new .{@{#-ISaH#}@} ({#vAgISaH#})
+;---------------------------------------------------
+; <L>28841<pc>1407-1<k1>vAc<k2>vAc
+266886 old  {@{#-vANmanasI#}@} in Vedic language) speech and mind; {#aTEnaM tuzwuvuH#}
+;
+266886 new  {#-vANmanasI#} in Vedic language) speech and mind; {#aTEnaM tuzwuvuH#}
+;---------------------------------------------------
+; <L>28871<pc>1410-1<k1>vAYC<k2>vAYC
+267251 old .²2 To seek for, pursue. --{%With%} {#aBi, -sam#} to wish, desire or
+;
+267251 new .²2 To seek for, pursue. ━{%With%} {@{#aBi, sam#}@} to wish, desire or
+;---------------------------------------------------
+; <L>28897<pc>1410-2<k1>vAta<k2>vAta
+267468 old .²6 A faithless lover ({@{#Dfzwa#}@}).
+;
+267468 new .²6 A faithless lover ({#Dfzwa#}).
+;---------------------------------------------------
+; <L>28968<pc>1413-2<k1>vApiH<k2>vApiH,
+268123 old .{@{#-jalam#}@} ({@{#vApIjalam#}@}) lake-water.
+;
+268123 new .{@{#-jalam#}@} ({#vApIjalam#}) lake-water.
+;---------------------------------------------------
+; <L>28990<pc>1414-2<k1>vAyavIya<k2>vAyavIya,
+268345 old .--{@<ab>Comp.</ab>@} ({@{#-vAyavya#}@}) {@{#purARam#}@} <ab>N.</ab> of a Purāṇa.
+;
+268345 new .--{@<ab>Comp.</ab>@} {@{#(vAyavya)purARam#}@} <ab>N.</ab> of a Purāṇa.
+;---------------------------------------------------
+; <L>28992<pc>1415-1<k1>vAyuH<k2>vAyuH
+268416 old .{@{#-marullipiH#}@} ({@{#marut + lipiH#}@}) a particular mode of writing.
+;
+268416 new .{@{#-marullipiH#}@} ({#marut + lipiH#}) a particular mode of writing.
+;---------------------------------------------------
+; <L>28994<pc>1415-1<k1>vAr<k2>vAr
+268441 old .{@{#-kiwiH#}@} ({@{#vAHkiwiH#}@}) a porpoise.
+;
+268441 new .{@{#-kiwiH#}@} ({#vAHkiwiH#}) a porpoise.
+;---------------------------------------------------
+; <L>28995<pc>1415-2<k1>vAraH<k2>vAraH
+268487 old .{@{#-aNganA, -nArI, -yuvati#}@} {%<lex>f.</lex>%}, {@{#yozit#}@} {%<lex>f.</lex>%}, {@{#-vaDU, -vanitA, vilAsinI, -sundarI, -strI#}@}
+;
+268487 new .{@{#-aNganA, -nArI, -yuvati#}@} {%<lex>f.</lex>%}, {@{#yozit#}@} {%<lex>f.</lex>%}, {@{#-vaDU, -vanitA, -vilAsinI, -sundarI, -strI#}@}
+;---------------------------------------------------
+; <L>29106<pc>1420-2<k1>vAsas<k2>vAsas
+269530 old .{@{#-kuwI#}@} ({@{#vAsaHkuwI#}@}) a tent.
+;
+269530 new .{@{#-kuwI#}@} ({#vAsaHkuwI#}) a tent.
+;---------------------------------------------------
+; <L>29612<pc>1440-1<k1>vidyA<k2>vidyA
+273635 old .{@{#-DaraH#}@},
+;
+273635 new .{@{#-DaraH#}@}
+;---------------------------------------------------
+; <L>29612<pc>1440-1<k1>vidyA<k2>vidyA
+273636 old .({@{#-rI#}@} {%<lex>f.</lex>%}) a class of demigods or semi-divine beings; {#vidyADarADyuzitacAruSilAtalAni#}
+;
+273636 new  ({#-rI#} {%<lex>f.</lex>%}) a class of demigods or semi-divine beings; {#vidyADarADyuzitacAruSilAtalAni#}
+;---------------------------------------------------
+; <L>29614<pc>1440-2<k1>vidyut<k2>vidyut
+273677 old .{@{#-latA, -leKA#}@} ({@{#vidyullatA, vidyulleKA#}@})
+;
+273677 new .{@{#-latA, -leKA#}@} ({#vidyullatA, vidyulleKA#})
+;---------------------------------------------------
+; <L>29632<pc>1441-1<k1>vidvas<k2>vidvas
+273814 old .{@{#-janaH#}@} ({@{#vidvajjanaH#}@}) a learned or wise man, sage.
+;
+273814 new .{@{#-janaH#}@} ({#vidvajjanaH#}) a learned or wise man, sage.
+;---------------------------------------------------
+; <L>30061<pc>1459-2<k1>viyat<k2>viyat
+277438 old .{@{#-cArin#}@} ({@{#viyaccArin#}@}) {%<lex>m.</lex>%} a kite.
+;
+277438 new .{@{#-cArin#}@} ({#viyaccArin#}) {%<lex>m.</lex>%} a kite.
+;---------------------------------------------------
+; <L>30061<pc>1459-2<k1>viyat<k2>viyat
+277442 old .{@{#-maRiH#}@} ({@{#viyanmaRiH#}@}), {@{#-maDyahaMsaH#}@} ({@{#viyanmaDyahaMsaH#}@})
+;
+277442 new .{@{#-maRiH#}@} ({#viyanmaRiH#}), {@{#-maDyahaMsaH#}@} ({#viyanmaDyahaMsaH#})
+;---------------------------------------------------
+; <L>30113<pc>1461-2<k1>virAj<k2>virAj
+277880 old .{@{#-sutaH#}@} ({@{#virAwsutaH#}@}) a class of deceased ancestors; {#virAwsutAH#}
+;
+277880 new .{@{#-sutaH#}@} ({#virAwsutaH#}) a class of deceased ancestors; {#virAwsutAH#}
+;---------------------------------------------------
+; <L>30349<pc>1472-1<k1>viSeza<k2>viSeza
+279997 old .{@{#-vacanam#}@} a special text or precept. {@{#viDiH, SAstram#}@} a special rule.
+;
+279997 new .{@{#-vacanam#}@} a special text or precept. {@{#-viDiH, -SAstram#}@} a special rule.
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280721 old .{@{#-kArikA#}@} ({@{#viwkArikA#}@}) a kind of bird.
+;
+280721 new .{@{#-kArikA#}@} ({#viwkArikA#}) a kind of bird.
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280722 old .{@{#-kfmiH#}@} ({@{#viwkfmiH#}@}) a worm bred in the bowels.
+;
+280722 new .{@{#-kfmiH#}@} ({#viwkfmiH#}) a worm bred in the bowels.
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280724 old .{@{#-grahaH#}@} ({@{#viqgrahaH#}@}) constipation.
+;
+280724 new .{@{#-grahaH#}@} ({#viqgrahaH#}) constipation.
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280725 old .{@{#-GAtaH#}@} ({@{#viqGAtaH#}@}) a urinary disease.
+;
+280725 new .{@{#-GAtaH#}@} ({#viqGAtaH#}) a urinary disease.
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280726 old .{@{#-caraH, -varAhaH#}@} ({@{#viwcaraH, viqvarAhaH#}@}) a tame or village
+;
+280726 new .{@{#-caraH, -varAhaH#}@} ({#viwcaraH, viqvarAhaH#}) a tame or village
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280729 old .{@{#-banDaH#}@} ({@{#viqbanDaH#}@}) constipation.
+;
+280729 new .{@{#-banDaH#}@} ({#viqbanDaH#}) constipation.
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280731 old .{@{#-Buj#}@} ({@{#viqBuj#}@}) {%<lex>a.</lex>%} feeding on ordure; {#kfmikIwapataNgmanAM#}
+;
+280731 new .{@{#-Buj#}@} ({#viqBuj#}) {%<lex>a.</lex>%} feeding on ordure; {#kfmikIwapataNgmanAM#}
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280734 old .{@{#-lavaRam#}@} ({@{#viqlavaRam#}@}) a kind of medicinal salt.
+;
+280734 new .{@{#-lavaRam#}@} ({#viqlavaRam#}) a kind of medicinal salt.
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280735 old .{@{#-saMgaH#}@} ({@{#viwsaMgaH#}@}) constipation.
+;
+280735 new .{@{#-saMgaH#}@} ({#viwsaMgaH#}) constipation.
+;---------------------------------------------------
+; <L>30422<pc>1476-1<k1>viz<k2>viz
+280736 old .{@{#-sArikA#}@} ({@{#viwsArikA#}@}) a kind of bird (<lang>Mar.</lang> <ns>{#mEnA#}</ns>).
+;
+280736 new .{@{#-sArikA#}@} ({#viwsArikA#}) a kind of bird (<lang>Mar.</lang> <ns>{#mEnA#}</ns>).
+;---------------------------------------------------
+; <L>30491<pc>1480-2<k1>vizvac<k2>vizvac,
+281517 old .{@{#-senaH#}@} ({@{#vizvaksenaH#}@} or {@{#vizvakzeRaH#}@}) an epithet
+;
+281517 new .{@{#-senaH#}@} ({#vizvaksenaH#} or {#vizvakzeRaH#}) an epithet
+;---------------------------------------------------
+; <L>30643<pc>1486-1<k1>vIj<k2>vIj
+282724 old .²2 To stroke, caress. --{%With%} {#aBi, upa, pari#} to fan; {#saMlakzyate pavanavegacalEH#}
+;
+282724 new .²2 To stroke, caress. ━{%With%} {@{#aBi, upa, pari#}@} to fan; {#saMlakzyate pavanavegacalEH#}
+;---------------------------------------------------
+; <L>30720<pc>1492-1<k1>vfdDiH<k2>vfdDiH
+283866 old .{@{#-AjIvaH, -AjIvin#}@} {%<lex>m.</lex>%} a usurer, money {@{#da#}@} {%<lex>a.</lex>%} promoting prosperity.
+;
+283866 new .{@{#-AjIvaH, -AjIvin#}@} {%<lex>m.</lex>%} a usurer, money {@{#-da#}@} {%<lex>a.</lex>%} promoting prosperity.
+;---------------------------------------------------
+; <L>30869<pc>1499-1<k1>vezw<k2>vezw
+285294 old ━{@{#pari, -sam#}@} to fold together, clasp or wind round; {#prAyeRa BUmipatayaH#}
+;
+285294 new ━{@{#pari, sam#}@} to fold together, clasp or wind round; {#prAyeRa BUmipatayaH#}
+;---------------------------------------------------
+; <L>31186<pc>1509-2<k1>vyaT<k2>vyaT
+287549 old .²4 To lead or turn away. --{%With%} {#pra#} to be excessively vexed; {#dfzwvAdButaM#}
+;
+287549 new .²4 To lead or turn away. ━{%With%} {@{#pra#}@} to be excessively vexed; {#dfzwvAdButaM#}
+;---------------------------------------------------
+; <L>31507<pc>1524-1<k1>vrIqaH<k2>vrIqaH,
+290352 old .{@{#-dAnam#}@} ({@{#vrIqAdAnam#}@}) a gift offered out of modesty.
+;
+290352 new .{@{#-dAnam#}@} ({#vrIqAdAnam#}) a gift offered out of modesty.
+;---------------------------------------------------
+; <L>31653<pc>1532-2<k1>Sabd<k2>Sabd
+291977 old  {#sAgariketi Sabdyate#} <ls>Ratn. 4</ls>. --{%With%} {#aBi#} to name. {#-pra#} to explain.
+;
+291977 new  {#sAgariketi Sabdyate#} <ls>Ratn. 4</ls>. ━{%With%} {@{#aBi#}@} to name. ━{@{#pra#}@} to explain.
+;---------------------------------------------------
+; <L>31653<pc>1532-2<k1>Sabd<k2>Sabd
+291978 old  {#-saM#} to call out to.
+;
+291978 new  ━{@{#saM#}@} to call out to.
+;---------------------------------------------------
+; <L>31704<pc>1536-2<k1>Sarad<k2>Sarad
+292722 old .{@{#-candraH#}@} ({@{#SaraccandraH#}@}) the autumnal moon.
+;
+292722 new .{@{#-candraH#}@} ({#SaraccandraH#}) the autumnal moon.
+;---------------------------------------------------
+; <L>31704<pc>1536-2<k1>Sarad<k2>Sarad
+292723 old .{@{#-jyotsnA#}@} ({@{#SarajjyotsnA#}@}) autumnal moon-shine.
+;
+292723 new .{@{#-jyotsnA#}@} ({#SarajjyotsnA#}) autumnal moon-shine.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296052 old .{@{#-gfham#}@} ({@{#Sirogfham#}@}) a room on the top of a house, turret, garret.
+;
+296052 new .{@{#-gfham#}@} ({#Sirogfham#}) a room on the top of a house, turret, garret.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296053 old .{@{#-grahaH#}@} ({@{#SirograhaH#}@}) affection of the head, headache.
+;
+296053 new .{@{#-grahaH#}@} ({#SirograhaH#}) affection of the head, headache.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296054 old .{@{#-CedaH, -Cedanam#}@} ({@{#SiraSCedaH#}@} <ab>&c.</ab>) beheading, decapitation.
+;
+296054 new .{@{#-CedaH, -Cedanam#}@} ({#SiraSCedaH#} <ab>&c.</ab>) beheading, decapitation.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296059 old .{@{#-DarA, -DiH, -DraH#}@} ({@{#SiroDarA, -DiH, -DraH#}@}) the neck; {#tezAM#}
+;
+296059 new .{@{#-DarA, -DiH, -DraH#}@} ({#SiroDarA, -DiH, -DraH#}) the neck; {#tezAM#}
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296070 old .{@{#-BUzaRam#}@} ({@{#SiroBUzaRam#}@})
+;
+296070 new .{@{#-BUzaRam#}@} ({#SiroBUzaRam#})
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296073 old .{@{#-maRiH#}@} ({@{#SiromaRiH#}@})
+;
+296073 new .{@{#-maRiH#}@} ({#SiromaRiH#})
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296077 old .{@{#-marman#}@} {%<lex>m.</lex>%} ({@{#SiromarBan#}@}) a hog.
+;
+296077 new .{@{#-marman#}@} {%<lex>m.</lex>%} ({#SiromarBan#}) a hog.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296078 old .{@{#-mAlin#}@} {%<lex>m.</lex>%} ({@{#SiromAlin#}@}) an epithet of Śiva.
+;
+296078 new .{@{#-mAlin#}@} {%<lex>m.</lex>%} ({#SiromAlin#}) an epithet of Śiva.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296079 old .{@{#-ratnam#}@} ({@{#Siroratnam#}@}) a jewel worn on the head.
+;
+296079 new .{@{#-ratnam#}@} ({#Siroratnam#}) a jewel worn on the head.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296080 old .{@{#-rujA#}@} ({@{#SirorujA#}@}) head-ache.
+;
+296080 new .{@{#-rujA#}@} ({#SirorujA#}) head-ache.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296088 old .{@{#-vallI#}@} ({@{#SirovallI#}@}) the crest of a peacock.
+;
+296088 new .{@{#-vallI#}@} ({#SirovallI#}) the crest of a peacock.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296089 old .{@{#-vfttam#}@} ({@{#Sirovfttam#}@}) pepper.
+;
+296089 new .{@{#-vfttam#}@} ({#Sirovfttam#}) pepper.
+;---------------------------------------------------
+; <L>32078<pc>1552-2<k1>Siras<k2>Siras
+296090 old .{@{#-vezwaH, -vezwanam#}@} ({@{#SirovezwaH, -zwanam#}@}) a head-dress,
+;
+296090 new .{@{#-vezwaH, -vezwanam#}@} ({#SirovezwaH, -zwanam#}) a head-dress,
+;---------------------------------------------------
+; <L>32170<pc>1558-1<k1>SIl<k2>SIl
+297165 old  <ls>Gīt. 7</ls>; {#smerAnanA sapadi SIlaya sODamOlim#} <ls>Bv. 2. 4</ls>. {%With%} {@{#anu#}@}
+;
+297165 new  <ls>Gīt. 7</ls>; {#smerAnanA sapadi SIlaya sODamOlim#} <ls>Bv. 2. 4</ls>. ━{%With%} {@{#anu#}@}
+;---------------------------------------------------
+; <L>32170<pc>1558-1<k1>SIl<k2>SIl
+297167 old ━{@{#anu, -pari#}@} to practise repeatedly, cultivate, think of; {#SaSvacCruto'si#}
+;
+297167 new ━{@{#anu, pari#}@} to practise repeatedly, cultivate, think of; {#SaSvacCruto'si#}
+;---------------------------------------------------
+; <L>32221<pc>1560-2<k1>SuD<k2>SuD
+297709 old .²6 To examine, investigate, inquire into. --{%With%} {#pari, vi, sam#} to be
+;
+297709 new .²6 To examine, investigate, inquire into. ━{%With%} {@{#pari, vi, sam#}@} to be
+;---------------------------------------------------
+; <L>32222<pc>1560-2<k1>SudDa<k2>SudDa
+297764 old .{@{#-odanaH#}@} ({@{#SudDodanaH#}@}) <ab>N.</ab> of the father of the celebrated
+;
+297764 new .{@{#-odanaH#}@} ({#SudDodanaH#}) <ab>N.</ab> of the father of the celebrated
+;---------------------------------------------------
+; <L>32236<pc>1561-2<k1>SuB<k2>SuB
+297894 old  ({#SoBayati-te#}) To decorate, adorn, grace. --{%With%} {#pari, vi#} to shine, look splendid.
+;
+297894 new  ({#SoBayati-te#}) To decorate, adorn, grace. ━{%With%} {@{#pari, vi#}@} to shine, look splendid.
+;---------------------------------------------------
+; <L>32337<pc>1566-2<k1>SF<k2>SF
+298964 old .²2 To wither, decay, waste away. --{%With%} {#ava#} or {#vi#} to seize
+;
+298964 new .²2 To wither, decay, waste away. ━{%With%} {@{#ava#}@} or {@{#vi#}@} to seize
+;---------------------------------------------------
+; <L>32402<pc>1569-1<k1>Socis<k2>Socis
+299477 old .{@{#-keSaH#}@} ({@{#SocizkeSaH#}@}) an epithet of fire.
+;
+299477 new .{@{#-keSaH#}@} ({#SocizkeSaH#}) an epithet of fire.
+;---------------------------------------------------
+; <L>32478<pc>1571-2<k1>Scyut<k2>Scyut
+300068 old .²2 To shed, pour out, diffuse, scatter. --{%With%} {#ni#} to flow, ooze, trickle;
+;
+300068 new .²2 To shed, pour out, diffuse, scatter. ━{%With%} {@{#ni#}@} to flow, ooze, trickle;
+;---------------------------------------------------
+; <L>32674<pc>1581-1<k1>Svas<k2>Svas
+302044 old .{@{#-vasIya, -vasIyas#}@} ({@{#SvovasIya, SvovasIyas#}@}) {%<lex>a.</lex>%} happy,
+;
+302044 new .{@{#-vasIya, -vasIyas#}@} ({#SvovasIya, SvovasIyas#}) {%<lex>a.</lex>%} happy,
+;---------------------------------------------------
+; <L>32676<pc>1581-2<k1>Svi<k2>Svi
+302064 old .²3 To go, approach, move towards. --{%With%} {#ud#}
+;
+302064 new .²3 To go, approach, move towards. ━{%With%} {@{#ud#}@}
+;---------------------------------------------------
+; <L>32708<pc>1583-1<k1>zaz<k2>zaz
+302386 old .{@{#-aMSaH#}@} ({@{#zaqaMSaH#}@}) a sixth part.
+;
+302386 new .{@{#-aMSaH#}@} ({#zaqaMSaH#}) a sixth part.
+;---------------------------------------------------
+; <L>32708<pc>1583-1<k1>zaz<k2>zaz
+302387 old .{@{#-akzIRaH#}@} ({@{#zaqakzIRaH#}@}) a fish.
+;
+302387 new .{@{#-akzIRaH#}@} ({#zaqakzIRaH#}) a fish.
+;---------------------------------------------------
+; <L>32708<pc>1583-1<k1>zaz<k2>zaz
+302388 old .{@{#-aNgam#}@} ({@{#zaqaNgam#}@})
+;
+302388 new .{@{#-aNgam#}@} ({#zaqaNgam#})
+;---------------------------------------------------
+; <L>32708<pc>1583-1<k1>zaz<k2>zaz
+302402 old .{@{#-aNGriH#}@} ({@{#zaqaNGriH#}@}) a bee; {#kimiha bahu zaqaNGre gAyasi#}
+;
+302402 new .{@{#-aNGriH#}@} ({#zaqaNGriH#}) a bee; {#kimiha bahu zaqaNGre gAyasi#}
+;---------------------------------------------------
+; <L>32708<pc>1583-1<k1>zaz<k2>zaz
+302486 old .{@{#-padaH#}@} ({@{#zawpadaH#}@})
+;
+302486 new .{@{#-padaH#}@} ({#zawpadaH#})
+;---------------------------------------------------
+; <L>32708<pc>1583-1<k1>zaz<k2>zaz
+302496 old .{@{#-padI#}@} ({@{#zawpadI#}@})
+;
+302496 new .{@{#-padI#}@} ({#zawpadI#})
+;---------------------------------------------------
+; <L>33069<pc>1600-1<k1>sakft<k2>sakft
+305772 old .{@{#-Ahfta#}@} ({@{#sakfdAhfta#}@}) {%<lex>a.</lex>%} (interest) paid at one time
+;
+305772 new .{@{#-Ahfta#}@} ({#sakfdAhfta#}) {%<lex>a.</lex>%} (interest) paid at one time
+;---------------------------------------------------
+; <L>33069<pc>1600-1<k1>sakft<k2>sakft
+305774 old .{@{#-gatiH#}@} ({@{#sakfdgatiH#}@}) only a possibility.
+;
+305774 new .{@{#-gatiH#}@} ({#sakfdgatiH#}) only a possibility.
+;---------------------------------------------------
+; <L>33069<pc>1600-1<k1>sakft<k2>sakft
+305783 old .{@{#-viBAta#}@} ({@{#sakfdviBAta#}@}) appeared at once.
+;
+305783 new .{@{#-viBAta#}@} ({#sakfdviBAta#}) appeared at once.
+;---------------------------------------------------
+; <L>33350<pc>1611-2<k1>sat<k2>sat
+308176 old .{@{#-gatiH#}@} {%<lex>f.</lex>%} ({@{#sadgatiH#}@})
+;
+308176 new .{@{#-gatiH#}@} {%<lex>f.</lex>%} ({#sadgatiH#})
+;---------------------------------------------------
+; <L>33350<pc>1611-2<k1>sat<k2>sat
+308180 old .{@{#-GanaH#}@} ({@{#sadGanaH#}@}) holy existence.
+;
+308180 new .{@{#-GanaH#}@} ({#sadGanaH#}) holy existence.
+;---------------------------------------------------
+; <L>33641<pc>1626-1<k1>saptan<k2>saptan
+310924 old .{@{#-fzi#}@} ({@{#saptarzi#}@}) {%<lex>m.</lex>%} <ab>pl.</ab>
+;
+310924 new .{@{#-fzi#}@} ({#saptarzi#}) {%<lex>m.</lex>%} <ab>pl.</ab>
+;---------------------------------------------------
+; <L>33641<pc>1626-1<k1>saptan<k2>saptan
+310941 old .{@{#-daSan#}@} {%<lex>a.</lex>%} seventeen. {#˚aratninyAyaH#} A rule of interpretation
+;
+310941 new .{@{#-daSan#}@} {%<lex>a.</lex>%} seventeen. {#˚aratninyAyaH#} A rul of interpretation
+;---------------------------------------------------
+; <L>34377<pc>1654-1<k1>saras<k2>saras
+316943 old .{@{#-jam, -janman#}@} {%<lex>n.</lex>%}, {@{#-ruham#}@} ({@{#sarojam, sarojanman, saroruham#}@}) also {#sarasijam#}, {#sarasiruham#}
+;
+316943 new .{@{#-jam, -janman#}@} {%<lex>n.</lex>%}, {@{#-ruham#}@} ({#sarojam, sarojanman, saroruham#}) also {#sarasijam#}, {#sarasiruham#}
+;---------------------------------------------------
+; <L>34377<pc>1654-1<k1>saras<k2>saras
+316961 old .{@{#-rakzaH#}@} ({@{#sarorakzaH#}@}) the guardian of a pool.
+;
+316961 new .{@{#-rakzaH#}@} ({#sarorakzaH#}) the guardian of a pool.
+;---------------------------------------------------
+; <L>34377<pc>1654-1<k1>saras<k2>saras
+316962 old .{@{#-ruh#}@} ({@{#saroruh#}@}) {%<lex>n.</lex>%} a lotus.
+;
+316962 new .{@{#-ruh#}@} ({#saroruh#}) {%<lex>n.</lex>%} a lotus.
+;---------------------------------------------------
+; <L>34377<pc>1654-1<k1>saras<k2>saras
+316963 old .{@{#-varaH#}@} ({@{#sarovaraH#}@}) a lake.
+;
+316963 new .{@{#-varaH#}@} ({#sarovaraH#}) a lake.
+;---------------------------------------------------
+; <L>35016<pc>1682-1<k1>siDmala<k2>siDmala,
+322598 old .{@{#-lA#}@} See {@{#siDmam#}@} above.
+;
+322598 new .{@{#-lA#}@} See {#siDmam#} above.
+;---------------------------------------------------
+; <L>35046<pc>1683-1<k1>siv<k2>siv
+322815 old  {#sIvyati#} <ls>U. 5. 17</ls>. --{%With%} {#anu#} to string together, connect very closely
+;
+322815 new  {#sIvyati#} <ls>U. 5. 17</ls>. ━{%With%} {@{#anu#}@} to string together, connect very closely
+;---------------------------------------------------
+; <L>35087<pc>1684-2<k1>su<k2>su
+323152 old .²5 To bathe. .²6 To churn. --{%<ab>Desid.</ab>%} ({#suzUzati-te#}). --{%With%} {#ud#}
+;
+323152 new .²5 To bathe. .²6 To churn. --{%<ab>Desid.</ab>%} ({#suzUzati-te#}). ━{%With%} {@{#ud#}@}
+;---------------------------------------------------
+; <L>35087<pc>1684-2<k1>su<k2>su
+323153 old  to excite, agitate. {#-pra#} to produce, beget.
+;
+323153 new  to excite, agitate. ━{@{#pra#}@} to produce, beget.
+;---------------------------------------------------
+; <L>35088<pc>1685-1<k1>su<k2>su
+323964 old .²2 well-pleased, satisfied; (hence {@{#sumanIBU#}@} = to be at ease; {#jite#}
+;
+323964 new .²2 well-pleased, satisfied; (hence {#sumanIBU#} = to be at ease; {#jite#}
+;---------------------------------------------------
+; <L>35135<pc>1693-2<k1>suraH<k2>suraH
+324919 old .{@{#-fziH#}@}
+;
+324919 new .{@{#-fziH#}@} ({#surarziH#}) a divine sage.
+;---------------------------------------------------
+; <L>35135<pc>1693-2<k1>suraH<k2>suraH
+324920 old .({@{#-surarziH#}@}) a divine sage.
+;
+324920 new 
+;---------------------------------------------------
+; <L>35168<pc>1696-1<k1>sU<k2>sU
+325345 old  {#yA hinasti#} <ls>U. 5. 31</ls>. --{%With%} {#pra#} to bring forth, beget, produce.
+;
+325345 new  {#yA hinasti#} <ls>U. 5. 31</ls>. ━{%With%} {@{#pra#}@} to bring forth, beget, produce.
+;---------------------------------------------------
+; <L>35174<pc>1696-2<k1>sUc<k2>sUc
+325461 old .²6 To trace out, spy, ascertain. --{%With%} {#aBi#} to show, indicate; {#amanyata#}
+;
+325461 new .²6 To trace out, spy, ascertain. ━{%With%} {@{#aBi#}@} to show, indicate; {#amanyata#}
+;---------------------------------------------------
+; <L>35572<pc>1712-2<k1>sku<k2>sku
+328732 old .²4 To approach. --{%With%} {#prati#} to cover; <ls>Bk. 18. 73</ls>.
+;
+328732 new .²4 To approach. ━{%With%} {@{#prati#}@} to cover; <ls>Bk. 18. 73</ls>.
+;---------------------------------------------------
+; <L>35584<pc>1713-1<k1>stan<k2>stan
+328858 old  <ls>Bk. 14. 30</ls>. --{%With%} {#ni#}
+;
+328858 new  <ls>Bk. 14. 30</ls>. ━{%With%} {@{#ni#}@}
+;---------------------------------------------------
+; <L>35584<pc>1713-1<k1>stan<k2>stan
+328861 old .²3 to mourn. --{%With%} {#vi#} to roar.
+;
+328861 new .²3 to mourn. ━{%With%} {@{#vi#}@} to roar.
+;---------------------------------------------------
+; <L>35795<pc>1725-1<k1>snA<k2>snA
+331106 old .²3 To weep for. --{%<ab>Desid.</ab>%} ({#sisnAsati#}) To wish to bathe. --{%With%}
+;
+331106 new .²3 To weep for. --{%<ab>Desid.</ab>%} ({#sisnAsati#}) To wish to bathe. ━{%With%} {@{#apa#}@}
+;---------------------------------------------------
+; <L>35795<pc>1725-1<k1>snA<k2>snA
+331107 old  {#apa#} to bathe after mourning. {#-ni#} to plunge deep into; {%<ab>i. e.</ab>%}
+;
+331107 new  to bathe after mourning. ━{@{#ni#}@} to plunge deep into; {%<ab>i. e.</ab>%}
+;---------------------------------------------------
+; <L>35927<pc>1730-2<k1>sPur<k2>sPur
+332186 old .²3 To throw, cast. --{%With%} {#apa#} to shine forth or out. {#-aBi#}
+;
+332186 new .²3 To throw, cast. ━{%With%} {@{#apa#}@} to shine forth or out. ━{@{#aBi#}@}
+;---------------------------------------------------
+; <L>36014<pc>1734-2<k1>sraj<k2>sraj
+332984 old .{@{#-dAman#}@} ({@{#sragdAman#}@}) {%<lex>n.</lex>%} the tie or fillet of a garland.
+;
+332984 new .{@{#-dAman#}@} ({#sragdAman#}) {%<lex>n.</lex>%} the tie or fillet of a garland.
+;---------------------------------------------------
+; <L>36020<pc>1735-1<k1>sramB<k2>sramB
+333017 old {#sramB#}¦ €1 <ab>Ā.</ab> ({#sramBate, srabDa#}) To confide; see {#SramBa#}. --{%With%} {#vi#}
+;
+333017 new {#sramB#}¦ €1 <ab>Ā.</ab> ({#sramBate, srabDa#}) To confide; see {#SramBa#}. ━{%With%} {@{#vi#}@}
+;---------------------------------------------------
+; <L>36051<pc>1735-2<k1>srotas<k2>srotas
+333241 old .{@{#-aYjanam#}@} ({@{#srotoYjanam#}@}) antimony.
+;
+333241 new .{@{#-aYjanam#}@} ({#srotoYjanam#}) antimony.
+;---------------------------------------------------
+; <L>36079<pc>1738-2<k1>svap<k2>svap
+333751 old  sleep. --{%With%} {#ava, ni, pra#}, or {#sam#} to sleep, lie down; {#prasuptalakzaRaH#}
+;
+333751 new  sleep. ━{%With%} {@{#ava, ni, pra#}@}, or {@{#sam#}@} to sleep, lie down; {#prasuptalakzaRaH#}
+;---------------------------------------------------
+; <L>36089<pc>1739-2<k1>svar<k2>svar
+333919 old .{@{#-taruH#}@} ({@{#svastaruH#}@}) a tree of paradise.
+;
+333919 new .{@{#-taruH#}@} ({#svastaruH#}) a tree of paradise.
+;---------------------------------------------------
+; <L>36089<pc>1739-2<k1>svar<k2>svar
+333938 old .{@{#-vAravAmaBrU#}@} (see {@{#-vaDU#}@} above);
+;
+333938 new .{@{#-vAravAmaBrU#}@} (see {#-vaDU#} above);
+;---------------------------------------------------
+; <L>36179<pc>1744-1<k1>svf<k2>svf
+334778 old .²4 To go. --{%With%} {#aBi, pra#} to sound. {#-sam#} to pain (<ab>Ātm.</ab>); {#drutaM#}
+;
+334778 new .²4 To go. ━{%With%} {@{#aBi, pra#}@} to sound. {@{#sam#}@} to pain (<ab>Ātm.</ab>); {#drutaM#}
+;---------------------------------------------------
+; <L>36225<pc>1746-2<k1>han<k2>han
+335231 old  {#na prasADayitum#} <ls>Pt. 1. 363</ls>. --{%With%} {#ati#} to injure excessively. {#-antar#}
+;
+335231 new  {#na prasADayitum#} <ls>Pt. 1. 363</ls>. ━{%With%} {@{#ati#}@} to injure excessively. ━{@{#antar#}@}
+;---------------------------------------------------
+; <L>36263<pc>1750-1<k1>harit<k2>harit
+335850 old .{@{#-antaH#}@} the end of the quarters ({@{#diganta#}@}); {#dfgantAnADatse#}
+;
+335850 new .{@{#-antaH#}@} the end of the quarters ({#diganta#}); {#dfgantAnADatse#}
+;---------------------------------------------------
+; <L>36263<pc>1750-1<k1>harit<k2>harit
+335861 old .{@{#-maRiH#}@} ({@{#harinmaRiH#}@}) an emerald; {#harinmaRiSyAmatfRABirAmErgfhARi#}
+;
+335861 new .{@{#-maRiH#}@} ({#harinmaRiH#}) an emerald; {#harinmaRiSyAmatfRABirAmErgfhARi#}
+;---------------------------------------------------
+; <L>36323<pc>1752-2<k1>havis<k2>havis
+336349 old .{@{#-aSanam#}@} ({@{#haviraSanam#}@}) devouring clarified butter or oblations.
+;
+336349 new .{@{#-aSanam#}@} ({#haviraSanam#}) devouring clarified butter or oblations.
+;---------------------------------------------------
+; <L>36323<pc>1752-2<k1>havis<k2>havis
+336351 old .{@{#-ganDA#}@} ({@{#havirganDA#}@}) the Śamī tree.
+;
+336351 new .{@{#-ganDA#}@} ({#havirganDA#}) the Śamī tree.
+;---------------------------------------------------
+; <L>36323<pc>1752-2<k1>havis<k2>havis
+336352 old .{@{#-geham#}@} ({@{#havirgeham#}@}) a house in which sacrificial oblations are offered.
+;
+336352 new .{@{#-geham#}@} ({#havirgeham#}) a house in which sacrificial oblations are offered.
+;---------------------------------------------------
+; <L>36323<pc>1752-2<k1>havis<k2>havis
+336353 old .{@{#-Buj#}@} {%<lex>m.</lex>%} ({@{#havirBuj#}@}) fire; {#anvAsitamarunDatyA svAhayeva#}
+;
+336353 new .{@{#-Buj#}@} {%<lex>m.</lex>%} ({#havirBuj#}) fire; {#anvAsitamarunDatyA svAhayeva#}
+;---------------------------------------------------
+; <L>36323<pc>1752-2<k1>havis<k2>havis
+336355 old .{@{#-yajYaH#}@} ({@{#haviryajYaH#}@}) a kind of sacrifice.
+;
+336355 new .{@{#-yajYaH#}@} ({#haviryajYaH#}) a kind of sacrifice.
+;---------------------------------------------------
+; <L>36323<pc>1752-2<k1>havis<k2>havis
+336356 old .{@{#-yAjin#}@} ({@{#haviryAjin#}@}) {%<lex>m.</lex>%} a priest.
+;
+336356 new .{@{#-yAjin#}@} ({#haviryAjin#}) {%<lex>m.</lex>%} a priest.
+;---------------------------------------------------
+; <L>36530<pc>1762-2<k1>hfd<k2>hfd
+338352 old .{@{#-lAsaH#}@} ({@{#hfllAsaH#}@})
+;
+338352 new .{@{#-lAsaH#}@} ({#hfllAsaH#})
+;---------------------------------------------------
+; <L>36530<pc>1762-2<k1>hfd<k2>hfd
+338355 old .{@{#-leKaH#}@} ({@{#-hflleKaH#}@})
+;
+338355 new .{@{#-leKaH#}@} ({#hflleKaH#})
+;---------------------------------------------------
+; <L>36530<pc>1762-2<k1>hfd<k2>hfd
+338359 old .{@{#-leKA#}@}
+;
+338359 new .{@{#-leKA#}@} ({#-hflleKA#})
+;---------------------------------------------------
+; <L>36530<pc>1762-2<k1>hfd<k2>hfd
+338360 old .({@{#-hflleKA#}@}) grief, anxiety; {#yadA vyapetahflleKaM mano Bavati#}
+;
+338360 new  grief, anxiety; {#yadA vyapetahflleKaM mano Bavati#}
+;---------------------------------------------------

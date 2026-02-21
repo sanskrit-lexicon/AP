@@ -1,0 +1,210 @@
+; <L>11919<pc>0554-2<k1>kARqaH<k2>kARqaH,
+100484 old .{@{#-kAraH#}@}
+;
+100484 new .{@{#-kAraH#}@} ({@{#-rin#}@})
+;---------------------------------------------------
+; <L>11919<pc>0554-2<k1>kARqaH<k2>kARqaH,
+100485 old .({@{#-rin#}@}) a maker of arrows {#kusIdavfttayaH kARqakAriRaScAhituRqikAH#}
+;
+100485 new  a maker of arrows {#kusIdavfttayaH kARqakAriRaScAhituRqikAH#}
+;---------------------------------------------------
+; <L>12318<pc>0576-1<k1>kuH<k2>kuH
+104396 old .{@{#-papa#}@}
+;
+104396 new .{@{#-papa#}@} ({@{#-pi, -pI#}@})
+;---------------------------------------------------
+; <L>12318<pc>0576-1<k1>kuH<k2>kuH
+104397 old .({@{#-pi, -pI#}@}) {%<lex>m.</lex>%} the sun; also
+;
+104397 new  {%<lex>m.</lex>%} the sun; also
+;---------------------------------------------------
+; <L>12834<pc>0600-2<k1>kfzRa<k2>kfzRa
+109318 old .{@{#-piRqItakaH#}@}
+;
+109318 new .{@{#-piRqItakaH#}@} ({@{#-piRqIraH#}@})
+;---------------------------------------------------
+; <L>12834<pc>0600-2<k1>kfzRa<k2>kfzRa
+109319 old .({@{#-piRqIraH#}@}) <ab>N.</ab> of a tree (<lang>Mar.</lang> <ns>{#kALA geLA#}</ns>).
+;
+109319 new  <ab>N.</ab> of a tree (<lang>Mar.</lang> <ns>{#kALA geLA#}</ns>).
+;---------------------------------------------------
+; <L>12834<pc>0600-2<k1>kfzRa<k2>kfzRa
+109321 old .{@{#-PalaH#}@}
+;
+109321 new .{@{#-PalaH#}@} ({@{#-lA#}@})
+;---------------------------------------------------
+; <L>12834<pc>0600-2<k1>kfzRa<k2>kfzRa
+109322 old .({@{#-lA#}@}) <ab>N.</ab> of a tree (<lang>Mar.</lang> <ns>{#kALeM jireM#}</ns>).
+;
+109322 new  <ab>N.</ab> of a tree (<lang>Mar.</lang> <ns>{#kALeM jireM#}</ns>).
+;---------------------------------------------------
+; <L>13002<pc>0608-2<k1>koSaH<k2>koSaH,
+110772 old .{@{#-SI#}@}
+;
+110772 new .{@{#-SI#}@} ({@{#-zI#}@})
+;---------------------------------------------------
+; <L>13002<pc>0608-2<k1>koSaH<k2>koSaH,
+110773 old .({@{#-zI#}@})
+;
+110773 new 
+;---------------------------------------------------
+; <L>13282<pc>0621-2<k1>kzatriyaH<k2>kzatriyaH
+113233 old .{@{#-hanaH#}@}
+;
+113233 new .{@{#-hanaH#}@} ({@{#-RaH#}@})
+;---------------------------------------------------
+; <L>13282<pc>0621-2<k1>kzatriyaH<k2>kzatriyaH
+113234 old .({@{#-RaH#}@}) an epithet of Paraśurāma; <ls>Mb. 5. 178. 89</ls>.
+;
+113234 new  an epithet of Paraśurāma; <ls>Mb. 5. 178. 89</ls>.
+;---------------------------------------------------
+; <L>16113<pc>0758-1<k1>tanu<k2>tanu
+139552 old .{@{#-Cad#}@}
+;
+139552 new .{@{#-Cad#}@} ({@{#-da#}@})
+;---------------------------------------------------
+; <L>16113<pc>0758-1<k1>tanu<k2>tanu
+139553 old .({@{#-da#}@}) {%<lex>a.</lex>%} protecting, clothing.
+;
+139553 new  {%<lex>a.</lex>%} protecting, clothing.
+;---------------------------------------------------
+; <L>16444<pc>0772-2<k1>tiTiH<k2>tiTiH
+142555 old .{@{#-praRIH#}@}
+;
+142555 new .{@{#-praRIH#}@} ({@{#-RiH#}@})
+;---------------------------------------------------
+; <L>16444<pc>0772-2<k1>tiTiH<k2>tiTiH
+142556 old .({@{#-RiH#}@}) the moon; {#sAyaMtanI tiTipraRyaH paNkajAnAM divAtanIm#} <ls>Bk. 5. 65</ls>.
+;
+142556 new  the moon; {#sAyaMtanI tiTipraRyaH paNkajAnAM divAtanIm#} <ls>Bk. 5. 65</ls>.
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173339 old .{@{#-prati(tI)kAra#}@} ({#nizprati(tI)kAra#}), {@{#-pratikriya#}@} ({@{#nizpratikriya#}@}) {%<lex>a.</lex>%}
+;
+173339 new .{@{#-prati(tI)kAra#}@} ({#nizprati(tI)kAra#}), {@{#-pratikriya#}@}, ({@{#nizpratikriya#}@}) {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>19379<pc>0929-2<k1>nis<k2>nis
+173446 old .{@{#-saMdigDa#}@} ({#niHsaMdigDa#}) {@{#-saMdeha#}@} ({@{#niHsaMdeha#}@})
+;
+173446 new .{@{#-saMdigDa#}@} ({#niHsaMdigDa#}), {@{#-saMdeha#}@}, ({#niHsaMdeha#})
+;---------------------------------------------------
+; <L>19627<pc>0942-2<k1>nyagroDaH<k2>nyagroDaH
+175621 old .{@{#-DI#}@}
+;
+175621 new .{@{#-DI#}@} ({@{#-DikA#}@})
+;---------------------------------------------------
+; <L>19627<pc>0942-2<k1>nyagroDaH<k2>nyagroDaH
+175622 old .({@{#-DikA#}@}) <ab>N.</ab> of a plant (<lang>Mar.</lang> <ns>{#uMdIrakAnI#}</ns>).
+;
+175622 new  <ab>N.</ab> of a plant (<lang>Mar.</lang> <ns>{#uMdIrakAnI#}</ns>).
+;---------------------------------------------------
+; <L>19903<pc>0961-1<k1>padma<k2>padma
+179075 old .{@{#-mudrA#}@}
+;
+179075 new .{@{#-mudrA#}@} ({@{#-drikA#}@})
+;---------------------------------------------------
+; <L>19903<pc>0961-1<k1>padma<k2>padma
+179076 old .({@{#-drikA#}@}) a particular pose according to Tantraśāstra; {#hastO#}
+;
+179076 new  a particular pose according to Tantraśāstra; {#hastO#}
+;---------------------------------------------------
+; <L>24401<pc>1150-1<k1>badarI<k2>badarI
+217562 old .{@{#-vanam#}@}
+;
+217562 new .{@{#-vanam#}@} ({@{#-Ram#}@})
+;---------------------------------------------------
+; <L>24401<pc>1150-1<k1>badarI<k2>badarI
+217563 old .({@{#-Ram#}@}) a wood or thicket of jujube trees.
+;
+217563 new  a wood or thicket of jujube trees.
+;---------------------------------------------------
+; <L>24905<pc>1184-1<k1>Badra<k2>Badra
+223745 old .{@{#-mustakaH#}@}
+;
+223745 new .{@{#-mustakaH#}@} ({@{#-mustA#}@})
+;---------------------------------------------------
+; <L>24905<pc>1184-1<k1>Badra<k2>Badra
+223746 old .({@{#-mustA#}@}) Cyperus Rotunda (<lang>Mar.</lang> <ns>{#nAgaramoTA#}</ns>).
+;
+223746 new  Cyperus Rotunda (<lang>Mar.</lang> <ns>{#nAgaramoTA#}</ns>).
+;---------------------------------------------------
+; <L>25254<pc>1207-2<k1>BUri<k2>BUri
+228053 old .{@{#-tejasa#}@}
+;
+228053 new .{@{#-tejasa#}@} ({@{#-s#}@})
+;---------------------------------------------------
+; <L>25254<pc>1207-2<k1>BUri<k2>BUri
+228054 old .({@{#-s#}@}) {%<lex>a.</lex>%} possessed of great lustre. --({%<lex>m.</lex>%}) fire.
+;
+228054 new  {%<lex>a.</lex>%} possessed of great lustre. --({%<lex>m.</lex>%}) fire.
+;---------------------------------------------------
+; <L>27256<pc>1326-2<k1>ratiH<k2>ratiH
+250639 old .{@{#-pASa#}@}
+;
+250639 new .{@{#-pASa#}@} ({@{#-kaH#}@}) a mode of coitus.
+;---------------------------------------------------
+; <L>27256<pc>1326-2<k1>ratiH<k2>ratiH
+250640 old .({@{#-kaH#}@}) a mode of coitus.
+;
+250640 new 
+;---------------------------------------------------
+; <L>31337<pc>1516-2<k1>vyAGraH<k2>vyAGraH
+288889 old .{@{#-pAda#}@}
+;
+288889 new .{@{#-pAda#}@} ({@{#-d#}@}) {%<lex>a.</lex>%} tiger-footed.
+;---------------------------------------------------
+; <L>31337<pc>1516-2<k1>vyAGraH<k2>vyAGraH
+288890 old .({@{#-d#}@}) {%<lex>a.</lex>%} tiger-footed.
+;
+288890 new 
+;---------------------------------------------------
+; <L>31663<pc>1534-1<k1>SamanI<k2>SamanI
+292251 old .{@{#-sadaH#}@}
+;
+292251 new .{@{#-sadaH#}@} ({@{#-zadaH#}@}) a demon, goblin.
+;---------------------------------------------------
+; <L>31663<pc>1534-1<k1>SamanI<k2>SamanI
+292252 old .({@{#-zadaH#}@}) a demon, goblin.
+;
+292252 new 
+;---------------------------------------------------
+; <L>31695<pc>1535-2<k1>SaraH<k2>SaraH
+292606 old .{@{#-vanam#}@}
+;
+292606 new .{@{#-vanam#}@} ({@{#-vaRam#}@})
+;---------------------------------------------------
+; <L>31695<pc>1535-2<k1>SaraH<k2>SaraH
+292607 old .({@{#-vaRam#}@})
+;
+292607 new 
+;---------------------------------------------------
+; <L>32125<pc>1555-2<k1>Sizwa<k2>Sizwa
+296705 old .{@{#-vigarhaRam#}@}
+;
+296705 new .{@{#-vigarhaRam#}@} ({@{#-RA#}@})
+;---------------------------------------------------
+; <L>32125<pc>1555-2<k1>Sizwa<k2>Sizwa
+296706 old .({@{#-RA#}@}) censure by the learned; {#yadi SAstrakfte devatAvyApAre#}
+;
+296706 new  censure by the learned; {#yadi SAstrakfte devatAvyApAre#}
+;---------------------------------------------------
+; <L>34377<pc>1654-1<k1>saras<k2>saras
+316941 old .{@{#-kAkaH#}@}
+;
+316941 new .{@{#-kAkaH#}@} ({@{#-kI#}@})
+;---------------------------------------------------
+; <L>34377<pc>1654-1<k1>saras<k2>saras
+316942 old .({@{#-kI#}@}) A swan; <ls>L. D. B.</ls>
+;
+316942 new  A swan; <ls>L. D. B.</ls>
+;---------------------------------------------------
+; <L>35088<pc>1685-1<k1>su<k2>su
+323667 old .{@{#-nizaRRaH#}@}
+;
+323667 new .{@{#-nizaRRaH#}@} ({@{#-kaH#}@}) the herb Marsilea Quadrifolia (<lang>Mar.</lang> <ns>{#kuraqU#}</ns>).
+;---------------------------------------------------
+; <L>35088<pc>1685-1<k1>su<k2>su
+323668 old .({@{#-kaH#}@}) the herb Marsilea Quadrifolia (<lang>Mar.</lang> <ns>{#kuraqU#}</ns>).
+;
+323668 new 
+;---------------------------------------------------
