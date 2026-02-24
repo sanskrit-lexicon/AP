@@ -171,7 +171,7 @@ make_newlines_2 finds 156 cases
 make_newlines_2 returns 339763 lines
 339763 lines written to tempwork/ap_0g_2.txt
 
-* tempwork/ap_0g_3 intermediate. db_comp.py option 7
+* tempwork/ap_0g_3 intermediate. db_comp.py option 7 r'━{%.*?%}'
 db_comp.py option 7: r'━{%.*?%}'
 
 python db_comp.py 7 tempwork/ap_0g_2.txt temp_v4a_0d.txt tempwork/7_work1.txt tempwork/ap_0g_3.txt
