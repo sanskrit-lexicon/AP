@@ -1,0 +1,20 @@
+; <L>11409<pc>0528-2<k1>kanizWa<k2>kanizWa
+95397 old {#kanizWa#}¦ {%<lex>a.</lex>%} of {#alpa#} or {#yuvan#})
+;
+95397 new {#kanizWa#}¦ {%<lex>a.</lex>%} (<ab>Superl.</ab> of {#alpa#} or {#yuvan#})
+;---------------------------------------------------
+; <L>16865<pc>0793-1<k1>trE<k2>trE
+146731 old  <ls>Bk. 5. 54</ls>, <ls n="Bk.">15. 120</ls>. ━{%With%} {@{#pari#}@}} to save <ab>&c.</ab>; {#paritrAyasva, paritrAyasva#} (in dramas).
+;
+146731 new  <ls>Bk. 5. 54</ls>, <ls n="Bk.">15. 120</ls>. ━{%With%} {@{#pari#}@} to save <ab>&c.</ab>; {#paritrAyasva, paritrAyasva#} (in dramas).
+;---------------------------------------------------
+; <L>17389<pc>0820-1<k1>dur<k2>dur
+152282 old  {#tatkzaRAd durjanAyate#} <ls>Pt. 1. 5</ls>.). ({#durjanIkf [civa#}] to make blameworthy;
+;
+152282 new  {#tatkzaRAd durjanAyate#} <ls>Pt. 1. 5</ls>.). ({#durjanIkf [civa]#} to make blameworthy;
+;---------------------------------------------------
+; <L>20895<pc>1000-2<k1>pA<k2>pA
+187086 old ∙²5 To absorb, drink or swallow up; ({#bAREH) AyurdehAtigEH pItaM ruDiraM#}
+;
+187086 new ∙²5 To absorb, drink or swallow up; {#(bAREH) AyurdehAtigEH pItaM ruDiraM#}
+;---------------------------------------------------
