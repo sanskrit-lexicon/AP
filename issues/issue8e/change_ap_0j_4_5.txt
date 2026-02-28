@@ -1,0 +1,150 @@
+; <L>67<pc>0004-1<k1>akasmAt<k2>akasmAt
+600 old {#akasmAt#}¦ {%<lex>ind.</lex>%} [{#na kasmAt kiMcitkAraRADInatvaM yatra, aluk sa˚#}.]
+;
+600 new {#akasmAt#}¦ {%<lex>ind.</lex>%} [{#na kasmAt kiMcitkAraRADInatvaM yatra#}, <sab>{#aluk sa˚#}</sab>]
+;---------------------------------------------------
+; <L>1379<pc>0078-1<k1>analiH<k2>analiH
+12797 old {#analiH#}¦ [{#aniti-ac anaH aliryatra#} <sab>{#ba˚#}</sab> {#SakanDvA˚#}] <ab>N.</ab> of a tree
+;
+12797 new {#analiH#}¦ [{#aniti-ac anaH aliryatra#} <sab>{#ba˚#}</sab> <sab>{#SakanDvA˚#}</sab>] <ab>N.</ab> of a tree
+;---------------------------------------------------
+; <L>3260<pc>0166-2<k1>abjA<k2>abjA
+27981 old {#abjA#}¦ {%<lex>m.</lex>%} ({#bjAH#}) <ab>Ved.</ab> Born in water (<ls>P. III. 2. 67</ls>, <ls n="P.">VI. 4. 21</ls>.)
+;
+27981 new {#abjA#}¦ {%<lex>m.</lex>%} <ab>Ved.</ab> ({#bjAH#}) Born in water (<ls>P. III. 2. 67</ls>, <ls n="P.">VI. 4. 21</ls>.)
+;---------------------------------------------------
+; <L>7952<pc>0374-1<k1>Astika<k2>Astika
+66401 old .{@{#-kaH#}@} of {@{#AstIkaH#}@} <ab>N.</ab> of a Muni. <ab>cf.</ab> {#agastyo mADavaScEva#}
+;
+66401 new .{@{#-kaH#}@} or {@{#AstIkaH#}@} <ab>N.</ab> of a Muni. <ab>cf.</ab> {#agastyo mADavaScEva#}
+;---------------------------------------------------
+; <L>8049<pc>0378-1<k1>Ahna<k2>Ahna
+67198 old  Daily, performed in ad ay.
+;
+67198 new  Daily, performed in a day.
+;---------------------------------------------------
+; <L>8755<pc>0412-2<k1>utpanna<k2>utpanna
+73593 old  <ls>MS. 7. 1. 13</ls>. (where {#Sabara#} explains {#utpannADikAra#} as {#anuvAda#}); Also <ls n="MS.">7. 3. 9</ls>.
+;
+73593 new  <ls>MS. 7. 1. 13</ls>. (where {#Sabara#} explains {#utpannADikAra#} as {#anuvAda#}); also <ls n="MS.">7. 3. 9</ls>.
+;---------------------------------------------------
+; <L>8763<pc>0413-1<k1>utpala<k2>utpala
+73676 old .{@{#-SArivA#}@} see {#utpalagopA#} (= {#SyAmA#}) Ichno Carpus Frutescens
+;
+73676 new .{@{#-SArivA#}@} see {#utpalagopA#} (= {#SyAmA#}) Ichnocarpus Frutescens
+;---------------------------------------------------
+; <L>10632<pc>0493-c1<k1>eka<k2>eka
+89326 old ∙²2 the only favour or pleasure. ({@{#-sam#}@}) a drama of one sentiment.
+;
+89326 new ∙²2 the only flavour or pleasure. ({@{#-sam#}@}) a drama of one sentiment.
+;---------------------------------------------------
+; <L>10646<pc>0498-2<k1>ekAdaSa<k2>ekAdaSa
+89574 old ∙²2 Presentations of offerings to decease ancestors or Pitṛs on the eleventh
+;
+89574 new ∙²2 Presentations of offerings to deceased ancestors or Pitṛs on the eleventh
+;---------------------------------------------------
+; <L>10677<pc>0499-2<k1>etad<k2>etad
+89783 old  {#me Danam#}; but many sometimes remain in the neuter; {#etadeva guruzu#}
+;
+89783 new  {#me Danam#}; but may sometimes remain in the neuter; {#etadeva guruzu#}
+;---------------------------------------------------
+; <L>10677<pc>0499-2<k1>etad<k2>etad
+89801 old .{@{#-kzaRAt#}@} {%<lex>ind.</lex>%} hence-forth.
+;
+89801 new .{@{#-kzaRAt#}@} {%<lex>ind.</lex>%} henceforth.
+;---------------------------------------------------
+; <L>11327<pc>0524-2<k1>kaRquH<k2>kaRquH
+94633 old {#kaRquH#} {%<lex>m.</lex>, <lex>f.</lex>%}, {#kaRqUH#} {%<lex>f.</lex>%}¦ {%<lex>m.</lex>, <lex>f.</lex>%}, {#kaRqUH#} {%<lex>f.</lex>%}
+;
+94633 new {#kaRquH#} {%<lex>m.</lex>, <lex>f.</lex>%}, {#kaRqUH#} {%<lex>f.</lex>%}¦
+;---------------------------------------------------
+; <L>13889<pc>0651-2<k1>garBaH<k2>garBaH
+118943 old .{@{#-gfham, -Bavanam, -veSman#}@}
+;
+118943 new .{@{#-gfham, -Bavanam, -veSman#}@} {%<lex>n.</lex>%}
+;---------------------------------------------------
+; <L>13889<pc>0651-2<k1>garBaH<k2>garBaH
+118945 old  {%<lex>n.</lex>%}
+;
+118945 new 
+;---------------------------------------------------
+; <L>14197<pc>0667-2<k1>gUrd<k2>gUrd
+121884 old {#gUrd(gurd)#}¦ €1 <ab>Ā.</ab> ({#gUrdate#}). ━I.
+;
+121884 new {#gUrd(gurd)#}¦ I. €1 <ab>Ā.</ab> ({#gUrdate#}).
+;---------------------------------------------------
+; <L>25340<pc>1212-2<k1>Bogavat<k2>Bogavat
+228958 old ∙²3 Dancing, acting, and singing together. ━{%<lex>f.</lex>%} ({@{#-tI#}@})
+;
+228958 new ∙²3 Dancing, acting, and singing together. ({@{#-tI#}@}) ━{%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>25454<pc>1217-a2<k1>makaraH<k2>makaraH
+229990 old ∙²7 The tenth are of thirty degrees in any circle.
+;
+229990 new ∙²7 The tenth arc of thirty degrees in any circle.
+;---------------------------------------------------
+; <L>30146<pc>1463-1<k1>viroDin<k2>viroDin
+278166 old ∙²5 Quarrelsome. ━{%<lex>m.</lex>%} An enemy; {#kalayantyuzRakaraM viroDinaH#}
+;
+278166 new ∙²5 Quarrelsome. ━{%<lex>m.</lex>%} An enemy; {#kalayantyuzRakaraM viroDinaH#} <ls>Śi. 16. 64</ls>.
+;---------------------------------------------------
+; <L>30146<pc>1463-1<k1>viroDin<k2>viroDin
+278167 old  <ls>Śi. 16. 64</ls>. ━{%<lex>f.</lex>%} ({@{#viroDinI#}@}) A woman who promotes quarrel.
+;
+278167 new  ({@{#viroDinI#}@}) ━{%<lex>f.</lex>%} A woman who promotes quarrel.
+;---------------------------------------------------
+; <L>33641<pc>1626-1<k1>saptan<k2>saptan
+310941 old .{@{#-daSan#}@} {%<lex>a.</lex>%} seventeen. {#˚aratninyAyaH#} A rul of interpretation
+;
+310941 new .{@{#-daSan#}@} {%<lex>a.</lex>%} seventeen. {#˚aratninyAyaH#} A rule of interpretation
+;---------------------------------------------------
+; <L>34411<pc>1655-1<k1>sarpaH<k2>sarpaH
+317247 old .{@{#-AvAsam, -izwam#}@} the sandal tree.
+;
+317247 new .{@{#-AvAsam, -izwam#}@} [Page1655-2] the sandal tree.
+;---------------------------------------------------
+; <L>34411<pc>1655-1<k1>sarpaH<k2>sarpaH
+317248 old [Page1655-2]
+;
+317248 new 
+;---------------------------------------------------
+; <L>34421<pc>1655-2<k1>sarva<k2>sarva
+317355 old .{@{#-anukramaRikA, -kramaRI#}@} a general index.
+;
+317355 new .{@{#-anukramaRikA, -kramaRI#}@} [Page1656-1] a general index.
+;---------------------------------------------------
+; <L>34421<pc>1655-2<k1>sarva<k2>sarva
+317356 old [Page1656-1]
+;
+317356 new 
+;---------------------------------------------------
+; <L>35004<pc>1680-1<k1>sita<k2>sita
+322313 old .{@{#-CadaH, -pakzaH#}@} a swan, goose.
+;
+322313 new .{@{#-CadaH, -pakzaH#}@} [Page1680-2] a swan, goose.
+;---------------------------------------------------
+; <L>35004<pc>1680-1<k1>sita<k2>sita
+322314 old [Page1680-2]
+;
+322314 new 
+;---------------------------------------------------
+; <L>35172<pc>1696-1<k1>sUkzma<k2>sUkzma
+325433 old .{@{#-makzikam, -kA#}@} a mosquito, gnat.
+;
+325433 new .{@{#-makzikam, -kA#}@} [Page1696-2] a mosquito, gnat.
+;---------------------------------------------------
+; <L>35172<pc>1696-1<k1>sUkzma<k2>sUkzma
+325434 old [Page1696-2]
+;
+325434 new 
+;---------------------------------------------------
+; <L>36554<pc>1764-1<k1>hetuH<k2>hetuH
+338669 old .{@{#-utprekzA, -upamA#}@} a simile accompanied with reasons.
+;
+338669 new .{@{#-utprekzA, -upamA#}@} [Page1764-2] a simile accompanied with reasons.
+;---------------------------------------------------
+; <L>36554<pc>1764-1<k1>hetuH<k2>hetuH
+338670 old [Page1764-2]
+;
+338670 new 
+;---------------------------------------------------

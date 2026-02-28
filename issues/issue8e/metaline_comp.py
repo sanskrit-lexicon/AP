@@ -1,0 +1,131 @@
+"""
+ db_comp.py
+
+"""
+import re,sys
+import codecs
+
+def read_lines(filein):
+ lines = []
+ with codecs.open(filein,encoding='utf-8',mode='r') as f:
+  for line in f:
+   #lines.append(line.strip()) # changed at ap_1
+   lines.append(line.rstrip('\r\n'))
+ print(f'{len(lines)} read from {filein}')
+ return lines
+
+def write_lines(fileout,outarr):
+ with codecs.open(fileout,'w','utf-8') as f:
+  for out in outarr:
+   f.write("%s\n" % out)
+ print(f'{len(outarr)} lines written to {fileout}')
+
+def write_recs(fileout,outrecs):
+ with codecs.open(fileout,'w','utf-8') as f:
+  for outarr in outrecs:
+   for out in outarr:
+    f.write("%s\n" % out)
+ print(f'{len(outrecs)} records written to {fileout}')
+
+class Entry:
+ def __init__(self,iline,metaline):
+  self.iline = iline
+  self.meta = metaline
+  m = re.search(r'^<L>(.*?)<pc>',metaline)
+  self.L = m.group(1)
+  self.dbs = []  # records is (iline,db)
+  
+def init_db(lines):
+ regex = r'^.*?¦'
+ L = None
+ groups = []
+ group = None
+ for iline,line in enumerate(lines):
+  if line.startswith('<L>'):
+   if group != None:
+    groups.append(group)
+   group = Entry(iline,line) # line is metaline
+   continue
+  if group == None:
+   continue
+  if line.startswith('<LEND>'):
+   groups.append(group)   
+   group = None
+   continue
+ return groups
+
+def check_groups(groups1,groups2):
+ assert len(groups1) == len(groups2)
+ for igroup,group1 in enumerate(groups1):
+  group2 = groups2[igroup]
+  assert group1.L == group2.L
+ print('check_groups1 succeeds')
+
+def compare_groups(groups1,groups2):
+ outrecs = []
+ nprob = 0
+ diffrecs = []
+ assert len(groups1) == len(groups2)
+ for igroup,group1 in enumerate(groups1):
+  group2 = groups2[igroup]
+  assert group1.L == group2.L
+  L = group2.L
+  meta1 = group1.meta
+  meta2 = group2.meta
+  lnum1 = group1.iline + 1
+  lnum2 = group2.iline + 1
+  if meta1 != meta2:
+    arr = []
+    arr.append(f'* Case L={L}')
+    arr.append(f'meta1 = {meta1}')
+    arr.append(f'meta2 = {meta2}')
+    arr.append(f'--------------------')
+    outrecs.append(arr)
+    diffrec = (L,lnum1,meta1,lnum2,meta2)
+    diffrecs.append(diffrec)
+    # break
+ print(f'compare_groups finds {len(outrecs)} problem entries')
+ #print(f'compare_groups succeeds! dbs same in both inputs')
+ return outrecs,diffrecs
+
+def mark_lines(recs,lines):
+ newlines = []
+ indicator = '_'
+ d = {}
+ n = 0
+ for rec in recs:
+  (L,lnum1,db1,lnum2,db2) = rec
+  if lnum1 == None:
+   continue
+  if lnum2 == None:
+   continue
+  iline1 = lnum1 - 1
+  d[iline1] = True
+  n = n + 1
+ print(f'marking {n} lines')
+ for iline,line in enumerate(lines):
+  if iline in d:
+   newline = indicator + line
+  else:
+   newline = line
+  newlines.append(newline)
+ return newlines
+#-----------------------------------------------------
+if __name__=="__main__":
+ filein1 = sys.argv[1]
+ filein2 = sys.argv[2]
+ fileout = sys.argv[3]
+ fileout1 = sys.argv[4]
+ lines1 = read_lines(filein1)
+ lines2 = read_lines(filein2)
+ groups1 = init_db(lines1)
+ print(f'{len(groups1)} entries from {filein1}')
+ groups2 = init_db(lines2)
+ print(f'{len(groups2)} entries from {filein2}')
+ check_groups(groups1,groups2)
+ probrecs,diffrecs = compare_groups(groups1,groups2)
+ write_recs(fileout,probrecs)
+ if True:
+  # add _ at beginning of certain lines
+  marklines1 = mark_lines(diffrecs,lines1)
+  write_lines(fileout1,marklines1)

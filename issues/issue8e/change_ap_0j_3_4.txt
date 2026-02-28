@@ -1,0 +1,270 @@
+; <L>1165<pc>0068-1<k1>aDyApakaH<k2>aDyApakaH
+11028 old  kinds: he is either an {%Achārya%} <ab>i. e.</ab> one who invests a boy with
+;
+11028 new  kinds: he is either an {%Acārya%} <ab>i. e.</ab> one who invests a boy with
+;---------------------------------------------------
+; <L>1984<pc>0102-1<k1>anuBUtiH<k2>anuBUtiH
+17144 old  Upanisads by Mādhavāchārya.
+;
+17144 new  Upanisads by Mādhavācārya.
+;---------------------------------------------------
+; <L>3457<pc>0175-1<k1>aBinava<k2>aBinava
+29527 old .{@{#-kAlidAsaH#}@} The modern Kālidāsa, <ab>i. e.</ab> Mādhavāchārya.
+;
+29527 new .{@{#-kAlidAsaH#}@} The modern Kālidāsa, <ab>i. e.</ab> Mādhavācārya.
+;---------------------------------------------------
+; <L>4478<pc>0218-1<k1>aruRa<k2>aruRa
+37557 old ∙³({%f%}) the Gunja plant that yields the red and black berry ({#guMja#})
+;
+37557 new ∙³({%f%}) the Guñja plant that yields the red and black berry ({#guMja#})
+;---------------------------------------------------
+; <L>4727<pc>0236-1<k1>aloka<k2>aloka
+40438 old ∙²5 A {%Ritvij%} or any such priest.
+;
+40438 new ∙²5 A {%Ṛtvij%} or any such priest.
+;---------------------------------------------------
+; <L>6120<pc>0292-2<k1>asADu<k2>asADu
+51167 old ∙²4 Corrupt, not properly formed or {%Sanskrit%} (as a word); {#yaTA goRISabdaH#}
+;
+51167 new ∙²4 Corrupt, not properly formed or {%Sanskṛt%} (as a word); {#yaTA goRISabdaH#}
+;---------------------------------------------------
+; <L>6157<pc>0295-1<k1>asura<k2>asura
+51605 old ∙²2 Śukrāchārya.
+;
+51605 new ∙²2 Śukrācārya.
+;---------------------------------------------------
+; <L>6618<pc>0317-2<k1>AcAryaH<k2>AcAryaH
+55687 old  a part of the truth. The term is opposed to ‘Āchārya’ and ‘Siddhāntin’
+;
+55687 new  a part of the truth. The term is opposed to ‘Ācārya’ and ‘Siddhāntin’
+;---------------------------------------------------
+; <L>7267<pc>0345-2<k1>AmahIyA<k2>AmahIyA
+60917 old {#AmahIyA#}¦ {%<lex>f.</lex>%} <ab>N.</ab> of a particular {%Rik%} or verse of the Ṛgveda;
+;
+60917 new {#AmahIyA#}¦ {%<lex>f.</lex>%} <ab>N.</ab> of a particular {%Ṛk%} or verse of the Ṛgveda;
+;---------------------------------------------------
+; <L>9678<pc>0452-1<k1>upanetf<k2>upanetf
+80955 old  {%Achārya%}; {#janitA copanetA ca yastu vidyAM prayacCati . annadAtA BayatrAtA#}
+;
+80955 new  {%Acārya%}; {#janitA copanetA ca yastu vidyAM prayacCati . annadAtA BayatrAtA#}
+;---------------------------------------------------
+; <L>10790<pc>0504-1<k1>Endra<k2>Endra
+90571 old ∙²1 <ab>N.</ab> of a {%Ṛik%} addressed to Indra; {#ityAdikA kAcidEndrI samAmnAtA#} <ls>J. N. V.</ls>
+;
+90571 new ∙²1 <ab>N.</ab> of a {%Ṛk%} addressed to Indra; {#ityAdikA kAcidEndrI samAmnAtA#} <ls>J. N. V.</ls>
+;---------------------------------------------------
+; <L>11149<pc>0517-1<k1>kacaH<k2>kacaH
+93124 old  of the demons as would be slain in battle were restored to life by Śukrāchārya,
+;
+93124 new  of the demons as would be slain in battle were restored to life by Śukrācārya,
+;---------------------------------------------------
+; <L>11149<pc>0517-1<k1>kacaH<k2>kacaH
+93127 old  induced Kacha to go to Śukrāchārya and learn it from him by becoming
+;
+93127 new  induced Kacha to go to Śukrācārya and learn it from him by becoming
+;---------------------------------------------------
+; <L>11243<pc>0521-1<k1>kaWaH<k2>kaWaH
+93940 old ∙²4 A kind of {%ṛik%}.
+;
+93940 new ∙²4 A kind of {%ṛk%}.
+;---------------------------------------------------
+; <L>11860<pc>0552-1<k1>kAkaH<k2>kAkaH
+99963 old .{@{#-adanI#}@} The Gunja plant.
+;
+99963 new .{@{#-adanI#}@} The Guñja plant.
+;---------------------------------------------------
+; <L>11860<pc>0552-1<k1>kAkaH<k2>kAkaH
+99976 old .{@{#-ciYcA, -jaNGA#}@} the Gunja plant.
+;
+99976 new .{@{#-ciYcA, -jaNGA#}@} the Guñja plant.
+;---------------------------------------------------
+; <L>11866<pc>0553-1<k1>kAkaliH<k2>kAkaliH,
+100079 old ∙²4 the Gunjā plant.
+;
+100079 new ∙²4 the Guñjā plant.
+;---------------------------------------------------
+; <L>12123<pc>0565-1<k1>kAla<k2>kAla
+102510 old ∙²2 a stotra of {#kAlaBErava#} by Śhaṅkarāchārya.
+;
+102510 new ∙²2 a stotra of {#kAlaBErava#} by Śhaṅkarācārya.
+;---------------------------------------------------
+; <L>12836<pc>0601-2<k1>kfzRalaH<k2>kfzRalaH
+109364 old {#kfzRalaH#}¦ The Gunjā plant.
+;
+109364 new {#kfzRalaH#}¦ The Guñjā plant.
+;---------------------------------------------------
+; <L>13809<pc>0646-2<k1>gadyARakaH<k2>gadyARa(na, -la)kaH
+117900 old {#gadyARa(na, la)kaH#}¦ A weight equal to 48 {%Guṅjās%}; <ab>cf.</ab> <ls>Y. 3. 258</ls> <ab>com.</ab>
+;
+117900 new {#gadyARa(na, la)kaH#}¦ A weight equal to 48 {%Guñjās%}; <ab>cf.</ab> <ls>Y. 3. 258</ls> <ab>com.</ab>
+;---------------------------------------------------
+; <L>14079<pc>0660-2<k1>guYjA<k2>guYjA
+120582 old  grains Troy, or an artificial weight called {%Gunja%} measuring about
+;
+120582 new  grains Troy, or an artificial weight called {%Guñjā%} measuring about
+;---------------------------------------------------
+; <L>14290<pc>0675-1<k1>golaH<k2>golaH,
+123216 old .{@{#-aDyAyaH#}@} <ab>N.</ab> of an astronomical work by Bhāskarāchārya.
+;
+123216 new .{@{#-aDyAyaH#}@} <ab>N.</ab> of an astronomical work by Bhāskarācārya.
+;---------------------------------------------------
+; <L>14302<pc>0675-2<k1>gOqaH<k2>gOqaH
+123307 old ∙²3 (In <ab>rhet.</ab>) One of the {%Ritis%} or {%Vrittis%} or styles of
+;
+123307 new ∙²3 (In <ab>rhet.</ab>) One of the {%Rītis%} or {%Vṛttis%} or styles of
+;---------------------------------------------------
+; <L>14302<pc>0675-2<k1>gOqaH<k2>gOqaH
+123308 old  poetic composition; <ls>S. D.</ls> mentions four {%Ritis%}, while <ls>K. P.</ls> only three,
+;
+123308 new  poetic composition; <ls>S. D.</ls> mentions four {%Rītis%}, while <ls>K. P.</ls> only three,
+;---------------------------------------------------
+; <L>16848<pc>0789-1<k1>tri<k2>tri
+146123 old .{@{#-fcam#}@} ({@{#-tfcam#}@} also) three {%Riks%} taken collectively; <ls>Ms. 8. 106</ls>.
+;
+146123 new .{@{#-fcam#}@} ({@{#-tfcam#}@} also) three {%Ṛks%} taken collectively; <ls>Ms. 8. 106</ls>.
+;---------------------------------------------------
+; <L>17777<pc>0846-1<k1>drORika<k2>drORika
+156902 old ∙²2 Sown with a {%ḍroṇa%} of grain (as a field).
+;
+156902 new ∙²2 Sown with a {%droṇa%} of grain (as a field).
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157178 old .{@{#-fcam#}@} ({#dvfcam#} or {#dvyarcam#}) a colletion of two verses or {%riks%}.
+;
+157178 new .{@{#-fcam#}@} ({#dvfcam#} or {#dvyarcam#}) a colletion of two verses or {%ṛks%}.
+;---------------------------------------------------
+; <L>18237<pc>0873-2<k1>nagaH<k2>nagaH
+162119 old  <ls>Āchārya-Ṣaṭpadī 4</ls>.
+;
+162119 new  <ls>Ācārya-Ṣaṭpadī 4</ls>.
+;---------------------------------------------------
+; <L>18953<pc>0912-2<k1>nirukta<k2>nirukta
+169665 old .{@{#-vfttiH#}@} <ab>N.</ab> of a <ab>com.</ab> on Yāskaʼs {#nirukta#} by Durgāchārya.
+;
+169665 new .{@{#-vfttiH#}@} <ab>N.</ab> of a <ab>com.</ab> on Yāskaʼs {#nirukta#} by Durgācārya.
+;---------------------------------------------------
+; <L>21642<pc>1036-1<k1>puzwiH<k2>puzwiH
+194271 old .{@{#-mArgaH#}@} <ab>N.</ab> of the doctrine of a Vaiṣṇava sect founded by Vallabhāchārya.
+;
+194271 new .{@{#-mArgaH#}@} <ab>N.</ab> of the doctrine of a Vaiṣṇava sect founded by Vallabhācārya.
+;---------------------------------------------------
+; <L>22345<pc>1067-1<k1>prati<k2>prati
+200725 old .{@{#-fcam#}@} {%<lex>ind.</lex>%} in each {%Rik%}.
+;
+200725 new .{@{#-fcam#}@} {%<lex>ind.</lex>%} in each {%Ṛk%}.
+;---------------------------------------------------
+; <L>24299<pc>1146-2<k1>Palakam<k2>Palakam
+216843 old .{@{#-yantram#}@} an astronomical instrument invented by Bhāskarāchārya.
+;
+216843 new .{@{#-yantram#}@} an astronomical instrument invented by Bhāskarācārya.
+;---------------------------------------------------
+; <L>24789<pc>1173-1<k1>brahman<k2>brahman
+221964 old ∙²4 One of the four {%Ritvijas%} or priests employed at a Soma sacrifice.
+;
+221964 new ∙²4 One of the four {%Ṛtvijas%} or priests employed at a Soma sacrifice.
+;---------------------------------------------------
+; <L>25651<pc>1230-1<k1>maDura<k2>maDura
+232438 old .{@{#-azwakam#}@} <ab>N.</ab> of a collection of 8 verses by Vallabhāchārya.
+;
+232438 new .{@{#-azwakam#}@} <ab>N.</ab> of a collection of 8 verses by Vallabhācārya.
+;---------------------------------------------------
+; <L>25706<pc>1235-1<k1>manuH<k2>manuH
+233250 old  or {%Maharṣis%} and to whom the code of laws known as {%Manusmriti%}
+;
+233250 new  or {%Maharṣis%} and to whom the code of laws known as {%Manusmṛti%}
+;---------------------------------------------------
+; <L>27064<pc>1313-2<k1>yugam<k2>yugam
+248153 old  who live during each age, {%Krita%} being called the ‘golden’ and
+;
+248153 new  who live during each age, {%Kṛta%} being called the ‘golden’ and
+;---------------------------------------------------
+; <L>27190<pc>1322-1<k1>raktikA<k2>raktikA
+249784 old {#raktikA#}¦ The {%Gunjā%} plant or its seed used as a weight.
+;
+249784 new {#raktikA#}¦ The {%Guñjā%} plant or its seed used as a weight.
+;---------------------------------------------------
+; <L>27379<pc>1334-2<k1>rAjan<k2>rAjan
+252306 old  devotion, comes to be regarded as a sage or {%riṣi%}; {%<ab>e. g.</ab>%} {#purUravas#},
+;
+252306 new  devotion, comes to be regarded as a sage or {%ṛṣi%}; {%<ab>e. g.</ab>%} {#purUravas#},
+;---------------------------------------------------
+; <L>28038<pc>1368-1<k1>lIlAvat<k2>lIlAvat
+258787 old ∙²4 <ab>N.</ab> of a well-known mathematical work by Bhāskarāchārya.
+;
+258787 new ∙²4 <ab>N.</ab> of a well-known mathematical work by Bhāskarācārya.
+;---------------------------------------------------
+; <L>28069<pc>1369-1<k1>lupta<k2>lupta
+259001 old  {#luptatrivali SyAmastanAgramalasAkzi#} <ls>Govardhanāchārya</ls>.
+;
+259001 new  {#luptatrivali SyAmastanAgramalasAkzi#} <ls>Govardhanācārya</ls>.
+;---------------------------------------------------
+; <L>28713<pc>1400-2<k1>vallaH<k2>vallaH
+265430 old ∙²2 A weight of three {%Gunjās%}.
+;
+265430 new ∙²2 A weight of three {%Guñjās%}.
+;---------------------------------------------------
+; <L>28713<pc>1400-2<k1>vallaH<k2>vallaH
+265431 old ∙²3 Another weight of one {%Gunjā%} and a half; or of two {%Gunjās%} (in medicine).
+;
+265431 new ∙²3 Another weight of one {%Guñjā%} and a half; or of two {%Guñjās%} (in medicine).
+;---------------------------------------------------
+; <L>30415<pc>1475-2<k1>viSvAmitraH<k2>viSvAmitraH
+280668 old  titles {%Rājarṣi, Riṣi, Maharṣi%}, and {%Brahmarṣi%}, but he was not
+;
+280668 new  titles {%Rājarṣi, Ṛṣi, Maharṣi%}, and {%Brahmarṣi%}, but he was not
+;---------------------------------------------------
+; <L>30642<pc>1486-1<k1>vIciH<k2>vIciH
+282712 old ∙²4 Rest, leisure; {#kuto'vIcirvIcistava yadi gatA locanapaTam#} <ls>Gaṅgāṣṭaka (by Śaṃkarāchārya) 6</ls>.
+;
+282712 new ∙²4 Rest, leisure; {#kuto'vIcirvIcistava yadi gatA locanapaTam#} <ls>Gaṅgāṣṭaka (by Śaṃkarācārya) 6</ls>.
+;---------------------------------------------------
+; <L>30751<pc>1493-2<k1>vfzAkapAyI<k2>vfzAkapAyI
+284197 old ∙²3 Of Śachi.
+;
+284197 new ∙²3 Of Śachī.
+;---------------------------------------------------
+; <L>31022<pc>1503-2<k1>vEyAsakiH<k2>vEyAsakiH
+286318 old {#vEyAsakiH#}¦ <ab>N.</ab> of Śukāchārya; {#vEyAsakerjahO Sizyo gaNgAyAM svakalevaram#}
+;
+286318 new {#vEyAsakiH#}¦ <ab>N.</ab> of Śukācārya; {#vEyAsakerjahO Sizyo gaNgAyAM svakalevaram#}
+;---------------------------------------------------
+; <L>31610<pc>1529-2<k1>Satam<k2>Satam
+291415 old  a work of Govardhanāchārya.).
+;
+291415 new  a work of Govardhanācārya.).
+;---------------------------------------------------
+; <L>31841<pc>1542-2<k1>SANkaraH<k2>SANkaraH
+293960 old ∙²3 A follower of Śāṃkarāchārya.
+;
+293960 new ∙²3 A follower of Śāṃkarācārya.
+;---------------------------------------------------
+; <L>31862<pc>1543-2<k1>SAtakratava<k2>SAtakratava
+294107 old  <ls>Gaṅgāṣṭaka (by Śaṃkarāchārya) 7</ls>.
+;
+294107 new  <ls>Gaṅgāṣṭaka (by Śaṃkarācārya) 7</ls>.
+;---------------------------------------------------
+; <L>31934<pc>1546-1<k1>SArIraka<k2>SArIraka
+294708 old  of Śaṃkarāchārya on the Brahma-sūtras).
+;
+294708 new  of Śaṃkarācārya on the Brahma-sūtras).
+;---------------------------------------------------
+; <L>32708<pc>1583-1<k1>zaz<k2>zaz
+302525 old .{@{#-matasTApakaH#}@} ({#zaRmatasTApakaH#}) <ab>N.</ab> of Śaṃkarāchārya.
+;
+302525 new .{@{#-matasTApakaH#}@} ({#zaRmatasTApakaH#}) <ab>N.</ab> of Śaṃkarācārya.
+;---------------------------------------------------
+; <L>34421<pc>1655-2<k1>sarva<k2>sarva
+317439 old  philosophy by Mādhavāchārya.
+;
+317439 new  philosophy by Mādhavācārya.
+;---------------------------------------------------
+; <L>34485<pc>1659-1<k1>savyaBicAraH<k2>savyaBicAraH
+318029 old {#savyaBicAraH#}¦ One of the five main divisions of {%Heivābhāsa%} (in
+;
+318029 new {#savyaBicAraH#}¦ One of the five main divisions of {%Hetvābhāsa%} (in
+;---------------------------------------------------
+; <L>35135<pc>1693-2<k1>suraH<k2>suraH
+324982 old .{@{#-sAlaH#}@} a wish fulfilling tree, a {%kalpavrikṣa%}; {#dadato'BimataM#}
+;
+324982 new .{@{#-sAlaH#}@} a wish fulfilling tree, a {%kalpavṛkṣa%}; {#dadato'BimataM#}
+;---------------------------------------------------

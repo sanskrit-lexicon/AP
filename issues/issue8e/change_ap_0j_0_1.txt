@@ -1,0 +1,420 @@
+; <L>25<pc>0003-1<k1>aMhas<k2>aMhas
+304 old {#aMhas#}¦ {%<lex>n.</lex>%} {#aMhaH, ˚hasI#} <ab>&c.</ab> [{#am asun huk ca#} <ls>Uṇ. 4. 212</ls>,
+;
+304 new {#aMhas#} {%<lex>n.</lex>%} {#aMhaH, ˚hasI#} <ab>&c.</ab>¦ [{#am asun huk ca#} <ls>Uṇ. 4. 212</ls>,
+;---------------------------------------------------
+; <L>170<pc>0010-2<k1>akzIva<k2>akzIva
+1658 old {#akzIva#} {#ba#}¦ {%<lex>a.</lex>%} [<sab>{#na˚ ta˚#}</sab>] Not intoxicated.
+;
+1658 new {#akzIva#} ({#ba#})¦ {%<lex>a.</lex>%} [<sab>{#na˚ ta˚#}</sab>] Not intoxicated.
+;---------------------------------------------------
+; <L>228<pc>0013-2<k1>agiraH<k2>agiraH
+2153 old {#agiraH#}¦ ({#naH ?#}) [{#na gIryate duHKena#}; {#gF- bA˚ ka#}.
+;
+2153 new {#agiraH#} ({#naH ?#})¦ [{#na gIryate duHKena#}; {#gF- bA˚ ka#}.
+;---------------------------------------------------
+; <L>351<pc>0028-1<k1>aNGri<k2>aNGri
+4264 old {#aNGri#}¦ ({#aMhriH#}) [{#aNG-krin nipAto'yam#} <ls>Uṇ. 4. 66</ls>.]
+;
+4264 new {#aNGri#} ({#aMhriH#})¦ [{#aNG-krin nipAto'yam#} <ls>Uṇ. 4. 66</ls>.]
+;---------------------------------------------------
+; <L>420<pc>0032-1<k1>ajarakaH<k2>ajarakaH
+4930 old {#ajarakaH#}¦ ({#kam#}) Indigestion.
+;
+4930 new {#ajarakaH#} ({#kam#})¦ Indigestion.
+;---------------------------------------------------
+; <L>877<pc>0051-1<k1>atra<k2>atra
+8357 old {#atra#}¦ ({#atrA#} <ab>Ved.</ab>) {%<lex>ind.</lex>%} [{#asmin etAsmin vA, idaM-etad vA saptamyAH#}
+;
+8357 new {#atra#} ({#atrA#} <ab>Ved.</ab>)¦ {%<lex>ind.</lex>%} [{#asmin etAsmin vA, idaM-etad vA saptamyAH#}
+;---------------------------------------------------
+; <L>889<pc>0051-2<k1>aTa<k2>aTa
+8463 old {#aTa#}¦ (<ab>Ved.</ab> {#aTA#}) {%<lex>ind.</lex>%} [{#arT-qa, pfzoda˚ ralopaH#} <ls>Tv.</ls>]
+;
+8463 new {#aTa#} (<ab>Ved.</ab> {#aTA#})¦ {%<lex>ind.</lex>%} [{#arT-qa, pfzoda˚ ralopaH#} <ls>Tv.</ls>]
+;---------------------------------------------------
+; <L>1199<pc>0069-1<k1>aDyaya<k2>aDyaya,
+11261 old {#aDyaya#}, {#aDyayanam#} <ab>&c.</ab>¦ See under {#aDI#}.
+;
+11261 new {#aDyaya, aDyayanam#} <ab>&c.</ab>¦ See under {#aDI#}.
+;---------------------------------------------------
+; <L>2096<pc>0107-2<k1>anuvartana<k2>anuvartana,
+18016 old {#anuvartana#}, {#-vartin#} <ab>&c.</ab>¦
+;
+18016 new {#anuvartana, -vartin#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>2149<pc>0109-2<k1>anuSaya<k2>anuSaya,
+18405 old {#anuSaya#}, {#-Sayin#} <ab>&c.</ab>¦
+;
+18405 new {#anuSaya, -Sayin#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>2154<pc>0110-1<k1>anuSAsaka<k2>anuSAsaka,
+18445 old {#anuSAsaka#}, {#-SAsin, -SAstf#} or {#SAsitf#}¦ {%<lex>a.</lex>%}
+;
+18445 new {#anuSAsaka, -SAsin, -SAstf#} or {#SAsitf#}¦ {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>2880<pc>0151-2<k1>apasya<k2>apasya,
+25163 old {#apasya#}, {#-syu#} <ab>&c.</ab>¦
+;
+25163 new {#apasya, -syu#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>3143<pc>0162-1<k1>apratta<k2>apratta
+27112 old {#apratta#}¦ ({#˚pradatta#}) Not given away.
+;
+27112 new {#apratta#} ({#˚pradatta#})¦ Not given away.
+;---------------------------------------------------
+; <L>3163<pc>0162-2<k1>apramUra<k2>apramUra,
+27243 old {#apramUra#}, <ab>Ved.</ab> {#apramUrcCita#}¦ {%<lex>a.</lex>%} Not foolish, prudent,
+;
+27243 new {#apramUra#} (<ab>Ved.</ab>), {#apramUrcCita#}¦ {%<lex>a.</lex>%} Not foolish, prudent,
+;---------------------------------------------------
+; <L>3223<pc>0164-2<k1>apsaH<k2>apsaH,
+27649 old {#apsaH, -psA#}¦ {%<lex>m.</lex>%}
+;
+27649 new {#apsaH, -psA#} {%<lex>m.</lex>%} ▪.({#-psAH#} <ab>Ved.</ab>)¦
+;---------------------------------------------------
+; <L>3223<pc>0164-2<k1>apsaH<k2>apsaH,
+27650 old .({#-psAH#} <ab>Ved.</ab>) [{#apaHsanoti, san-qa#}]
+;
+27650 new  [{#apaHsanoti, san-qa#}]
+;---------------------------------------------------
+; <L>3364<pc>0170-2<k1>aBigrah<k2>aBigrah
+28742 old {#aBigrah#}¦ (<ab>Ved.</ab> {#-graB#}) €9 <ab>U.</ab>
+;
+28742 new {#aBigrah#} (<ab>Ved.</ab> {#-graB#})¦ €9 <ab>U.</ab>
+;---------------------------------------------------
+; <L>3369<pc>0170-2<k1>aBiGAta<k2>aBiGAta,
+28778 old {#aBiGAta#}, {#-GAtaka, -takin#} <ab>&c.</ab>¦
+;
+28778 new {#aBiGAta, -GAtaka, -takin#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>3522<pc>0177-2<k1>aBiprAp<k2>aBiprAp,
+30006 old {#aBiprAp#}, {#-ptiH#} <ab>&c.</ab>¦
+;
+30006 new {#aBiprAp, -ptiH#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>3640<pc>0183-1<k1>aBilAzaH<k2>aBilAzaH
+30919 old {#aBilAzaH#}¦ ({#˚saH#} sometimes) A desire, wish, longing for, craving
+;
+30919 new {#aBilAzaH#} ({#˚saH#} sometimes)¦ A desire, wish, longing for, craving
+;---------------------------------------------------
+; <L>3810<pc>0188-2<k1>aBisara<k2>aBisara,
+31990 old {#aBisara#}, {#-sarga, -sarjana#} <ab>&c.</ab>¦
+;
+31990 new {#aBisara, -sarga, -sarjana#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>3819<pc>0189-1<k1>aBisarI<k2>aBisarI
+32047 old {#aBisarI#}¦ ({#-riH#}) {%<lex>f.</lex>%}
+;
+32047 new {#aBisarI#} ({#-riH#})¦, {%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>4187<pc>0202-2<k1>amAvasyA<k2>amAvasyA,
+34728 old {#amAvasyA#}, {#-vAsyA, -vasI, -vAsI#} (also written {#amAmasI, -mAsI#})¦
+;
+34728 new {#amAvasyA, -vAsyA, -vasI, -vAsI#} (also written {#amAmasI, -mAsI#})¦
+;---------------------------------------------------
+; <L>4366<pc>0213-1<k1>ayoguqa<k2>ayoguqa,
+36585 old {#ayoguqa#}, {#-jAla#} <ab>&c.</ab>¦
+;
+36585 new {#ayoguqa, -jAla#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>5653<pc>0269-2<k1>avIja<k2>avIja,
+46984 old {#avIja, -jaka#}¦ ({#abIja#})
+;
+46984 new {#avIja, -jaka#} ({#abIja#})¦
+;---------------------------------------------------
+; <L>6060<pc>0290-2<k1>asamAvfttaH<k2>asamAvfttaH,
+50751 old {#asamAvfttaH#}, {#-ttakaH#}, {#asamAvartakaH#}, {#asamAvfttikaH#}¦ A religious student who has not completed the period of his residence with his preceptor;
+;
+50751 new {#asamAvfttaH, -ttakaH, asamAvartakaH, asamAvfttikaH#}¦ A religious student who has not completed the period of his residence with his preceptor;
+;---------------------------------------------------
+; <L>6202<pc>0296-2<k1>asta<k2>asta,
+51918 old {#asta#}, {#-astu#} <ab>&c.</ab>¦
+;
+51918 new {#asta, -astu#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>8124<pc>0381-1<k1>iRqraH<k2>iRqraH,
+67786 old {#iRqraH#}, {#-Rqram#} ({#iRqvam#})¦ ({%Dual%})
+;
+67786 new {#iRqraH, -Rqram#} ({#iRqvam#})¦ ({%Dual%})
+;---------------------------------------------------
+; <L>8895<pc>0419-1<k1>udan<k2>udan<h>1
+74777 old {#udan#}^1¦ €2 <ab>P.</ab> ({#ud-an#}) To breathe upwards, send out the breath in
+;
+74777 new <hom>1.</hom> {#udan#}¦ €2 <ab>P.</ab> ({#ud-an#}) To breathe upwards, send out the breath in
+;---------------------------------------------------
+; <L>8897<pc>0419-2<k1>udan<k2>udan<h>2
+74798 old {#udan#}^2¦ {%<lex>n.</lex>%} [{#und-kanin#} <ls>P. VI. 1. 63</ls>] Water (usually occurring
+;
+74798 new <hom>2.</hom> {#udan#}¦ {%<lex>n.</lex>%} [{#und-kanin#} <ls>P. VI. 1. 63</ls>] Water (usually occurring
+;---------------------------------------------------
+; <L>8918<pc>0420-2<k1>udaraTiH<k2>udaraTiH
+75033 old {#udaraTiH#} ({#-Tin#}) ¦
+;
+75033 new {#udaraTiH#} ({#-Tin#})¦
+;---------------------------------------------------
+; <L>9920<pc>0462-1<k1>upavfMha<k2>upavfMha,
+82791 old {#upavfMha#}, {#-haRam#} <ab>&c.</ab>¦
+;
+82791 new {#upavfMha, -haRam#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>10564<pc>0489-1<k1>fRavat<k2>fRavat,
+88065 old {#fRavat#}, {#-van#} or {#fRAvat#}¦ {%<lex>a.</lex>%}
+;
+88065 new {#fRavat, -van#} or {#fRAvat#}¦ {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>10713<pc>0501-1<k1>eva<k2>eva<h>1
+90022 old {#eva#}^1¦ {%<lex>a.</lex>%} <ab>Ved.</ab>
+;
+90022 new <hom>1.</hom> {#eva#}¦ {%<lex>a.</lex>%} <ab>Ved.</ab>
+;---------------------------------------------------
+; <L>10714<pc>0501-1<k1>eva<k2>eva<h>2
+90035 old {#eva#}^2¦ {%<lex>ind.</lex>%} This particle is most frequently used to strengthen
+;
+90035 new <hom>2.</hom> {#eva#}¦ {%<lex>ind.</lex>%} This particle is most frequently used to strengthen
+;---------------------------------------------------
+; <L>11327<pc>0524-2<k1>kaRquH<k2>kaRquH
+94633 old {#kaRquH#}¦ {%<lex>m.</lex>, <lex>f.</lex>%}, {#kaRqUH#} {%<lex>f.</lex>%}
+;
+94633 new {#kaRquH#} {%<lex>m.</lex>, <lex>f.</lex>%}, {#kaRqUH#} {%<lex>f.</lex>%}¦ {%<lex>m.</lex>, <lex>f.</lex>%}, {#kaRqUH#} {%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>11509<pc>0533-1<k1>kamaRqaluH<k2>kamaRqaluH,
+96295 old {#kamaRqaluH#}, {#-lu#} {%<lex>n.</lex>%}, {#-lU#} {%<lex>f.</lex>%}¦
+;
+96295 new {#kamaRqaluH, -lu#} {%<lex>n.</lex>%}, {#-lU#} {%<lex>f.</lex>%}¦
+;---------------------------------------------------
+; <L>11717<pc>0545-1<k1>kalaSaH<k2>kalaSaH,
+98604 old {#kalaSaH#}, {#-saH#} ({#-Sam, -sam#})¦
+;
+98604 new {#kalaSaH, -saH#} ({#-Sam, -sam#})¦
+;---------------------------------------------------
+; <L>12111<pc>0565-1<k1>kArzApaRaH<k2>kArzApaRaH,
+102315 old {#kArzApaRaH#}, {#-Ram#} (or {#paRakaH#})¦
+;
+102315 new {#kArzApaRaH, -Ram#} (or {#paRakaH#})¦
+;---------------------------------------------------
+; <L>12240<pc>0571-2<k1>kim<k2>kim<h>1
+103583 old {#kim#}^1¦ {%<lex>ind.</lex>%} Used for {#ku#} only at the beginning of <ab>comp.</ab> to
+;
+103583 new <hom>1.</hom> {#kim#}¦ {%<lex>ind.</lex>%} Used for {#ku#} only at the beginning of <ab>comp.</ab> to
+;---------------------------------------------------
+; <L>12241<pc>0571-2<k1>kim<k2>kim<h>2
+103610 old {#kim#}^2¦ {%<lex>pron. a.</lex>%} (<ab>nom.</ab> <ab>sing.</ab> {#kaH#} {%<lex>m.</lex>%}, {#kA#} {%<lex>f.</lex>%}, {#kim#} {%<lex>n.</lex>%})
+;
+103610 new <hom>2.</hom> {#kim#}¦ {%<lex>pron. a.</lex>%} (<ab>nom.</ab> <ab>sing.</ab> {#kaH#} {%<lex>m.</lex>%}, {#kA#} {%<lex>f.</lex>%}, {#kim#} {%<lex>n.</lex>%})
+;---------------------------------------------------
+; <L>12567<pc>0586-1<k1>kuruvindaH<k2>kuruvindaH,
+106484 old {#kuruvindaH#}, {#-ndam#} (also {#kuruvillaH#})¦
+;
+106484 new {#kuruvindaH, -ndam#} (also {#kuruvillaH#})¦
+;---------------------------------------------------
+; <L>12700<pc>0591-2<k1>kU<k2>kU
+107615 old {#kU#} €1. €6 <ab>Ā.</ab> ({#kuvate, kuvate#}); also {#ku#} €9 <ab>U.</ab> ({#ku(kU)nAti#}, {#ku(kU)nIte#})¦
+;
+107615 new {#kU#} €1. €6 <ab>Ā.</ab> ({#kuvate, kuvate#}); also {#ku#} €9 <ab>U.</ab> ({#ku(kU)nAti, ku(kU)nIte#})¦
+;---------------------------------------------------
+; <L>13002<pc>0608-2<k1>koSaH<k2>koSaH,
+110729 old {#koSaH#}, {#-Sam#} ({#zaH, -zam#})¦
+;
+110729 new {#koSaH, -Sam#} ({#zaH, -zam#})¦
+;---------------------------------------------------
+; <L>13966<pc>0656-1<k1>gANgeruH<k2>gANgeruH
+119642 old {#gANgeruH#}¦ ({#-kaH#}) The <ab>N.</ab> of a plant (<lang>Mar.</lang> <ns>{#toraRa, kAMkaqAceM JAqa#}</ns>).
+;
+119642 new {#gANgeruH#} ({#-kaH#})¦ The <ab>N.</ab> of a plant (<lang>Mar.</lang> <ns>{#toraRa, kAMkaqAceM JAqa#}</ns>).
+;---------------------------------------------------
+; <L>14629<pc>0693-2<k1>caRqiH<k2>caRqiH
+126639 old {#caRqiH#}¦ {%f%}, {#caRqikA#}
+;
+126639 new {#caRqiH#} {%f%}, {#caRqikA#}¦
+;---------------------------------------------------
+; <L>15298<pc>0721-2<k1>CelA<k2>CelA
+132312 old {#CelA#}¦ ({#PelA#}) The vault of the foundation-pit; <ls>Kāmikāgama 31. 74-75</ls>.
+;
+132312 new {#CelA#} ({#PelA#})¦ The vault of the foundation-pit; <ls>Kāmikāgama 31. 74-75</ls>.
+;---------------------------------------------------
+; <L>15434<pc>0728-2<k1>jayantiH<k2>jayantiH
+133634 old {#jayantiH#}¦ ({#-ntI#})
+;
+133634 new {#jayantiH#} ({#-ntI#})¦
+;---------------------------------------------------
+; <L>16592<pc>0778-2<k1>turI<k2>turI
+143864 old {#turI#}¦ ({#-riH#})
+;
+143864 new {#turI#} ({#-riH#})¦
+;---------------------------------------------------
+; <L>16830<pc>0788-1<k1>trapulam<k2>trapulam,
+145897 old {#trapulam#}, {#-zam, trapus#} {%<lex>n.</lex>%}, {#trapusam#}¦
+;
+145897 new {#trapulam, -zam, trapus#} {%<lex>n.</lex>%}, {#trapusam#}¦
+;---------------------------------------------------
+; <L>17371<pc>0819-2<k1>dugDa<k2>dugDa,
+151880 old {#dugDa#}, {#-duGa#} <ab>&c.</ab>¦
+;
+151880 new {#dugDa, -duGa#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>18155<pc>0868-2<k1>DyAta<k2>DyAta,
+161211 old {#DyAta#}, {#-DyAna, -DyAnika#} <ab>&c.</ab>¦
+;
+161211 new {#DyAta, -DyAna, -DyAnika#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>18564<pc>0891-1<k1>nAsikaH<k2>nAsikaH
+165536 old {#nAsikaH#}¦ ({#-kam#})
+;
+165536 new {#nAsikaH#} ({#-kam#})¦
+;---------------------------------------------------
+; <L>18624<pc>0893-1<k1>nikazaH<k2>nikazaH
+165933 old {#nikazaH#}¦ ({#-saH#})
+;
+165933 new {#nikazaH#} ({#-saH#})¦
+;---------------------------------------------------
+; <L>18625<pc>0893-1<k1>nikazaRaH<k2>nikazaRaH
+165947 old {#nikazaRaH#}¦ ({#-Ram#})
+;
+165947 new {#nikazaRaH#} ({#-Ram#})¦
+;---------------------------------------------------
+; <L>18687<pc>0895-2<k1>nigaraH<k2>nigaraH,
+166423 old {#nigaraH#}, {#-raRam#} <ab>&c.</ab>¦
+;
+166423 new {#nigaraH, -raRam#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>18758<pc>0898-2<k1>nidarSaka<k2>nidarSaka,
+166995 old {#nidarSaka#}, {#-nam#} <ab>&c.</ab>¦
+;
+166995 new {#nidarSaka, -nam#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>19033<pc>0915-2<k1>nirDAra<k2>nirDAra,
+170287 old {#nirDAra#}, {#-raRam#} <ab>&c.</ab>¦
+;
+170287 new {#nirDAra, -raRam#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>19442<pc>0935-1<k1>nIDram<k2>nIDram
+174050 old {#nIDram#}¦ ({#-vram#})
+;
+174050 new {#nIDram#} ({#-vram#})¦ 
+;---------------------------------------------------
+; <L>19455<pc>0936-1<k1>nIlI<k2>nIlI
+174281 old {#nIlI#}¦ ({#-liH#})
+;
+174281 new {#nIlI#} ({#-liH#})¦
+;---------------------------------------------------
+; <L>19556<pc>0940-2<k1>nEpuRam<k2>nEpuRam
+175166 old {#nEpuRam#}¦ ({#-Ryam#})
+;
+175166 new {#nEpuRam#} ({#-Ryam#})¦
+;---------------------------------------------------
+; <L>19824<pc>0955-1<k1>paRqraH<k2>paRqraH
+177958 old {#paRqraH#}¦ ({#-kaH#})
+;
+177958 new {#paRqraH#} ({#-kaH#})¦
+;---------------------------------------------------
+; <L>19918<pc>0962-1<k1>panuH<k2>panuH
+179224 old {#panuH#}¦ ({#-nUH#})
+;
+179224 new {#panuH#} ({#-nUH#} <ab>Ved.</ab>)¦
+;---------------------------------------------------
+; <L>19918<pc>0962-1<k1>panuH<k2>panuH
+179225 old  <ab>Ved.</ab> Admiration, praise.
+;
+179225 new  Admiration, praise.
+;---------------------------------------------------
+; <L>20292<pc>0979-2<k1>paripaRam<k2>paripaRam
+182588 old {#paripaRam#}¦ ({#-nam#})
+;
+182588 new {#paripaRam#} ({#-nam#})¦
+;---------------------------------------------------
+; <L>20632<pc>0990-1<k1>parihARiH<k2>parihARiH
+184926 old {#parihARiH#}¦ ({#-niH#}) {%<lex>f.</lex>%}
+;
+184926 new {#parihARiH#} ({#-niH#})¦ {%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>20655<pc>0991-1<k1>parItApa<k2>parItApa,
+185111 old {#parItApa#}, {#-parIpAka, -parIvAra, -vAha, parIhAsa#} <ab>&c.</ab>¦
+;
+185111 new {#parItApa, -parIpAka, -parIvAra, -vAha, parIhAsa#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>20686<pc>0992-1<k1>parkawiH<k2>parkawiH,
+185328 old {#parkawiH#}, {#-wI#} {%<lex>f.</lex>%}, {#parkawin#} {%<lex>m.</lex>%}¦
+;
+185328 new {#parkawiH, -wI#} {%<lex>f.</lex>%}, {#parkawin#} {%<lex>m.</lex>%}¦
+;---------------------------------------------------
+; <L>20899<pc>1000-2<k1>pAMsuH<k2>pAMsuH
+187126 old {#pAMsuH#}¦ ({#-SuH#})
+;
+187126 new {#pAMsuH#} ({#-SuH#})¦
+;---------------------------------------------------
+; <L>21420<pc>1023-1<k1>pippawA<k2>pippawA
+191722 old {#pippawA#}¦ ({#-qA#})
+;
+191722 new {#pippawA#} ({#-qA#})¦
+;---------------------------------------------------
+; <L>21615<pc>1035-1<k1>puroqASa<k2>puroqASa,
+194040 old {#puroqASa#}, {#-puroDas#} <ab>&c.</ab>¦
+;
+194040 new {#puroqASa, -puroDas#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>21795<pc>1046-2<k1>pewwAlaH<k2>pewwAlaH,
+196227 old {#pewwAlaH#}, {#-lam#} (also {#pewwAlakaH, -kam#})¦
+;
+196227 new {#pewwAlaH, -lam#} (also {#pewwAlakaH, -kam#})¦
+;---------------------------------------------------
+; <L>23408<pc>1109-1<k1>pravahliH<k2>pravahliH,
+209279 old {#pravahliH#}, {#-hlI#} (also {#-hlikA#} and {#-hlIkA#})¦
+;
+209279 new {#pravahliH, -hlI#} (also {#-hlikA#} and {#-hlIkA#})¦
+;---------------------------------------------------
+; <L>25966<pc>1255-1<k1>mA<k2>mA<h>1
+237027 old {#mA#}^1¦ {%<lex>ind.</lex>%} A particle of prohibition (rarely of negation) usually
+;
+237027 new <hom>1.</hom> {#mA#}¦ {%<lex>ind.</lex>%} A particle of prohibition (rarely of negation) usually
+;---------------------------------------------------
+; <L>25967<pc>1255-2<k1>mA<k2>mA<h>2
+237057 old {#mA#}^2¦
+;
+237057 new <hom>2.</hom> {#mA#}¦
+;---------------------------------------------------
+; <L>25968<pc>1255-2<k1>mA<k2>mA<h>3
+237067 old {#mA#}^3¦ €2 <ab>P.</ab>, €3. €4 <ab>Ā.</ab> ({#mAti, mimIte#} or {#mIyate, mita#})
+;
+237067 new <hom>3.</hom> {#mA#}¦ €2 <ab>P.</ab>, €3. €4 <ab>Ā.</ab> ({#mAti, mimIte#} or {#mIyate, mita#})
+;---------------------------------------------------
+; <L>27155<pc>1320-1<k1>yozA<k2>yozA,
+249297 old {#yozA, yozit#}¦ {%<lex>f.</lex>%}, {#yozitA#}
+;
+249297 new {#yozA, yozit#} {%<lex>f.</lex>%}, {#yozitA#}¦
+;---------------------------------------------------
+; <L>27375<pc>1334-2<k1>rAj<k2>rAj
+252223 old {#rAj#}¦ {%<lex>m.</lex>%}, {#rAjaH#}
+;
+252223 new {#rAj#} {%<lex>m.</lex>%}, {#rAjaH#}¦
+;---------------------------------------------------
+; <L>27884<pc>1362-1<k1>laSunaH<k2>laSu(SU)naH -nam
+257578 old {#laSu(SU)naH -nam#}¦ ({#aSeH unan, laSaSca#} <ls>Uṇ. 3. 55</ls>) Garlic; {#niKilarasAyanamahito#}
+;
+257578 new {#laSu(SU)naH, -nam#}¦ ({#aSeH unan, laSaSca#} <ls>Uṇ. 3. 55</ls>) Garlic; {#niKilarasAyanamahito#}
+;---------------------------------------------------
+; <L>29450<pc>1433-2<k1>vijinaH<k2>vijinaH,
+272288 old {#vijinaH#}, {#-nam#} ({#-laH, -lam#})¦
+;
+272288 new {#vijinaH, -nam#} ({#-laH, -lam#})¦
+;---------------------------------------------------
+; <L>32585<pc>1577-2<k1>SreRiH<k2>SreRiH
+301271 old {#SreRiH#}¦ {%<lex>m.</lex>, <lex>f.</lex>%}, {#SreRI#} {%<lex>f.</lex>%}
+;
+301271 new {#SreRiH#} {%<lex>m.</lex>, <lex>f.</lex>%}, {#SreRI#} {%<lex>f.</lex>%}¦
+;---------------------------------------------------
+; <L>33335<pc>1611-1<k1>sawiH<k2>sawiH,
+308011 old {#sawiH#}, {#-wI#} {%<lex>f.</lex>%}, {#sawikA#}¦
+;
+308011 new {#sawiH, -wI#} {%<lex>f.</lex>%}, {#sawikA#}¦
+;---------------------------------------------------
+; <L>34357<pc>1653-1<k1>sarajas<k2>sarajas,
+316794 old {#sarajas#}, {#-sA#} {%<lex>f.</lex>%}, {#sarajaskA#}¦
+;
+316794 new {#sarajas, -sA#} {%<lex>f.</lex>%}, {#sarajaskA#}¦
+;---------------------------------------------------
+; <L>35251<pc>1700-2<k1>sfkkam<k2>sfkkam
+326302 old {#sfkkam#}, {#sfkkaRI#}, {#sfkkan#} {%<lex>n.</lex>%}, {#sfkkiRI#}, {#sfkkin#} {%<lex>n.</lex>%}, {#sfkvam#}, {#sfkvaRI#}, {#sfkvan#} {%<lex>n.</lex>%}, {#sfkviRI#}, {#sfkvin#} {%<lex>n.</lex>%}¦ The corner of the mouth; {#sfkkaRI parilelihan#} <ls>Pt. 1</ls>.
+;
+326302 new {#sfkkam, sfkkaRI, sfkkan#} {%<lex>n.</lex>%}, {#sfkkiRI, sfkkin#} {%<lex>n.</lex>%}, {#sfkvam, sfkvaRI, sfkvan#} {%<lex>n.</lex>%}, {#sfkviRI, sfkvin#} {%<lex>n.</lex>%}¦ The corner of the mouth; {#sfkkaRI parilelihan#} <ls>Pt. 1</ls>.
+;---------------------------------------------------

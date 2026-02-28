@@ -1,0 +1,120 @@
+; <L>65<pc>0004-1<k1>akava<k2>akava-vA
+588 old <L>65<pc>0004-1<k1>akava<k2>akava-vA
+;
+588 new <L>65<pc>0004-1<k1>akava<k2>akava, -vA
+;---------------------------------------------------
+; <L>361<pc>0028-2<k1>acApala<k2>acApala-lya
+4363 old <L>361<pc>0028-2<k1>acApala<k2>acApala-lya
+;
+4363 new <L>361<pc>0028-2<k1>acApala<k2>acApala, -lya
+;---------------------------------------------------
+; <L>370<pc>0029-1<k1>acizRu<k2>acizRu-zwu
+4437 old <L>370<pc>0029-1<k1>acizRu<k2>acizRu-zwu
+;
+4437 new <L>370<pc>0029-1<k1>acizRu<k2>acizRu, -zwu
+;---------------------------------------------------
+; <L>380<pc>0029-2<k1>acCa<k2>acCa-cCA
+4508 old <L>380<pc>0029-2<k1>acCa<k2>acCa-cCA
+;
+4508 new <L>380<pc>0029-2<k1>acCa<k2>acCa, -cCA
+;---------------------------------------------------
+; <L>399<pc>0031-1<k1>ajakA<k2>ajakA-ajikA
+4770 old <L>399<pc>0031-1<k1>ajakA<k2>ajakA-ajikA
+;
+4770 new <L>399<pc>0031-1<k1>ajakA<k2>ajakA, ajikA
+;---------------------------------------------------
+; <L>734<pc>0045-1<k1>atiromaSa<k2>ati-ro-lomaSa
+7321 old <L>734<pc>0045-1<k1>atiromaSa<k2>ati-ro-lomaSa
+;
+7321 new <L>734<pc>0045-1<k1>atiromaSa<k2>ati(ro)lomaSa
+;---------------------------------------------------
+; <L>960<pc>0056-1<k1>adevayat<k2>adevayat-yu
+9123 old <L>960<pc>0056-1<k1>adevayat<k2>adevayat-yu
+;
+9123 new <L>960<pc>0056-1<k1>adevayat<k2>adevayat, -yu
+;---------------------------------------------------
+; <L>1276<pc>0073-2<k1>anaNguri<k2>anaNguri-li
+11947 old <L>1276<pc>0073-2<k1>anaNguri<k2>anaNguri-li
+;
+11947 new <L>1276<pc>0073-2<k1>anaNguri<k2>anaNguri, -li
+;---------------------------------------------------
+; <L>8895<pc>0419-1<k1>udan<k2>udan<h>1
+74776 old <L>8895<pc>0419-1<k1>udan<k2>udan<h>1
+;
+74776 new <L>8895<pc>0419-1<k1>udan<k2>1. udan
+;---------------------------------------------------
+; <L>8897<pc>0419-2<k1>udan<k2>udan<h>2
+74797 old <L>8897<pc>0419-2<k1>udan<k2>udan<h>2
+;
+74797 new <L>8897<pc>0419-2<k1>udan<k2>2. udan
+;---------------------------------------------------
+; <L>10713<pc>0501-1<k1>eva<k2>eva<h>1
+90021 old <L>10713<pc>0501-1<k1>eva<k2>eva<h>1
+;
+90021 new <L>10713<pc>0501-1<k1>eva<k2>1. eva
+;---------------------------------------------------
+; <L>10714<pc>0501-1<k1>eva<k2>eva<h>2
+90034 old <L>10714<pc>0501-1<k1>eva<k2>eva<h>2
+;
+90034 new <L>10714<pc>0501-1<k1>eva<k2>2. eva
+;---------------------------------------------------
+; <L>12240<pc>0571-2<k1>kim<k2>kim<h>1
+103582 old <L>12240<pc>0571-2<k1>kim<k2>kim<h>1
+;
+103582 new <L>12240<pc>0571-2<k1>kim<k2>1. kim
+;---------------------------------------------------
+; <L>12241<pc>0571-2<k1>kim<k2>kim<h>2
+103609 old <L>12241<pc>0571-2<k1>kim<k2>kim<h>2
+;
+103609 new <L>12241<pc>0571-2<k1>kim<k2>2. kim
+;---------------------------------------------------
+; <L>13608<pc>0637-2<k1>KalinaH<k2>Kali(lI)naH -nam
+116181 old <L>13608<pc>0637-2<k1>KalinaH<k2>Kali(lI)naH -nam
+;
+116181 new <L>13608<pc>0637-2<k1>KalinaH<k2>Kali(lI)naH, -nam
+;---------------------------------------------------
+; <L>15932<pc>0749-a2<k1>walaH<k2>wa(wA)laH, -walanam
+138033 old <L>15932<pc>0749-a2<k1>walaH<k2>wa(wA)laH, -walanam
+;
+138033 new <L>15932<pc>0749-a2<k1>walaH<k2>wa(wA)laH, walanam
+;---------------------------------------------------
+; <L>19201<pc>0922-2<k1>nivirISa<k2>nivirI(qI)Sa-sa
+171655 old <L>19201<pc>0922-2<k1>nivirISa<k2>nivirI(qI)Sa-sa
+;
+171655 new <L>19201<pc>0922-2<k1>nivirISa<k2>nivirI(qI)Sa, -sa
+;---------------------------------------------------
+; <L>21768<pc>1045-2<k1>pfSnikA<k2>pfSni(zRi)kA, -pfSnI(zRI)
+195968 old <L>21768<pc>1045-2<k1>pfSnikA<k2>pfSni(zRi)kA, -pfSnI(zRI)
+;
+195968 new <L>21768<pc>1045-2<k1>pfSnikA<k2>pfSni(zRi)kA, pfSnI(zRI)
+;---------------------------------------------------
+; <L>25966<pc>1255-1<k1>mA<k2>mA<h>1
+237026 old <L>25966<pc>1255-1<k1>mA<k2>mA<h>1
+;
+237026 new <L>25966<pc>1255-1<k1>mA<k2>1. mA
+;---------------------------------------------------
+; <L>25967<pc>1255-2<k1>mA<k2>mA<h>2
+237056 old <L>25967<pc>1255-2<k1>mA<k2>mA<h>2
+;
+237056 new <L>25967<pc>1255-2<k1>mA<k2>2. mA
+;---------------------------------------------------
+; <L>25968<pc>1255-2<k1>mA<k2>mA<h>3
+237066 old <L>25968<pc>1255-2<k1>mA<k2>mA<h>3
+;
+237066 new <L>25968<pc>1255-2<k1>mA<k2>3. mA
+;---------------------------------------------------
+; <L>27884<pc>1362-1<k1>laSunaH<k2>laSu(SU)naH -nam
+257577 old <L>27884<pc>1362-1<k1>laSunaH<k2>laSu(SU)naH -nam
+;
+257577 new <L>27884<pc>1362-1<k1>laSunaH<k2>laSu(SU)naH, -nam
+;---------------------------------------------------
+; <L>29208<pc>1424-2<k1>vikASin<k2>vikASi(zi-si)n
+270305 old <L>29208<pc>1424-2<k1>vikASin<k2>vikASi(zi-si)n
+;
+270305 new <L>29208<pc>1424-2<k1>vikASin<k2>vikASi(zi, si)n
+;---------------------------------------------------
+; <L>29258<pc>1426-2<k1>vikrayikaH<k2>vikra(krA)yikaH, -vikrayin
+270799 old <L>29258<pc>1426-2<k1>vikrayikaH<k2>vikra(krA)yikaH, -vikrayin
+;
+270799 new <L>29258<pc>1426-2<k1>vikrayikaH<k2>vikra(krA)yikaH, vikrayin
+;---------------------------------------------------
