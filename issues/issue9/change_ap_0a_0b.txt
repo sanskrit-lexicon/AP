@@ -1,0 +1,415 @@
+; <L>337<pc>0027-2<k1>aNgIkAraH<k2>aNgIkAraH
+4141 old {#aNgIkAraH, -kftiH-karaRam#}¦
+;
+4141 new {#aNgIkAraH, -kftiH, -karaRam#}¦
+;---------------------------------------------------
+; <L>617<pc>0041-1<k1>aticCatraH<k2>aticCatraH
+6555 old {#aticCatraH, -grA, -cCatrakA#}¦
+;
+6555 new {#aticCatraH, -trA, -cCatrakA#}¦
+;---------------------------------------------------
+; <L>2296<pc>0115-2<k1>anftaka<k2>anfta(ti)ka,
+19471 old {#anfta(ti)ka, -anftin#}¦ {%<lex>a.</lex>%}
+;
+19471 new {#anfta(ti)ka, anftin#}¦ {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>2348<pc>0125-1<k1>antari<k2>antari
+20697 old <L>2348<pc>0125-1<k1>antari<k2>antari
+;
+20697 new <L>2348<pc>0125-1<k1>antarikzam<k2>antarikzam
+;---------------------------------------------------
+; <L>2492<pc>0135-2<k1>anvezaka<k2>anvezaka,
+22321 old {#anvezaka, -anvezin, -anvezwf#}¦ {%<lex>a.</lex>%}
+;
+22321 new {#anvezaka, anvezin, anvezwf#}¦ {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>2762<pc>0147-1<k1>apalapanam<k2>apalapanam,
+24343 old {#apalapanam, -apalApaH#}¦
+;
+24343 new {#apalapanam, apalApaH#}¦
+;---------------------------------------------------
+; <L>2984<pc>0156-1<k1>apiDAnam<k2>apiDAnam,
+25995 old {#apiDAnam#}, (also {#piDAnama#})¦
+;
+25995 new {#apiDAnam#}, (also {#piDAnam#})¦
+;---------------------------------------------------
+; <L>3236<pc>0165-2<k1>abaDa<k2>abaDa
+27779 old {#abaDa, -Gya#}¦
+;
+27779 new {#abaDa, -Dya#}¦
+;---------------------------------------------------
+; <L>3583<pc>0180-2<k1>aBimarSaH<k2>aBimarSaH,
+30503 old {#aBimarSaH, -rSanam, -marzaH, -zarRam#}¦
+;
+30503 new {#aBimarSaH, -rSanam, -marzaH, -zaRam#}¦
+;---------------------------------------------------
+; <L>3813<pc>0188-2<k1>aBisAntvaH<k2>aBisA(SA)ntvaH, ntvanam
+32003 old <L>3813<pc>0188-2<k1>aBisAntvaH<k2>aBisA(SA)ntvaH, ntvanam
+;
+32003 new <L>3813<pc>0188-2<k1>aBisAntvaH<k2>aBisA(SA)ntvaH, -ntvanam
+;---------------------------------------------------
+; <L>3813<pc>0188-2<k1>aBisAntvaH<k2>aBisA(SA)ntvaH, ntvanam
+32004 old {#aBisA(SA)ntvaH, ntvanam#}¦ Conciliation, consolation.
+;
+32004 new {#aBisA(SA)ntvaH, -ntvanam#}¦ Conciliation, consolation.
+;---------------------------------------------------
+; <L>4381<pc>0213-2<k1>arajas<k2>arajas,
+36706 old {#arajas, -araja, -arajaska#}¦ {%<lex>a.</lex>%}
+;
+36706 new {#arajas, araja, arajaska#}¦ {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>5062<pc>0248-2<k1>avanejanam<k2>avanejanam,
+42891 old {#avanejanam, -avanejanI, -avaneja#}¦
+;
+42891 new {#avanejanam, avanejanI, avaneja#}¦
+;---------------------------------------------------
+; <L>6297<pc>0300-1<k1>ahantya<k2>ahantya,
+52625 old {#ahantya, -ahantra, -ahanya#}¦ {%<lex>a.</lex>%} <ab>Ved.</ab>
+;
+52625 new {#ahantya, ahantra, ahanya#}¦ {%<lex>a.</lex>%} <ab>Ved.</ab>
+;---------------------------------------------------
+; <L>6611<pc>0317-1<k1>AcaraRIya<k2>AcaraRIya,
+55579 old {#AcaraRIya, -Acaritavya, -Acarya#}¦ {%<ab>pot. p.</ab>%}
+;
+55579 new {#AcaraRIya, Acaritavya, Acarya#}¦ {%<ab>pot. p.</ab>%}
+;---------------------------------------------------
+; <L>6992<pc>0335-1<k1>AnupUrvam<k2>AnupUrvam,
+58909 old {#AnupUrvam, -rvyam -rvI#}¦
+;
+58909 new {#AnupUrvam, -rvyam, -rvI#}¦
+;---------------------------------------------------
+; <L>6993<pc>0335-2<k1>AnupUrve<k2>AnupUrve
+58923 old {#AnupUrve, -rvye -Ra, -anupUrvyA#}¦ {%<lex>ind.</lex>%}
+;
+58923 new {#AnupUrve, -rvye, -Ra, anupUrvyA#}¦ {%<lex>ind.</lex>%}
+;---------------------------------------------------
+; <L>8101<pc>0380-2<k1>iNgudaH<k2>iNgudaH,
+67630 old {#iNgudaH, -dI, -iNgulaH#}¦
+;
+67630 new {#iNgudaH, -dI, iNgulaH#}¦
+;---------------------------------------------------
+; <L>10585<pc>0490-2<k1>ftuTA<k2>ftuTA
+88319 old {#ftuyA#}¦ {%<lex>ind.</lex>%}
+;
+88319 new {#ftuTA#}¦ {%<lex>ind.</lex>%}
+;---------------------------------------------------
+; <L>11536<pc>0534-1<k1>kayA<k2>kayA
+96538 old <L>11536<pc>0534-1<k1>kayA<k2>kayA
+;
+96538 new <L>11536<pc>0534-1<k1>kayADuH<k2>kayADuH
+;---------------------------------------------------
+; <L>11548<pc>0535-2<k1>karaRqakaH<k2>karaRqakaH,
+96840 old {#karaRqakaH, -karaRqikA, karaRqI#}¦ {%<lex>f.</lex>%}
+;
+96840 new {#karaRqakaH, karaRqikA, karaRqI#}¦ {%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>11816<pc>0550-2<k1>kaSerukaH<k2>kaSerukaH,
+99605 old {#kaSerukaH, kaseruka -kAH#}¦ A sort of grass.
+;
+99605 new {#kaSerukaH, kaseruka, -kAH#}¦ A sort of grass.
+;---------------------------------------------------
+; <L>12111<pc>0565-1<k1>kArzApaRaH<k2>kArzApaRaH,
+102315 old {#kArzApaRaH, -Ram#} (or {#paRakaH#})¦
+;
+102315 new {#kArzApaRaH, -Ram#} (or {#-paRakaH#})¦
+;---------------------------------------------------
+; <L>12224<pc>0571-1<k1>kiYjam<k2>kiYjam,
+103489 old {#kiYjam, -kiYjalaH, -kiYjalkaH#}¦
+;
+103489 new {#kiYjam, kiYjalaH, kiYjalkaH#}¦
+;---------------------------------------------------
+; <L>12546<pc>0585-2<k1>kuraRwaH<k2>kuraRwaH,
+106351 old {#kuraRwaH, -kuraRwakaH, kuraRwikA#}¦
+;
+106351 new {#kuraRwaH, kuraRwakaH, kuraRwikA#}¦
+;---------------------------------------------------
+; <L>12793<pc>0598-2<k1>kftvA<k2>kftvA
+108833 old <L>12793<pc>0598-2<k1>kftvA<k2>kftvA
+;
+108833 new <L>12793<pc>0598-2<k1>kftvAcintA<k2>kftvAcintA
+;---------------------------------------------------
+; <L>12853<pc>0602-2<k1>kekAvalaH<k2>kekAvalaH,
+109506 old {#kekAvalaH, -kekikaH, -kekin#}¦ {%<lex>m.</lex>%}
+;
+109506 new {#kekAvalaH, kekikaH, kekin#}¦ {%<lex>m.</lex>%}
+;---------------------------------------------------
+; <L>13660<pc>0639-1<k1>KAraH<k2>KAraH,
+116469 old {#KAraH, -riH -rI#}¦ {%<lex>f.</lex>%}
+;
+116469 new {#KAraH, -riH, -rI#}¦ {%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>14695<pc>0697-2<k1>camatkaraRam<k2>camatkaraRam,
+127400 old {#camatkaraRam, -camatkAraH, -camatkftiH#}¦ {%<lex>f.</lex>%}
+;
+127400 new {#camatkaraRam, camatkAraH, camatkftiH#}¦ {%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>14738<pc>0700-1<k1>carcarikA<k2>carcarikA,
+127844 old {#carcarikA, -carcarI#}¦
+;
+127844 new {#carcarikA, carcarI#}¦
+;---------------------------------------------------
+; <L>14988<pc>0711-1<k1>cilici<k2>cili(lI)ci
+130049 old <L>14988<pc>0711-1<k1>cilici<k2>cili(lI)ci
+;
+130049 new <L>14988<pc>0711-1<k1>cilicimaH<k2>cili(lI)cimaH
+;---------------------------------------------------
+; <L>15388<pc>0726-1<k1>janiH<k2>janiH,
+133177 old {#janiH, -janikA, -janI#}¦ {%<lex>f.</lex>%}
+;
+133177 new {#janiH, janikA, janI#}¦ {%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>16447<pc>0772-2<k1>tintiqaH<k2>tintiqaH,
+142573 old {#tintiqaH, -qI, -tintiqikA, -tintiqIkAH#}¦
+;
+142573 new {#tintiqaH, -qI, tintiqikA, tintiqIkAH#}¦
+;---------------------------------------------------
+; <L>16567<pc>0778-1<k1>tup<k2>tup,
+143688 old {#tup, -tump, -tumP#}¦ €1. €6 <ab>P.</ab>
+;
+143688 new {#tup, tump, tumP#}¦ €1. €6 <ab>P.</ab>
+;---------------------------------------------------
+; <L>16733<pc>0784-2<k1>taritram<k2>taritram,
+145075 old {#taritram, -taritrI, tariRI#}¦
+;
+145075 new {#taritram, taritrI, tariRI#}¦
+;---------------------------------------------------
+; <L>16789<pc>0786-2<k1>tottram<k2>tottram,
+145543 old {#tottram, toda, -todanam#}¦ See under {#tud#}.
+;
+145543 new {#tottram, toda, todanam#}¦ See under {#tud#}.
+;---------------------------------------------------
+; <L>17606<pc>0839-2<k1>doza<k2>doza,
+155511 old {#doza, -dozika, -dozin#}¦
+;
+155511 new {#doza, dozika, dozin#}¦
+;---------------------------------------------------
+; <L>17776<pc>0846-1<k1>drORAyanaH<k2>drORAyanaH,
+156894 old {#drORAyanaH, -niH, -drORiH#}¦
+;
+156894 new {#drORAyanaH, -niH, drORiH#}¦
+;---------------------------------------------------
+; <L>17865<pc>0852-1<k1>DattUraH<k2>DattUraH,
+157957 old {#DattUraH, -DattUrakaH, -kA#}¦
+;
+157957 new {#DattUraH, DattUrakaH, -kA#}¦
+;---------------------------------------------------
+; <L>17914<pc>0855-1<k1>DarRasa<k2>DarRasa,
+158553 old {#DarRasa, -si, -DarRi#}¦ {%<lex>a.</lex>%} <ab>Ved.</ab>
+;
+158553 new {#DarRasa, -si, DarRi#}¦ {%<lex>a.</lex>%} <ab>Ved.</ab>
+;---------------------------------------------------
+; <L>18145<pc>0868-2<k1>DOrtakam<k2>DOrtakam,
+161158 old {#DOrtakam, -DOrtiMkam, -DOrtyam#}¦
+;
+161158 new {#DOrtakam, DOrtiMkam, DOrtyam#}¦
+;---------------------------------------------------
+; <L>18155<pc>0868-2<k1>DyAta<k2>DyAta,
+161211 old {#DyAta, -DyAna, -DyAnika#} <ab>&c.</ab>¦
+;
+161211 new {#DyAta, DyAna, DyAnika#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>18951<pc>0912-2<k1>nirIkzaRam<k2>nirIkzaRam,
+169628 old {#nirIkzaRam, -nirIkzA, -nirIkzitam#}¦
+;
+169628 new {#nirIkzaRam, nirIkzA, nirIkzitam#}¦
+;---------------------------------------------------
+; <L>19892<pc>0960-2<k1>padAjiH<k2>padAjiH,
+178891 old {#padAjiH, -padAtaH, -padAtiH#}¦
+;
+178891 new {#padAjiH, padAtaH, padAtiH#}¦
+;---------------------------------------------------
+; <L>20655<pc>0991-1<k1>parItApa<k2>parItApa,
+185111 old {#parItApa, -parIpAka, -parIvAra, -vAha, parIhAsa#} <ab>&c.</ab>¦
+;
+185111 new {#parItApa, parIpAka, parIvAra, -vAha, parIhAsa#} <ab>&c.</ab>¦
+;---------------------------------------------------
+; <L>22286<pc>1064-2<k1>praRAlaH<k2>praRAlaH,
+200008 old {#praRAlaH, -lI, -praRAlikA#}¦
+;
+200008 new {#praRAlaH, -lI, praRAlikA#}¦
+;---------------------------------------------------
+; <L>24607<pc>1164-1<k1>bAlukI<k2>bAlukI,
+220133 old {#bAlukI, -bAluNkI, -bAluNgI#}¦
+;
+220133 new {#bAlukI, bAluNkI, bAluNgI#}¦
+;---------------------------------------------------
+; <L>24639<pc>1165-2<k1>bAhlakAH<k2>bAhlakAH,
+220459 old {#bAhlakAH, bAhlikAH, -bAhlIkAH#}¦ {%<lex>m.</lex>%} (<ab>pl.</ab>) <ab>N.</ab> of a people.
+;
+220459 new {#bAhlakAH, bAhlikAH, bAhlIkAH#}¦ {%<lex>m.</lex>%} (<ab>pl.</ab>) <ab>N.</ab> of a people.
+;---------------------------------------------------
+; <L>25004<pc>1188-2<k1>BastrakA<k2>BastrakA,
+224662 old {#BastrakA, -BastrA, -BastriH#}¦ {%<lex>f.</lex>%}
+;
+224662 new {#BastrakA, BastrA, BastriH#}¦ {%<lex>f.</lex>%}
+;---------------------------------------------------
+; <L>25095<pc>1193-1<k1>BArgavam<k2>BArgavam,
+225507 old {#BArgavam, -BArgavakam, -BArgavapriyaH#}¦
+;
+225507 new {#BArgavam, BArgavakam, BArgavapriyaH#}¦
+;---------------------------------------------------
+; <L>25271<pc>1209-1<k1>BftyatA<k2>BftyatA,
+228271 old {#BftyatA, -tvam, -BftyaBAvaH#}¦
+;
+228271 new {#BftyatA, -tvam, BftyaBAvaH#}¦
+;---------------------------------------------------
+; <L>25748<pc>1239-1<k1>mandArakaH<k2>mandArakaH,
+233923 old {#mandArakaH, -mandAravaH, -mandAruH#}¦
+;
+233923 new {#mandArakaH, mandAravaH, mandAruH#}¦
+;---------------------------------------------------
+; <L>25973<pc>1256-1<k1>mAMsikA<k2>mAMsikA,
+237178 old {#mAMsikA, -mAMsinI, -mAMsI#}¦
+;
+237178 new {#mAMsikA, mAMsinI, mAMsI#}¦
+;---------------------------------------------------
+; <L>26483<pc>1280-1<k1>mustakaH<k2>mustakaH,
+241948 old {#mustakaH, kam, -kA#}¦ See {#mustaH#}.
+;
+241948 new {#mustakaH, -kam, -kA#}¦ See {#mustaH#}.
+;---------------------------------------------------
+; <L>26501<pc>1281-1<k1>mUwaH<k2>mUwaH,
+242108 old {#mUwaH, -mUwakaH, -mUqakaH#}¦
+;
+242108 new {#mUwaH, mUwakaH, mUqakaH#}¦
+;---------------------------------------------------
+; <L>26510<pc>1281-2<k1>mUrKatA<k2>mUrKatA,
+242199 old {#mUrKatA, -tvam, -mUrKiman#}¦ {%<lex>m.</lex>%}
+;
+242199 new {#mUrKatA, -tvam, mUrKiman#}¦ {%<lex>m.</lex>%}
+;---------------------------------------------------
+; <L>26526<pc>1282-2<k1>mUrvA<k2>mUrvA
+242395 old {#mUrvA, -rvI, -mUrvikA#}¦
+;
+242395 new {#mUrvA, -rvI, mUrvikA#}¦
+;---------------------------------------------------
+; <L>26638<pc>1289-1<k1>meWiH<k2>meWiH,
+243703 old {#meWiH, -meQI, -meTiH#}¦
+;
+243703 new {#meWiH, meQI, meTiH#}¦
+;---------------------------------------------------
+; <L>26710<pc>1291-2<k1>mEreyaH<k2>mEreyaH,
+244260 old {#mEreyaH, -yam, -mEreyakaH, -kam#}¦
+;
+244260 new {#mEreyaH, -yam, mEreyakaH, -kam#}¦
+;---------------------------------------------------
+; <L>27076<pc>1314-1<k1>yuC<k2>yuC,
+248275 old {#yuC, -pucC#}¦ €1 <ab>P.</ab>
+;
+248275 new {#yuC, yucC#}¦ €1 <ab>P.</ab>
+;---------------------------------------------------
+; <L>27122<pc>1316-2<k1>yUzaH<k2>yUzaH,
+248723 old {#yUzaH, -zam, -yUzan#}¦ {%<lex>m.</lex>, <lex>n.</lex>%}
+;
+248723 new {#yUzaH, -zam, yUzan#}¦ {%<lex>m.</lex>, <lex>n.</lex>%}
+;---------------------------------------------------
+; <L>28815<pc>1405-2<k1>vahewakaH<k2>vahewakaH,
+266457 old {#vahewakaH, -vahequkaH, -vahEqukaH#}¦
+;
+266457 new {#vahewakaH, vahequkaH, vahEqukaH#}¦
+;---------------------------------------------------
+; <L>28818<pc>1405-2<k1>vahnisAt<k2>vahnisAt
+266534 old <L>28818<pc>1405-2<k1>vahnisAt<k2>vahnisAt
+;
+266534 new <L>28818<pc>1405-2<k1>vahnisAtkf<k2>vahnisAtkf
+;---------------------------------------------------
+; <L>28818<pc>1405-2<k1>vahnisAt<k2>vahnisAt
+266535 old {#vahnisAt#} {#kf#}¦ To consume with fire, burn.
+;
+266535 new {#vahnisAtkf#}¦ To consume with fire, burn.
+;---------------------------------------------------
+; <L>28915<pc>1412-1<k1>vAtUlI<k2>vAtUlI
+267721 old <L>28915<pc>1412-1<k1>vAtUlI<k2>vAtUlI
+;
+267721 new <L>28915<pc>1412-1<k1>vAtUlIBramaH<k2>vAtUlI-BramaH
+;---------------------------------------------------
+; <L>28915<pc>1412-1<k1>vAtUlI<k2>vAtUlI
+267722 old {#vAtUlI, -BramaH#}¦
+;
+267722 new {#vAtUlI-BramaH#}¦
+;---------------------------------------------------
+; <L>29041<pc>1418-1<k1>vArdDuzi<k2>vArdDuzi(za)H,
+268994 old <L>29041<pc>1418-1<k1>vArdDuzi<k2>vArdDuzi(za)H,
+;
+268994 new <L>29041<pc>1418-1<k1>vArdDuziH<k2>vArdDuzi(za)H,
+;---------------------------------------------------
+; <L>29067<pc>1418-2<k1>vAlmikiH<k2>vAlmikiH,
+269153 old {#vAlmikiH, -vAlmIkaH, -vAlmIkiH#}¦
+;
+269153 new {#vAlmikiH, vAlmIkaH, vAlmIkiH#}¦
+;---------------------------------------------------
+; <L>29531<pc>1436-2<k1>vitardDiH<k2>vitardDiH,
+272903 old {#vitardDiH, rdDI, -vitardDikA#}¦ {%<lex>f.</lex>%} See {#vitardi#} <ab>&c.</ab>
+;
+272903 new {#vitardDiH, -rdDI, vitardDikA#}¦ {%<lex>f.</lex>%} See {#vitardi#} <ab>&c.</ab>
+;---------------------------------------------------
+; <L>29969<pc>1455-2<k1>viBItaH<k2>viBItaH,
+276635 old {#viBItaH, -tam, viBItakaH, -kam, -viBItakI, -viBItA#}¦
+;
+276635 new {#viBItaH, -tam, viBItakaH, -kam, viBItakI, viBItA#}¦
+;---------------------------------------------------
+; <L>30218<pc>1466-1<k1>vilepikA<k2>vilepikA,
+278760 old {#vilepikA, -vilepI, -vilepyaH#}¦
+;
+278760 new {#vilepikA, vilepI, vilepyaH#}¦
+;---------------------------------------------------
+; <L>30352<pc>1472-2<k1>viSezatas<k2>viSezatas,
+280042 old {#viSezatas, -viSezeRa, -viSezAt#}¦ {%<lex>ind.</lex>%}
+;
+280042 new {#viSezatas, viSezeRa, viSezAt#}¦ {%<lex>ind.</lex>%}
+;---------------------------------------------------
+; <L>30889<pc>1499-2<k1>vEkakzakam<k2>vEkakzakam,
+285428 old {#vEkakzakam, vEkakzikam, -vEkakzikI#}¦ (A garland worn over the
+;
+285428 new {#vEkakzakam, vEkakzikam, vEkakzikI#}¦ (A garland worn over the
+;---------------------------------------------------
+; <L>31043<pc>1504-1<k1>vErocanaH<k2>vErocanaH,
+286457 old {#vErocanaH, -vErocaniH, -vErociH#}¦
+;
+286457 new {#vErocanaH, vErocaniH, vErociH#}¦
+;---------------------------------------------------
+; <L>32342<pc>1567-1<k1>SepaH<k2>SepaH,
+298998 old {#SepaH, Sepas#} {%<lex>n.</lex>%}, {#SePaH, -Pam, -SePas#} {%<lex>n.</lex>%}¦
+;
+298998 new {#SepaH, Sepas#} {%<lex>n.</lex>%}, {#SePaH, -Pam, SePas#} {%<lex>n.</lex>%}¦
+;---------------------------------------------------
+; <L>33407<pc>1616-1<k1>sadfkza<k2>sadfkza
+308917 old {#sadfkza#} ({#-kzI#} {%<lex>f.</lex>%}), {#sadfS, -sadfSa#} ({#-SI#} {%<lex>f.</lex>%})¦ {%<lex>a.</lex>%}
+;
+308917 new {#sadfkza#} ({#-kzI#} {%<lex>f.</lex>%}), {#sadfS, sadfSa#} ({#-SI#} {%<lex>f.</lex>%})¦ {%<lex>a.</lex>%}
+;---------------------------------------------------
+; <L>34099<pc>1643-2<k1>samUraH<k2>samUraH,
+314666 old {#samUraH, -samUruH, -samUrakaH#}¦
+;
+314666 new {#samUraH, samUruH, samUrakaH#}¦
+;---------------------------------------------------
+; <L>34490<pc>1659-1<k1>savyezwf<k2>savyezwf,
+318057 old {#savyezwf, -savyezWaH, savyezWf, savyezWAtf#}¦ {%<lex>m.</lex>%}
+;
+318057 new {#savyezwf, savyezWaH, savyezWf, savyezWAtf#}¦ {%<lex>m.</lex>%}
+;---------------------------------------------------
+; <L>34640<pc>1665-1<k1>sAtInaH<k2>sAtInaH,
+319285 old {#sAtInaH, -sAtInakaH, -sAtIlakaH#}¦
+;
+319285 new {#sAtInaH, sAtInakaH, sAtIlakaH#}¦
+;---------------------------------------------------
+; <L>34658<pc>1666-1<k1>sAdyaskaH<k2>sAdyaskaH
+319441 old {#sAdyaskaH#} (also {#sAdyaskaH#})¦ A particular sacrifice; {#zaw sAdyaskAH#}
+;
+319441 new {#sAdyaskaH#} (also {#sAdyaskraH#})¦ A particular sacrifice; {#zaw sAdyaskAH#}
+;---------------------------------------------------
+; <L>34696<pc>1668-1<k1>sAnikA<k2>sAnikA,
+319863 old {#sAnikA, -sAniyikA, -sAneyI#}¦
+;
+319863 new {#sAnikA, sAniyikA, sAneyI#}¦
+;---------------------------------------------------
+; <L>34981<pc>1679-2<k1>siMhARam<k2>siMhARam,
+322111 old {#siMhARam, -nam, -siMhARakaH, -kam#}¦
+;
+322111 new {#siMhARam, -nam, siMhARakaH, -kam#}¦
+;---------------------------------------------------
+; <L>35429<pc>1707-1<k1>sOKika<k2>sOKika
+327621 old {#sOKika#} {%<lex>a.</lex>%} ({#-krI#} {%<lex>f.</lex>%}), {#sOKIya#} {%<lex>a.</lex>%} ({#-yI#} {%<lex>f.</lex>%})¦
+;
+327621 new {#sOKika#} {%<lex>a.</lex>%} ({#-kI#} {%<lex>f.</lex>%}), {#sOKIya#} {%<lex>a.</lex>%} ({#-yI#} {%<lex>f.</lex>%})¦
+;---------------------------------------------------

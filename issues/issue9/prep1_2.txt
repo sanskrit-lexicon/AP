@@ -1,0 +1,3399 @@
+01:0,0:331:aNgiraH:aNgiraH, aNgiras:aNgiras
+01:0,0:387:acCedika:acCedika, acCEdika:acCEdika
+01:1,0:399:ajakA:ajakA, ajikA:ajikA
+01:0,0:628:atitarAm:atitarAm, atitamAm:atitamAm
+01:0,0:850:atyaya:atyaya, atyayika:atyayika
+01:0,0:902:aTavA:aTavA, aTo:aTo
+01:0,0:994:advayat:advayat, advayas:advayas
+01:0,0:1005:aDa:aDa, aDA:aDA
+01:45,0:1022:aDas:aDas, aDaH:aDaH
+01:0,1:1043:aDikArin:aDikArin, aDikAravat:aDikAravat
+01:0,0:1199:aDyaya:aDyaya, aDyayanam:aDyayanam
+01:0,1:1248:aDvanIna:aDvanIna, aDvanya:aDvanya
+01:0,0:1250:aDvarIyati:aDvarIyati, aDvaryati:aDvaryati
+01:0,0:1278:anajakA:anajakA, anajikA:anajikA
+01:0,1:1371:anarTya:anarTya, anarTaka:anarTaka
+01:0,0:1487:anAmA:anAmA, anAmikA:anAmikA
+01:0,0:1540:anAsa:anAsa, anAsikA:anAsikA
+01:0,0:1594:anirdaSa:anirdaSa, anirdaSAha:anirdaSAha
+01:0,0:1622:anizidDa:anizidDa, anizeDra:anizeDra
+01:0,0:1745:anucintA:anucintA, anucintanam:anucintanam
+01:0,0:1818:anudyata:anudyata, anudyama:anudyama
+01:0,0:1852:anunmAda:anunmAda, anunmatta:anunmatta
+01:0,1:2045:anurAgin:anurAgin, anurAgavat:anurAgavat
+01:0,0:2231:anusArataH:anusArataH, anusAreRa:anusAreRa
+01:0,0:2266:anUkti:anUkti, anUcAna:anUcAna
+01:0,0:2274:anUdya:anUdya, anUdita:anUdita
+01:0,0:2279:anUyAja:anUyAja, anUrADa:anUrADa
+01:0,0:2293:anfRatA:anfRatA, AnfRyam:AnfRyam
+01:1,0:2344:antarAlam:antarAlam, antarAlakam:antarAlakam
+01:0,0:2728:aparimARa:aparimARa, aparimita, aparimeya:aparimita,aparimeya
+01:0,0:2741:apariharaRIya:apariharaRIya, aparihArya:aparihArya
+01:0,0:2775:apavAdaka:apavAdaka, apavAdin:apavAdin
+01:0,0:2910:apAkaraRam:apAkaraRam, apAkftiH:apAkftiH
+01:0,1:2919:apAc:apAc, apAYc:apAYc
+01:0,1:3099:aprajas:aprajas, aprajAta:aprajAta
+01:0,0:3171:aprayucCat:aprayucCat, aprayuta, aprayutvan:aprayuta,aprayutvan
+01:0,0:3175:apravartaka:apravartaka, apravartin:apravartin
+01:0,0:3257:aboDya:aboDya, aboDanIya:aboDanIya
+01:0,0:3305:aBAvin:aBAvin, aBAvya:aBAvya
+01:0,0:3349:aBigarjanam:aBigarjanam, aBigarjitam:aBigarjitam
+01:0,0:3873:aBIpsin:aBIpsin, aBIpsu:aBIpsu
+01:0,0:3909:aBfta:aBfta, aBftrima:aBftrima
+01:0,1:3912:aBedya:aBedya, aBEdika:aBEdika
+01:0,0:3940:aByamita:aByamita, aByAnta:aByAnta
+01:0,0:3982:aByasanIya:aByasanIya, aByasya:aByasya
+01:0,0:4088:aByuzaH:aByuzaH, aByUzaH, aByozaH:aByUzaH,aByozaH
+01:0,0:4416:aramaRa:aramaRa, aramamARa:aramamARa
+01:0,0:4455:arikTaBAj:arikTaBAj, arikTIya:arikTIya
+01:0,0:4474:arucira:arucira, arucya:arucya
+01:0,0:4479:aruRita:aruRita, aruRIkfta:aruRIkfta
+01:0,0:4494:arUkzita:arUkzita, arUkzRa:arUkzRa
+01:0,0:4508:arogin:arogin, arogya:arogya
+01:0,0:4519:arkIya:arkIya, arkya:arkya
+01:0,0:4537:arcanIya:arcanIya, arcya:arcya
+01:0,0:4723:ale:ale, alele:alele
+01:0,0:4911:avacUriH:avacUriH, avacUrikA:avacUrikA
+01:0,0:5008:avaDAtavya:avaDAtavya, avaDAnIya:avaDAnIya
+01:0,0:5034:avaDAraRIya:avaDAraRIya, avaDArya:avaDArya
+01:0,0:5456:avArya:avArya, avArayitavya:avArayitavya
+01:0,0:5575:aviBAvanIya:aviBAvanIya, aviBAvya:aviBAvya
+01:0,0:5593:avirecanIya:avirecanIya, avirecya:avirecya
+01:0,1:5766:aSanAyita:aSanAyita, aSanAyuka:aSanAyuka
+01:0,0:5777:aSaNka:aSaNka, aSaNkita:aSaNkita
+01:0,0:5851:aSmamaya:aSmamaya, aSmavat:aSmavat
+01:0,1:5925:azwakika:azwakika, azwakin:azwakin
+01:0,0:5952:astamIke:astamIke, astA:astA
+01:0,0:6018:asatkAraH:asatkAraH, asatkriyA:asatkriyA
+01:0,1:6028:asantati:asantati, asantAna:asantAna
+01:0,0:6118:asADanIya:asADanIya, asADya:asADya
+01:0,0:6170:asUta:asUta, asUtika:asUtika
+01:0,0:6226:asTanvat:asTanvat, asTimat, asTimaya:asTimat,asTimaya
+01:0,0:6234:asnAvaka:asnAvaka, asnAvira:asnAvira
+01:0,0:6296:ahatiH:ahatiH, ahantiH:ahantiH
+01:0,0:6338:ahraya:ahraya, ahrayARa:ahrayARa
+01:0,0:6355:Akampita:Akampita, Akampra:Akampra
+01:0,0:6364:Akalpam:Akalpam, AkalpAntam:AkalpAntam
+01:0,0:6590:ANgUzaH:ANgUzaH, zam:zam
+01:0,0:6697:AYjalikyam:AYjalikyam, AYjalyakam:AYjalyakam
+01:0,1:6704:Awika:Awika, Awikya:Awikya
+01:0,0:6713:AQakika:AQakika, AQakIna:AQakIna
+01:0,0:6782:AtmakIya:AtmakIya, AtmIya:AtmIya
+01:0,0:6788:Atmanvat:Atmanvat, Atmanvin:Atmanvin
+01:0,0:6806:Adara:Adara, AdarSa:AdarSa
+01:6,0:6810:Adatta:Adatta, Atta:Atta
+01:0,0:6823:AditaH:AditaH, AdO:AdO
+01:0,0:6843:AdIpita:AdIpita, AdIpta:AdIpta
+01:0,0:6847:AdaraRIya:AdaraRIya, Adartavya:Adartavya
+01:0,0:6859:AdArin:AdArin, Aduri:Aduri
+01:0,0:6970:AnayaH:AnayaH, Anayanam:Anayanam
+01:0,3:7028:Antaratamyam:Antaratamyam, Antaryam:Antaryam
+01:0,1:7065:ApaRaka:ApaRaka, ApaRika:ApaRika
+01:0,0:7107:ApI:ApI, ApIna:ApIna
+01:0,0:7129:Apta:Apta, Apya:Apya
+01:0,1:7201:ABicaraRika:ABicaraRika, ABicAra, ABicArika:ABicAra,ABicArika
+01:0,0:7214:ABirUpakam:ABirUpakam, ABirUpyam:ABirUpyam
+01:0,0:7273:Amikzyam:Amikzyam, AmikzIyam:AmikzIyam
+01:0,0:7342:Ayaji:Ayaji, Ayajin:Ayajin
+01:0,0:7445:ArADanIya:ArADanIya, ArADya:ArADya
+01:0,0:7540:AryakA:AryakA, AryikA:AryikA
+01:0,0:7648:Avapantaka:Avapantaka, Avapantika:Avapantika
+01:0,0:7655:Avaraka:Avaraka, AvaraRa:AvaraRa
+01:0,0:7700:AvidDa:AvidDa, AviDa:AviDa
+01:0,0:7711:AvirBAvaH:AvirBAvaH, AvirBUtiH:AvirBUtiH
+01:0,0:7734:AvarikA:AvarikA, AvAriH:AvAriH
+01:0,0:7778:ASaMsitf:ASaMsitf, ASaMsin:ASaMsin
+01:0,0:7793:ASarIkaH:ASarIkaH, ASarIkam:ASarIkam
+01:0,0:7805:ASita:ASita, ASin:ASin
+01:0,0:7881:As:As, AH:AH
+01:0,0:7888:AsA:AsA, AsaH:AsaH
+01:0,0:7906:AsAdayitavya:AsAdayitavya, AsAdya:AsAdya
+01:0,0:8020:Ahava:Ahava, AhAva, Ahavana:AhAva,Ahavana
+01:0,0:8094:iK:iK, iNK:iNK
+01:0,0:8103:icCaka:icCaka, icCA:icCA
+01:0,0:8126:itarataH:itarataH, itaratra:itaratra
+01:0,0:8157:iDma:iDma, idDa:idDa
+01:0,0:8204:iyattA:iyattA, iyattvam:iyattvam
+01:0,0:8238:ilISaH:ilISaH, illiSaH:illiSaH
+01:0,0:8262:izwApUrtam:izwApUrtam, izwApUrtiH:izwApUrtiH
+01:0,0:8315:Ipsanam:Ipsanam, IpsA:IpsA
+01:0,0:8332:Irzy:Irzy, Irkzy:Irkzy
+01:0,0:8333:Irzya:Irzya, Irzyu, Irzyaka:Irzyu,Irzyaka
+01:0,1:8354:IzaRa:IzaRa, IzaRin:IzaRin
+01:0,0:8372:ukta:ukta, ukti:ukti
+01:0,0:8384:uK:uK, uNK:uNK
+01:0,0:8388:uKarvalaH:uKarvalaH, uKalaH:uKalaH
+01:0,0:8559:utkawikA:utkawikA, utkawukAsanam:utkawukAsanam
+01:0,0:8680:uttarataH:uttarataH, uttarAt:uttarAt
+01:0,0:8910:udayaH:udayaH, udayanam:udayanam
+01:0,0:8970:udIcIna:udIcIna, udIcya:udIcya
+01:0,0:8995:udgAtf:udgAtf, udgAra:udgAra
+01:0,0:9021:udgrIva:udgrIva, udgrIvin:udgrIvin
+01:0,0:9110:udDartf:udDartf, udDAraka:udDAraka
+01:0,0:9138:udBava:udBava, udBAvanA:udBAvanA
+01:0,0:9141:udBAsin:udBAsin, udBAsura:udBAsura
+01:0,0:9204:udvamanam:udvamanam, udvAntiH:udvAntiH
+01:1,0:9268:undaruH:undaruH, unduraH, unduruH, undUruH:unduraH,unduruH,undUruH
+01:0,0:9289:unnidrakam:unnidrakam, unnidratA:unnidratA
+01:0,0:9291:unnayaH:unnayaH, unnAyaH:unnAyaH
+01:0,0:9302:unmaT:unmaT, unmanT:unmanT
+01:0,0:9415:upakramitavya:upakramitavya, upakramya:upakramya
+01:0,0:9518:upajalpanam:upajalpanam, upajalpitam:upajalpitam
+01:0,1:9700:upaparcana:upaparcana, upapfc:upapfc
+01:0,0:9881:upavasaTIya:upavasaTIya, upavasaTya:upavasaTya
+01:0,0:9957:upaSozaH:upaSozaH, upaSozaRam:upaSozaRam
+01:0,0:10019:upasara:upasara, upasarga, upasarpaRa:upasarga,upasarpaRa
+01:0,0:10061:upastavaH:upastavaH, upastutiH:upastutiH
+01:0,0:10110:upahArakaH:upahArakaH, upahArikA:upahArikA
+01:0,0:10169:upAyaH:upAyaH, upAyana:upAyana
+01:0,0:10250:upta:upta, uptiH:uptiH
+01:0,0:10252:uB:uB, umB:umB
+01:0,0:10285:urasvat:urasvat, urasila:urasila
+01:0,0:10328:uliH:uliH, ullI:ullI
+01:0,0:10344:ulbam:ulbam, ulvam:ulvam
+01:0,0:10384:ulluRWanam:ulluRWanam, ulluRWA:ulluRWA
+01:0,0:10389:ulva:ulva, ulvaRa:ulvaRa
+01:0,0:10428:uzRa:uzRa, uzRaka, uzman:uzRaka,uzman
+01:0,0:10432:uzmam:uzmam, uzpa:uzpa
+01:0,0:10439:uha:uha, uhaha:uhaha
+01:0,0:10523:fkva:fkva, fkvan:fkvan
+01:0,0:10535:fgmat:fgmat, fgmin:fgmin
+01:0,0:10597:fP:fP, fmP, fnP:fmP,fnP
+01:0,0:10603:fBva:fBva, fBvan:fBvan
+01:5,0:10669:eRaH:eRaH, eRakaH:eRakaH
+01:0,0:10696:enasvat:enasvat, enasvin:enasvin
+01:0,0:10704:ervAruH:ervAruH, ervArukaH:ervArukaH
+01:0,0:10750:EkaSrutyam:EkaSrutyam, Ekasvaryam:Ekasvaryam
+01:0,0:10846:ojasIna:ojasIna, ojasya:ojasya
+01:0,0:10847:ojasvat:ojasvat, ojasvin:ojasvin
+01:0,0:10894:Okzakam:Okzakam, Okzam:Okzam
+01:1,0:10899:Ocityam:Ocityam, OcitI:OcitI
+01:0,0:10913:OtaTya:OtaTya, OcaTya:OcaTya
+01:0,0:10947:OdAsInyam:OdAsInyam, OdAsyam:OdAsyam
+01:0,0:11034:Oma:Oma, Omika, Omaka:Omika,Omaka
+01:1,0:11044:OrRa:OrRa, OrRaka, OrRika:OrRaka,OrRika
+01:0,3:11058:OSana:OSana, OSanasa:OSanasa
+01:0,0:11071:Ozasika:Ozasika, Ozika:Ozika
+01:0,0:11078:OzRyam:OzRyam, Ozmyam:Ozmyam
+01:1,0:11127:kaNkawaH:kaNkawaH, kaNkawakaH:kaNkawakaH
+01:0,0:11185:kaYculikA:kaYculikA, kaYculI:kaYculI
+01:0,0:11191:kaYjaraH:kaYjaraH, kaYjAraH:kaYjAraH
+01:0,0:11195:kaw:kaw, kaRw:kaRw
+01:0,0:11450:kanyakA:kanyakA, kanyikA:kanyikA
+01:0,0:11460:kapardaH:kapardaH, kapardakaH:kapardakaH
+01:0,0:11479:kapucCalam:kapucCalam, kapuzwikA:kapuzwikA
+01:1,0:11489:kaPaRiH:kaPaRiH, kaPoRiH:kaPoRiH
+01:0,0:11558:karamba:karamba, karambita:karambita
+01:0,0:11605:karkaSikA:karkaSikA, karkaSI:karkaSI
+01:0,1:11625:karRAwaH:karRAwaH, karRAwakaH:karRAwakaH
+01:1,0:11636:kartarikA:kartarikA, kartarI:kartarI
+01:0,0:11643:kartr:kartr, kartt:kartt
+01:0,0:11657:karparI:karparI, karparikA:karparikA
+01:0,0:11891:kAcana:kAcana, kAcanakam:kAcanakam
+01:0,0:11909:kAYjikam:kAYjikam, kAYjikA, kAYjI, kAYjIkam:kAYjikA,kAYjI,kAYjIkam
+01:0,1:11969:kApawa:kApawa, kApawika:kApawika
+01:0,3:11972:kApAla:kApAla, kApAlika:kApAlika
+01:0,0:11990:kAmataH:kAmataH, kAmena:kAmena
+01:0,0:11992:kAmanIyakam:kAmanIyakam, kAmanIyam:kAmanIyam
+01:0,0:11995:kAmayamAna:kAmayamAna, kAmayAna, kAmayitf:kAmayAna,kAmayitf
+01:0,0:12017:kAmpilaH:kAmpilaH, kAmpillaH, kAmpillakaH:kAmpillaH,kAmpillakaH
+01:0,0:12040:kArayitf:kArayitf, kArayizRu:kArayizRu
+01:0,0:12045:kAraRqaH:kAraRqaH, kAraRqavaH:kAraRqavaH
+01:0,0:12217:kiNkaRI:kiNkaRI, kiNkiRikA, kiNkiRI, kiNkaRIkA:kiNkiRikA,kiNkiRI,kiNkaRIkA
+01:0,0:12349:kujJawiH:kujJawiH, kujJawikA, kujJawI:kujJawikA,kujJawI
+01:4,1:12380:kuwumbam:kuwumbam, kuwumbakam:kuwumbakam
+01:0,1:12461:kutsanam:kutsanam, kutsA:kutsA
+01:3,0:12519:kumArikA:kumArikA, kumArI:kumArI
+01:2,0:12539:kumBIrakaH:kumBIrakaH, kumBIlaH, kumBIlakaH:kumBIlaH,kumBIlakaH
+01:0,0:12541:kuraNkaraH:kuraNkaraH, kuraNkuraH:kuraNkuraH
+01:0,0:12543:kuraNgakaH:kuraNgakaH, kuraNgamaH:kuraNgamaH
+01:0,0:12571:kurd:kurd, kurdana:kurdana
+01:0,0:12639:kuSayaH:kuSayaH, kuSapaH:kuSapaH
+01:0,0:12672:kusIdikaH:kusIdikaH, kusIdin:kusIdin
+01:5,0:12696:kuhuH:kuhuH, kuhUH:kuhUH
+01:0,0:12698:kuheqikA:kuheqikA, kuheqI, kuhelikA:kuheqI,kuhelikA
+01:0,0:12704:kUcikA:kUcikA, kUcI:kUcI
+01:0,0:12706:kUjaH:kUjaH, kUjanam, kUjitam:kUjanam,kUjitam
+01:0,0:12814:kfmiRa:kfmiRa, kfmila:kfmila
+01:0,0:12845:kIrtanIya:kIrtanIya, kIrtanya:kIrtanya
+01:0,1:12950:koNkaH:koNkaH, koNkaRaH:koNkaRaH
+01:0,0:12952:koNkARa:koNkARa, kokkARa:kokkARa
+01:0,0:12986:koyazwiH:koyazwiH, koyazwikaH:koyazwikaH
+01:0,0:13024:kONkaH:kONkaH, kONkaRaH:kONkaRaH
+01:0,0:13031:kOwakikaH:kOwakikaH, kOwikaH:kOwikaH
+01:0,0:13070:kOmodakI:kOmodakI, kOmodI:kOmodI
+01:0,0:13095:kOSalikA:kOSalikA, kOSalI:kOSalI
+01:0,0:13140:kramuH:kramuH, kramukaH:kramukaH
+01:0,0:13141:kramelaH:kramelaH, kramelakaH:kramelakaH
+01:0,0:13220:klamaH:klamaH, klamaTaH, klamaTuH:klamaTaH,klamaTuH
+01:0,0:13244:klItakikA:klItakikA, klItanI:klItanI
+01:0,0:13251:klomam:klomam, kloman:kloman
+01:0,1:13257:kvaRaH:kvaRaH, kvaRanam, kvaRitam, kvARaH:kvaRanam,kvaRitam,kvARaH
+01:0,0:13268:kzaYj:kzaYj, kzaj:kzaj
+01:0,0:13283:kzatriyakA:kzatriyakA, kzatriyA, kzatriyikA:kzatriyA,kzatriyikA
+01:0,0:13306:kzamAvat:kzamAvat, kzamAnvita, kzamAyukta:kzamAnvita,kzamAyukta
+01:0,0:13332:kzavaH:kzavaH, kzavaTuH:kzavaTuH
+01:0,0:13387:kzIb:kzIb, kzIba:kzIba
+01:0,0:13404:kzutaH:kzutaH, kzutakaH:kzutakaH
+01:0,0:13440:kzurikA:kzurikA, kzurI:kzurI
+01:0,0:13488:kzvelA:kzvelA, kzvelikA, kzvelI, kzvelitam, kzvelyam, kzvelanam:kzvelikA,kzvelI,kzvelitam,kzvelyam,kzvelanam
+01:0,0:13517:KawinI:KawinI, KawI:KawI
+01:0,0:13528:KawvAkA:KawvAkA, KawvikA:KawvikA
+01:0,0:13531:KaqikA:KaqikA, KaqI:KaqI
+01:0,0:13610:KalIkAraH:KalIkAraH, kftiH:kftiH
+01:0,0:13635:KasamaH:KasamaH, KasarpaRaH:KasarpaRaH
+01:1,0:13637:KasKasaH:KasKasaH, KAKasaH:KAKasaH
+01:0,0:13646:KARqavikaH:KARqavikaH, KARqikaH:KARqikaH
+01:0,0:13647:KAta:KAta, KAtra:KAtra
+01:0,0:13735:gaNgAkA:gaNgAkA, gaNgakA, gaNgikA:gaNgakA,gaNgikA
+01:0,0:13751:gaqayantaH:gaqayantaH, gaqayitnuH:gaqayitnuH
+01:0,0:13771:gaRikArikA:gaRikArikA, gaRerukA:gaRerukA
+01:0,0:13850:gamBArikA:gamBArikA, gamBArI:gamBArI
+01:0,0:13853:gamBIrA:gamBIrA, gamBIrikA:gamBIrikA
+01:0,0:13876:garjA:garjA, garjiH:garjiH
+01:0,1:13887:garDana:garDana, garDita:garDita
+01:0,0:13898:garBedfpta:garBedfpta, garBeSUra:garBeSUra
+01:0,0:13913:galantikA:galantikA, galantI:galantI
+01:0,0:13989:gATa:gATa, gATaka:gATaka
+01:2,0:13992:gADiH:gADiH, gADin:gADin
+01:0,0:14059:gilanam:gilanam, giliH:giliH
+01:0,0:14152:guPita:guPita, gumPita:gumPita
+01:0,1:14164:gurviRI:gurviRI, gurvI:gurvI
+01:0,0:14172:gulucCaH:gulucCaH, guluYCaH:guluYCaH
+01:0,0:14188:gUhA:gUhA, gUhanam:gUhanam
+01:0,0:14397:grEzma:grEzma, grEzmika:grEzmika
+01:0,0:14449:GanatA:GanatA, Ganatva:Ganatva
+01:0,0:14486:GiRR:GiRR, GuRR, GfRR:GuRR,GfRR
+01:0,0:14494:GuRwaH:GuRwaH, GuRwakaH, GuRwikA:GuRwakaH,GuRwikA
+01:0,0:14558:GraMs:GraMs, GraMsaH:GraMsaH
+01:0,0:14581:cakrAkI:cakrAkI, cakrANkI:cakrANkI
+01:2,0:14613:cawakA:cawakA, cawikA:cawikA
+01:0,0:14618:cawulola:cawulola, cawullola:cawullola
+01:0,0:14707:campakAvatI:campakAvatI, campA, campAvatI:campA,campAvatI
+01:0,0:14758:carmaruH:carmaruH, carmAraH:carmAraH
+01:0,0:14970:cipiwakaH:cipiwakaH, cipuwaH:cipuwaH
+01:0,0:14977:ciraRwI:ciraRwI, ciriRwI:ciriRwI
+01:0,0:14992:cillakA:cillakA, cillikA, cillI:cillikA,cillI
+01:0,0:15005:cInakaH:cInakaH, cInAkaH:cInAkaH
+01:0,0:15023:cukrakam:cukrakam, cukrikA:cukrikA
+01:0,0:15028:cucukaH:cucukaH, kam, cucUkam:kam,cucUkam
+01:0,0:15042:cutaH:cutaH, tiH:tiH
+01:0,0:15086:cUcukam:cUcukam, cUcUkam:cUcUkam
+01:0,0:15091:cUqika:cUqika, cUqin:cUqin
+01:0,0:15147:cEtriH:cEtriH, cEtrikaH, cEtrin:cEtrikaH,cEtrin
+01:0,0:15190:CatrA:CatrA, CatrAkaH:CatrAkaH
+01:0,0:15290:CurI:CurI, CUrikA, CUrI:CUrikA,CUrI
+01:0,0:15295:CekAla:CekAla, Cekila:Cekila
+01:0,0:15312:jakzaRam:jakzaRam, jakziH:jakziH
+01:0,0:15337:jaj:jaj, jaYj:jaYj
+01:0,0:15345:jawAyuH:jawAyuH, jawAyus:jawAyus
+01:0,0:15347:jawAlaka:jawAlaka, jawika:jawika
+01:0,0:15369:jatunI:jatunI, jatUkA:jatUkA
+01:0,0:15413:jaB:jaB, jamB:jamB
+01:0,0:15427:jamBakA:jamBakA, jamBA, jamBikA:jamBA,jamBikA
+01:0,0:15470:jalAkA:jalAkA, jalAlukA, jalikA, jalukA, jalUkA, jalokA, jalokikA:jalAlukA,jalikA,jalukA,jalUkA,jalokA,jalokikA
+01:0,0:15471:jalejam:jalejam, jalejAtam:jalejAtam
+01:0,0:15488:javanikA:javanikA, javanI:javanI
+01:0,0:15515:jAgartiH:jAgartiH, jAgaryA, jAgriyA:jAgaryA,jAgriyA
+01:0,0:15519:jANgaliH:jANgaliH, jANgalikaH:jANgalikaH
+01:0,0:15521:jANguliH:jANguliH, jANgulikaH:jANgulikaH
+01:0,0:15631:jittamaH:jittamaH, jitumaH, jitmaH:jitumaH,jitmaH
+01:0,0:15682:jugupsanam:jugupsanam, jugupsA:jugupsA
+01:0,0:15763:jontAlA:jontAlA, jonnAlA:jonnAlA
+01:0,0:15766:jozA:jozA, jozit:jozit
+01:0,0:15771:jYapita:jYapita, jYapta:jYapta
+01:0,2:15814:jyotizI:jyotizI, jyotizkaH:jyotizkaH
+01:0,0:15824:jvarita:jvarita, jvarin:jvarin
+01:0,0:15836:JaNkAraH:JaNkAraH, JaNkftam:JaNkftam
+01:0,0:15845:JaRaJaRAyamAna:JaRaJaRAyamAna, JaRaJaRAyita:JaRaJaRAyita
+01:1,0:15848:JampaH:JampaH, JampA:JampA
+01:0,0:15849:JampAkaH:JampAkaH, JampAruH, Jampin:JampAruH,Jampin
+01:0,0:15853:JaraH:JaraH, JarA, JarI:JarA,JarI
+01:0,0:15969:qalakam:qalakam, qallakam:qallakam
+01:0,0:15973:qAMkftiH:qAMkftiH, qAtkftiH:qAtkftiH
+01:0,0:16185:tamasvinI:tamasvinI, tamA:tamA
+01:0,0:16197:tampA:tampA, tambA, tambikA:tambA,tambikA
+01:0,0:16219:tarAnDuH:tarAnDuH, tarAluH:tarAluH
+01:0,0:16220:tariH:tariH, tarIzaH:tarIzaH
+01:0,0:16250:tarRaH:tarRaH, tarRakaH:tarRakaH
+01:0,0:16254:tardana:tardana, tardman:tardman
+01:0,0:16260:tarzaH:tarzaH, tarzaRam:tarzaRam
+01:0,0:16304:tAkzaRyaH:tAkzaRyaH, tAkzRaH:tAkzRaH
+01:0,0:16311:tAqa:tAqa, tAqanam:tAqanam
+01:0,0:16315:tAqaNkaH:tAqaNkaH, tAqapatram:tAqapatram
+01:0,0:16345:tAntuvAyiH:tAntuvAyiH, tAntuvAyyaH:tAntuvAyyaH
+01:0,0:16347:tApa:tApa, tApana:tApana
+01:0,0:16382:tAraRa:tAraRa, tArita, tArika:tArita,tArika
+01:0,0:16417:tAvatika:tAvatika, tAvatka:tAvatka
+01:1,0:16438:titiraH:titiraH, tittiraH:tittiraH
+01:0,0:16449:tinduH:tinduH, tindukaH, tindulaH:tindukaH,tindulaH
+01:20,0:16479:tiryac:tiryac, tiryaYca:tiryaYca
+01:0,0:16482:tiraScI:tiraScI, tiryaYcI:tiryaYcI
+01:0,0:16521:tukKAraH:tukKAraH, tuKAraH, tuzAraH:tuKAraH,tuzAraH
+01:0,0:16533:tuj:tuj, tuYj:tuYj
+01:0,1:16534:tuja:tuja, tuYja:tuYja
+01:0,1:16563:tundika:tundika, tundita, tundin, tundiBa, tundila:tundita,tundin,tundiBa,tundila
+01:0,0:16597:turParI:turParI, turParItu:turParItu
+01:0,0:16655:tUrRa:tUrRa, tUrRi:tUrRi
+01:0,0:16658:tUrvayARa:tUrvayARa, tUrvi:tUrvi
+01:0,0:16711:tarzita:tarzita, tarzula:tarzula
+01:0,0:16746:tejaH:tejaH, tejanam:tejanam
+01:0,0:16749:tejasvat:tejasvat, tejovat:tejovat
+01:0,0:16794:tola:tola, tolanam:tolanam
+01:0,0:16795:toza:toza, tozaRa:tozaRa
+01:0,0:16806:tOlikaH:tOlikaH, tOlikikaH:tOlikikaH
+01:0,0:16841:trasura:trasura, trasnu:trasnu
+01:0,0:16847:trARa:trARa, trAta:trAta
+01:1,0:16925:tvarA:tvarA, tvariH:tvariH
+01:0,0:16931:tvAdfS:tvAdfS, tvAdfSa:tvAdfSa
+01:0,0:16946:TUtkAraH:TUtkAraH, TUtkftam:TUtkftam
+01:0,0:16979:dakziRIya:dakziRIya, dakziRya:dakziRya
+01:0,0:17001:datta:datta, dattaka, datrima:dattaka,datrima
+01:3,0:17022:dantAvalaH:dantAvalaH, dantin:dantin
+01:0,0:17031:daB:daB, damB:damB
+01:0,0:17083:darpaH:darpaH, darpaRa, darpita:darpaRa,darpita
+01:0,0:17093:darSa:darSa, darSaka, darSana:darSaka,darSana
+01:0,0:17097:dalanI:dalanI, daliH:daliH
+01:0,0:17118:daSana:daSana, dazwa:dazwa
+01:0,0:17134:dahanIyatA:dahanIyatA, dahanatvam:dahanatvam
+01:0,0:17203:dAnta:dAnta, dAntiH:dAntiH
+01:0,0:17205:dApana:dApana, dApita:dApita
+01:0,0:17227:dAridryam:dAridryam, dAridram:dAridram
+01:0,0:17279:diRqiH:diRqiH, diRqiraH:diRqiraH
+01:0,0:17322:dItiH:dItiH, dIditiH:dIditiH
+01:0,0:17329:dIkzaRIyA:dIkzaRIyA, dIkzaRIyezwi:dIkzaRIyezwi
+01:2,1:17440:dUtaH:dUtaH, dUtakaH:dUtakaH
+01:0,0:17451:dUlikA:dUlikA, dUlI:dUlI
+01:0,0:17453:dUzaka:dUzaka, dUzaRa, dUzya:dUzaRa,dUzya
+01:0,0:17475:darpita:darpita, darpin:darpin
+01:0,0:17510:dfh:dfh, dfMh:dfMh
+01:0,0:17520:devakIya:devakIya, devakya:devakya
+01:0,0:17537:devitf:devitf, devin:devin
+01:0,0:17573:dEnam:dEnam, nyam:nyam
+01:5,0:17601:dolA:dolA, dolikA:dolikA
+01:0,0:17612:doha:doha, dohana, dohya:dohana,dohya
+01:0,0:17644:dOrhfdam:dOrhfdam, dOhfdam:dOhfdam
+01:0,0:17653:dOzwyam:dOzwyam, dOzWavam:dOzWavam
+01:0,0:17743:druta:druta, drutiH:drutiH
+01:0,0:17762:druhaRaH:druhaRaH, druhiRaH:druhiRaH
+01:0,0:17790:dvAja:dvAja, dvAtriMSat, dvAdaSa:dvAtriMSat,dvAdaSa
+01:0,0:17796:dvAravatI:dvAravatI, dvArAvatI:dvArAvatI
+01:0,0:17797:dvArikaH:dvArikaH, dvArin:dvArin
+01:0,0:17821:dvezin:dvezin, dvezwf:dvezwf
+01:0,0:17829:dvezaH:dvezaH, dvezaRa, dvezya:dvezaRa,dvezya
+01:1,0:17862:DawikA:DawikA, DawI:DawI
+01:0,0:17876:DanI:DanI, DanIkA:DanIkA
+01:0,0:17904:DammalaH:DammalaH, DammilaH, DammillaH:DammilaH,DammillaH
+01:0,0:17951:DAtreyikA:DAtreyikA, DAtreyI:DAtreyI
+01:0,0:17960:DAnurdaRqikaH:DAnurdaRqikaH, DAnuzkaH:DAnuzkaH
+01:0,0:17964:DAnyA:DAnyA, DAnyAkam:DAnyAkam
+01:0,0:17969:DAmanikA:DAmanikA, DAmanI:DAmanI
+01:0,0:17971:DAya:DAya, DAyaka:DAyaka
+01:0,0:17985:DArAla:DArAla, DArAvat:DArAvat
+01:0,1:18049:DurIRa:DurIRa, DurIya:DurIya
+01:0,0:18070:DUpita:DUpita, DUpAyita:DUpAyita
+01:0,0:18109:Dfj:Dfj, DfYj:DfYj
+01:0,0:18161:DyAtavya:DyAtavya, Dyeya:Dyeya
+01:0,0:18167:Draj:Draj, DraYj:DraYj
+01:0,0:18209:Dvasta:Dvasta, Dvasti:Dvasti
+01:0,0:18250:nagnakA:nagnakA, nagnikA:nagnikA
+01:2,0:18291:nanandf:nanandf, nanAndf:nanAndf
+01:0,0:18333:namasita:namasita, namasyita:namasyita
+01:0,0:18398:navIna:navIna, navya:navya
+01:1,3:18438:nAgaraka:nAgaraka, nAgarika:nAgarika
+01:0,0:18487:nAndikaraH:nAndikaraH, nAndin:nAndin
+01:0,0:18519:nArakika:nArakika, nArakin, nArakIya:nArakin,nArakIya
+01:0,0:18524:nArAcikA:nArAcikA, nArAcI:nArAcI
+01:1,0:18596:niHSvAsaH:niHSvAsaH, niSvAsaH:niSvAsaH
+01:0,0:18657:nikvaRaH:nikvaRaH, nikvARaH:nikvARaH
+01:0,0:18679:nigadaH:nigadaH, nigAdaH:nigAdaH
+01:0,0:18692:nigaraH:nigaraH, nigAraH:nigAraH
+01:0,0:18710:niGaRwaH:niGaRwaH, niGaRwuH:niGaRwuH
+01:0,0:18716:niGarzaH:niGarzaH, niGarzaRam:niGarzaRam
+01:0,0:18763:nidiDyAsaH:nidiDyAsaH, nidiDyAsanam:nidiDyAsanam
+01:0,0:18786:nidiDyAsaH:nidiDyAsaH, nidiDyAsanam:nidiDyAsanam
+01:2,0:18805:nindanam:nindanam, nindA:nindA
+01:0,0:18879:nimIlA:nimIlA, nimIlikA:nimIlikA
+01:0,0:18958:niroDaH:niroDaH, niroDanam:niroDanam
+01:0,0:18998:nirJariRI:nirJariRI, nirJarI:nirJarI
+01:0,0:18999:nirRayaH:nirRayaH, nirRIta, nirRetf:nirRIta,nirRetf
+01:1,0:19063:nirmaTaH:nirmaTaH, nirmaTanam, nirmanTaH, nirmanTanam, nirmATaH:nirmaTanam,nirmanTaH,nirmanTanam,nirmATaH
+01:0,0:19167:nilimpA:nilimpA, nilimpikA:nilimpikA
+01:0,0:19211:nivAraH:nivAraH, nivAraRam:nivAraRam
+01:0,0:19247:niSITinI:niSITinI, niSITyA:niSITyA
+01:0,0:19264:niSrayaRI:niSrayaRI, niSreRi, niSreRI:niSreRi,niSreRI
+01:0,0:19298:nizeva:nizeva, nizevaka:nizevaka
+01:0,0:19315:nizkozaH:nizkozaH, nizkozaRam:nizkozaRam
+01:0,0:19358:nizRa:nizRa, nizRAta:nizRAta
+01:0,0:19391:nistodaH:nistodaH, nistodanam:nistodanam
+01:0,0:19402:nisravaH:nisravaH, nisrAvaH:nisrAvaH
+01:0,0:19403:nisvanaH:nisvanaH, nisvAnaH, nisvanitam:nisvAnaH,nisvanitam
+01:0,0:19454:nIlinI:nIlinI, nIliman:nIliman
+01:1,1:19477:nUtana:nUtana, nUtna:nUtna
+01:0,0:19493:nfpa:nfpa, nfpati, nfpAla:nfpati,nfpAla
+01:0,0:19528:nEHsvam:nEHsvam, nEHsvyam:nEHsvyam
+01:0,0:19622:nyakkaraRam:nyakkaraRam, nyakkAraH:nyakkAraH
+01:0,0:19654:nyAsa:nyAsa, nyAsin:nyAsin
+01:0,0:19670:pakti:pakti, paktf, pakva:paktf,pakva
+01:0,0:19725:paccanikA:paccanikA, paccanI:paccanI
+01:0,0:19744:paYcASat:paYcASat, paYcASatiH:paYcASatiH
+01:0,0:19799:paqvISam:paqvISam, paqviMSam:paqviMSam
+01:0,0:19839:patamaH:patamaH, patasaH:patasaH
+01:0,0:19901:padga:padga, padraTa:padraTa
+01:0,0:19923:panna:panna, pannaga:pannaga
+01:0,0:19931:payasyati:payasyati, payAyate:payAyate
+01:0,0:19939:paraMjanaH:paraMjanaH, paraMjayaH:paraMjayaH
+01:6,0:19985:parAc:parAc, parAYc:parAYc
+01:0,0:20113:parigamaH:parigamaH, parigamanam:parigamanam
+01:0,0:20149:paricArakaH:paricArakaH, paricArikaH, paricArin:paricArikaH,paricArin
+01:0,0:20188:parijYA:parijYA, parijYAnam:parijYAnam
+01:0,0:20316:paripIqanam:paripIqanam, paripIqA:paripIqA
+01:0,0:20321:paripUjanam:paripUjanam, paripUjA:paripUjA
+01:0,0:20351:pariboDanam:pariboDanam, pariboDA:pariboDA
+01:0,0:20437:parirakzitin:parirakzitin, parirakzitf, parirakzin:parirakzitf,parirakzin
+01:0,0:20482:parivindakaH:parivindakaH, parivindat:parivindat
+01:0,0:20521:parivedanIyA:parivedanIyA, parivedinI:parivedinI
+01:0,0:20552:pariSrama:pariSrama, pariSrAmaH:pariSrAmaH
+01:0,0:20563:parizadaH:parizadaH, parizadyaH, parizadvalaH:parizadyaH,parizadvalaH
+01:0,0:20596:parisamApanam:parisamApanam, parisamAptiH:parisamAptiH
+01:0,0:20674:paredyavi:paredyavi, paredyus:paredyus
+01:0,0:20687:parjanI:parjanI, parjanyA:parjanyA
+01:0,0:20712:paryawanam:paryawanam, paryawitam:paryawitam
+01:0,0:20732:paryavasTA:paryavasTA, paryavasTAnam:paryavasTAnam
+01:0,0:20764:paryAvartaH:paryAvartaH, paryAvartanam:paryAvartanam
+01:0,0:20847:pallavati:pallavati, pallavayati:pallavayati
+01:0,0:20912:pAkuH:pAkuH, pAkukaH:pAkukaH
+01:0,0:21019:pAtivratI:pAtivratI, pAtivratyam:pAtivratyam
+01:0,0:21025:pAtratA:pAtratA, pAtratvam:pAtratvam
+01:0,0:21032:pAtrIya:pAtrIya, pAtrya:pAtrya
+01:0,0:21046:pAdAtiH:pAdAtiH, pAdAtikaH, pAdAvikaH:pAdAtikaH,pAdAvikaH
+01:1,0:21131:pAraSvaDaH:pAraSvaDaH, pAraSvaDikaH:pAraSvaDikaH
+01:1,1:21149:pArASaraH:pArASaraH, pArASarya:pArASarya
+01:1,0:21159:pArijAtaH:pArijAtaH, pArijAtakaH:pArijAtakaH
+01:0,0:21171:pAripArSvakaH:pAripArSvakaH, pAripArSvikaH:pAripArSvikaH
+01:0,0:21414:pipAsita:pipAsita, pipAsin, pipAsu:pipAsin,pipAsu
+01:0,0:21451:pizwAtaH:pizwAtaH, pizwAtakaH:pizwAtakaH
+01:0,0:21490:pIva:pIva, pIvara, pIvasa:pIvara,pIvasa
+01:0,0:21541:puttalakaH:puttalakaH, puttalikA:puttalikA
+01:0,0:21549:putriya:putriya, putrIya, putrya:putrIya,putrya
+01:0,0:21588:puroDikA:puroDikA, purohitikA:purohitikA
+01:0,0:21632:pulindaH:pulindaH, pulindakaH:pulindakaH
+01:0,0:21709:pUrRimA:pUrRimA, pUrRimAsI, pUrRamA:pUrRimAsI,pUrRamA
+01:0,0:21743:pfq:pfq, pfR:pfR
+01:0,0:21794:pewikA:pewikA, pewI:pewI
+01:0,0:21810:peliH:peliH, pelin:pelin
+01:0,0:21836:pERqikyam:pERqikyam, pERqinyam:pERqinyam
+01:0,1:21844:pEtfzvaseyaH:pEtfzvaseyaH, pEtfzvasrIyaH, pEtfzvasreyaH:pEtfzvasrIyaH,pEtfzvasreyaH
+01:0,0:21866:powalaH:powalaH, powalakaH, powalikA:powalakaH,powalikA
+01:0,0:21870:powwala:powwala, powwalikA, powwalI:powwalikA,powwalI
+01:0,0:21886:polikA:polikA, polI:polI
+01:0,0:21894:pozin:pozin, pozwf:pozwf
+01:0,0:21920:pOnaruktam:pOnaruktam, pOnaruktyam:pOnaruktyam
+01:0,0:21950:pOrta:pOrta, pOrtika:pOrtika
+01:0,0:21951:pOrva:pOrva, pOrvaka:pOrvaka
+01:0,0:21956:pOrvArDa:pOrvArDa, pOrvArDaka, pOrvArDika:pOrvArDaka,pOrvArDika
+01:0,0:22067:prakvaRaH:prakvaRaH, prakvARaH:prakvARaH
+01:0,0:22284:praRAqikA:praRAqikA, praRAqI:praRAqI
+01:4,0:22297:praRipatanam:praRipatanam, praRipAtaH:praRipAtaH
+01:0,0:22339:prataram:prataram, pratarAm:pratarAm
+01:0,0:22362:pratikopaH:pratikopaH, pratikroDaH:pratikroDaH
+01:0,0:22560:pratimokzaH:pratimokzaH, pratimokzaRam:pratimokzaRam
+01:0,0:22572:pratiyoDaH:pratiyoDaH, pratiyoDin:pratiyoDin
+01:0,0:22644:pratiSyA:pratiSyA, pratiSyAnam, pratiSyAyaH:pratiSyAnam,pratiSyAyaH
+01:0,0:22649:pratiSrut:pratiSrut, pratiSrutiH:pratiSrutiH
+01:0,0:22716:pratisvanaH:pratisvanaH, pratisvaraH:pratisvaraH
+01:0,0:22741:pratIkza:pratIkza, pratIkzaka, pratIkzin:pratIkzaka,pratIkzin
+01:0,0:22742:pratIkzaRam:pratIkzaRam, pratIkzA:pratIkzA
+01:0,0:22759:pratIveSa:pratIveSa, pratIhAra, pratIhAsa:pratIhAra,pratIhAsa
+01:0,0:22804:pratyaBivAdaH:pratyaBivAdaH, pratyaBivAdanam:pratyaBivAdanam
+01:0,0:22813:pratyarTakaH:pratyarTakaH, pratyarTikaH:pratyarTikaH
+01:0,0:22831:pratyavekzaRam:pratyavekzaRam, pratyavekzA:pratyavekzA
+01:0,0:22844:pratyAgamaH:pratyAgamaH, pratyAgamanam:pratyAgamanam
+01:0,0:22994:pradvAr:pradvAr, pradvAram:pradvAram
+01:0,0:22996:pradviz:pradviz, pradvizat:pradvizat
+01:0,0:23363:pravagaH:pravagaH, pravaNgaH, pravaNgamaH:pravaNgaH,pravaNgamaH
+01:0,0:23417:pravAraH:pravAraH, pravArakaH:pravArakaH
+01:0,0:23501:pravepaH:pravepaH, pravepakaH, pravepaTuH, pravepanam:pravepakaH,pravepaTuH,pravepanam
+01:0,0:23518:praSaMsaka:praSaMsaka, praSaMsin:praSaMsin
+01:0,0:23540:praSAsitf:praSAsitf, praSAstf:praSAstf
+01:0,0:23542:praSizwiH:praSizwiH, praSis:praSis
+01:0,0:23554:praSrayaH:praSrayaH, praSrayaRam:praSrayaRam
+01:0,0:23555:praSrayin:praSrayin, praSrita:praSrita
+01:0,0:23583:prasAdaka:prasAdaka, prasAdin:prasAdin
+01:0,0:23591:prasamIkzaRam:prasamIkzaRam, prasamIkzA:prasamIkzA
+01:0,0:23820:prAGuRaH:prAGuRaH, prAGuRakaH, prAGuRikaH, prAGUrRaH, prAGUrRakaH, prAGUrRikaH:prAGuRakaH,prAGuRikaH,prAGUrRaH,prAGUrRakaH,prAGUrRikaH
+01:50,0:23824:prAc:prAc, prAYc:prAYc
+01:0,0:23849:prAYjalika:prAYjalika, prAYjalin:prAYjalin
+01:0,0:23889:prAtiveSikaH:prAtiveSikaH, prAtiveSmakaH, prAtiveSyakaH:prAtiveSmakaH,prAtiveSyakaH
+01:0,0:23895:prAtihAraH:prAtihAraH, prAtihArakaH, prAtihArikaH:prAtihArakaH,prAtihArikaH
+01:2,0:23939:prApya:prApya, prAptavya:prAptavya
+01:0,0:23950:prABftam:prABftam, prABftakam:prABftakam
+01:0,0:24075:priyaMkara:priyaMkara, priyaMkaraRa, priyaMkAra:priyaMkaraRa,priyaMkAra
+01:0,0:24080:priyaMBavizRu:priyaMBavizRu, priyaMBAvuka:priyaMBAvuka
+01:0,0:24122:preNKolaH:preNKolaH, preNKolanam:preNKolanam
+01:0,0:24123:preta:preta, preti, pretya:preti,pretya
+01:0,0:24135:prerayitf:prerayitf, preritf:preritf
+01:0,0:24171:proQa:proQa, proQi:proQi
+01:0,0:24367:PeRI:PeRI, PenikA:PenikA
+01:0,0:24370:PeraH:PeraH, PeraRqaH:PeraRqaH
+01:0,0:24374:Pelam:Pelam, PelA, PelikA, PelI:PelA,PelikA,PelI
+01:0,0:24493:balina:balina, baliBa:baliBa
+01:0,0:24575:bADyatvam:bADyatvam, bADyamAnatvam:bADyamAnatvam
+01:0,0:24585:bArhadraTaH:bArhadraTaH, bArhadraTiH:bArhadraTiH
+01:1,0:24652:bidalam:bidalam, bindalam:bindalam
+01:0,0:24729:bund:bund, bunD:bunD
+01:0,0:24784:boDya:boDya, bodDavya:bodDavya
+01:0,0:24818:bruva:bruva, bruvARa:bruvARa
+01:0,0:24890:BaRanam:BaRanam, BaRitam, BaRitiH:BaRitam,BaRitiH
+01:0,0:24892:BaRwukaH:BaRwukaH, BaRqukaH:BaRqukaH
+01:0,0:24898:BaRqikA:BaRqikA, BaRqI, BaRqIlaH:BaRqI,BaRqIlaH
+01:0,0:24924:BareRa:BareRa, BarAt:BarAt
+01:0,0:24966:BallakaH:BallakaH, BallAwaH:BallAwaH
+01:0,0:24967:BallAtaH:BallAtaH, BallAtakaH:BallAtakaH
+01:0,0:25044:BAwam:BAwam, BAwakam:BAwakam
+01:0,0:25047:BARaH:BARaH, BARikA:BARikA
+01:0,1:25062:BAdraH:BAdraH, BAdrapadaH:BAdrapadaH
+01:0,0:25063:BAdrapadI:BAdrapadI, BAdrI:BAdrI
+01:0,0:25080:BArika:BArika, BArin:BArin
+01:0,0:25153:BiRqaH:BiRqaH, BiRqakaH, BiRqA:BiRqakaH,BiRqA
+01:0,0:25162:BidiH:BidiH, Bidiram, BiduH:Bidiram,BiduH
+01:0,0:25223:BurBurikA:BurBurikA, BurBurI:BurBurI
+01:0,0:25283:BfNgAlikA:BfNgAlikA, BfNgArI:BfNgArI
+01:0,0:25314:Bediram:Bediram, Beduram:Beduram
+01:0,0:25328:BEkzavam:BEkzavam, BEkzukam:BEkzukam
+01:0,1:25419:BrAtrIya:BrAtrIya, BrAtreya:BrAtreya
+01:0,0:25480:magaH:magaH, maguH:maguH
+01:0,0:25487:maGavaH:maGavaH, maGavat:maGavat
+01:0,0:25542:mawacI:mawacI, mawatI:mawatI
+01:0,0:25551:maqquH:maqquH, maqqukaH:maqqukaH
+01:0,0:25607:matsyaRqikA:matsyaRqikA, matsyaRqI:matsyaRqI
+01:0,0:25624:madayantikA:madayantikA, madayantI:madayantI
+01:0,0:25801:marIcin:marIcin, marIcimat:marIcimat
+01:0,0:25806:maruwA:maruwA, maruRqA:maruRqA
+01:0,0:25901:masAraH:masAraH, masArakaH:masArakaH
+01:0,0:25937:mahallaH:mahallaH, mahallikaH:mahallikaH
+01:0,0:25941:mahasvat:mahasvat, mahasvin:mahasvin
+01:0,0:25965:mahIlA:mahIlA, mahelA, mahelikA:mahelA,mahelikA
+01:0,0:25984:mAgaDA:mAgaDA, mAgaDikA:mAgaDikA
+01:0,0:25990:mAGonam:mAGonam, mAGonI:mAGonI
+01:0,0:26002:mAwiH:mAwiH, mAWI:mAWI
+01:0,0:26019:mARibanDam:mARibanDam, mARimanTam:mARimanTam
+01:0,0:26032:mAtulA:mAtulA, mAtulAnI, mAtulI:mAtulAnI,mAtulI
+01:0,0:26054:mAdikA:mAdikA, mAdinI, mAduH:mAdinI,mAduH
+01:0,0:26078:mADyasTam:mADyasTam, mADyasTyam:mADyasTyam
+01:0,0:26105:mAnuzyam:mAnuzyam, mAnuzyakam:mAnuzyakam
+01:0,0:26111:mAndAraH:mAndAraH, mAndAravaH:mAndAravaH
+01:0,0:26115:mAnDAlaH:mAnDAlaH, mAnDIraH, mAnDIlavaH:mAnDIraH,mAnDIlavaH
+01:0,0:26163:mArgaSirI:mArgaSirI, mArgaSIrzI:mArgaSIrzI
+01:0,0:26278:miTu:miTu, miTuH:miTuH
+01:0,0:26337:mImAMsitavya:mImAMsitavya, mImAMsya:mImAMsya
+01:0,0:26361:mukuzWaH:mukuzWaH, mukuzWakaH:mukuzWakaH
+01:0,0:26378:muKyaSaH:muKyaSaH, muKyataH:muKyataH
+01:0,0:26392:muj:muj, muYj:muYj
+01:0,0:26411:mud:mud, mudA:mudA
+01:0,0:26543:mUzA:mUzA, mUzikA:mUzikA
+01:0,0:26547:mUzI:mUzI, mUzIkaH, mUzIkA:mUzIkaH,mUzIkA
+01:0,0:26572:mfqA:mfqA, mfqAnI, mfqI:mfqAnI,mfqI
+01:0,0:26607:mfdvI:mfdvI, mfdvIkA:mfdvIkA
+01:0,0:26948:yaSasyati:yaSasyati, yaSaskAmyati:yaSaskAmyati
+01:0,0:27205:rakzitf:rakzitf, rakzin:rakzin
+01:0,0:27454:rAserasaH:rAserasaH, rAsevAsaH:rAsevAsaH
+01:0,0:27457:rAsAyana:rAsAyana, rAsAyanika:rAsAyanika
+01:0,0:27526:ruc:ruc, rucA:rucA
+01:7,0:27535:ruj:ruj, rujA:rujA
+01:0,0:27547:rudanam:rudanam, ruditam:ruditam
+01:0,0:27566:ruz:ruz, ruzA:ruzA
+01:0,0:27567:ruzita:ruzita, ruzwa:ruzwa
+01:0,0:27570:ruh:ruh, ruha:ruha
+01:0,0:27576:ruharuhikA:ruharuhikA, ruhiruhikA:ruhiruhikA
+01:0,0:27638:rezaRam:rezaRam, rezA:rezA
+01:0,0:27643:rEtika:rEtika, rEtya:rEtya
+01:0,0:27660:rowikA:rowikA, rowI:rowI
+01:0,0:27665:rodanikA:rodanikA, rodanI:rodanI
+01:0,1:27722:lakacaH:lakacaH, lakucaH:lakucaH
+01:0,0:27741:laK:laK, laNK:laNK
+01:1,0:27750:laguqaH:laguqaH, laguraH, lagulaH:laguraH,lagulaH
+01:0,0:27774:laNGanIya:laNGanIya, laNGya:laNGya
+01:0,0:27796:lawaha:lawaha, laqaha:laqaha
+01:0,0:27802:laqquH:laqquH, laqqukaH:laqqukaH
+01:0,0:27924:lAj:lAj, lAYj:lAYj
+01:0,0:27931:lAwikA:lAwikA, lAwI:lAwI
+01:0,0:27938:lAbaH:lAbaH, lAbakaH:lAbakaH
+01:0,0:27971:lAvaRyamaya:lAvaRyamaya, lAvaRyavat:lAvaRyavat
+01:0,0:27972:lAvARakaH:lAvARakaH, lavAnakaH:lavAnakaH
+01:0,0:28078:lulApaH:lulApaH, lulAyaH:lulAyaH
+01:0,0:28131:lesakaH:lesakaH, lesikaH:lesikaH
+01:0,0:28159:lowA:lowA, lowikA:lowikA
+01:0,0:28171:loDaH:loDaH, loDraH:loDraH
+01:0,0:28174:lopA:lopA, lopAmudrA:lopAmudrA
+01:0,0:28175:lopA:lopA, lopAyikA:lopAyikA
+01:0,0:28176:lopAkaH:lopAkaH, lopApakaH:lopApakaH
+01:0,0:28177:lopASaH:lopASaH, lopASakaH:lopASakaH
+01:0,0:28183:loBanIya:loBanIya, loBya:loBya
+01:0,0:28226:lpI:lpI, lyI:lyI
+01:0,0:28257:vakrama:vakrama, vakraya:vakraya
+01:0,0:28264:vaK:vaK, vaNK:vaNK
+01:0,0:28278:vaNgerikA:vaNgerikA, vaNgerI:vaNgerI
+01:0,0:28319:vawAkaraH:vawAkaraH, vawArakaH:vawArakaH
+01:0,0:28342:vaRijyam:vaRijyam, vaRijyA:vaRijyA
+01:0,0:28347:vaRwAlaH:vaRwAlaH, vaRqAlaH:vaRqAlaH
+01:0,0:28371:vatsin:vatsin, vatsiman:vatsiman
+01:0,0:28425:vanIpakaH:vanIpakaH, vanIyakaH:vanIyakaH
+01:1,0:28440:vandiH:vandiH, vandI:vandI
+01:0,1:28512:varAlaH:varAlaH, varAlakaH:varAlakaH
+01:0,0:28613:varDakiH:varDakiH, varDakin:varDakin
+01:0,0:28627:varDrikA:varDrikA, varDrI:varDrI
+01:0,0:28632:varmika:varmika, varmin:varmin
+01:0,0:28659:varh:varh, varha, varhaRa, varhiRa, varhin, varhis:varha,varhaRa,varhiRa,varhin,varhis
+01:0,0:28681:valina:valina, valiBa:valiBa
+01:0,0:28708:valmika:valmika, valmiki:valmiki
+01:0,0:28728:valhika:valhika, valhIka:valhIka
+01:0,0:28752:vazkayaRI:vazkayaRI, vazkayiRI:vazkayiRI
+01:0,0:28811:vahitram:vahitram, vahitrakam, vahinI:vahitrakam,vahinI
+01:0,0:28826:vAkucI:vAkucI, vAgujI:vAgujI
+01:0,0:28879:vAwakaH:vAwakaH, vAwikA:vAwikA
+01:0,0:28882:vAwyA:vAwyA, vAwyAlaH, vAwyAlI:vAwyAlaH,vAwyAlI
+01:0,0:28893:vARijyA:vARijyA, vARijyam:vARijyam
+01:0,0:28934:vAdyakam:vAdyakam, vAdyamAnam:vAdyamAnam
+01:1,1:28990:vAyavIya:vAyavIya, vAyavya:vAyavya
+01:0,0:29028:vArtakaH:vArtakaH, vArtAkaH, vArtIkaH:vArtAkaH,vArtIkaH
+01:0,0:29044:vArDram:vArDram, vArDrI:vArDrI
+01:0,0:29057:vArha:vArha, vArhadraTa, vArhadraTi:vArhadraTa,vArhadraTi
+01:0,0:29058:vArhaspata:vArhaspata, vArhaspatya, vArhiRa:vArhaspatya,vArhiRa
+01:0,0:29059:vAla:vAla, vAlaka:vAlaka
+01:0,0:29081:vASitA:vASitA, vAsitA:vAsitA
+01:0,0:29112:vAsukiH:vAsukiH, vAsukeyaH:vAsukeyaH
+01:0,0:29210:vikukzi:vikukzi, vikukzika:vikukzika
+01:1,0:29286:viKa:viKa, viKu, viKya:viKu,viKya
+01:0,0:29287:viKra:viKra, viKru, vigra:viKru,vigra
+01:0,0:29365:vicarcikA:vicarcikA, vicarcI:vicarcI
+01:0,0:29388:vicintanam:vicintanam, vicintA:vicintA
+01:0,0:29400:vicCandaH:vicCandaH, vicCandakaH:vicCandakaH
+01:0,0:29402:vicCardanam:vicCardanam, vicCardikA:vicCardikA
+01:0,0:29449:vijijYAsitavya:vijijYAsitavya, vijijYAsya:vijijYAsya
+01:0,1:29463:vijYa:vijYa, vijAnat:vijAnat
+01:0,0:29464:vijYatA:vijYatA, vijAnatA:vijAnatA
+01:0,0:29496:viq:viq, viqaH:viqaH
+01:0,0:29506:viqAla:viqAla, viqAlaka:viqAlaka
+01:0,0:29526:vitamas:vitamas, vitamaska:vitamaska
+01:0,0:29600:vidArikA:vidArikA, vidAriH:vidAriH
+01:0,0:29604:videSin:videSin, videSIya:videSIya
+01:0,0:29637:vidvezin:vidvezin, vidvezwf:vidvezwf
+01:0,0:29658:viDivat:viDivat, viDitaH:viDitaH
+01:0,0:29819:vipariRamanam:vipariRamanam, vipariRAmaH:vipariRAmaH
+01:0,0:29843:vipAS:vipAS, vipASA:vipASA
+01:0,0:29957:viBARqikA:viBARqikA, viBARqI:viBARqI
+01:0,0:30028:vimiSra:vimiSra, vimiSrita:vimiSrita
+01:0,0:30043:vimardita:vimardita, vimfdita:vimfdita
+01:0,0:30086:virajas:virajas, virajaska:virajaska
+01:0,0:30127:viriYcaH:viriYcaH, viriYcanaH:viriYcanaH
+01:0,0:30204:vilAyaH:vilAyaH, vilAyanam:vilAyanam
+01:0,0:30213:viliptA:viliptA, viliptikA:viliptikA
+01:0,0:30374:viSramaH:viSramaH, viSramaRaH:viSramaRaH
+01:1,0:30471:vizwapaH:vizwapaH, pam:pam
+01:4,0:30491:vizvac:vizvac, vizvaYc:vizvaYc
+01:0,0:30582:visras:visras, visrasA:visrasA
+01:0,1:30583:visrabDa:visrabDa, visramBa:visramBa
+01:0,0:30585:visravaH:visravaH, visrAvaH:visrAvaH
+01:0,0:30594:vihaMgamA:vihaMgamA, vihaMgamikA, vihaMgikA:vihaMgamikA,vihaMgikA
+01:0,0:30602:vihasatikA:vihasatikA, vihasanam, vihasitam, vihAsaH:vihasanam,vihasitam,vihAsaH
+01:0,0:30645:vIja:vIja, vIjaka, vIjala:vIjaka,vIjala
+01:0,0:30646:vIjika:vIjika, vIjin, vIjya:vIjin,vIjya
+01:0,0:30648:vIwiH:vIwiH, vIwikA, vIwI:vIwikA,vIwI
+01:0,0:30756:vfzI:vfzI, vfsI:vfsI
+01:0,0:30766:vfh:vfh, vfhat:vfhat
+01:0,0:30784:veR:veR, ven:ven
+01:0,0:30808:vedanam:vedanam, vedanA:vedanA
+01:0,0:30859:veSantaH:veSantaH, veSAntA:veSAntA
+01:0,0:30873:vezwakaH:vezwakaH, vezwanakaH:vezwanakaH
+01:0,0:30875:vezpaH:vezpaH, vezyaH:vezyaH
+01:1,0:30920:vEcitram:vEcitram, vEcitryam:vEcitryam
+01:0,0:30954:vEdagDam:vEdagDam, vEdagDI, vEdagDyam:vEdagDI,vEdagDyam
+01:0,0:30959:vEduzI:vEduzI, vEduzyam:vEduzyam
+01:0,0:30979:vEDftam:vEDftam, vEDfti:vEDfti
+01:0,0:31006:vEmAtfkaH:vEmAtfkaH, vEmAtraH, vEmAtrakaH, vEmAtreyaH:vEmAtraH,vEmAtrakaH,vEmAtreyaH
+01:0,0:31007:vEmAtrA:vEmAtrA, vEmAtrI, vEmAtreyI:vEmAtrI,vEmAtreyI
+01:0,0:31013:vEyagram:vEyagram, vEyagravyam:vEyagravyam
+01:0,1:31088:vEzuvat:vEzuvat, vEzuvata:vEzuvata
+01:0,1:31273:vyavasTAnam:vyavasTAnam, vyavasTitiH:vyavasTitiH
+01:0,0:31321:vyAkroSaH:vyAkroSaH, vyAkroSI:vyAkroSI
+01:0,0:31352:vyADaM:vyADaM, vyADam:vyADam
+01:0,0:31354:vyADAmaH:vyADAmaH, vyADAvaH:vyADAvaH
+01:0,0:31373:vyApAdaH:vyApAdaH, vyApAdanam:vyApAdanam
+01:0,0:31386:vyAmaH:vyAmaH, vyAmanam:vyAmanam
+01:0,0:31406:vyAvakroSI:vyAvakroSI, vyAvaBAzI:vyAvaBAzI
+01:0,0:31448:vyutTAnam:vyutTAnam, vyutTitiH:vyutTitiH
+01:0,0:31455:vyuda:vyuda, vyudaka:vyudaka
+01:0,0:31673:SamPalI:SamPalI, SambalI, SamBalI:SambalI,SamBalI
+01:0,0:31680:SambuH:SambuH, SambukaH, SambukkaH:SambukaH,SambukkaH
+01:0,0:31693:SayuH:SayuH, SayunaH:SayunaH
+01:0,0:31761:Salkam:Salkam, Salkalam:Salkalam
+01:0,0:31762:Salkalin:Salkalin, Salkin:Salkin
+01:0,0:31776:Savara:Savara, Savala:Savala
+01:0,0:31822:SAkula:SAkula, SAkulika:SAkulika
+01:0,0:31829:SAkteyaH:SAkteyaH, SAktyaH:SAktyaH
+01:0,0:31840:SAKowaH:SAKowaH, SAKowakaH:SAKowakaH
+01:0,0:31848:SAwaH:SAwaH, SAwI:SAwI
+01:0,0:31947:SArmaRyaH:SArmaRyaH, SArmaRyadeSaH:SArmaRyadeSaH
+01:0,0:32114:SivikA:SivikA, Sivira:Sivira
+01:0,0:32129:Sizyatvam:Sizyatvam, SizyatA:SizyatA
+01:0,0:32130:SihlaH:SihlaH, SihlakaH:SihlakaH
+01:0,0:32178:Su:Su, Sakam:Sakam
+01:0,0:32187:Sukrala:Sukrala, Sukriya:Sukriya
+01:0,0:32198:Suc:Suc, SucA:SucA
+01:0,0:32262:SuzaH:SuzaH, SuzI:SuzI
+01:0,0:32275:SUkavat:SUkavat, SUkin:SUkin
+01:0,0:32282:SUdrARI:SUdrARI, SUdrI:SUdrI
+01:0,0:32311:SfgAlikA:SfgAlikA, SfgAlI:SfgAlI
+01:0,0:32364:SEGram:SEGram, SEGryam:SEGryam
+01:1,1:32450:SORqikaH:SORqikaH, SORqin:SORqin
+01:0,1:32453:SORqira:SORqira, SORqIra:SORqIra
+01:0,0:32468:SOlkaH:SOlkaH, SOlkikaH:SOlkikaH
+01:0,0:32503:SyAlakI:SyAlakI, SyAlikA, SyAlI:SyAlikA,SyAlI
+01:0,0:32510:SyoRAkaH:SyoRAkaH, SyonAkaH:SyonAkaH
+01:0,0:32537:SrayaH:SrayaH, SrayaRam:SrayaRam
+01:0,0:32639:SlezmAtaH:SlezmAtaH, SlezmAtakaH:SlezmAtakaH
+01:0,0:32648:Svac:Svac, SvaYc:SvaYc
+01:0,0:32657:SvayaH:SvayaH, Svayanam:Svayanam
+01:0,0:32688:SvitAna:SvitAna, Svitna:Svitna
+01:0,0:32690:Svitya:Svitya, Svitnya:Svitnya
+01:0,0:32701:SvEtram:SvEtram, SvEtryam:SvEtryam
+01:1,0:32707:zaRQaH:zaRQaH, zaRQakaH:zaRQakaH
+01:0,0:32739:zWIvanam:zWIvanam, zWevanam:zWevanam
+01:0,0:32774:saMrakzaH:saMrakzaH, saMrakzA:saMrakzA
+01:0,0:32788:saMrAvaH:saMrAvaH, saMrAvaRam:saMrAvaRam
+01:0,0:32887:saMvartiH:saMvartiH, saMvartikA:saMvartikA
+01:0,0:32914:saMSayAna:saMSayAna, saMSayAlu, saMSayitf:saMSayAlu,saMSayitf
+01:0,0:33016:saMsPewaH:saMsPewaH, saMsPowaH, saMsPowiH:saMsPowaH,saMsPowiH
+01:0,0:33021:saMsravaH:saMsravaH, saMsrAvaH:saMsrAvaH
+01:0,0:33052:sakampa:sakampa, sakampana:sakampana
+01:0,0:33222:saMGAtakaH:saMGAtakaH, saMGAtyaH:saMGAtyaH
+01:0,0:33320:saMjYapita:saMjYapita, saMjYapta:saMjYapta
+01:1,0:33333:sawam:sawam, sawA:sawA
+01:0,0:33360:satIrTaH:satIrTaH, satIrTyaH:satIrTyaH
+01:0,0:33430:sanandaH:sanandaH, sanandanaH:sanandanaH
+01:0,0:33580:saMniDAnam:saMniDAnam, saMniDiH:saMniDiH
+01:0,0:33636:sapiRqanam:sapiRqanam, sapiRqIkaraRam:sapiRqIkaraRam
+01:0,0:33689:samatA:samatA, tvam:tvam
+01:0,0:33711:samanujYA:samanujYA, samanujYAnam:samanujYAnam
+01:0,0:33814:samADin:samADin, samADimat:samADimat
+01:0,0:33870:samAlamBaH:samAlamBaH, samAlamBanam:samAlamBanam
+01:0,0:34083:samupazwamBaH:samupazwamBaH, samupastamBaH:samupastamBaH
+01:0,0:34085:samupasTA:samupasTA, samupasTAnam:samupasTAnam
+01:0,0:34262:saMBAzA:saMBAzA, saMBAzaRam:saMBAzaRam
+01:0,0:34315:saMmiSra:saMmiSra, saMmiSrita:saMmiSrita
+01:0,0:34330:saMmoha:saMmoha, saMmohaka:saMmohaka
+01:8,0:34344:samyac:samyac, samaYc:samaYc
+01:0,0:34383:sarasara:sarasara, sarAsara:sarAsara
+01:0,0:34392:sariram:sariram, sarilam:sarilam
+01:0,0:34406:sarjuH:sarjuH, sarjUH:sarjUH
+01:0,1:34460:savitarka:savitarka, savimarSa:savimarSa
+01:0,0:34764:sAmanI:sAmanI, sAmnI:sAmnI
+01:0,0:34774:sAmAnagrAmika:sAmAnagrAmika, sAmAnadeSika:sAmAnadeSika
+01:0,1:34985:sikatAmaya:sikatAmaya, sikatAvat:sikatAvat
+01:0,0:34999:siYcatA:siYcatA, siYcitA:siYcitA
+01:0,0:35015:siDmam:siDmam, siDman:siDman
+01:0,1:35016:siDmala:siDmala, siDmavat:siDmavat
+01:0,0:35024:sindukaH:sindukaH, sinduvAraH, sinduvArakaH:sinduvAraH,sinduvArakaH
+01:0,0:35031:sinDukaH:sinDukaH, sinDuvAraH:sinDuvAraH
+01:0,0:35047:sivaH:sivaH, sivakaH:sivakaH
+01:0,0:35055:sihlaH:sihlaH, sihlakaH:sihlakaH
+01:0,0:35056:sihlakI:sihlakI, sihlI:sihlI
+01:0,0:35061:sItAnakaH:sItAnakaH, sItInakaH:sItInakaH
+01:0,0:35062:sItkAraH:sItkAraH, sItkftiH:sItkftiH
+01:0,0:35084:sIsam:sIsam, sIsakam, sIsapatrakam, sIsapatram:sIsakam,sIsapatrakam,sIsapatram
+01:0,0:35099:suKaMGuRaH:suKaMGuRaH, suKaMsuRaH:suKaMsuRaH
+01:5,0:35195:sUtiH:sUtiH, sUtI:sUtI
+01:0,0:35214:sUnikaH:sUnikaH, sUnin:sUnin
+01:0,0:35354:sEranDraH:sEranDraH, sErinDraH:sErinDraH
+01:0,0:35355:sEranDrI:sEranDrI, sErinDrI:sErinDrI
+01:0,1:35365:sotka:sotka, sotkaRWa:sotkaRWa
+01:0,2:35377:sodara:sodara, sodarIya:sodarIya
+01:0,0:35393:sopanyAsa:sopanyAsa, sopapattika:sopapattika
+01:0,0:35403:sopAnatka:sopAnatka, sopAnah:sopAnah
+01:0,1:35414:solluRWaH:solluRWaH, solluRWanam:solluRWanam
+01:0,0:35427:sOKaSAyanikaH:sOKaSAyanikaH, sOKaSAyikaH:sOKaSAyikaH
+01:0,0:35437:sOciH:sOciH, sOcikaH:sOcikaH
+01:0,0:35439:sOjas:sOjas, sOjaska:sOjaska
+01:0,0:35449:sOdAmanI:sOdAmanI, sOdAminI, sOdAmnI:sOdAminI,sOdAmnI
+01:0,0:35467:sObalI:sObalI, sObaleyI:sObaleyI
+01:0,0:35471:sOBadraH:sOBadraH, sOBadreyaH:sOBadreyaH
+01:0,0:35503:sOraBI:sOraBI, sOraBeyI:sOraBeyI
+01:0,0:35534:sOvidaH:sOvidaH, sOvidallaH, sOvidallakaH:sOvidallaH,sOvidallakaH
+01:0,0:35539:sOSabdam:sOSabdam, sOSabdyam:sOSabdyam
+01:0,0:35635:stim:stim, stIm:stIm
+01:0,0:35659:stfh:stfh, stFh:stFh
+01:0,0:35690:strItamA:strItamA, strItarA:strItarA
+01:0,0:35765:sTirIkaraRam:sTirIkaraRam, sTirIkAraH:sTirIkAraH
+01:0,0:35778:sTUlaMBavizRu:sTUlaMBavizRu, sTUlaMBAvuka:sTUlaMBAvuka
+01:0,0:35873:spfzwiH:spfzwiH, spfzwikA:spfzwikA
+01:0,0:35933:sPurcC:sPurcC, sPUrcC:sPUrcC
+01:0,0:35934:sPurj:sPurj, sPUrj:sPUrj
+01:0,0:35964:smaraRIya:smaraRIya, smartavya, smarya:smartavya,smarya
+01:0,0:36015:sragvat:sragvat, sragvin:sragvin
+01:0,0:36053:srotasvatI:srotasvatI, srotasvinI:srotasvinI
+01:0,0:36083:svapnayA:svapnayA, svapnyayA:svapnyayA
+01:0,0:36100:svargIya:svargIya, svargya:svargya
+01:0,0:36101:svarjikaH:svarjikaH, svarjin:svarjin
+01:0,0:36112:svasA:svasA, svasf:svasf
+01:0,0:36118:svasrIyaH:svasrIyaH, svasreyaH:svasreyaH
+01:0,0:36119:svasrIyA:svasrIyA, svasreyI:svasreyI
+01:0,0:36128:svAdaH:svAdaH, svAdanam:svAdanam
+01:0,0:36176:svIkaraRam:svIkaraRam, svIkAraH, svIkftiH:svIkAraH,svIkftiH
+01:0,0:36198:haMsikA:haMsikA, haMsI:haMsI
+01:0,0:36204:haYjA:haYjA, haYjikA:haYjikA
+01:0,0:36205:haYjA:haYjA, haYje:haYje
+01:0,0:36220:haRqikA:haRqikA, haRqI:haRqI
+01:0,0:36252:hayA:hayA, hayI:hayI
+01:0,0:36268:haridraH:haridraH, haridrakaH:haridrakaH
+01:0,0:36293:halaH:halaH, halam:halam
+01:0,0:36295:haladI:haladI, haladIkA, haladdI:haladIkA,haladdI
+01:0,0:36305:halIzA:halIzA, halezA:halezA
+01:0,0:36309:halAhalaH:halAhalaH, halAhalam:halAhalam
+01:0,0:36361:hAputrI:hAputrI, hAputrikA:hAputrikA
+01:0,0:36384:hAlahalI:hAlahalI, hAlA:hAlA
+01:0,0:36424:hikkikA:hikkikA, hikkitam, hikkA:hikkitam,hikkA
+01:0,0:36434:hijjaH:hijjaH, hijjalaH:hijjalaH
+01:0,0:36533:hfdayAlu:hfdayAlu, hfdayika, hfdayin:hfdayika,hfdayin
+01:0,0:36538:hfdyatA:hfdyatA, hfdyatvam:hfdyatvam
+01:0,0:36569:herakaH:herakaH, herikaH:herikaH
+01:0,0:36584:hezaH:hezaH, hezA, hezitam:hezA,hezitam
+01:0,0:36597:hEyaMgavam:hEyaMgavam, hEyaMgavInam:hEyaMgavInam
+01:0,0:36609:hotfkaH:hotfkaH, hotrakaH:hotrakaH
+01:0,0:36627:holikA:holikA, holI:holI
+01:0,0:36628:hohO:hohO, hO:hO
+01:0,0:36662:hrAm:hrAm, hrIm, hrUm:hrIm,hrUm
+01:1,0:36669:hrIRa:hrIRa, hrIta:hrIta
+01:0,0:36678:hrezA:hrezA, hrezitam:hrezitam
+01:0,0:36687:hlAdaH:hlAdaH, hlAdakaH:hlAdakaH
+01:0,0:36692:hlIka:hlIka, hlIku:hlIku
+02:0,0:1044:aDikAritA:aDikAritA, -tvam:aDikAritvam
+02:0,0:1309:ananyatA:ananyatA, -tvam:ananyatvam
+02:0,0:1463:anAditA:anAditA, -tvam:anAditvam
+02:0,0:1670:anukUlatA:anukUlatA, -tvam:anukUlatvam
+02:0,0:2691:aparatA:aparatA, -tvam:aparatvam
+02:0,0:3028:apUrvatA:apUrvatA, -tvam:apUrvatvam
+02:0,0:3402:aBijYatA:aBijYatA, -tvam:aBijYatvam
+02:0,0:4142:amamatA:amamatA, -tvam:amamatvam
+02:0,0:4146:amaratA:amaratA, -tvam:amaratvam
+02:0,0:4178:amAnitA:amAnitA, -tvam:amAnitvam
+02:0,0:4192:amitratA:amitratA, -tvam:amitratvam
+02:0,0:4230:amftatA:amftatA, -tvam:amftatvam
+02:0,0:4497:arUpatA:arUpatA, -tvam:arUpatvam
+02:0,0:4573:arTitA:arTitA, -tvam:arTitvam
+02:0,0:4744:alpatA:alpatA, -tvam:alpatvam
+02:0,0:5277:avaSyakatA:avaSyakatA, -tvam:avaSyakatvam
+02:0,0:5317:avasannatA:avasannatA, -tvam:avasannatvam
+02:0,0:6390:AkulatA:AkulatA, -tvam:Akulatvam
+02:0,0:6620:AcAryatA:AcAryatA, -tvam:AcAryatvam
+02:0,0:6783:AtmatA:AtmatA, -tvam:Atmatvam
+02:0,0:6825:AditA:AditA, -tvam:Aditvam
+02:0,0:7249:AmatA:AmatA, -tvam:Amatvam
+02:0,0:7666:AvaSyakatA:AvaSyakatA, -tvam:AvaSyakatvam
+02:0,0:7824:AScaryatA:AScaryatA, -tvam:AScaryatvam
+02:0,0:8179:indratA:indratA, -tvam:indratvam
+02:0,0:8348:ISitA:ISitA, -tvam:ISitvam
+02:0,0:8351:ISvaratA:ISvaratA, -tvam:ISvaratvam
+02:0,0:8392:ugratA:ugratA, -tvam:ugratvam
+02:0,0:8401:uccatA:uccatA, -tvam:uccatvam
+02:0,0:8603:utkfzwatA:utkfzwatA, -tvam:utkfzwatvam
+02:0,0:8671:uttamatA:uttamatA, -tvam:uttamatvam
+02:0,0:8834:utsukatA:utsukatA, -tvam:utsukatvam
+02:0,0:10294:urutA:urutA, -tvam:urutvam
+02:0,0:10411:uzRatA:uzRatA, -tvam:uzRatvam
+02:0,0:10551:fjutA:fjutA, -tvam:fjutvam
+02:0,0:10638:ekatA:ekatA, -tvam:ekatvam
+02:0,0:11252:kaWinatA:kaWinatA, -tvam:kaWinatvam
+02:0,0:11259:kaWoratA:kaWoratA, -tvam:kaWoratvam
+02:0,0:12382:kuwumbitA:kuwumbitA, -tvam:kuwumbitvam
+02:0,0:13414:kzudratA:kzudratA, -tvam:kzudratvam
+02:0,0:13765:gaRatA:gaRatA, -tvam:gaRatvam
+02:0,0:14100:guRatA:guRatA, -tvam:guRatvam
+02:0,0:14106:guRavattA:guRavattA, -tvam:guRavattvam
+02:0,0:14161:gurutA:gurutA, -tvam:gurutvam
+02:0,0:14187:gUQatA:gUQatA, -tvam:gUQatvam
+02:0,0:14687:capalatA:capalatA, -tvam:capalatvam
+02:0,0:15359:jaqatA:jaqatA, -tvam:jaqatvam
+02:0,0:16208:taralatA:taralatA, -tvam:taralatvam
+02:0,0:18341:namratA:namratA, -tvam:namratvam
+02:0,0:18395:navatA:navatA, -tvam:navatvam
+02:0,0:18751:nityatA:nityatA, -tvam:nityatvam
+02:0,0:18831:nipuRatA:nipuRatA, -tvam:nipuRatvam
+02:0,0:19483:nftA:nftA, -tvam:nftvam
+02:0,1:19736:paYcatA:paYcatA, -tvam:paYcatvam
+02:0,0:19778:pawutA:pawutA, -tvam:pawutvam
+02:0,0:19802:paRatA:paRatA, -tvam:paRatvam
+02:0,0:20744:paryAkulatA:paryAkulatA, -tvam:paryAkulatvam
+02:0,0:20866:pavitratA:pavitratA, -tvam:pavitratvam
+02:0,0:21609:puruzatA:puruzatA, -tvam:puruzatvam
+02:0,0:22007:prakASatA:prakASatA, -tvam:prakASatvam
+02:0,0:22149:pracaRqatA:pracaRqatA, -tvam:pracaRqatvam
+02:0,0:22184:pracuratA:pracuratA, -tvam:pracuratvam
+02:0,0:22576:pratiyogitA:pratiyogitA, -tvam:pratiyogitvam
+02:0,0:22786:pratyakzatA:pratyakzatA, -tvam:pratyakzatvam
+02:0,0:23002:praDAnatA:praDAnatA, -tvam:praDAnatvam
+02:0,0:23106:prabalatA:prabalatA, -tvam:prabalatvam
+02:1,0:23162:praButA:praButA, -tvam:praButvam
+02:0,0:23164:praBUtatA:praBUtatA, -tvam:praBUtatvam
+02:0,0:23845:prAjYatA:prAjYatA, -tvam:prAjYatvam
+02:0,0:24079:priyatA:priyatA, -tvam:priyatvam
+02:0,0:24319:PalgutA:PalgutA, -tvam:Palgutvam
+02:0,0:24535:bahutA:bahutA, -tvam:bahutvam
+02:0,0:24542:bahulatA:bahulatA, -tvam:bahulatvam
+02:0,0:24794:brahmatA:brahmatA, -tvam:brahmatvam
+02:0,0:24808:brAhmaRatA:brAhmaRatA, -tvam:brAhmaRatvam
+02:0,0:25196:BIrutA:BIrutA, -tvam:BIrutvam
+02:0,0:25654:maDuratA:maDuratA, -tvam:maDuratvam
+02:0,0:25709:manuzyatA:manuzyatA, -tvam:manuzyatvam
+02:0,0:25721:mantritA:mantritA, -tvam:mantritvam
+02:0,0:25734:mandatA:mandatA, -tvam:mandatvam
+02:0,0:25864:malinatA:malinatA, -tvam:malinatvam
+02:0,0:26093:mAnitA:mAnitA, -tvam:mAnitvam
+02:0,0:26104:mAnuzatA:mAnuzatA, -tvam:mAnuzatvam
+02:0,0:26266:mitratA:mitratA, -tvam:mitratvam
+02:0,0:26377:muKyatA:muKyatA, -tvam:muKyatvam
+02:0,0:26383:mugDatA:mugDatA, -tvam:mugDatvam
+02:0,0:26429:munitA:munitA, -tvam:munitvam
+02:0,0:26488:mUQatA:mUQatA, -tvam:mUQatvam
+02:0,0:27342:rasikatA:rasikatA, -tvam:rasikatvam
+02:0,0:27380:rAjatA:rAjatA, -tvam:rAjatvam
+02:0,0:27757:laGutA:laGutA, -tvam:laGutvam
+02:0,0:28243:vaktavyatA:vaktavyatA, -tvam:vaktavyatvam
+02:0,0:28249:vakratA:vakratA, -tvam:vakratvam
+02:0,0:28736:vaSitA:vaSitA, -tvam:vaSitvam
+02:0,0:28861:vAcyatA:vAcyatA, -tvam:vAcyatvam
+02:0,0:29569:vidagDatA:vidagDatA, -tvam:vidagDatvam
+02:0,0:29796:vipakzatA:vipakzatA, -tvam:vipakzatvam
+02:0,0:29826:viparItatA:viparItatA, -tvam:viparItatvam
+02:0,0:30341:viSAlatA:viSAlatA, -tvam:viSAlatvam
+02:0,0:31970:SAlInatA:SAlInatA, -tvam:SAlInatvam
+02:0,0:32967:saMsfzwatA:saMsfzwatA, -tvam:saMsfzwatvam
+02:0,0:33025:saMhatatA:saMhatatA, -tvam:saMhatatvam
+02:0,0:33075:saktatA:saktatA, -tvam:saktatvam
+02:0,0:33685:saByatA:saByatA, -tvam:saByatvam
+02:0,0:33737:samarTatA:samarTatA, -tvam:samarTatvam
+02:0,0:34397:sarUpatA:sarUpatA, -tvam:sarUpatvam
+02:0,0:34521:sahizRutA:sahizRutA, -tvam:sahizRutvam
+02:0,0:34523:sahatA:sahatA, -tvam:sahatvam
+02:0,0:34539:sahAyatA:sahAyatA, -tvam:sahAyatvam
+02:0,0:34662:sADanatA:sADanatA, -tvam:sADanatvam
+02:0,0:34676:sADAraRatA:sADAraRatA, -tvam:sADAraRatvam
+02:0,0:34686:sADutA:sADutA, -tvam:sADutvam
+02:0,0:35011:sidDatA:sidDatA, -tvam:sidDatvam
+02:0,0:35497:sOmyatA:sOmyatA, -tvam:sOmyatvam
+02:0,0:35595:stabDatA:stabDatA, -tvam:stabDatvam
+02:0,0:35691:strItA:strItA, -tvam:strItvam
+02:0,0:35693:strERatA:strERatA, -tvam:strERatvam
+02:0,0:35746:sTAvaratA:sTAvaratA, -tvam:sTAvaratvam
+02:0,0:35764:sTiratA:sTiratA, -tvam:sTiratvam
+02:0,0:35777:sTUlatA:sTUlatA, -tvam:sTUlatvam
+02:0,0:35815:snigDatA:snigDatA, -tvam:snigDatvam
+02:0,0:36148:svAmitA:svAmitA, -tvam:svAmitvam
+02:0,0:36189:svEratA:svEratA, -tvam:svEratvam
+02:0,0:36556:hetutA:hetutA, -tvam:hetutvam
+03:0,0:1367:anarGatvam:anarGatvam, -tA:anarGatA
+03:0,0:6273:asvatvam:asvatvam, -tA:asvatA
+03:0,0:6877:ADitvam:ADitvam, -tA:ADitA
+03:0,0:7813:ASutvam:ASutvam, -tA:ASutA
+04:0,0:24:aMhatiH:aMhatiH, -tI:aMhatI
+04:0,0:28:aMhitiH:aMhitiH, -tI:aMhitI
+04:0,0:339:aNguriH:aNguriH, -rI:aNgurI
+04:0,0:431:ajAjiH:ajAjiH, -jI:ajAjI
+04:0,0:504:awaniH:awaniH, -nI:awanI
+04:0,0:508:awaviH:awaviH, -vI:awavI
+04:0,0:891:aTariH:aTariH, -rI:aTarI
+04:0,0:4390:araRyAniH:araRyAniH, -nI:araRyAnI
+04:0,0:4937:avawiH:avawiH, -wI:avawI
+04:9,0:5058:avaniH:avaniH, -nI:avanI
+04:0,0:7659:AvaliH:AvaliH, -lI:AvalI
+04:6,0:10881:ozaDiH:ozaDiH, -DI:ozaDI
+04:0,2:11065:OzaDiH:OzaDiH, -DI:OzaDI
+04:14,1:11219:kawiH:kawiH, -wI:kawI
+04:0,0:11291:kaRIciH:kaRIciH, -cI:kaRIcI
+04:0,0:11594:karkawiH:karkawiH, -wI:karkawI
+04:1,0:11866:kAkaliH:kAkaliH, -lI:kAkalI
+04:5,0:11907:kAYciH:kAYciH, -cI:kAYcI
+04:2,1:12170:kASiH:kASiH, -SI:kASI
+04:0,0:12333:kukkuwiH:kukkuwiH, -wI:kukkuwI
+04:10,0:12960:kowiH:kowiH, -wI:kowI
+04:0,0:13168:kreRiH:kreRiH, -RI:kreRI
+04:0,1:13365:kzipaRiH:kzipaRiH, -RI:kzipaRI
+04:5,0:13467:kzORiH:kzORiH, -RI:kzORI
+04:0,0:13560:KaniH:KaniH, -nI:KanI
+04:0,0:13616:KaliH:KaliH, -lI:KalI
+04:2,0:14363:grahaRiH:grahaRiH, -RI:grahaRI
+04:0,0:15071:curiH:curiH, -rI:curI
+04:0,0:16317:tAqiH:tAqiH, -qI:tAqI
+04:0,0:16361:tAmiH:tAmiH, -mI:tAmI
+04:0,0:16612:tuliH:tuliH, -lI:tulI
+04:0,0:16737:tAraRiH:tAraRiH, -RI:tAraRI
+04:0,0:16859:truwiH:truwiH, -wI:truwI
+04:2,0:17069:dariH:dariH, -rI:darI
+04:0,0:17408:dUziH:dUziH, -zI:dUzI
+04:0,1:17500:dfSiH:dfSiH, -SI:dfSI
+04:1,0:17563:dehaliH:dehaliH, -lI:dehalI
+04:0,0:17748:druRiH:druRiH, -RI:druRI
+04:2,0:17774:droRiH:droRiH, -RI:droRI
+04:1,0:17900:DamaniH:DamaniH, -nI:DamanI
+04:14,0:17908:DaraRiH:DaraRiH, -RI:DaraRI
+04:0,0:17932:DarzaRiH:DarzaRiH, -RI:DarzaRI
+04:0,0:18031:DIlawiH:DIlawiH, -wI:DIlawI
+04:1,0:18041:DuniH:DuniH, -nI:DunI
+04:0,0:18044:DunDuriH:DunDuriH, -rI:DunDurI
+04:0,0:18134:DoraRiH:DoraRiH, -RI:DoraRI
+04:13,0:18456:nAqiH:nAqiH, -qI:nAqI
+04:2,0:18537:nAliH:nAliH, -lI:nAlI
+04:0,0:19311:nizkuwiH:nizkuwiH, -wI:nizkuwI
+04:0,0:19461:nIviH:nIviH, -vI:nIvI
+04:2,1:19521:nemiH:nemiH, -mI:nemI
+04:1,0:19772:pawiH:pawiH, -wI:pawI
+04:0,0:19890:padaviH:padaviH, -vI:padavI
+04:0,0:20309:paripAwiH:paripAwiH, -wI:paripAwI
+04:3,1:21261:pAliH:pAliH, -lI:pAlI
+04:0,0:21422:pippaliH:pippaliH, -lI:pippalI
+04:0,0:21509:pucCawiH:pucCawiH, -wI:pucCawI
+04:1,0:21817:peSiH:peSiH, -SI:peSI
+04:0,0:23415:pravARiH:pravARiH, -RI:pravARI
+04:0,0:23496:praveRiH:praveRiH, -RI:praveRI
+04:0,0:23635:prasaraRiH:prasaraRiH, -RI:prasaraRI
+04:0,0:25276:BfkuwiH:BfkuwiH, -wI:BfkuwI
+04:0,0:25317:BeriH:BeriH, -rI:BerI
+04:0,0:25437:BrukuwiH:BrukuwiH, -wI:BrukuwI
+04:3,0:25526:maYjariH:maYjariH, -rI:maYjarI
+04:0,0:25896:maziH:maziH, -zI:mazI
+04:5,0:26193:mAlatiH:mAlatiH, -tI:mAlatI
+04:0,0:26926:yayiH:yayiH, -yI:yayI
+04:0,0:27031:yAmiH:yAmiH, -mI:yAmI
+04:2,1:27106:yuvatiH:yuvatiH, -tI:yuvatI
+04:7,0:27227:rajaniH:rajaniH, -nI:rajanI
+04:1,0:27392:rAjiH:rAjiH, -jI:rAjI
+04:0,0:27900:lahariH:lahariH, -rI:laharI
+04:10,0:28010:lipiH:lipiH, -pI:lipI
+04:0,0:28018:libiH:libiH, -bI:libI
+04:0,0:28332:vaqaBiH:vaqaBiH, -BI:vaqaBI
+04:0,0:28607:vartmaniH:vartmaniH, -nI:vartmanI
+04:1,0:28671:valaBiH:valaBiH, -BI:valaBI
+04:4,0:28679:valiH:valiH, -lI:valI
+04:0,0:28719:vallariH:vallariH, -rI:vallarI
+04:0,0:28754:vasatiH:vasatiH, -tI:vasatI
+04:3,0:28968:vApiH:vApiH, -pI:vApI
+04:0,0:29481:viYjoliH:viYjoliH, -lI:viYjolI
+04:0,0:29491:viwiH:viwiH, -wI:viwI
+04:3,0:29807:vipaRiH:vipaRiH, -RI:vipaRI
+04:0,0:30081:viyoniH:viyoniH, -nI:viyonI
+04:0,0:30656:vITiH:vITiH, -TI:vITI
+04:4,0:30787:veRiH:veRiH, -RI:veRI
+04:0,0:30943:vEtaraRiH:vEtaraRiH, -RI:vEtaraRI
+04:0,0:31496:vratatiH:vratatiH, -tI:vratatI
+04:1,1:31593:SaciH:SaciH, -cI:SacI
+04:0,0:31598:SawiH:SawiH, -wI:SawI
+04:0,0:31764:SalmaliH:SalmaliH, -lI:SalmalI
+04:0,0:32210:SuRWiH:SuRWiH, -WI:SuRWI
+04:4,0:32601:SroRiH:SroRiH, -RI:SroRI
+04:0,0:34364:saraRiH:saraRiH, -RI:saraRI
+04:0,0:34836:sAraRiH:sAraRiH, -RI:sAraRI
+04:2,0:34852:sAriH:sAriH, -rI:sArI
+04:22,0:35180:sUciH:sUciH, -cI:sUcI
+04:0,0:35918:sPuwiH:sPuwiH, -wI:sPuwI
+04:1,0:36126:svAtiH:svAtiH, -tI:svAtI
+04:0,0:36661:hrAduniH:hrAduniH, -nI:hrAdunI
+05:0,0:291:aNkuraH:aNkuraH, -ram:aNkuram
+05:19,2:319:aNgAraH:aNgAraH, -ram:aNgAram
+05:1,1:320:aNgArakaH:aNgArakaH, -kam:aNgArakam
+05:0,0:400:ajakavaH:ajakavaH, -vam:ajakavam
+05:0,0:401:ajakAvaH:ajakAvaH, -vam:ajakAvam
+05:0,0:477:aYcalaH:aYcalaH, -lam:aYcalam
+05:0,0:500:aYjIraH:aYjIraH, -ram:aYjIram
+05:0,2:2263:anUkaH:anUkaH, -kam:anUkam
+05:0,0:3166:apramodaH:apramodaH, -dam:apramodam
+05:0,0:4584:arDarcaH:arDarcaH, -cam:arDarcam
+05:1,0:4689:alAtaH:alAtaH, -tam:alAtam
+05:0,0:4916:avacUlakaH:avacUlakaH, -kam:avacUlakam
+05:0,0:4945:avataMsaH:avataMsaH, -sam:avataMsam
+05:0,0:4983:avadAhaH:avadAhaH, -ham:avadAham
+05:2,0:5450:avAraH:avAraH, -ram:avAram
+05:0,0:5523:avityajaH:avityajaH, -jam:avityajam
+05:0,0:5771:aSakunaH:aSakunaH, -nam:aSakunam
+05:0,0:5854:aSmIraH:aSmIraH, -ram:aSmIram
+05:0,1:5856:aSmantakaH:aSmantakaH, -kam:aSmantakam
+05:33,0:6382:AkASaH:AkASaH, -Sam:AkASam
+05:0,0:6485:AKAtaH:AKAtaH, -tam:AKAtam
+05:0,1:6712:AQakaH:AQakaH, -kam:AQakam
+05:0,0:7367:AyavasaH:AyavasaH, -sam:Ayavasam
+05:7,1:7389:AyuDaH:AyuDaH, -Dam:AyuDam
+05:3,2:7402:AraH:AraH, -ram:Aram
+05:0,1:7610:AlayaH:AlayaH, -yam:Alayam
+05:10,0:7834:ASramaH:ASramaH, -mam:ASramam
+05:0,1:9912:upavizaH:upavizaH, -zam:upavizam
+05:0,0:10430:uzRIzaH:uzRIzaH, -zam:uzRIzam
+05:1,1:10861:odanaH:odanaH, -nam:odanam
+05:9,2:11086:kaMsaH:kaMsaH, -sam:kaMsam
+05:0,0:11100:kakudaH:kakudaH, -dam:kakudam
+05:3,3:11129:kaNkaRaH:kaNkaRaH, -Ram:kaNkaRam
+05:2,1:11135:kaNkAlaH:kaNkAlaH, -lam:kaNkAlam
+05:1,0:11199:kawakaH:kawakaH, -kam:kawakam
+05:0,1:11225:kawIraH:kawIraH, -ram:kawIram
+05:0,0:11284:kaRiSaH:kaRiSaH, -Sam:kaRiSam
+05:14,3:11296:kaRwakaH:kaRwakaH, -kam:kaRwakam
+05:4,1:11424:kandaH:kandaH, -dam:kandam
+05:1,3:11428:kandaraH:kandaraH, -ram:kandaram
+05:0,2:11431:kandalaH:kandalaH, -lam:kandalam
+05:1,1:11436:kandukaH:kandukaH, -kam:kandukam
+05:7,1:11456:kapawaH:kapawaH, -wam:kapawam
+05:5,0:11464:kapAwaH:kapAwaH, -wam:kapAwam
+05:4,2:11466:kapAlaH:kapAlaH, -lam:kapAlam
+05:0,0:11525:kambalakaH:kambalakaH, -kam:kambalakam
+05:7,2:11538:karakaH:karakaH, -kam:karakam
+05:1,0:11576:karIzaH:karIzaH, -zam:karIzam
+05:0,0:11608:karketanaH:karketanaH, -nam:karketanam
+05:0,0:11652:karpawaH:karpawaH, -wam:karpawam
+05:9,0:11659:karpUraH:karpUraH, -ram:karpUram
+05:0,0:11714:kalalaH:kalalaH, -lam:kalalam
+05:8,0:11719:kalahaH:kalahaH, -ham:kalaham
+05:0,0:11751:kalevaraH:kalevaraH, -ram:kalevaram
+05:3,1:11783:kavacaH:kavacaH, -cam:kavacam
+05:0,0:11792:kavalaH:kavalaH, -lam:kavalam
+05:0,3:11959:kAntAraH:kAntAraH, -ram:kAntAram
+05:12,2:12024:kAyaH:kAyaH, -yam:kAyam
+05:0,0:12147:kAlIyakaH:kAlIyakaH, -kam:kAlIyakam
+05:0,0:12200:kAsAraH:kAsAraH, -ram:kAsAram
+05:2,0:12257:kirIwaH:kirIwaH, -wam:kirIwam
+05:0,0:12279:kiSalayaH:kiSalayaH, -yam:kiSalayam
+05:1,1:12330:kukUlaH:kukUlaH, -lam:kukUlam
+05:1,0:12356:kuYjaH:kuYjaH, -jam:kuYjam
+05:3,1:12361:kuwaH:kuwaH, -wam:kuwam
+05:0,0:12435:kuRqakaH:kuRqakaH, -kam:kuRqakam
+05:0,0:12436:kuRqalaH:kuRqalaH, -lam:kuRqalam
+05:7,3:12522:kumudaH:kumudaH, -dam:kumudam
+05:2,0:12596:kulAyaH:kulAyaH, -yam:kulAyam
+05:0,0:12606:kuliraH:kuliraH, -ram:kuliram
+05:3,0:12607:kuliSaH:kuliSaH, -Sam:kuliSam
+05:0,0:12612:kulISaH:kulISaH, -Sam:kulISam
+05:0,0:12729:kUraH:kUraH, -ram:kUram
+05:0,1:12744:kUlakaH:kUlakaH, -kam:kUlakam
+05:0,1:12874:keyUraH:keyUraH, -ram:keyUram
+05:0,0:12958:kowaraH:kowaraH, -ram:kowaram
+05:0,0:12988:korakaH:korakaH, -kam:korakam
+05:0,0:12998:kolAhalaH:kolAhalaH, -lam:kolAhalam
+05:0,0:13001:kovidAraH:kovidAraH, -ram:kovidAram
+05:15,2:13270:kzaRaH:kzaRaH, -Ram:kzaRam
+05:39,3:13388:kzIraH:kzIraH, -ram:kzIram
+05:0,1:13466:kzomaH:kzomaH, -mam:kzomam
+05:0,0:13545:KaRqalaH:KaRqalaH, -lam:KaRqalam
+05:0,0:13573:KAnikaH:KAnikaH, -kam:KAnikam
+05:0,0:13603:KarvawaH:KarvawaH, -wam:Karvawam
+05:6,1:13606:KalaH:KalaH, -lam:Kalam
+05:0,1:13680:KilaH:KilaH, -lam:Kilam
+05:1,1:13859:garalaH:garalaH, -lam:garalam
+05:0,0:14191:gUTaH:gUTaH, -Tam:gUTam
+05:0,0:14556:GolaH:GolaH, -lam:Golam
+05:0,0:14634:caRqAtakaH:caRqAtakaH, -kam:caRqAtakam
+05:6,0:14665:candanaH:candanaH, -nam:candanam
+05:2,0:14699:camasaH:camasaH, -sam:camasam
+05:17,2:14719:caraRaH:caraRaH, -Ram:caraRam
+05:0,1:14782:cazakaH:cazakaH, -kam:cazakam
+05:0,0:14803:cAwukaH:cAwukaH, -kam:cAwukam
+05:3,0:14848:cAmaraH:cAmaraH, -ram:cAmaram
+05:0,0:15184:CagaRaH:CagaRaH, -Ram:CagaRam
+05:0,0:15221:CalaH:CalaH, -lam:Calam
+05:0,0:15249:CAlaH:CAlaH, -lam:CAlam
+05:0,0:15724:jUzaH:jUzaH, -zam:jUzam
+05:0,1:15925:waNgaH:waNgaH, -gam:waNgam
+05:0,0:15926:waNgaRaH:waNgaRaH, -Ram:waNgaRam
+05:0,0:16050:tawAkaH:tawAkaH, -kam:tawAkam
+05:0,0:16063:taqAgaH:taqAgaH, -gam:taqAgam
+05:16,2:16265:talaH:talaH, -lam:talam
+05:2,0:16318:tARqavaH:tARqavaH, -vam:tARqavam
+05:0,0:16606:tolaH:tolaH, -lam:tolam
+05:10,3:16660:tUlaH:tUlaH, -lam:tUlam
+05:0,0:16678:tfcaH:tfcaH, -cam:tfcam
+05:1,0:16790:tomaraH:tomaraH, -ram:tomaram
+05:0,2:16793:toraRaH:toraRaH, -Ram:toraRam
+05:6,2:16962:daSanaH:daSanaH, -nam:daSanam
+05:2,0:17048:damaH:damaH, -mam:damam
+05:10,0:17095:dalaH:dalaH, -lam:dalam
+05:0,0:17234:dArduraH:dArduraH, -ram:dArduram
+05:27,0:17289:dinaH:dinaH, -nam:dinam
+05:6,0:17300:divasaH:divasaH, -sam:divasam
+05:42,2:17557:dehaH:dehaH, -ham:deham
+05:3,0:17613:dohadaH:dohadaH, -dam:dohadam
+05:12,0:17683:dyUtaH:dyUtaH, -tam:dyUtam
+05:0,0:17791:dvAparaH:dvAparaH, -ram:dvAparam
+05:3,1:17823:dvIpaH:dvIpaH, -pam:dvIpam
+05:0,0:17945:DAtukaH:DAtukaH, -kam:DAtukam
+05:17,2:18231:naKaH:naKaH, -Kam:naKam
+05:2,0:18233:naKaraH:naKaraH, -ram:naKaram
+05:7,1:18266:naqaH:naqaH, -qam:naqam
+05:0,1:18312:napuMsakaH:napuMsakaH, -kam:napuMsakam
+05:8,1:18356:narakaH:narakaH, -kam:narakam
+05:0,0:18634:nikuYjaH:nikuYjaH, -jam:nikuYjam
+05:0,1:18810:nipaH:nipaH, -pam:nipam
+05:0,0:18816:nipAtakaH:nipAtakaH, -kam:nipAtakam
+05:0,0:18984:nirGaRwaH:nirGaRwaH, -wam:nirGaRwam
+05:0,1:18996:nirJaraH:nirJaraH, -ram:nirJaram
+05:0,0:19097:niryAsaH:niryAsaH, -sam:niryAsam
+05:0,1:19302:nizkaH:nizkaH, -kam:nizkam
+05:1,0:19440:nIqaH:nIqaH, -qam:nIqam
+05:0,0:19481:nUpuraH:nUpuraH, -ram:nUpuram
+05:16,0:19688:paNkaH:paNkaH, -kam:paNkam
+05:0,0:19755:paYjarakaH:paYjarakaH, -kam:paYjarakam
+05:13,2:19759:pawaH:pawaH, -wam:pawam
+05:0,0:19766:pawalakaH:pawalakaH, -kam:pawalakam
+05:0,0:20641:parihArakaH:parihArakaH, -kam:parihArakam
+05:2,0:20824:palAlaH:palAlaH, -lam:palAlam
+05:8,1:20845:pallavaH:pallavaH, -vam:pallavam
+05:0,0:21009:pAtakaH:pAtakaH, -kam:pAtakam
+05:0,0:21034:pAtrIraH:pAtrIraH, -ram:pAtrIram
+05:14,1:21088:pAraH:pAraH, -ram:pAram
+05:0,1:21351:piwakaH:piwakaH, -kam:piwakam
+05:1,2:21359:piWaraH:piWaraH, -ram:piWaram
+05:1,0:21360:piWarakaH:piWarakaH, -kam:piWarakam
+05:0,1:21365:piRqakaH:piRqakaH, -kam:piRqakam
+05:0,0:21381:piRyAkaH:piRyAkaH, -kam:piRyAkam
+05:1,0:21406:pinAkaH:pinAkaH, -kam:pinAkam
+05:0,1:21449:pizwakaH:pizwakaH, -kam:pizwakam
+05:0,0:21450:pizwapaH:pizwapaH, -pam:pizwapam
+05:0,0:21461:pIWakaH:pIWakaH, -kam:pIWakam
+05:5,0:21483:pIyUzaH:pIyUzaH, -zam:pIyUzam
+05:0,0:21501:puMKaH:puMKaH, -Kam:puMKam
+05:8,2:21517:puwaH:puwaH, -wam:puwam
+05:0,0:21608:puruzakaH:puruzakaH, -kam:puruzakam
+05:0,0:21627:pulAkaH:pulAkaH, -kam:pulAkam
+05:0,0:21630:pulinaH:pulinaH, -nam:pulinam
+05:0,4:21668:pustakaH:pustakaH, -kam:pustakam
+05:5,0:21697:pUyaH:pUyaH, -yam:pUyam
+05:0,2:21761:pfTukaH:pfTukaH, -kam:pfTukam
+05:0,0:21792:pewakaH:pewakaH, -kam:pewakam
+05:0,0:21802:peyUzaH:peyUzaH, -zam:peyUzam
+05:0,0:22133:pragrIvaH:pragrIvaH, -vam:pragrIvam
+05:0,1:22914:pratyUzaH:pratyUzaH, -zam:pratyUzam
+05:0,0:23441:pravipalaH:pravipalaH, -lam:pravipalam
+05:0,0:23751:prahutaH:prahutaH, -tam:prahutam
+05:0,0:23838:prAjanaH:prAjanaH, -nam:prAjanam
+05:1,0:23916:prAdeSaH:prAdeSaH, -Sam:prAdeSam
+05:4,2:24334:PAlaH:PAlaH, -lam:PAlam
+05:0,0:24353:PupPusaH:PupPusaH, -sam:PupPusam
+05:2,0:24457:barhaH:barhaH, -ham:barham
+05:0,1:25050:BARqakaH:BARqakaH, -kam:BARqakam
+05:0,1:25235:BUkaH:BUkaH, -kam:BUkam
+05:0,1:25282:BfNgAraH:BfNgAraH, -ram:BfNgAram
+05:0,0:25321:BelakaH:BelakaH, -kam:Belakam
+05:0,1:25536:maYjIraH:maYjIraH, -ram:maYjIram
+05:0,0:25541:mawakaH:mawakaH, -kam:mawakam
+05:0,1:25555:maRikaH:maRikaH, -kam:maRikam
+05:7,0:25920:mastakaH:mastakaH, -kam:mastakam
+05:18,0:26221:mAsaH:mAsaH, -sam:mAsam
+05:1,0:26357:mukulaH:mukulaH, -lam:mukulam
+05:2,0:26475:musalaH:musalaH, -lam:musalam
+05:3,1:26576:mfRAlaH:mfRAlaH, -lam:mfRAlam
+05:2,1:26581:mftakaH:mftakaH, -kam:mftakam
+05:0,0:26732:mowaH:mowaH, -wam:mowam
+05:0,1:26733:mowakaH:mowakaH, -kam:mowakam
+05:0,0:27041:yAvakaH:yAvakaH, -kam:yAvakam
+05:0,1:27065:yugaMDaraH:yugaMDaraH, -ram:yugaMDaram
+05:45,1:27248:raRaH:raRaH, -Ram:raRam
+05:0,0:27429:rAmaWaH:rAmaWaH, -Wam:rAmaWam
+05:0,0:28113:letaH:letaH, -tam:letam
+05:0,0:28392:vaDikaH:vaDikaH, -kam:vaDikam
+05:0,2:28673:valayaH:valayaH, -yam:valayam
+05:0,0:28680:valikaH:valikaH, -kam:valikam
+05:1,0:28692:valkalaH:valkalaH, -lam:valkalam
+05:2,1:28710:valmIkaH:valmIkaH, -kam:valmIkam
+05:2,0:28878:vAwaH:vAwaH, -wam:vAwam
+05:0,0:29003:vAraRAvataH:vAraRAvataH, -tam:vAraRAvatam
+05:4,1:29101:vAsaraH:vAsaraH, -ram:vAsaram
+05:0,0:29536:vitAnakaH:vitAnakaH, -kam:vitAnakam
+05:4,0:30012:vimAnaH:vimAnaH, -nam:vimAnam
+05:0,0:30023:vimAMsaH:vimAMsaH, -sam:vimAMsam
+05:2,0:30140:virudaH:virudaH, -dam:virudam
+05:0,1:30161:virokaH:virokaH, -kam:virokam
+05:0,0:30609:vihAnaH:vihAnaH, -nam:vihAnam
+05:0,0:30838:veraH:veraH, -ram:veram
+05:6,0:31490:vraRaH:vraRaH, -Ram:vraRam
+05:20,0:31493:vrataH:vrataH, -tam:vratam
+05:9,1:31537:SakawaH:SakawaH, -wam:Sakawam
+05:0,1:31541:SakalaH:SakalaH, -lam:Sakalam
+05:0,2:31588:SaNKakaH:SaNKakaH, -kam:SaNKakam
+05:1,0:31647:SaPaH:SaPaH, -Pam:SaPam
+05:0,0:31678:SambalaH:SambalaH, -lam:Sambalam
+05:0,0:31715:SarAvaH:SarAvaH, -vam:SarAvam
+05:8,1:31775:SavaH:SavaH, -vam:Savam
+05:22,1:31801:SAkaH:SAkaH, -kam:SAkam
+05:0,0:31849:SAwakaH:SAwakaH, -kam:SAwakam
+05:1,1:32032:SiKaraH:SiKaraH, -ram:SiKaram
+05:0,1:32043:SiNGARakaH:SiNGARakaH, -kam:SiNGARakam
+05:2,0:32089:SilaH:SilaH, -lam:Silam
+05:0,1:32268:SuzkalaH:SuzkalaH, -lam:Suzkalam
+05:4,1:32273:SUkaH:SUkaH, -kam:SUkam
+05:18,0:32299:SUlaH:SUlaH, -lam:SUlam
+05:0,0:32316:SfNgakaH:SfNgakaH, -kam:SfNgakam
+05:0,0:32343:SepAlaH:SepAlaH, -lam:SepAlam
+05:16,2:32539:SravaRaH:SravaRaH, -Ram:SravaRam
+05:0,0:33220:saMGARakaH:saMGARakaH, -kam:saMGARakam
+05:1,0:33458:saMtAnaH:saMtAnaH, -nam:saMtAnam
+05:5,0:33731:samaraH:samaraH, -ram:samaram
+05:0,0:34165:saMpratiroDakaH:saMpratiroDakaH, -kam:saMpratiroDakam
+05:0,0:34182:saMprapadaH:saMprapadaH, -dam:saMprapadam
+05:0,1:34241:saMbalaH:saMbalaH, -lam:saMbalam
+05:0,1:34354:sarakaH:sarakaH, -kam:sarakam
+05:0,0:35756:sTAlakaH:sTAlakaH, -kam:sTAlakam
+05:0,1:36364:hAyanaH:hAyanaH, -nam:hAyanam
+05:0,0:36427:hiNgulaH:hiNgulaH, -lam:hiNgulam
+06:0,0:2854:apasAraRam:apasAraRam, -RA:apasAraRA
+06:0,0:3950:aByarTanam:aByarTanam, -nA:aByarTanA
+06:0,0:4174:amAnanam:amAnanam, -nA:amAnanA
+06:0,0:4627:arhaRam:arhaRam, -RA:arhaRA
+06:0,0:5138:avamAnanam:avamAnanam, -nA:avamAnanA
+06:0,0:5413:avahelanam:avahelanam, -nA:avahelanA
+06:0,0:6459:AkzAraRam:AkzAraRam, -RA:AkzAraRA
+06:0,0:6572:AGozaRam:AGozaRam, -RA:AGozaRA
+06:0,0:7255:AmantraRam:AmantraRam, -RA:AmantraRA
+06:0,0:7635:Alocanam:Alocanam, -nA:AlocanA
+06:0,0:8224:irgalam:irgalam, -lA:irgalA
+06:0,0:8696:uttejanam:uttejanam, -nA:uttejanA
+06:0,0:9032:udGawwanam:udGawwanam, -nA:udGawwanA
+06:0,0:9405:upakalpanam:upakalpanam, -nA:upakalpanA
+06:0,0:10180:upArjanam:upArjanam, -nA:upArjanA
+06:1,0:10203:upAsanam:upAsanam, -nA:upAsanA
+06:0,0:11952:kAnizWikam:kAnizWikam, -kA:kAnizWikA
+06:0,1:13324:kzAraRam:kzAraRam, -RA:kzAraRA
+06:0,0:13875:garjanam:garjanam, -nA:garjanA
+06:0,0:13905:garhaRam:garhaRam, -RA:garhaRA
+06:0,0:14341:granTanam:granTanam, -nA:granTanA
+06:0,1:14422:Gawanam:Gawanam, -nA:GawanA
+06:0,0:14516:GozaRam:GozaRam, -RA:GozaRA
+06:0,0:14524:GUrRanam:GUrRanam, -nA:GUrRanA
+06:0,0:14763:carvaRam:carvaRam, -RA:carvaRA
+06:0,0:14961:cintanam:cintanam, -nA:cintanA
+06:0,0:15225:Calanam:Calanam, -nA:CalanA
+06:0,0:15702:jozaRam:jozaRam, -RA:jozaRA
+06:0,0:15844:JaRaJaRam:JaRaJaRam, -RA:JaRaJaRA
+06:0,1:16248:tarjanam:tarjanam, -nA:tarjanA
+06:1,0:17931:DarzaRam:DarzaRam, -RA:DarzaRA
+06:0,0:18891:niyantraRam:niyantraRam, -RA:niyantraRA
+06:0,0:18963:nirUpaRam:nirUpaRam, -RA:nirUpaRA
+06:0,0:19052:nirBartsanam:nirBartsanam, -nA:nirBartsanA
+06:0,0:19447:nIrAjanam:nIrAjanam, -nA:nIrAjanA
+06:0,0:20069:parikalpanam:parikalpanam, -nA:parikalpanA
+06:0,0:20110:parigaRanam:parigaRanam, -nA:parigaRanA
+06:0,0:20763:paryAlocanam:paryAlocanam, -nA:paryAlocanA
+06:0,0:20786:paryezaRam:paryezaRam, -RA:paryezaRA
+06:0,0:22193:pracCanam:pracCanam, -nA:pracCanA
+06:0,0:22592:pratileKanam:pratileKanam, -nA:pratileKanA
+06:0,0:23016:praDarzaRam:praDarzaRam, -RA:praDarzaRA
+06:0,0:23664:prastaraRam:prastaraRam, -RA:prastaraRA
+06:2,0:23988:prArTanam:prArTanam, -nA:prArTanA
+06:0,0:24134:preraRam:preraRam, -RA:preraRA
+06:2,0:24141:prezaRam:prezaRam, -RA:prezaRA
+06:0,0:24200:prodGozaRam:prodGozaRam, -RA:prodGozaRA
+06:0,0:25714:mantraRam:mantraRam, -RA:mantraRA
+06:0,0:26088:mAnanam:mAnanam, -nA:mAnanA
+06:1,1:26118:mApanam:mApanam, -nA:mApanA
+06:0,0:26900:yantraRam:yantraRam, -RA:yantraRA
+06:0,0:26965:yAcanam:yAcanam, -nA:yAcanA
+06:0,0:27220:racanam:racanam, -nA:racanA
+06:0,1:27607:recanam:recanam, -nA:recanA
+06:2,0:28309:vaYcanam:vaYcanam, -nA:vaYcanA
+06:0,1:28576:varRanam:varRanam, -nA:varRanA
+06:0,0:29331:viGawwanam:viGawwanam, -nA:viGawwanA
+06:0,0:29473:vijYApanam:vijYApanam, -nA:vijYApanA
+06:0,0:29502:viqambanam:viqambanam, -nA:viqambanA
+06:0,1:29979:viBAvanam:viBAvanam, -nA:viBAvanA
+06:0,0:30042:vimardanam:vimardanam, -nA:vimardanA
+06:0,0:30049:vimokzaRam:vimokzaRam, -RA:vimokzaRA
+06:0,0:30083:viracanam:viracanam, -nA:viracanA
+06:0,0:30311:vivecanam:vivecanam, -nA:vivecanA
+06:0,0:30518:visUraRam:visUraRam, -RA:visUraRA
+06:0,1:30638:vIkzaRam:vIkzaRam, -RA:vIkzaRA
+06:0,0:30849:vellanam:vellanam, -nA:vellanA
+06:0,0:32258:SuSrUzaRam:SuSrUzaRam, -RA:SuSrUzaRA
+06:0,1:32529:SrapaRam:SrapaRam, -RA:SrapaRA
+06:0,0:32820:saMvadanam:saMvadanam, -nA:saMvadanA
+06:0,0:32841:saMvAhanam:saMvAhanam, -nA:saMvAhanA
+06:0,0:32857:saMvedanam:saMvedanam, -nA:saMvedanA
+06:0,0:32937:saMSlezaRam:saMSlezaRam, -RA:saMSlezaRA
+06:0,0:33107:saMkalanam:saMkalanam, -nA:saMkalanA
+06:0,0:33133:saMkIrtanam:saMkIrtanam, -nA:saMkIrtanA
+06:0,0:33216:saMGawwanam:saMGawwanam, -nA:saMGawwanA
+06:0,0:33385:satyApanam:satyApanam, -nA:satyApanA
+06:0,0:33556:saMDAraRam:saMDAraRam, -RA:saMDAraRA
+06:0,0:33738:samarTanam:samarTanam, -nA:samarTanA
+06:0,0:34180:saMpraDAraRam:saMpraDAraRam, -RA:saMpraDAraRA
+06:0,0:34280:saMBAvanam:saMBAvanam, -nA:saMBAvanA
+06:0,0:35177:sUcanam:sUcanam, -nA:sUcanA
+06:0,0:36411:hiMsanam:hiMsanam, -nA:hiMsanA
+06:0,0:36574:helanam:helanam, -nA:helanA
+07:0,0:2793:apavarakaH:apavarakaH, -kA:apavarakA
+07:0,0:5412:avahelaH:avahelaH, -lA:avahelA
+07:0,0:10018:upasaMBAzaH:upasaMBAzaH, -zA:upasaMBAzA
+07:0,0:11802:kavikaH:kavikaH, -kA:kavikA
+07:7,0:12196:kAsaH:kAsaH, -sA:kAsA
+07:0,1:12266:kilakilaH:kilakilaH, -lA:kilakilA
+07:0,0:12401:kuWAwaNkaH:kuWAwaNkaH, -kA:kuWAwaNkA
+07:4,0:12948:kokilaH:kokilaH, -lA:kokilA
+07:0,0:13693:KurAkaH:KurAkaH, -kA:KurAkA
+07:0,1:13795:gaRqUzaH:gaRqUzaH, -zA:gaRqUzA
+07:0,0:17090:darvikaH:darvikaH, -kA:darvikA
+07:0,0:18507:nAmaDaH:nAmaDaH, -DA:nAmaDA
+07:0,0:21362:piqakaH:piqakaH, -kA:piqakA
+07:0,0:21704:pUrikaH:pUrikaH, -kA:pUrikA
+07:0,0:22088:prakzveqanaH:prakzveqanaH, -nA:prakzveqanA
+07:0,0:24018:prAvfzaH:prAvfzaH, -zA:prAvfzA
+07:7,1:24283:PaRaH:PaRaH, -RA:PaRA
+07:0,1:24479:balAkaH:balAkaH, -kA:balAkA
+07:0,0:24511:balvajaH:balvajaH, -jA:balvajA
+07:1,1:24569:bADaH:bADaH, -DA:bADA
+07:0,0:27112:yUkaH:yUkaH, -kA:yUkA
+07:0,0:28725:valvajaH:valvajaH, -jA:valvajA
+07:0,0:29023:vArUQaH:vArUQaH, -QA:vArUQA
+07:0,0:29138:vAhalaH:vAhalaH, -lA:vAhalA
+07:0,0:30562:visPowaH:visPowaH, -wA:visPowA
+07:0,0:30579:visraMsaH:visraMsaH, -sA:visraMsA
+07:2,0:31507:vrIqaH:vrIqaH, -qA:vrIqA
+07:0,0:35677:stotriyaH:stotriyaH, -yA:stotriyA
+07:4,0:36046:sruvaH:sruvaH, -vA:sruvA
+08:0,0:1055:aDigamaH:aDigamaH, -manam:aDigamanam
+08:0,0:1712:anugamaH:anugamaH, -manam:anugamanam
+08:0,0:2062:anuroDaH:anuroDaH, -Danam:anuroDanam
+08:0,0:2107:anuvAsaH:anuvAsaH, -sanam:anuvAsanam
+08:0,0:2121:anuveSaH:anuveSaH, -Sanam:anuveSanam
+08:0,0:2542:apagamaH:apagamaH, -manam:apagamanam
+08:0,0:2782:apavAhaH:apavAhaH, -hanam:apavAhanam
+08:0,0:3659:aBivAsaH:aBivAsaH, -sanam:aBivAsanam
+08:0,0:4852:avagAhaH:avagAhaH, -hanam:avagAhanam
+08:0,0:6446:AkroSaH:AkroSaH, -Sanam:AkroSanam
+08:0,0:6638:AcCedaH:AcCedaH, -danam:AcCedanam
+08:0,1:6671:AjIvaH:AjIvaH, -vanam:AjIvanam
+08:0,0:7166:AbanDaH:AbanDaH, -Danam:AbanDanam
+08:0,0:7628:AlokaH:AlokaH, -kanam:Alokanam
+08:0,0:8454:ucCedaH:ucCedaH, -danam:ucCedanam
+08:0,0:8788:utprAsaH:utprAsaH, -sanam:utprAsanam
+08:0,0:9133:udboDaH:udboDaH, -Danam:udboDanam
+08:0,0:9146:udBedaH:udBedaH, -danam:udBedanam
+08:0,0:9344:unmIlaH:unmIlaH, -lanam:unmIlanam
+08:0,0:9420:upakroSaH:upakroSaH, -Sanam:upakroSanam
+08:0,1:9441:upagamaH:upagamaH, -manam:upagamanam
+08:0,0:9908:upaveSaH:upaveSaH, -Sanam:upaveSanam
+08:0,0:18847:niboDaH:niboDaH, -Danam:niboDanam
+08:0,0:22287:praRASaH:praRASaH, -Sanam:praRASanam
+08:0,0:22823:pratyavaskandaH:pratyavaskandaH, -danam:pratyavaskandanam
+08:0,0:36635:hnavaH:hnavaH, -vanam:hnavanam
+09:0,0:211:agatika:agati(tI)ka:agatIka
+09:0,0:507:awaruzaH:awaru(rU)zaH:awarUzaH
+09:1,0:687:atiBaraH:atiBa(BA)raH:atiBAraH
+09:0,0:725:atireka:ati(tI)reka:atIreka
+09:0,0:801:atisAraH:ati(tI)sAraH:atIsAraH
+09:0,1:802:atisArin:ati(tI)sArin:atIsArin
+09:0,0:1084:aDipuruzaH:aDipu(pU)ruzaH:aDipUruzaH
+09:0,0:2349:antarikzya:antari(rI)kzya:antarIkzya
+09:0,1:3109:apratikAra:aprati(tI)kAra:apratIkAra
+09:0,1:3309:aBika:aBi(BI)ka:aBIka
+09:0,1:3761:aBizwi:aBi(BI)zwi:aBIzwi
+09:0,0:4181:amAmasI:amAma(mA)sI:amAmAsI
+09:0,0:4441:arAtiyati:arAti(tI)yati:arAtIyati
+09:0,0:5719:avyaBicAraH:avyaBi(BI)cAraH:avyaBIcAraH
+09:0,1:6331:ahetuka:ahe(hE)tuka:ahEtuka
+09:0,0:6532:Agur:Agu(gU)r:AgUr
+09:0,0:6533:AguraRam:Agu(gU)raRam:AgUraRam
+09:0,0:6755:Atirekyam:Atire(rE)kyam:AtirEkyam
+09:0,1:7030:Antarikza:Antari(rI)kza:AntarIkza
+09:0,0:7253:Amanasyam:Ama(mA)nasyam:AmAnasyam
+09:1,0:7457:AravaH:Ara(rA)vaH:ArAvaH
+09:0,0:7732:Avaritf:Avari(rI)tf:AvarItf
+09:1,0:8268:izikA:izi(zI)kA:izIkA
+09:0,0:9819:uparamaH:upara(rA)maH:uparAmaH
+09:0,0:10575:ftayu:fta(tA)yu:ftAyu
+09:0,0:10617:fzikaH:fzi(zI)kaH:fzIkaH
+09:0,0:10774:Equkam:Equ(qU)kam:EqUkam
+09:0,1:11003:OparoDika:Oparo(rO)Dika:OparODika
+09:0,1:11047:OrDvadehika:OrDvade(dE)hika:OrDvadEhika
+09:0,0:11805:kaviyam:kavi(vI)yam:kavIyam
+09:0,1:11863:kAkaruka:kAkaru(rU)ka:kAkarUka
+09:0,1:11864:kAkalaH:kAka(kA)laH:kAkAlaH
+09:0,0:12325:kukudaH:kuku(kU)daH:kukUdaH
+09:0,0:12572:kurparaH:ku(kU)rparaH:kUrparaH
+09:0,0:12965:kowiSaH:kowi(wI)SaH:kowISaH
+09:0,0:13661:KArika:KAri(rI)ka:KArIka
+09:0,0:13696:Kurd:Ku(KU)rd:KUrd
+09:0,0:13761:gaqqukaH:gaqqu(qU)kaH:gaqqUkaH
+09:0,0:14093:guqucI:guqu(qU)cI:guqUcI
+09:0,1:14163:gurjaraH:gu(gU)rjaraH:gUrjaraH
+09:0,0:14176:guvAkaH:gu(gU)vAkaH:gUvAkaH
+09:0,0:14222:gfBita:gfBi(BI)ta:gfBIta
+09:3,0:15067:coraH:co(cO)raH:cOraH
+09:0,0:15068:corikA:co(cO)rikA:cOrikA
+09:0,0:15877:JAwikA:JAwi(wI)kA:JAwIkA
+09:0,0:17049:damunas:damu(mU)nas:damUnas
+09:1,0:17287:diDizUH:diDi(DI)zUH:diDIzUH
+09:0,0:18694:nigalaH:niga(gA)laH:nigAlaH
+09:0,0:18711:niGasaH:niGa(GA)saH:niGAsaH
+09:0,0:18792:ninadaH:nina(nA)daH:ninAdaH
+09:0,0:19237:niSaraRam:niSa(SA)raRam:niSAraRam
+09:0,0:19451:nIlaNguH:nIla(lA)NguH:nIlANguH
+09:0,0:19468:nuta:nu(nU)ta:nUta
+09:8,0:20200:pariRAmaH:pari(rI)RAmaH:parIRAmaH
+09:0,0:20204:pariRAhaH:pari(rI)RAhaH:parIRAhaH
+09:0,0:20211:pariRAyaH:pari(rI)RAyaH:parIRAyaH
+09:0,0:20253:paridAhaH:pari(rI)dAhaH:parIdAhaH
+09:0,0:20268:pariDAnam:pari(rI)DAnam:parIDAnam
+09:0,0:20307:paripAkaH:pari(rI)pAkaH:parIpAkaH
+09:2,0:20365:pariBavaH:pari(rI)BavaH:parIBavaH
+09:0,0:20396:parimARam:pari(rI)mARam:parImARam
+09:2,0:20461:parivAdaH:pari(rI)vAdaH:parIvAdaH
+09:0,0:20472:parivAhaH:pari(rI)vAhaH:parIvAhaH
+09:0,0:20474:parivApaH:pari(rI)vApaH:parIvApaH
+09:0,0:20496:parivAraH:pari(rI)vAraH:parIvAraH
+09:0,0:20503:parivartaH:pari(rI)vartaH:parIvartaH
+09:0,2:20539:pariSezaH:pari(rI)SezaH:parISezaH
+09:3,0:20628:parihAsaH:pari(rI)hAsaH:parIhAsaH
+09:2,0:20640:parihAraH:pari(rI)hAraH:parIhAraH
+09:0,0:21121:pAraMpariRa:pAraMpari(rI)Ra:pAraMparIRa
+09:0,0:21952:pOrvadehika:pOrvade(dE)hika:pOrvadEhika
+09:0,0:22151:pracaya:praca(cA)ya:pracAya
+09:0,0:22172:pracayaH:praca(cA)yaH:pracAyaH
+09:0,0:22349:pratikASaH:prati(tI)kASaH:pratIkASaH
+09:2,0:22356:pratikAraH:prati(tI)kAraH:pratIkAraH
+09:0,0:22391:pratiGAtaH:prati(tI)GAtaH:pratIGAtaH
+09:0,0:22447:pratinAhaH:prati(tI)nAhaH:pratInAhaH
+09:2,1:22729:pratihAraH:prati(tI)hAraH:pratIhAraH
+09:0,0:22872:pratyAsaraH:pratyAsa(sA)raH:pratyAsAraH
+09:0,0:23597:prasah:prasa(sA)h:prasAh
+09:0,0:24284:PaRavat:PaRa(RA)vat:PaRAvat
+09:4,0:24351:Put:Pu(PU)t:PUt
+09:0,0:25197:BIlukaH:BIlu(lU)kaH:BIlUkaH
+09:0,0:25285:BfNgiriwiH:BfNgiri(rI)wiH:BfNgirIwiH
+09:1,0:25617:maTurA:maTu(TU)rA:maTUrA
+09:0,1:25798:maricaH:mari(rI)caH:marIcaH
+09:1,1:25908:masuraH:masu(sU)raH:masUraH
+09:0,0:28125:lelitakaH:leli(lI)takaH:lelItakaH
+09:0,0:28534:varukaH:varu(rU)kaH:varUkaH
+09:0,1:28766:vasukaH:vasu(sU)kaH:vasUkaH
+09:0,0:28939:vAdalaH:vAda(dA)laH:vAdAlaH
+09:0,0:28943:vADukyam:vADu(DU)kyam:vADUkyam
+09:0,0:29510:viqojas:viqo(qO)jas:viqOjas
+09:0,0:29871:vipratisAraH:viprati(tI)sAraH:vipratIsAraH
+09:0,0:31177:vyatihAraH:vyati(tI)hAraH:vyatIhAraH
+09:2,0:31238:vyaBicAraH:vyaBi(BI)cAraH:vyaBIcAraH
+09:0,1:31975:SAlukam:SAlu(lU)kam:SAlUkam
+09:0,0:31976:SAluraH:SAlu(lU)raH:SAlUraH
+09:0,0:32249:Sur:Su(SU)r:SUr
+09:0,0:33683:saBikaH:saBi(BI)kaH:saBIkaH
+09:0,0:34379:sarasikaH:sarasi(sI)kaH:sarasIkaH
+09:0,0:34391:sariman:sari(rI)man:sarIman
+09:0,1:35156:suzima:suzi(zI)ma:suzIma
+09:0,1:35271:sfRikA:sfRi(RI)kA:sfRIkA
+09:0,0:35616:stariman:stari(rI)man:starIman
+09:0,0:35995:syamikaH:syami(mI)kaH:syamIkaH
+09:0,0:36342:hastinapuram:hastina(nA)puram:hastinApuram
+09:0,0:36383:hAlahalam:hAla(lA)halam:hAlAhalam
+09:0,0:36403:hAhalam:hAha(hA)lam:hAhAlam
+09:0,0:36535:hfdikaH:hfdi(dI)kaH:hfdIkaH
+09:0,0:36579:helihila:he(hE)lihila:hElihila
+10:2,1:1580:animiza:animi(me)za:animeza
+10:0,0:3573:aBimihya:aBimi(me)hya:aBimehya
+10:0,2:6561:AgrahAyaRaka:AgrahAyaRa(Ri)ka:AgrahAyaRika
+10:0,0:8435:ucciwaNgaH:ucciwa(wi)NgaH:ucciwiNgaH
+10:0,0:8492:ujjayanI:ujjaya(yi)nI:ujjayinI
+10:0,0:8874:udakala:udaka(ki)la:udakila
+10:0,0:10261:uBayedyus:uBaye(ya)dyus:uBayadyus
+10:0,0:10266:umbaraH:umba(bu)raH:umburaH
+10:0,0:10350:ullakasanam:ulla(lu)kasanam:ullukasanam
+10:0,0:11545:karawuH:kara(re)wuH:karewuH
+10:0,0:12178:kASmIraka:kASmIra(ri)ka:kASmIrika
+10:0,0:12223:kiYcilikaH:kiYcili(lu)kaH:kiYcilukaH
+10:0,0:12327:kukundaraH:kukunda(du)raH:kukunduraH
+10:2,2:12669:kusIda:kusI(si)da:kusida
+10:0,0:12930:kErAtaka:kErAta(ti)ka:kErAtika
+10:0,0:13165:krAyakaH:krAya(yi)kaH:krAyikaH
+10:0,0:14062:gizRuH:gi(ge)zRuH:gezRuH
+10:0,0:14230:gfhAlikA:gfhA(ho)likA:gfholikA
+10:0,0:14987:cilamIlikA:cilamI(mi)likA:cilamilikA
+10:0,0:15013:cIrikA:cIri(ru)kA:cIrukA
+10:0,0:15162:colaRqukaH:cola(lo)RqukaH:coloRqukaH
+10:0,0:15835:Jagati:Jaga(gi)ti:Jagiti
+10:1,0:17795:dvArakA:dvAra(ri)kA:dvArikA
+10:0,0:17879:DanIyakam:DanI(ne)yakam:Daneyakam
+10:0,0:18068:DUpakaH:DUpa(pi)kaH:DUpikaH
+10:0,0:18637:nikurambam:nikura(ru)mbam:nikurumbam
+10:0,0:19433:nIcakA:nIca(ci)kA:nIcikA
+10:0,0:19540:nEcakI:nEca(ci)kI:nEcikI
+10:0,0:21803:perajam:pera(ro)jam:perojam
+10:0,0:22959:pradeSanI:pradeSa(Si)nI:pradeSinI
+10:0,0:23125:praboDanI:praboDa(Di)nI:praboDinI
+10:0,0:23943:prAboDakaH:prAboDa(Di)kaH:prAboDikaH
+10:0,0:23956:prAmodaka:prAmoda(di)ka:prAmodika
+10:0,0:24227:prOQatvam:prOQa(Qi)tvam:prOQitvam
+10:0,1:24369:Penila:Peni(na)la:Penala
+10:0,0:24959:Barm:Barm(rv):Barv
+10:0,0:26380:muKaRqI:muKa(Ku)RqI:muKuRqI
+10:1,0:26387:mucakundaH:muca(cu)kundaH:mucukundaH
+10:0,0:26763:mOkaliH:mOka(ku)liH:mOkuliH
+10:0,0:27197:rakzaRArakaH:rakzaRA(RI)rakaH:rakzaRIrakaH
+10:1,0:28397:vaDUwI:vaDU(Du)wI:vaDuwI
+10:0,0:29712:vinAsaka:vinAsa(si)ka:vinAsika
+10:0,0:31671:SamIraH:SamI(mi)raH:SamiraH
+10:0,0:32253:Sulv:Sulv(lb):Sulb
+10:0,0:32733:zoqaSaka:zoqaSa(Si)ka:zoqaSika
+10:0,0:34131:saMparAyakam:saMparAya(yi)kam:saMparAyikam
+10:0,0:36528:hfRIyA:hfRI(Ri)yA:hfRiyA
+11:0,1:528:aRaka:aRa(na)ka:anaka
+11:0,0:652:atinicft:atinicf(vf)t:atinivft
+11:0,0:673:atipAdanicft:atipAdanicf(vf)t:atipAdanivft
+11:0,0:1028:aDastarAm:aDastarA(mA)m:aDastamAm
+11:0,0:3812:aBisAntv:aBisA(SA)ntv:aBiSAntv
+11:0,0:5040:avaDra:ava(ba)Dra:abaDra
+11:0,0:6748:AtApin:AtApi(yi)n:AtAyin
+11:0,0:7657:Avarhita:Ava(ba)rhita:Abarhita
+11:0,0:8093:ikzvArikaH:ikzvAri(li)kaH:ikzvAlikaH
+11:0,0:8113:iqaspatiH:iqa(la)spatiH:ilaspatiH
+11:0,0:8308:Iqenya:Iqe(le)nya:Ilenya
+11:0,0:9947:upaSiNGanam:upaSiNGa(ha)nam:upaSiNhanam
+11:0,0:10700:eraNgaH:era(la)NgaH:elaNgaH
+11:0,0:11213:kawAkuH:kawA(WA)kuH:kaWAkuH
+11:0,0:11267:kaqaNgaraH:kaqaNga(ka)raH:kaqaNkaraH
+11:0,0:11270:kaqatram:kaqa(la)tram:kalatram
+11:0,0:11494:kabanDin:kaba(va)nDin:kavanDin
+11:0,0:11588:karenaraH:karena(va)raH:karevaraH
+11:0,4:11789:kavara:kava(ba)ra:kabara
+11:1,0:11790:kavarI:kava(ba)rI:kabarI
+11:0,1:11815:kaSeru:kaSe(se)ru:kaseru
+11:0,0:11834:kazerukA:kaze(se)rukA:kaserukA
+11:0,0:12134:kAlaSeyam:kAlaSe(se)yam:kAlaseyam
+11:0,0:12202:kAsU:kAsU(SU):kASU
+11:4,0:12505:kuberaH:kube(ve)raH:kuveraH
+11:0,0:12634:kuvindaH:kuvi(pi)ndaH:kupindaH
+11:0,0:12636:kuvera:kuve(be)ra:kubera
+11:0,0:12724:kUpAraH:kUpA(vA)raH:kUvAraH
+11:1,3:12726:kUbara:kUba(va)ra:kUvara
+11:0,0:12727:kUbarin:kUba(va)rin:kUvarin
+11:1,1:12905:kesarin:kesa(Sa)rin:keSarin
+11:0,0:13005:koSin:koSi(zi)n:kozin
+11:0,0:13007:koSAtakaH:koSA(zA)takaH:kozAtakaH
+11:0,0:13016:kosalaH:kosa(Sa)laH:koSalaH
+11:0,0:13017:kosalA:kosa(Sa)lA:koSalA
+11:0,1:13091:kOvera:kOve(be)ra:kObera
+11:0,1:13104:kOSeya:kOSe(ze)ya:kOzeya
+11:0,2:13246:klIba:klIba(va):klIva
+11:0,0:13516:KawakkikA:Kawa(qa)kkikA:KaqakkikA
+11:0,0:13720:Kora:Kora(la):Kola
+11:0,0:14061:gilita:gili(ri)ta:girita
+11:0,0:14242:geRqukaH:geRqu(du)kaH:geRdukaH
+11:0,0:14551:GoRasaH:GoRa(na)saH:GonasaH
+11:0,0:14973:cibukam:cibu(vu)kam:civukam
+11:0,0:15354:jawulaH:jawu(qu)laH:jaqulaH
+11:0,0:15708:juhUrARaH:juhUrA(vA)RaH:juhUvARaH
+11:0,0:15846:JaRatkAraH:JaRa(na)tkAraH:JanatkAraH
+11:0,0:16964:daSerakaH:daSe(se)rakaH:daserakaH
+11:0,0:16981:dagArgalam:dagA(kA)rgalam:dakArgalam
+11:0,0:17122:daSerakaH:daSe(se)rakaH:daserakaH
+11:0,1:17255:dASeyaH:dASe(se)yaH:dAseyaH
+11:0,1:17621:dOkUlaH:dOkU(gU)laH:dOgUlaH
+11:0,0:18060:DURakaH:DURa(na)kaH:DUnakaH
+11:0,0:18695:nigAraka:nigAra(la)ka:nigAlaka
+11:0,1:18841:nibarhaRa:niba(va)rhaRa:nivarhaRa
+11:0,0:18929:niravahAnikA:niravahAni(li)kA:niravahAlikA
+11:0,0:19194:niviqa:nivi(bi)qa:nibiqa
+11:0,0:19589:nEviqyam:nEvi(bi)qyam:nEbiqyam
+11:0,0:19999:parAnasA:parAna(Ra)sA:parARasA
+11:0,0:20346:paribarhaH:pariba(va)rhaH:parivarhaH
+11:0,0:20347:paribarhaRam:pariba(va)rhaRam:parivarhaRam
+11:0,1:20901:pAMsana:pAMsa(Sa)na:pAMSana
+11:0,0:20902:pAMsava:pAMsa(Sa)va:pAMSava
+11:0,0:20904:pAMsuraH:pAMsu(Su)raH:pAMSuraH
+11:0,3:20905:pAMsula:pAMsu(Su)la:pAMSula
+11:0,2:21130:pAraSava:pAraSa(sa)va:pArasava
+11:0,0:21185:pAriyAtraH:pAriyA(pA)traH:pAripAtraH
+11:0,0:21186:pAriyAtrikaH:pAriyA(pA)trikaH:pAripAtrikaH
+11:0,0:22505:pratibandI:pratiba(va)ndI:prativandI
+11:0,0:23104:prabarha:praba(va)rha:pravarha
+11:0,0:23113:prabahlikA:praba(va)hlikA:pravahlikA
+11:0,0:23176:pramaRas:pramaRa(na)s:pramanas
+11:0,0:23594:prasalaH:prasa(Sa)laH:praSalaH
+11:0,0:23731:prahaRemiH:prahaRe(ne)miH:prahanemiH
+11:0,0:23942:prAbAlikaH:prAbA(vA)likaH:prAvAlikaH
+11:0,1:24365:PeRaka:PeRa(na)ka:Penaka
+11:0,0:24366:PeRapaH:PeRa(na)paH:PenapaH
+11:0,0:24395:baqiSam:baqi(li)Sam:baliSam
+11:0,0:24506:balIvardaH:balI(rI)vardaH:barIvardaH
+11:0,2:25195:BIruka:BIru(lu)ka:BIluka
+11:0,0:25198:BIrU:BIrU(lU):BIlU
+11:0,1:25381:BraMSana:BraMSa(sa)na:BraMsana
+11:0,0:25543:mawacI:mawa(Wa)cI:maWacI
+11:0,0:25697:manAyI:manAyI(vI):manAvI
+11:0,1:25815:marUvaka:marUva(ba)ka:marUbaka
+11:0,0:25904:masIBU:masI(zI)BU:mazIBU
+11:0,0:26175:mArjArIyaH:mArjArI(lI)yaH:mArjAlIyaH
+11:0,0:26292:minmina:minmina(la):minmila
+11:0,0:26455:muSalI:muSa(sa)lI:musalI
+11:0,0:27327:raSmimat:raSmima(va)t:raSmivat
+11:0,0:28532:varIvardaH:varI(lI)vardaH:valIvardaH
+11:0,2:29109:vAsizWa:vAsi(Si)zWa:vASizWa
+11:0,0:29194:vikazA:vikazA(sA):vikasA
+11:0,0:30151:viropaRam:viropa(ha)Ram:virohaRam
+11:0,0:30793:vetaRqaH:veta(da)RqaH:vedaRqaH
+11:0,0:30880:vesavAraH:vesa(Sa)vAraH:veSavAraH
+11:0,0:31111:vorakaH:vora(la)kaH:volakaH
+11:0,0:31320:vyAkoSa:vyAkoSa(za):vyAkoza
+11:4,1:31650:SabaraH:Saba(va)raH:SavaraH
+11:0,3:31651:Sabala:Saba(va)la:Savala
+11:1,2:31892:SAbara:SAba(va)ra:SAvara
+11:0,0:32071:SibikA:Sibi(vi)kA:SivikA
+11:0,0:32072:Sibiram:Sibi(vi)ram:Siviram
+11:0,0:32073:SibiraTaH:Sibi(vi)raTaH:SiviraTaH
+11:0,0:32228:SunASIraH:SunASI(sI)raH:SunAsIraH
+11:0,1:33450:sanIqa:sanIqa(la):sanIla
+11:0,0:34458:savikASa:savikASa(sa):savikAsa
+11:0,0:34846:sArasanam:sArasa(Sa)nam:sAraSanam
+11:0,0:35124:sunAsIraH:sunAsI(SI)raH:sunASIraH
+11:0,0:35694:sTakaram:sTaka(ga)ram:sTagaram
+11:0,0:36245:hapuzA:hapu(bu)zA:habuzA
+11:0,0:36314:hallISakaH:hallISa(sa)kaH:hallIsakaH
+11:0,0:36552:heqAbukkaH:heqAbu(vu)kkaH:heqAvukkaH
+12:0,0:459:ajjukA:ajju(jjU)kA:ajjUkA
+12:1,0:4291:amlikA:amli(mlI)kA:amlIkA
+12:0,0:4918:avacCadaH:avacCa(cCA)daH:avacCAdaH
+12:0,0:6636:AcCAkaH:AcCA(cCu)kaH:AcCukaH
+12:0,1:7008:AnuSravika:AnuSra(SrA)vika:AnuSrAvika
+12:0,0:7333:AmlikA:Amli(mlI)kA:AmlIkA
+12:0,0:7405:ArakzakaH:Arakza(kzi)kaH:ArakzikaH
+12:0,0:8168:indivaram:indi(ndI)varam:indIvaram
+12:0,0:9422:upakvaRaH:upakva(kvA)RaH:upakvARaH
+12:0,0:12387:kuwwanI:kuwwa(wwi)nI:kuwwinI
+12:0,1:12446:kuRqira:kuRqi(RqI)ra:kuRqIra
+12:0,0:13625:Kalliwa:Kalli(llI)wa:KallIwa
+12:0,0:13999:gAnDarvakaH:gAnDarva(rvi)kaH:gAnDarvikaH
+12:0,0:14205:gfRqivaH:gfRqi(RqI)vaH:gfRqIvaH
+12:0,0:15422:jambukaH:jambu(mbU)kaH:jambUkaH
+12:0,0:15429:jamBaraH:jamBa(mBI)raH:jamBIraH
+12:0,1:15893:JillikaH:Jilli(llI)kaH:JillIkaH
+12:1,0:15984:qiRqIraH:qiRqI(Rqi)raH:qiRqiraH
+12:0,0:16468:tiraskariRI:tiraska(skA)riRI:tiraskAriRI
+12:0,0:16576:tumbaruH:tumba(mbu)ruH:tumburuH
+12:0,0:17008:dadruRa:dadru(drU)Ra:dadrURa
+12:0,0:18056:DusturaH:Dustu(stU)raH:DustUraH
+12:0,0:19655:nyuNKa:nyu(nyU)NKa:nyUNKa
+12:0,0:20843:palyul:palyu(lyU)l:palyUl
+12:0,0:21329:picCakA:picCa(cCi)kA:picCikA
+12:0,0:23468:pravistaraH:pravista(stA)raH:pravistAraH
+12:0,0:23717:prasvanaH:prasva(svA)naH:prasvAnaH
+12:0,0:23769:praharzaRI:praharza(rzi)RI:praharziRI
+12:4,0:24223:prozWaH:pro(prO)zWaH:prOzWaH
+12:0,1:24225:proha:pro(prO)ha:prOha
+12:13,1:24226:proQa:pro(prO)Qa:prOQa
+12:1,0:24228:prOQiH:prO(pro)QiH:proQiH
+12:0,0:24436:babbulaH:babbu(bbU)laH:babbUlaH
+12:0,0:25010:BasmAkf:BasmA(smI)kf:BasmIkf
+12:0,0:25167:BindapAlaH:Binda(ndi)pAlaH:BindipAlaH
+12:5,2:25981:mAkzika:mAkzi(kzI)ka:mAkzIka
+12:0,0:28004:licCaviH:licCa(cCi)viH:licCiviH
+12:0,0:28604:vartIraH:vartI(rti)raH:vartiraH
+12:0,0:28644:varvUraH:varvU(rvu)raH:varvuraH
+12:0,0:28711:valyUl:valyU(lyu)l:valyul
+12:0,0:29125:vAstukam:vAstu(stU)kam:vAstUkam
+12:0,1:29151:vAhlikaH:vAhli(hlI)kaH:vAhlIkaH
+12:0,0:30557:visPurj:visPu(sPU)rj:visPUrj
+12:0,0:31909:SAmbukaH:SAmbu(mbU)kaH:SAmbUkaH
+12:0,0:33839:samAplavaH:samApla(plA)vaH:samAplAvaH
+12:0,1:36440:hiRqiraH:hiRqi(RqI)raH:hiRqIraH
+13:0,0:3598:aBiyugvan:aBiyugva(jva)n:aBiyujvan
+13:1,0:3767:aBizyandaH:aBizya(sya)ndaH:aBisyandaH
+13:1,0:3768:aBizyandin:aBizya(sya)ndin:aBisyandin
+13:0,0:11048:OrDvasrotasikaH:OrDvasro(Sro)tasikaH:OrDvaSrotasikaH
+13:0,0:11904:kAYcanAraH:kAYcanAraH(laH):kAYcanAlaH
+13:0,0:12412:kuqavaH:kuqavaH(paH):kuqapaH
+13:0,0:12549:kuraraH:kuraraH(laH):kuralaH
+13:0,0:12554:kurAlaH:kurAlaH(haH):kurAhaH
+13:1,1:12618:kulmAzam:kulmAzam(sam):kulmAsam
+13:18,0:13732:gaganam:gaganam(Ram):gagaRam
+13:0,0:15122:cewaH:cewaH(qaH):ceqaH
+13:0,0:15900:JURiH:JURiH(liH):JUliH
+13:0,0:15939:wiwiBaH:wiwi(wwi)BaH:wiwwiBaH
+13:0,0:16308:tAjikaH:tAjikaH(taH):tAjitaH
+13:0,0:16434:tijilaH:tijilaH(naH):tijinaH
+13:0,0:19307:nizkAsaH:nizkAsaH(SaH):nizkASaH
+13:0,0:19400:nisyandaH:nisya(zya)ndaH:nizyandaH
+13:0,0:19962:paraSvaDaH:paraSva(sva)DaH:parasvaDaH
+13:0,0:20345:paribfMh:paribfM(vfM)h:parivfMh
+13:0,0:20348:paribfMhaRam:paribfM(vfM)haRam:parivfMhaRam
+13:0,1:20349:paribfMhita:paribfM(vfM)hita:parivfMhita
+13:0,0:20567:parizkand:parizka(ska)nd:pariskand
+13:0,1:20569:parizkanda:parizka(ska)nda:pariskanda
+13:0,0:20570:parizkandat:parizka(ska)ndat:pariskandat
+13:0,0:20580:parizpandaH:parizpa(spa)ndaH:parispandaH
+13:0,0:23823:prANgaRam:prANgaRam(nam):prANganam
+13:0,0:24304:PalasaH:PalasaH(SaH):PalaSaH
+13:0,0:25275:BfkuMSaH:BfkuMSaH(saH):BfkuMsaH
+13:5,0:26172:mArjAraH:mArjAraH(laH):mArjAlaH
+13:0,0:26596:mfnmaya:mfnma(Rma)ya:mfRmaya
+13:0,0:29200:vikasvara:vikasva(Sva)ra:vikaSvara
+13:0,0:29492:viwWalaH:viwWa(WWa)laH:viWWalaH
+13:0,0:31787:SazkulI:Sazku(sku)lI:SaskulI
+13:0,0:32226:SunaHSepaH:SunaHSepaH(PaH):SunaHSePaH
+13:0,0:34946:sASra:sASra(sra):sAsra
+14:0,0:772:atiSakkarI:atiSakka(kva)rI:atiSakvarI
+14:0,0:1513:anAlambukA:anAlambu(mBu)kA:anAlamBukA
+14:0,0:7586:AlAbuH:AlAbuH(bUH):AlAbUH
+14:0,0:8172:indukaH:indukaH(kuH):indukuH
+14:1,2:10347:ulbaRa:ulba(lva)Ra:ulvaRa
+14:0,0:10835:okaRaH:okaRaH(RiH):okaRiH
+14:0,4:11664:karbura:karbu(rvu)ra:karvura
+14:0,0:11665:karburita:karbu(rvu)rita:karvurita
+14:0,3:11666:karbUra:karbU(rvU)ra:karvUra
+14:0,3:11681:karvara:karva(rba)ra:karbara
+14:0,0:12276:kilkin:kilki(lvi)n:kilvin
+14:2,1:13601:Karva:Karva(rba):Karba
+14:0,0:13604:Karvujam:Karvu(rbu)jam:Karbujam
+14:0,0:14195:gUrta:gUrta(rRa):gUrRa
+14:0,0:17654:dOzyantiH:dOzya(zma)ntiH:dOzmantiH
+14:0,1:18458:nAqiMDama:nAqiM(qIM)Dama:nAqIMDama
+14:0,0:21354:piwaNkASaH:piwaNkA(NgA)SaH:piwaNgASaH
+14:0,0:23782:prahrAdaH:prahrA(hlA)daH:prahlAdaH
+14:0,1:23784:prahnAdana:prahnA(hlA)dana:prahlAdana
+14:0,0:24851:BaNkArI:BaNkA(NgA)rI:BaNgArI
+14:0,0:25431:BrAS:BrA(BlA)S:BlAS
+14:0,0:25435:BrAs:BrA(BlA)s:BlAs
+14:0,0:25444:Brez:Bre(Ble)z:Blez
+14:0,0:26597:mfdaNkuraH:mfdaNkuraH(ruH):mfdaNkuruH
+14:0,0:27939:lAbuH:lAbuH(bUH):lAbUH
+14:0,0:28312:vaYculakaH:vaYcu(Yju)lakaH:vaYjulakaH
+14:0,0:29047:vArbawaH:vArba(rva)waH:vArvawaH
+14:1,2:31675:Samba:Samba(mBa):SamBa
+14:0,0:31708:SarayuH:SarayuH(yUH):SarayUH
+14:0,0:32470:SOlvikaH:SOlvi(lbi)kaH:SOlbikaH
+14:1,0:36247:hambA:hambA(mBA):hamBA
+15:0,0:65:akava:akava, -vA:akavA
+15:0,0:655:atinO:atinO, -nu:atinu
+15:0,1:3052:apodikA:apodikA, -kI:apodikI
+15:0,0:3847:aBihita:aBihita, -ti:aBihiti
+15:0,1:3869:aBIta:aBIta, -ti:aBIti
+15:0,0:5498:avicAcala:avicAcala, -li:avicAcali
+15:0,0:6187:asfRi:asfRi, -RI:asfRI
+15:0,0:6304:ahala:ahala, -li:ahali
+15:0,0:6309:ahaha:ahaha, -hA:ahahA
+15:0,0:11331:kaRqUyati:kaRqUyati, -te:kaRqUyate
+15:0,1:11495:kabara:kabara, -rI:kabarI
+15:0,0:12267:kilakilAyati:kilakilAyati, -te:kilakilAyate
+15:0,0:14460:GarGarA:GarGarA, -rI:GarGarI
+15:0,0:14919:cikkaRA:cikkaRA, -RI:cikkaRI
+15:0,0:15867:JallarA:JallarA, -rI:JallarI
+15:0,0:16189:tami:tami, -mI:tamI
+15:0,0:18077:DUmAyati:DUmAyati, -te:DUmAyate
+15:0,0:18140:DOti:DOti, -tI:DOtI
+15:10,1:18497:nABi:nABi, -BI:nABI
+15:0,0:21100:pArayati:pArayati, -te:pArayate
+15:0,0:22467:pratipadA:pratipadA, -dI:pratipadI
+15:0,0:23617:prasu:prasu, -sU:prasU
+15:0,0:24449:barbawA:barbawA, -wI:barbawI
+15:0,0:26459:muzA:muzA, -zI:muzI
+15:0,0:27363:rAgA:rAgA, -gI:rAgI
+15:0,0:28036:lIlAyati:lIlAyati, -te:lIlAyate
+15:0,0:28123:lelAyati:lelAyati, -te:lelAyate
+15:0,0:28591:vartakA:vartakA, -kI:vartakI
+15:0,0:31746:SarvalA:SarvalA, -lI:SarvalI
+15:0,0:34363:saraRA:saraRA, -RI:saraRI
+15:0,0:34432:sarvalA:sarvalA, -lI:sarvalI
+15:6,1:36240:hanu:hanu, -nU:hanU
+16:0,0:58:akalkana:akalkana, -ka:akalkaka
+16:0,0:967:adomada:adomada, -Da:adomaDa
+16:0,0:1276:anaNguri:anaNguri, -li:anaNguli
+16:0,0:1352:anaByASa:anaByASa, -sa:anaByAsa
+16:0,0:2835:apazWura:apazWura, -la:apazWula
+16:0,0:3587:aBimlAta:aBimlAta, -na:aBimlAna
+16:0,0:4035:aByASa:aByASa, -sa:aByAsa
+16:0,0:6032:asaMdita:asaMdita, -na:asaMdina
+16:0,0:8116:iqA:iqA, -lA:ilA
+16:1,1:8226:irvAru:irvAru, -lu:irvAlu
+16:0,2:8312:Idfkza:Idfkza, -Sa:IdfkSa
+16:0,0:8582:utkuYcitA:utkuYcitA, -kA:utkuYcikA
+16:0,0:8769:utpiYjara:utpiYjara, -la:utpiYjala
+16:0,0:12360:kuwika:kuwika, -ta:kuwita
+16:0,0:13580:KariMDama:KariMDama, -ya:KariMDaya
+16:0,0:13755:gaqura:gaqura, -la:gaqula
+16:0,1:15090:cUqAra:cUqAra, -la:cUqAla
+16:0,0:15532:jAtIya:jAtIya, -ka:jAtIka
+16:0,0:18948:niriNgiRI:niriNgiRI, -nI:niriNginI
+16:0,0:19018:nirdawa:nirdawa, -qa:nirdaqa
+16:0,1:22016:prakopana:prakopana, -Ra:prakopaRa
+16:0,0:23669:prastIta:prastIta, -ma:prastIma
+16:0,0:28508:varAwI:varAwI, -qI:varAqI
+16:0,0:29244:vikoSa:vikoSa, -za:vikoza
+17:0,0:960:adevayat:adevayat, -yu:adevayu
+17:0,0:1339:anapsaras:anapsaras, -rA:anapsarA
+17:0,0:6186:asfpAwaH:asfpAwaH, -wI:asfpAwI
+17:0,1:7266:AmalakaH:AmalakaH, -kI:AmalakI
+17:0,0:7501:ArgalaH:ArgalaH, -lI:ArgalI
+17:0,1:9386:upakUpam:upakUpam, -pe:upakUpe
+17:0,1:11113:kakkolaH:kakkolaH, -lI:kakkolI
+17:0,0:11189:kaYjakaH:kaYjakaH, -kI:kaYjakI
+17:0,0:11953:kAnizWineyaH:kAnizWineyaH, -yI:kAnizWineyI
+17:0,1:12402:kuWAraH:kuWAraH, -rI:kuWArI
+17:0,0:13522:KawwASaH:KawwASaH, -SI:KawwASI
+17:0,1:14615:cawuH:cawuH, -wu:cawu
+17:6,0:14802:cAwuH:cAwuH, -wu:cAwu
+17:0,0:15865:Jallakam:Jallakam, -kI:JallakI
+17:0,0:16420:tAvizaH:tAvizaH, -zI:tAvizI
+17:0,1:16450:tindukam:tindukam, -kI:tindukI
+17:0,1:17952:DAnam:DAnam, -nI:DAnI
+17:0,0:19378:nizpravARam:nizpravARam, -Ri:nizpravARi
+17:0,0:19784:pawwanam:pawwanam, -nI:pawwanI
+17:0,0:20705:parpikaH:parpikaH, -kI:parpikI
+17:2,0:21540:puttalaH:puttalaH, -lI:puttalI
+17:0,0:23031:pranAlaH:pranAlaH, -lI:pranAlI
+17:0,0:24448:barbawaH:barbawaH, -wI:barbawI
+17:0,0:28684:valiSam:valiSam, -SI:valiSI
+17:0,0:29951:viBAtam:viBAtam, -tI:viBAtI
+17:0,0:30725:vfntAkaH:vfntAkaH, -kI:vfntAkI
+17:3,0:31555:SakulaH:SakulaH, -lI:SakulI
+17:0,0:31864:SAtapatrakaH:SAtapatrakaH, -kI:SAtapatrakI
+17:0,0:33665:saParaH:saParaH, -rI:saParI
+18:0,0:380:acCa:acCa, -cCA:acCA
+18:0,1:619:aticCandaH:aticCandaH, -das:aticCandas
+18:0,0:893:aTarya:aTarya, -ryu:aTaryu
+18:0,0:1415:anavekza:anavekza, -kzA:anavekzA
+18:0,0:2880:apasya:apasya, -syu:apasyu
+18:0,0:3064:aptoryAmaH:aptoryAmaH, -man:aptoryAman
+18:0,0:3363:aBigezRa:aBigezRa, -zRu:aBigezRu
+18:0,0:7955:Astf:Astf, -stF:AstF
+18:0,0:10062:upastf:upastf, -stF:upastF
+18:1,1:13210:krozwu:krozwu, -zwf:krozwf
+18:2,1:14628:caRqA:caRqA, -RqI:caRqI
+18:0,0:15029:cuccu:cuccu, -ccU:cuccU
+18:4,0:15421:jambu:jambu, -mbU:jambU
+18:0,0:16253:tardu:tardu, -rdU:tardU
+18:0,0:24712:bukkA:bukkA, -kkI:bukkI
+18:0,0:25304:BeRqA:BeRqA, -RqI:BeRqI
+18:0,0:25433:BrAzwrakam:BrAzwrakam, -kaH:BrAzwrakaH
+18:0,0:26634:mew:mew, -meq:meq
+18:0,0:30058:vimbA:vimbA, -mbI:vimbI
+18:0,0:32996:saMstf:saMstf, -stF:saMstF
+18:0,0:35039:simbA:simbA, -mbI:simbI
+19:0,0:247:agnimat:agnimat, -vat:agnivat
+19:0,0:314:aNganam:aNganam, -Ram:aNgaRam
+19:0,0:1932:anuprapAtam:anuprapAtam, -dam:anuprapAdam
+19:0,0:3891:aBISuH:aBISuH, -zuH:aBIzuH
+19:0,0:4524:argalIya:argalIya, -lya:argallya
+19:0,0:4541:arcimat:arcimat, -vat:arcivat
+19:0,1:4910:avacUqaH:avacUqaH, -laH:avacUlaH
+19:0,0:4941:avaqaNgaH:avaqaNgaH, -kaH:avaqaNkaH
+19:0,0:6474:AkzowaH:AkzowaH, -qaH:AkzoqaH
+19:0,0:8240:ilvakAH:ilvakAH, -lAH:ilvalAH
+19:0,0:8438:uccUqaH:uccUqaH, -laH:uccUlaH
+19:0,0:9186:udraNkaH:udraNkaH, -gaH:udraNgaH
+19:0,0:11177:kaYcawaH:kaYcawaH, -qaH:kaYcaqaH
+19:0,0:11716:kalaviNkaH:kalaviNkaH, -gaH:kalaviNgaH
+19:0,0:11917:kAReyaH:kAReyaH, -raH:kAReraH
+19:0,0:12580:kulaMBaraH:kulaMBaraH, -laH:kulaMBalaH
+19:0,0:12771:kfkaRaH:kfkaRaH, -raH:kfkaraH
+19:0,0:13706:KewitAnaH:KewitAnaH, -laH:KewitAlaH
+19:0,0:13758:gaqqaraH:gaqqaraH, -laH:gaqqalaH
+19:0,0:14301:gOYjikaH:gOYjikaH, -gaH:gOYjigaH
+19:0,0:14596:caNkuRaH:caNkuRaH, -raH:caNkuraH
+19:0,0:14887:cAzaH:cAzaH, -saH:cAsaH
+19:0,0:15997:quRquBaH:quRquBaH, -maH:quRqumaH
+19:0,0:16125:tantunaH:tantunaH, -RaH:tantuRaH
+19:0,0:16126:tanturam:tanturam, -lam:tantulam
+19:0,0:16799:tOtAtikam:tOtAtikam, -tam:tOtAtitam
+19:0,0:17633:dOrbalyam:dOrbalyam, -lam:dOrballam
+19:0,0:17695:dramiqaH:dramiqaH, -laH:dramilaH
+19:0,0:17959:DAnayaH:DAnayaH, -kaH:DAnakaH
+19:0,0:18453:nAweyaH:nAweyaH, -raH:nAweraH
+19:0,1:18527:nArikeraH:nArikeraH, -laH:nArikelaH
+19:0,0:18631:nikASaH:nikASaH, -saH:nikAsaH
+19:0,0:21096:pArawIwaH:pArawIwaH, -naH:pArawInaH
+19:8,0:24364:PeRaH:PeRaH, -naH:PenaH
+19:0,0:25055:BARqikaH:BARqikaH, -laH:BARqilaH
+19:0,0:25379:BraMSaH:BraMSaH, -saH:BraMsaH
+19:0,0:28061:luRWiH:luRWiH, -wiH:luRwiH
+19:0,0:28514:varASiH:varASiH, -siH:varAsiH
+19:0,0:29162:vikaNkawaH:vikaNkawaH, -taH:vikaNkataH
+19:0,0:29459:vijjanam:vijjanam, -lam:vijjalam
+19:0,0:36674:hrIveram:hrIveram, -lam:hrIvelam
+20:0,0:370:acizRu:acizRu, -zwu:acizwu
+20:0,0:870:atyuktA:atyuktA, -kTA:atyukTA
+20:0,0:1473:anADfzwa:anADfzwa, -zya:anADfzya
+20:0,0:3546:aBiBuH:aBiBuH, -BUH:aBiBUH
+20:3,1:4691:alAbuH:alAbuH, -bUH:alAbUH
+20:0,1:6534:AgUrRa:AgUrRa, -rta:AgUrta
+20:0,0:7152:AprItapaH:AprItapaH, -pAH:AprItapAH
+20:0,0:7276:AmiSra:AmiSra, -Sla:AmiSla
+20:0,0:8408:uccEstaram:uccEstaram, -rAm:uccEstarAm
+20:0,0:10923:OttAnapAdaH:OttAnapAdaH, -diH:OttAnapAdiH
+20:0,1:11293:kaReraH:kaReraH, -ruH:kaReruH
+20:0,0:13532:KaquH:KaquH, -qUH:KaqUH
+20:0,0:14071:guggulaH:guggulaH, -luH:gugguluH
+20:0,0:14842:cAndramasAyanaH:cAndramasAyanaH, -niH:cAndramasAyaniH
+20:0,0:15692:jur:jur, -jUr:jUr
+20:1,1:16730:tariH:tariH, -rIH:tarIH
+20:0,0:17038:damaTaH:damaTaH, -TuH:damaTuH
+20:0,0:18578:nAhuzaH:nAhuzaH, -ziH:nAhuziH
+20:0,0:20259:paridiv:paridiv, -dev:paridev
+20:0,0:26985:yAjYasenaH:yAjYasenaH, -niH:yAjYaseniH
+20:0,0:29588:viduH:viduH, -dUH:vidUH
+20:0,0:31442:vyutaH:vyutaH, -tiH:vyutiH
+20:0,0:35353:sEraH:sEraH, -riH:sEriH
+21:0,0:557:atapas:atapas, -ska:atapaska
+21:0,1:1425:anasUya:anasUya, -yaka:anasUyaka
+21:0,1:2594:apati:apati, -tika:apatika
+21:0,1:2847:apasavya:apasavya, -savyaka:apasavyaka
+21:3,1:2918:apANga:apANga, -Ngaka:apANgaka
+21:1,1:3234:abadDa:abadDa, -dDaka:abadDaka
+21:0,0:3883:aBIlu:aBIlu, -luka:aBIluka
+21:4,1:4131:amanas:amanas, -amanaska:amanaska
+21:3,0:4137:amantra:amantra, -ntraka:amantraka
+21:0,0:4169:amAtf:amAtf, -tfka:amAtfka
+21:0,0:4188:amAvAsya:amAvAsya, -syaka:amAvAsyaka
+21:0,1:4224:amUla:amUla, -laka:amUlaka
+21:0,1:5289:avaSIrza:avaSIrza, -rzaka:avaSIrzaka
+21:0,0:6189:asecana:asecana, -naka:asecanaka
+21:0,0:9321:unmanas:unmanas, -naska:unmanaska
+21:11,0:10550:fju:fju, -fjuka:fjuka
+21:0,1:10797:Endriya:Endriya, -yaka:Endriyaka
+21:0,3:11332:kaRqUyana:kaRqUyana, -naka:kaRqUyanaka
+21:0,0:15947:wera:wera, -weraka:weraka
+21:0,0:21965:pOzkara:pOzkara, -raka:pOzkaraka
+21:0,0:30015:vimanas:vimanas, -vimanaska:vimanaska
+21:0,0:34456:savikalpa:savikalpa, -savikalpaka:savikalpaka
+22:12,0:541:aRqaH:aRqaH, -Rqam:aRqam
+22:0,0:678:atiprasaNgaH:atiprasaNgaH, -prasaktiH:atiprasaktiH
+22:0,0:909:adakziRIya:adakziRIya, -dakziRya:adakziRya
+22:0,0:988:adruh:adruh, -druhvan:adruhvan
+22:0,0:1049:aDikramaH:aDikramaH, -kramaRam:aDikramaRam
+22:0,0:1074:aDidEvam:aDidEvam, -dEvatam:aDidEvatam
+22:0,1:1400:anavalamba:anavalamba, -mbana:anavalambana
+22:0,0:1686:anukarzaH:anukarzaH, -rzaRam:anukarzaRam
+22:1,0:1757:anujYA:anujYA, -jYAnam:anujYAnam
+22:0,0:1923:anupUrvaSaH:anupUrvaSaH, -pUrveRa:anupUrveRa
+22:0,0:2051:anurasaH:anurasaH, -rasitam:anurasitam
+22:0,0:2072:anulepaH:anulepaH, -lepanam:anulepanam
+22:0,0:2073:anulepaka:anulepaka, -lepin:anulepin
+22:0,1:2094:anuvAdaka:anuvAdaka, -vAdin:anuvAdin
+22:0,0:2096:anuvartana:anuvartana, -vartin:anuvartin
+22:0,0:2142:anuvyAharaRam:anuvyAharaRam, -vyAhAraH:anuvyAhAraH
+22:0,0:2145:anuvrajanam:anuvrajanam, -vrajyA:anuvrajyA
+22:0,0:2149:anuSaya:anuSaya, -Sayin:anuSayin
+22:0,0:2172:anuSocaka:anuSocaka, -Socin:anuSocin
+22:0,0:2192:anuzWAtf:anuzWAtf, -zWAyin:anuzWAyin
+22:0,0:2210:anusaMDAnin:anusaMDAnin, -saMDAyin:anusaMDAyin
+22:0,0:2232:anusAraka:anusAraka, -sArin:anusArin
+22:0,0:2470:anvAramBaH:anvAramBaH, -mBaRam:anvAramBaRam
+22:0,1:2511:apakAraka:apakAraka, -kArin:apakArin
+22:0,0:2537:apakzepaH:apakzepaH, -kzepaRam:apakzepaRam
+22:0,0:2615:apadAnam:apadAnam, -dAnakam:apadAnakam
+22:0,0:2706:aparAjizRu:aparAjizRu, -parAjeya:aparAjeya
+22:0,0:2718:aparicayin:aparicayin, -pariceya:apariceya
+22:0,0:2765:apalAzin:apalAzin, -lAzuka:apalAzuka
+22:0,0:2815:apavyayin:apavyayin, -vyayamAna:apavyayamAna
+22:0,0:2843:apasara:apasara, -sarpa:apasarpa
+22:0,0:2859:apasarpaH:apasarpaH, -rpakaH:apasarpakaH
+22:0,1:2901:apahAraka:apahAraka, -hArin:apahArin
+22:0,1:2986:apihita:apihita, -pihita:apihita
+22:0,1:3022:apUpIya:apUpIya, -apUpya:apUpya
+22:0,0:3057:apohya:apohya, -apohanIya:apohanIya
+22:0,1:3058:apOruza:apOruza, -pOruzeya:apOruzeya
+22:2,0:3066:apnaH:apnaH, -apnas:apnas
+22:0,0:3069:appati:appati, -appittam:appittam
+22:0,0:3247:abAla:abAla, -abAliSa:abAliSa
+22:0,0:3254:abuD:abuD, -buDa:abuDa
+22:0,0:3284:aBakzaH:aBakzaH, -BakzaRam:aBakzaRam
+22:0,0:3344:aBigamaH:aBigamaH, -gamanama:aBigamanama
+22:0,1:3383:aBicAraka:aBicAraka, -cArin:aBicArin
+22:0,0:3452:aBinandanIya:aBinandanIya, -nandya:aBinandya
+22:0,0:3454:aBinaBaH:aBinaBaH, -naByam:aBinaByam
+22:0,0:3576:aBimuKIkf:aBimuKIkf, -muKayati:aBimuKayati
+22:0,0:3591:aBiyAtf:aBiyAtf, -yAtin:aBiyAtin
+22:0,0:3595:aBiyAcanam:aBiyAcanam, -yAcYA:aBiyAcYA
+22:0,0:3606:aBirakzA:aBirakzA, -rakzaRam:aBirakzaRam
+22:0,0:3651:aBivAdaH:aBivAdaH, -vAdanam:aBivAdanam
+22:0,1:3655:aBivAdya:aBivAdya, -vAdanIya:aBivAdanIya
+22:0,0:3664:aBivAnyA:aBivAnyA, -aBivAnyavatsA:aBivAnyavatsA
+22:0,0:3694:aBivyApaka:aBivyApaka, -vyApin:aBivyApin
+22:0,0:3699:aBivyAharaRam:aBivyAharaRam, -vyAhAraH:aBivyAhAraH
+22:0,0:3703:aBiSaMsaka:aBiSaMsaka, -SaMsin:aBiSaMsin
+22:0,0:3781:aBisaMkzip:aBisaMkzip, -saMkzepaH:aBisaMkzepaH
+22:0,0:3931:aByanujYA:aByanujYA, -jYAnam:aByanujYAnam
+22:0,0:3969:aByavaskandaH:aByavaskandaH, -ndanam:aByavaskandanam
+22:0,0:4022:aByAmardaH:aByAmardaH, -mardanam:aByAmardanam
+22:0,0:4028:aByArohaH:aByArohaH, -rohaRam:aByArohaRam
+22:0,0:4148:amarizRu:amarizRu, -amarta:amarta
+22:0,0:4151:amaruH:amaruH, -amarukaH:amarukaH
+22:0,0:4183:amAyika:amAyika, -mAyin:amAyin
+22:0,0:4249:amocanIya:amocanIya, -amocya:amocya
+22:0,0:4434:arAga:arAga, -arAgin:arAgin
+22:0,0:4600:armaH:armaH, -rmam:armam
+22:2,0:4639:alaktaH:alaktaH, -ktakaH:alaktakaH
+22:0,0:4708:alindaH:alindaH, -alindakaH:alindakaH
+22:0,0:4735:alomaka:alomaka, -alomika:alomika
+22:0,0:4846:avagamaH:avagamaH, -gamanam:avagamanam
+22:0,0:4975:avatta:avatta, -avattin:avattin
+22:0,0:5135:avamantavya:avamantavya, -avamAnya:avamAnya
+22:0,0:5214:avarzaH:avarzaH, -avarzaRam:avarzaRam
+22:0,0:5261:avavadaH:avavadaH, -vadanam:avavadanam
+22:0,0:5353:avaskandaH:avaskandaH, -ndanam:avaskandanam
+22:0,0:5492:avigAna:avigAna, -avigIta:avigIta
+22:0,0:5742:avyAKyA:avyAKyA, -KyAnam:avyAKyAnam
+22:0,0:5916:aSvastana:aSvastana, -stanika:aSvastanika
+22:0,0:6039:asaMniDiH:asaMniDiH, -niDAnam:asaMniDAnam
+22:0,1:6079:asaMBavya:asaMBavya, -asaMBAvin:asaMBAvin
+22:0,1:6081:asaMBAvanIya:asaMBAvanIya, -asaMBAvya:asaMBAvya
+22:0,0:6202:asta:asta, -astu:astu
+22:0,0:6268:asriD:asriD, -asreDat:asreDat
+22:0,0:6272:asvaka:asvaka, -asvakIya:asvakIya
+22:0,0:6384:AkASIya:AkASIya, -AkASya:AkASya
+22:0,0:6385:AkiMcanam:AkiMcanam, -AkiMcanyam:AkiMcanyam
+22:0,0:6447:AkroSakaH:AkroSakaH, -krozwF:AkrozwF
+22:0,1:6566:AGarzaH:AGarzaH, -rzaRam:AGarzaRam
+22:1,0:6651:Ajanma:Ajanma, -nmam:Ajanmam
+22:0,0:6767:Atodyam:Atodyam, -dyakam:Atodyakam
+22:0,0:7018:AnfRyam:AnfRyam, -AnfRyatA:AnfRyatA
+22:2,0:7154:AplavaH:AplavaH, -plavanam:Aplavanam
+22:0,0:7265:AmarzaH:AmarzaH, -rzaRam:AmarzaRam
+22:0,0:7290:AmokzaRam:AmokzaRam, -Amocanam:Amocanam
+22:0,0:7300:AmarSaH:AmarSaH, -rSanam:AmarSanam
+22:0,1:7391:AyuDin:AyuDin, -AyuDIya:AyuDIya
+22:0,0:7564:AlApya:AlApya, -lApanIya:AlApanIya
+22:0,0:7571:AlamBaH:AlamBaH, -mBanam:AlamBanam
+22:0,0:7696:AvedanIya:AvedanIya, -vedya:Avedya
+22:0,1:7889:AsaMsAra:AsaMsAra, -saMsfti:AsaMsfti
+22:0,0:7947:AskandaH:AskandaH, -ndanam:Askandanam
+22:0,0:7963:Astra:Astra, -Astrika:Astrika
+22:0,0:8267:izyaH:izyaH, -zyam:izyam
+22:0,0:8676:uttamBaH:uttamBaH, -mBanam:uttamBanam
+22:0,0:8731:utpakzman:utpakzman, -utpakzmala:utpakzmala
+22:0,0:8855:utsarpaH:utsarpaH, -rpaRam:utsarpaRam
+22:8,1:8884:udac:udac, -udaYc:udaYc
+22:0,0:9016:udgraBaRam:udgraBaRam, -udgrAmaH:udgrAmaH
+22:0,0:9087:udDara:udDara, -udDAra:udDAra
+22:0,0:9380:upakuYciH:upakuYciH, -YcikA:upakuYcikA
+22:0,0:9487:upacarma:upacarma, -rmam:upacarmam
+22:0,0:9526:upajIvanam:upajIvanam, -jIvikA:upajIvikA
+22:0,0:9590:upadevaH:upadevaH, -devatA:upadevatA
+22:0,0:9672:upanAyaH:upanAyaH, -nAyanam:upanAyanam
+22:0,0:9709:upapArSvaH:upapArSvaH, -rSvam:upapArSvam
+22:0,0:9716:upapOrRamAsi:upapOrRamAsi, -mAsam:upapOrRamAsam
+22:0,0:9730:upabarhaH:upabarhaH, -rhaRam:upabarhaRam
+22:0,0:9955:upaSoBanam:upaSoBanam, -SoBA:upaSoBA
+22:0,0:10044:upasevanam:upasevanam, -sevA:upasevA
+22:0,0:10055:upastamBaH:upastamBaH, -mBanam:upastamBanam
+22:0,0:10082:upasparSaH:upasparSaH, -rSanam:upasparSanam
+22:0,0:10096:upaGAtaka:upaGAtaka, -GAtin:upaGAtin
+22:0,0:10184:upAlamBaH:upAlamBaH, -mBanam:upAlamBanam
+22:0,0:10246:upozaRam:upozaRam, -upozitam:upozitam
+22:0,0:10340:ulUli:ulUli, -ulUlu:ulUlu
+22:5,0:10416:uzmaH:uzmaH, -uzmakaH:uzmakaH
+22:0,0:10586:ftviya:ftviya, -ftvya:ftvya
+22:0,0:10823:Ezamastana:Ezamastana, -mastya:Ezamastya
+22:0,0:10863:odmaH:odmaH, -odman:odman
+22:0,0:10971:OpagrastikaH:OpagrastikaH, -grahikaH:OpagrahikaH
+22:6,1:11160:kacCaH:kacCaH, -cCam:kacCam
+22:1,0:11164:kacCuH:kacCuH, -kacCU:kacCU
+22:0,0:11246:kaWalyaH:kaWalyaH, -kaWallaH:kaWallaH
+22:0,0:11253:kaWinikA:kaWinikA, -kaWinI:kaWinI
+22:0,1:11283:kaRikaH:kaRikaH, -kaRIkaH:kaRIkaH
+22:32,0:11310:kaRWaH:kaRWaH, -RWam:kaRWam
+22:0,1:11345:kataH:kataH, -katakaH:katakaH
+22:6,3:11386:kadambaH:kadambaH, -kadambakaH:kadambakaH
+22:4,2:11389:kadalaH:kadalaH, -kadalakaH:kadalakaH
+22:0,0:11397:kaDapriya:kaDapriya, -kaDaprI:kaDaprI
+22:0,1:11493:kabanDaH:kabanDaH, -nDam:kabanDam
+22:0,0:11589:karowam:karowam, -karowiH:karowiH
+22:0,0:11639:kartrikA:kartrikA, -kartrI:kartrI
+22:0,0:11648:kardaH:kardaH, -kardawaH:kardawaH
+22:0,0:11724:kalAcika:kalAcika, -kalAcI:kalAcI
+22:0,0:11741:kalikA:kalikA, -kaliH:kaliH
+22:0,1:11796:kavaza:kavaza, -kavaz:kavaz
+22:0,0:11881:kAkzIvaH:kAkzIvaH, -kAkzIvakaH:kAkzIvakaH
+22:17,1:11919:kARqaH:kARqaH, -Rqam:kARqam
+22:0,0:12052:kAravellaH:kAravellaH, -llakaH:kAravellakaH
+22:0,0:12065:kAruRqikA:kAruRqikA, -kAruRqI:kAruRqI
+22:0,0:12154:kAlpaH:kAlpaH, -lpakaH:kAlpakaH
+22:1,0:12229:kiwwam:kiwwam, -kiwwakam:kiwwakam
+22:0,0:12317:kISaparRaH:kISaparRaH, -parRin:kISaparRin
+22:0,1:12381:kuwumbikaH:kuwumbikaH, -kuwumbin:kuwumbin
+22:0,0:12440:kuRqalI:kuRqalI, -kuRqalikA:kuRqalikA
+22:0,1:12453:kutupaH:kutupaH, -kutUH:kutUH
+22:3,2:12484:kundaH:kundaH, -ndam:kundam
+22:1,1:12616:kulPaH:kulPaH, -lPam:kulPam
+22:1,1:12660:kuzWaH:kuzWaH, -zWam:kuzWam
+22:0,2:12680:kusumBaH:kusumBaH, -mBam:kusumBam
+22:2,1:12730:kUrcaH:kUrcaH, -rcam:kUrcam
+22:0,0:12765:kfte:kfte, -kftena:kftena
+22:0,0:12828:kfzARaH:kfzARaH, -kfzikaH:kfzikaH
+22:0,0:12870:kenduH:kenduH, -ndukaH:kendukaH
+22:0,0:12959:kowarI:kowarI, -kowavI:kowavI
+22:0,1:12976:kodaRqaH:kodaRqaH, -Rqam:kodaRqam
+22:1,1:13236:kliSita:kliSita, -klizwa:klizwa
+22:6,1:13280:kzatraH:kzatraH, -tram:kzatram
+22:1,0:13463:kzoRiH:kzoRiH, -kzoRI:kzoRI
+22:0,0:13544:KaRqanIya:KaRqanIya, -KaRqayitavya:KaRqayitavya
+22:0,0:13597:KarparIkA:KarparIkA, -KarparI:KarparI
+22:0,0:13936:gaviz:gaviz, -gaviza:gaviza
+22:0,0:14147:gopin:gopin, -gopila:gopila
+22:5,1:14174:gulmaH:gulmaH, -lmam:gulmam
+22:0,2:14273:gozWaH:gozWaH, -zWam:gozWam
+22:0,0:14287:gopaH:gopaH, -gopanam:gopanam
+22:1,0:14549:GowaH:GowaH, -GowakaH:GowakaH
+22:0,0:14550:GowI:GowI, -GowikA:GowikA
+22:0,0:14605:caYcarI:caYcarI, -caYcarIkaH:caYcarIkaH
+22:0,0:14690:capewA:capewA, -capewikA:capewikA
+22:2,0:14740:carcA:carcA, -carcikA:carcikA
+22:0,1:14820:cAturTaka:cAturTaka, -cAturTika:cAturTika
+22:0,0:15085:custaH:custaH, -stam:custam
+22:0,0:15098:cUrI:cUrI, -cUrikA:cUrikA
+22:8,1:15100:cUrRaH:cUrRaH, -rRam:cUrRam
+22:1,0:15196:CadaH:CadaH, -Cadanam:Cadanam
+22:0,0:15313:jakzmaH:jakzmaH, -kzman:jakzman
+22:0,0:15443:jaratikA:jaratikA, -jaratI:jaratI
+22:0,0:15654:jIrakaH:jIrakaH, -jIraRaH:jIraRaH
+22:0,0:15758:joNgam:joNgam, -Ngakam:joNgakam
+22:0,0:15800:jyezWAmUla:jyezWAmUla, -mUlIyaH:jyezWAmUlIyaH
+22:2,1:15917:waNkaH:waNkaH, -Nkam:waNkam
+22:0,0:16084:tattvataH:tattvataH, -tattvena:tattvena
+22:0,0:16088:taTAtvam:taTAtvam, -taTAtA:taTAtA
+22:2,0:16135:tantriH:tantriH, -ntrI:tantrI
+22:0,0:16141:tandriH:tandriH, -ndrI:tandrI
+22:1,1:16278:talpaH:talpaH, -lpam:talpam
+22:0,0:16564:tundikaraH:tundikaraH, -tundikA:tundikA
+22:0,0:16629:tuzwa:tuzwa, -tuzwiH:tuzwiH
+22:2,0:16656:tUryaH:tUryaH, -ryam:tUryam
+22:1,0:16777:tElikaH:tElikaH, -tElin:tElin
+22:0,2:16887:trEvarRa:trEvarRa, -trEvarRika:trEvarRika
+22:0,0:16892:trEvizwapaH:trEvizwapaH, -trEvizwapeyaH:trEvizwapeyaH
+22:0,0:16982:dagDa:dagDa, -dagDikA:dagDikA
+22:67,0:16987:daRqaH:daRqaH, -Rqam:daRqam
+22:0,0:17258:dASaraTaH:dASaraTaH, -dASaraTiH:dASaraTiH
+22:0,0:17267:dAsatA:dAsatA, -dAsatvam:dAsatvam
+22:0,0:17441:dUtikA:dUtikA, -dUtI:dUtI
+22:0,0:17447:dUratA:dUratA, -dUratvam:dUratvam
+22:0,0:17604:dolAyita:dolAyita, -dolita:dolita
+22:0,0:17605:dolikA:dolikA, -dolI:dolI
+22:0,0:17687:drakawaH:drakawaH, -dragaqaH:dragaqaH
+22:0,0:17693:drabudDaH:drabudDaH, -dDam:drabudDam
+22:0,0:17698:dravaka:dravaka, -dravaRa:dravaRa
+22:0,0:17868:DanakaH:DanakaH, -DanAyA:DanAyA
+22:0,0:18010:DikkAraH:DikkAraH, -DikkriyA:DikkriyA
+22:0,0:18029:DIratA:DIratA, -DIratvam:DIratvam
+22:0,0:18441:nAgarIwaH:nAgarIwaH, -nAgavIwaH:nAgavIwaH
+22:0,1:18571:nAsiram:nAsiram, -nAsIram:nAsIram
+22:0,0:18994:nirjayaH:nirjayaH, -nirjitiH:nirjitiH
+22:0,0:19040:nirDAraH:nirDAraH, -nirDAraRam:nirDAraRam
+22:0,0:19115:nirvAsaH:nirvAsaH, -nirvAsanam:nirvAsanam
+22:0,0:19299:nizevaRam:nizevaRam, -nizevA:nizevA
+22:0,0:19377:nizpezaH:nizpezaH, -nizpezaRam:nizpezaRam
+22:5,0:19492:nfttam:nfttam, -nftyam:nftyam
+22:0,0:19547:nEdAnaH:nEdAnaH, -nEdAnikaH:nEdAnikaH
+22:0,0:19563:nEmizIyaH:nEmizIyaH, -nEmizeyaH:nEmizeyaH
+22:0,0:19575:nEruktaH:nEruktaH, -nEruktikaH:nEruktikaH
+22:12,1:19781:pawwaH:pawwaH, -wwam:pawwam
+22:0,0:19853:patitvam:patitvam, -patitvanam:patitvanam
+22:0,0:19894:padAtikaH:padAtikaH, -padAtIyaH:padAtIyaH
+22:0,0:19913:padvaH:padvaH, -dvam:padvam
+22:0,0:19917:panAyita:panAyita, -panita:panita
+22:0,0:19966:parasmEpadam:parasmEpadam, -parasmEBAzA:parasmEBAzA
+22:0,0:20061:parikarzaH:parikarzaH, -karzaRam:parikarzaRam
+22:0,0:20079:parikrayaH:parikrayaH, -krayaRam:parikrayaRam
+22:0,0:20136:pariGAtaH:pariGAtaH, -GAtanam:pariGAtanam
+22:0,0:20327:paripowaH:paripowaH, -powakaH:paripowakaH
+22:0,0:20403:parimArgaH:parimArgaH, -mArgaRam:parimArgaRam
+22:0,0:20417:parimardaH:parimardaH, -mardanam:parimardanam
+22:0,0:20436:parirakzaRam:parirakzaRam, -rakzA:parirakzA
+22:0,0:20561:parizaRqaH:parizaRqaH, -Rqam:parizaRqam
+22:0,0:20566:parizekaH:parizekaH, -parizecanam:parizecanam
+22:0,0:20920:pANkteya:pANkteya, -pANktya:pANktya
+22:0,0:21035:pAtrebahulaH:pAtrebahulaH, -pAtresamitaH:pAtresamitaH
+22:0,0:21189:pArivittyam:pArivittyam, -pArivetryam:pArivetryam
+22:0,0:21190:pArivrAjakam:pArivrAjakam, -pArivrAjyam:pArivrAjyam
+22:0,0:21416:pipIlaH:pipIlaH, -pipIlI:pipIlI
+22:0,0:21503:puNgaH:puNgaH, -Ngam:puNgam
+22:3,0:21507:pucCaH:pucCaH, -cCam:pucCam
+22:4,0:21545:putrakA:putrakA, -putrikA:putrikA
+22:0,0:21615:puroqASa:puroqASa, -puroDas:puroDas
+22:0,0:21726:pUlaH:pUlaH, -pUlakaH:pUlakaH
+22:0,0:21793:pewakaH:pewakaH, -pewAkaH:pewAkaH
+22:0,0:21946:pOrRamAsI:pOrRamAsI, -pOrRamI:pOrRamI
+22:0,1:21999:prakARqaH:prakARqaH, -Rqam:prakARqam
+22:0,0:22023:prakaraRikA:prakaraRikA, -prakaraRI:prakaraRI
+22:0,0:22086:prakzoBaH:prakzoBaH, -prakzoBaRam:prakzoBaRam
+22:0,0:22135:praGawakaH:praGawakaH, -praGawwakaH:praGawwakaH
+22:0,0:22369:pratikzepaH:pratikzepaH, -pratikzepaRam:pratikzepaRam
+22:0,0:22392:pratiGAtaka:pratiGAtaka, -GAtin:pratiGAtin
+22:0,0:22404:praticCandaH:praticCandaH, -praticCandakaH:praticCandakaH
+22:0,0:22440:pratiDvaniH:pratiDvaniH, -pratiDvAnaH:pratiDvAnaH
+22:0,0:22484:pratipUjanam:pratipUjanam, -pUjA:pratipUjA
+22:0,0:22500:pratiPalaH:pratiPalaH, -pratiPalanam:pratiPalanam
+22:0,0:22579:pratirakzaRam:pratirakzaRam, -rakzA:pratirakzA
+22:0,0:22612:prativAraH:prativAraH, -prativAraRam:prativAraRam
+22:0,0:22654:pratizeDaka:pratizeDaka, -pratizedDf:pratizedDf
+22:0,0:22656:pratizkaH:pratizkaH, -pratizkasaH:pratizkasaH
+22:0,0:22675:pratisaMlayanam:pratisaMlayanam, -saMlInam:pratisaMlInam
+22:0,0:22778:pratArakaH:pratArakaH, -pratArin:pratArin
+22:15,0:22791:pratyaYc:pratyaYc, -pratyac:pratyac
+22:0,0:22864:pratyAvartanam:pratyAvartanam, -pratyAvfttiH:pratyAvfttiH
+22:0,0:22880:pratyuccAraH:pratyuccAraH, -ccAraRam:pratyuccAraRam
+22:0,0:22905:pratyupaveSaH:pratyupaveSaH, -veSanam:pratyupaveSanam
+22:0,0:22913:pratyuzaH:pratyuzaH, -pratyuzas:pratyuzas
+22:0,0:22937:pradarpaH:pradarpaH, -pradfptiH:pradfptiH
+22:0,0:22950:pradAyin:pradAyin, -pradAyaka:pradAyaka
+22:0,0:22951:pradiH:pradiH, -pradeyaH:pradeyaH
+22:0,0:22997:pradvezaH:pradvezaH, -pradvezaRam:pradvezaRam
+22:0,0:23450:pravilayaH:pravilayaH, -vilayanam:pravilayanam
+22:0,0:23654:prasevaH:prasevaH, -prasevakaH:prasevakaH
+22:0,0:23707:prasyandaH:prasyandaH, -ndanam:prasyandanam
+22:0,0:23841:prAjikaH:prAjikaH, -prAjin:prAjin
+22:0,0:23962:prAyaScittam:prAyaScittam, -prAyaScittiH:prAyaScittiH
+22:0,1:23969:prAyARika:prAyARika, -prAyAtrika:prAyAtrika
+22:0,2:24019:prAvfzika:prAvfzika, -prAvfzIRa:prAvfzIRa
+22:0,0:24026:prAvrajyam:prAvrajyam, -prAvrAjyam:prAvrAjyam
+22:0,0:24117:preNKaH:preNKaH, -NKam:preNKam
+22:0,0:24313:PalinI:PalinI, -PalI:PalI
+22:0,0:24315:PalIkaraRam:PalIkaraRam, -PalIkAraH:PalIkAraH
+22:0,0:24458:barhaRa:barhaRa, -barhas:barhas
+22:0,0:24512:bahlikAH:bahlikAH, -bahlIkAH:bahlIkAH
+22:0,0:24572:bADayitf:bADayitf, -bADitf:bADitf
+22:0,0:24605:bAluH:bAluH, -bAlukam:bAlukam
+22:12,0:24613:bAzpaH:bAzpaH, -zpam:bAzpam
+22:3,2:24667:bimbaH:bimbaH, -mbam:bimbam
+22:0,2:24707:bukkaH:bukkaH, -kkam:bukkam
+22:0,0:24916:BaMBarAlikA:BaMBarAlikA, -BaMBarAlI:BaMBarAlI
+22:0,0:24955:Bartsanam:Bartsanam, -BartsanA:BartsanA
+22:0,0:24994:BazaH:BazaH, -BazakaH:BazakaH
+22:0,0:25228:Buvar:Buvar, -Buvas:Buvas
+22:0,1:25432:BrAzwraH:BrAzwraH, -zwram:BrAzwram
+22:0,0:25466:makuzwaH:makuzwaH, -makuzwakaH:makuzwakaH
+22:3,1:25547:maWaH:maWaH, -maWam:maWam
+22:5,2:25564:maRqaH:maRqaH, -Rqam:maRqam
+22:0,0:25791:maraRIya:maraRIya, -marizRu:marizRu
+22:1,0:25793:maranda:maranda, -ndakaH:marandakaH
+22:0,0:25851:marzaH:marzaH, -marzaRam:marzaRam
+22:5,0:25880:mallikaH:mallikaH, -mallikA:mallikA
+22:0,1:26034:mAtuliNgaH:mAtuliNgaH, -mAtuluNgaH:mAtuluNgaH
+22:0,0:26134:mAyUrakaH:mAyUrakaH, -mAyUrikaH:mAyUrikaH
+22:1,0:26154:mArkaRqaH:mArkaRqaH, -mArkaRqeyaH:mArkaRqeyaH
+22:0,0:26187:mArzaH:mArzaH, -mArzakaH:mArzakaH
+22:0,0:26208:mAluH:mAluH, -mAllaH:mAllaH
+22:0,1:26493:muhUrtaH:muhUrtaH, -rtam:muhUrtam
+22:0,0:26577:mfRAlikA:mfRAlikA, -mfRAlI:mfRAlI
+22:0,0:26590:mftsA:mftsA, -mftsnA:mftsnA
+22:0,0:26591:mftsnaH:mftsnaH, -mftsnam:mftsnam
+22:0,0:26642:meRWaH:meRWaH, -meRqaH:meRqaH
+22:0,0:26643:meRQaH:meRQaH, -meRQakaH:meRQakaH
+22:0,0:26646:meTikA:meTikA, -meTinI:meTinI
+22:0,0:26668:menDikA:menDikA, -menDI:menDI
+22:0,0:26684:mezikA:mezikA, -mezI:mezI
+22:0,0:26708:mEnAlaH:mEnAlaH, -mEnikaH:mEnikaH
+22:0,1:26734:mowanam:mowanam, -mowanakam:mowanakam
+22:0,0:26741:modayantikA:modayantikA, -modayantI:modayantI
+22:0,0:26820:mluc:mluc, -mluYc:mluYc
+22:0,0:26826:mlew:mlew, -mleq:mleq
+22:1,0:26833:mlAyat:mlAyat, -mlAyin:mlAyin
+22:3,0:26842:yakzmaH:yakzmaH, -yakzman:yakzman
+22:0,0:26882:yatta:yatta, -yatna:yatna
+22:0,0:26901:yantraRI:yantraRI, -yantriRI:yantriRI
+22:0,0:26916:yamAnikA:yamAnikA, -yamAnI:yamAnI
+22:0,0:26936:yavanikA:yavanikA, -yavanI:yavanI
+22:0,0:26939:yavAnikA:yavAnikA, -yavAnI:yavAnI
+22:0,0:27001:yATAkAmI:yATAkAmI, -kAmyam:yATAkAmyam
+22:2,0:27026:yAmikA:yAmikA, -yAminI:yAminI
+22:0,0:27118:yUTikA:yUTikA, -yUTI:yUTI
+22:0,0:27274:radanin:radanin, -radin:radin
+22:0,0:27281:ranDanam:ranDanam, -ranDiH:ranDiH
+22:0,0:27317:rarAwam:rarAwam, -rarAwI:rarAwI
+22:0,0:27362:rAgamaya:rAgamaya, -rAgavat:rAgavat
+22:0,0:27411:rAtriMdivam:rAtriMdivam, -rAtriMdivA:rAtriMdivA
+22:0,0:27415:rAtrO:rAtrO, -rAtryAm:rAtryAm
+22:0,1:27450:rAzwriya:rAzwriya, -rAzwrIya:rAzwrIya
+22:0,0:27472:riNK:riNK, -riNg:riNg
+22:0,0:27473:riNKaH:riNKaH, -riNKA:riNKA
+22:0,0:27474:riNKaRam:riNKaRam, -riNgaRam:riNgaRam
+22:0,0:27505:rihAyas:rihAyas, -rihvan:rihvan
+22:0,0:28015:liptA:liptA, -liptikA:liptikA
+22:0,0:28043:luYcaH:luYcaH, -luYcanam:luYcanam
+22:3,1:28203:lozwaH:lozwaH, -zwam:lozwam
+22:4,3:28459:vapraH:vapraH, -pram:vapram
+22:30,0:28645:varzaH:varzaH, -rzam:varzam
+22:0,0:28667:valagnaH:valagnaH, -gnam:valagnam
+22:6,0:28690:valkaH:valkaH, -lkam:valkam
+22:0,0:28820:vahlika:vahlika, -vahlIka:vahlIka
+22:0,0:28988:vAyanam:vAyanam, -vAyanakam:vAyanakam
+22:0,0:29086:vAzpaH:vAzpaH, -zpam:vAzpam
+22:0,0:29202:vikAlaH:vikAlaH, -vikAlakaH:vikAlakaH
+22:0,0:29265:vikroSaH:vikroSaH, -vikroSanam:vikroSanam
+22:0,0:29708:vinAqiH:vinAqiH, -vinAqikA:vinAqikA
+22:0,0:29800:vipaYcikA:vipaYcikA, -vipaYcI:vipaYcI
+22:0,0:29806:vipaRaH:vipaRaH, -vipaRanam:vipaRanam
+22:0,0:30002:vimaT:vimaT, -vimanT:vimanT
+22:0,0:30013:vimAnanam:vimAnanam, -vimAnanA:vimAnanA
+22:0,0:30045:vimarSaH:vimarSaH, -rSanam:vimarSanam
+22:0,0:30055:vimbaH:vimbaH, -mbam:vimbam
+22:0,0:30119:virAtraH:virAtraH, -tram:virAtram
+22:0,0:30243:vilokaH:vilokaH, -vilokanam:vilokanam
+22:0,1:30272:vivAsaH:vivAsaH, -vivAsanam:vivAsanam
+22:0,1:30354:viSezya:viSezya, -viSezaRIya:viSezaRIya
+22:0,0:30372:viSraRanam:viSraRanam, -viSrARanam:viSrARanam
+22:0,0:30492:vizvadryac:vizvadryac, -dryaYc:vizvadryaYc
+22:0,0:30493:vizvaRanam:vizvaRanam, -vizvARaH:vizvARaH
+22:0,0:30516:visUcikA:visUcikA, -visUcI:visUcI
+22:0,0:30539:visarpiH:visarpiH, -visarpikA:visarpikA
+22:0,0:30552:visPar:visPar, -visPur:visPur
+22:0,0:30567:vismayaMkara:vismayaMkara, -vismayaMgama:vismayaMgama
+22:6,0:30801:vetraH:vetraH, -tram:vetram
+22:0,0:30837:vemaH:vemaH, -veman:veman
+22:0,0:30910:vEklavam:vEklavam, -vEklavyam:vEklavyam
+22:0,0:31032:vErAgikaH:vErAgikaH, -vErAgin:vErAgin
+22:0,0:31153:vyaqambakaH:vyaqambakaH, -vyaqambanaH:vyaqambanaH
+22:0,0:31495:vratika:vratika, -vratin:vratin
+22:0,0:31557:SakkaraH:SakkaraH, -SakkariH:SakkariH
+22:0,0:31565:SakyatA:SakyatA, -Sakyatvam:Sakyatvam
+22:0,0:31567:Sakna:Sakna, -Sakla:Sakla
+22:22,0:31587:SaNKaH:SaNKaH, -NKam:SaNKam
+22:0,0:31690:SayAnaH:SayAnaH, -SayAnakaH:SayAnakaH
+22:0,1:31820:SAkuntalaH:SAkuntalaH, -SAkuntaleyaH:SAkuntaleyaH
+22:0,0:32150:SItAru:SItAru, -SItAlu:SItAlu
+22:5,0:32251:SulkaH:SulkaH, -lkam:Sulkam
+22:5,1:32294:SUrpaH:SUrpaH, -rpam:SUrpam
+22:0,0:32435:SOktikeyam:SOktikeyam, -SOkteyam:SOkteyam
+22:0,0:32683:SvApucCaH:SvApucCaH, -cCam:SvApucCam
+22:0,0:33248:sajAti:sajAti, -sajAtIya:sajAtIya
+22:0,0:33358:satIkam:satIkam, -satInam:satInam
+22:0,0:33441:sanAman:sanAman, -sanAmaka:sanAmaka
+22:0,0:33448:sanizWIvam:sanizWIvam, -sanizWevam:sanizWevam
+22:0,0:33893:samAvfttaH:samAvfttaH, -samAvfttakaH:samAvfttakaH
+22:0,0:33991:samucCvasitam:samucCvasitam, -samucCvAsaH:samucCvAsaH
+22:0,1:34014:samutpiYja:samutpiYja, -samutpiYjala:samutpiYjala
+22:0,0:34120:saMpAtiH:saMpAtiH, -saMpAtikaH:saMpAtikaH
+22:0,0:34145:saMpuwakA:saMpuwakA, -saMpuwikA:saMpuwikA
+22:0,0:34469:saviBrama:saviBrama, -savilAsa:savilAsa
+22:0,0:34645:sAtyavataH:sAtyavataH, -sAtyavateyaH:sAtyavateyaH
+22:0,1:34724:sAMnahanika:sAMnahanika, -sAMnAhika:sAMnAhika
+22:0,0:35336:sEMhikaH:sEMhikaH, -sEMhikeyaH:sEMhikeyaH
+22:0,0:35345:sEnAnyam:sEnAnyam, -sEnApatyam:sEnApatyam
+22:0,0:35413:solaH:solaH, -solikaH:solikaH
+22:0,0:35490:sOmitraH:sOmitraH, -sOmitriH:sOmitriH
+22:0,0:35520:sOreyaH:sOreyaH, -sOreyakaH:sOreyakaH
+22:0,0:35652:stuzeRya:stuzeRya, -stuzeyya:stuzeyya
+22:0,0:35787:sTOReyaH:sTOReyaH, -sTOReyakaH:sTOReyakaH
+22:0,0:35810:snAvaH:snAvaH, -snAvan:snAvan
+22:0,0:35877:spfhayAyya:spfhayAyya, -spfhayAlu:spfhayAlu
+22:0,0:35888:sPawikAriH:sPawikAriH, -sPawikArikA:sPawikArikA
+22:0,0:35895:sParaH:sParaH, -sParakaH:sParakaH
+22:0,0:36158:svArocizaH:svArocizaH, -svArocis:svArocis
+22:0,0:36218:haQakkaH:haQakkaH, -kkam:haQakkam
+22:0,0:36448:hindolakaH:hindolakaH, -hindolA:hindolA
+22:1,0:36564:hemantaH:hemantaH, -ntam:hemantam
+22:0,1:36620:homIya:homIya, -homya:homya
+23:0,0:266:agruH:agruH, -grUH:agrUH
+23:0,1:366:acintya:acintya, -ntanIya:acintanIya
+23:0,0:516:awwAlaH:awwAlaH, -lakaH:awwAlakaH
+23:0,0:600:atigahana:atigahana, -gavhara:atigavhara
+23:0,3:629:atitIvra:atitIvra, -tIkzRa:atitIkzRa
+23:0,0:919:adabDa:adabDa, -damBa:adamBa
+23:0,0:1072:aDidevaH:aDidevaH, -vatA:aDidevatA
+23:0,2:1335:anapekza:anapekza, -kzin:anapekzin
+23:0,1:1427:anasTa:anasTa, -sTika:anasTika
+23:2,0:1634:anIkaH:anIkaH, -kama:anIkama
+23:2,0:1732:anugrahaH:anugrahaH, -haRam:anugrahaRam
+23:0,0:1760:anujYApanam:anujYApanam, -jYaptiH:anujYaptiH
+23:0,0:1802:anudinam:anudinam, -divasam:anudivasam
+23:0,1:2023:anuyAtram:anuyAtram, -trA:anuyAtrA
+23:0,0:2171:anuSokaH:anuSokaH, -Socanam:anuSocanam
+23:0,0:2198:anuzWiH:anuzWiH, -zWuH:anuzWuH
+23:0,0:2199:anuzWeya:anuzWeya, -zWAtavya:anuzWAtavya
+23:0,0:2351:antare:antare, -reRa:antareRa
+23:0,0:2380:anduH:anduH, -ndUH:andUH
+23:0,0:2460:anvADeyam:anvADeyam, -yakam:anvADeyakam
+23:0,0:2494:anvIkzaRam:anvIkzaRam, -kzA:anvIkzA
+23:0,0:2528:apakramaRam:apakramaRam, -krAmaH:apakrAmaH
+23:1,0:2573:apacCedaH:apacCedaH, -danama:apacCedanama
+23:0,0:2875:apasmAraH:apasmAraH, -smftiH:apasmftiH
+23:1,0:3043:apekzA:apekzA, -kzaRam:apekzaRam
+23:0,0:3049:apogaRqaH:apogaRqaH, -apOgaRqa:apOgaRqa
+23:0,0:3328:aBikramaRam:aBikramaRam, -krAntiH:aBikrAntiH
+23:0,0:3427:aBidravaH:aBidravaH, -vaRam:aBidravaRam
+23:0,0:3486:aBineya:aBineya, -netavya:aBinetavya
+23:0,0:3600:aBiyoktavya:aBiyoktavya, -yojya:aBiyojya
+23:0,0:3791:aBisaMDaH:aBisaMDaH, -DakaH:aBisaMDakaH
+23:0,1:3858:aBihvara:aBihvara, -hvAra:aBihvAra
+23:0,0:3946:aByarcanam:aByarcanam, -rcA:aByarcA
+23:0,0:3951:aByarTanIya:aByarTanIya, -rTya:aByarTya
+23:1,0:4110:aBriH:aBriH, -BrI:aBrI
+23:0,0:4195:amitrIya:amitrIya, -trya:amitrya
+23:0,0:4202:amiSra:amiSra, -Srita:amiSrita
+23:0,0:4274:ambikeyaH:ambikeyaH, -yakaH:ambikeyakaH
+23:0,0:4288:amrAtaH:amrAtaH, -takaH:amrAtakaH
+23:3,1:4349:ayuga:ayuga, -gala:ayugala
+23:0,0:4657:alaYjaraH:alaYjaraH, -YjuraH:alaYjuraH
+23:0,0:4772:avakIrRa:avakIrRa, -rRin:avakIrRin
+23:0,1:4881:avaGozaH:avaGozaH, -zaRam:avaGozaRam
+23:4,0:5073:avantiH:avantiH, -ntI:avantI
+23:0,0:5165:avayA:avayA, -yAta:avayAta
+23:0,0:5870:aSriH:aSriH, -SrI:aSrI
+23:0,2:6303:aharaRIya:aharaRIya, -ahArya:ahArya
+23:0,0:6434:AkramaH:AkramaH, -maRam:AkramaRam
+23:0,0:6517:Agamin:Agamin, -AgAmin:AgAmin
+23:0,0:6777:AtaraH:AtaraH, -AtAraH:AtAraH
+23:1,0:7098:ApAnam:ApAnam, -nakam:ApAnakam
+23:0,3:7332:AmlaH:AmlaH, -mlA:AmlA
+23:0,0:7552:ArhantI:ArhantI, -ntyam:Arhantyam
+23:0,0:7600:AlindaH:AlindaH, -dakaH:AlindakaH
+23:0,0:7716:AvizkaraRam:AvizkaraRam, -zkAraH:AvizkAraH
+23:0,0:7948:Askanditam:Askanditam, -takam:Askanditakam
+23:0,0:7980:AsPal:AsPal, -sPul:AsPul
+23:0,1:7989:AsPotaH:AsPotaH, -takaH:AsPotakaH
+23:0,0:8334:IrzyA:IrzyA, -rzA:IrzA
+23:0,0:8460:ucCezaH:ucCezaH, -zaRam:ucCezaRam
+23:0,0:8506:ujjfmBA:ujjfmBA, -mBaRam:ujjfmBaRam
+23:0,0:8684:uttarIyam:uttarIyam, -yakam:uttarIyakam
+23:0,0:9229:udvAsa:udvAsa, -sas:udvAsas
+23:0,0:9280:unnaya:unnaya, -yanam:unnayanam
+23:0,0:9341:unmezaH:unmezaH, -zaRam:unmezaRam
+23:0,0:9521:upajihvA:upajihvA, -hvikA:upajihvikA
+23:0,1:9529:upajozaH:upajozaH, -zaRam:upajozaRam
+23:0,0:9567:upadAnam:upadAnam, -nakam:upadAnakam
+23:0,0:9644:upaniDAtf:upaniDAtf, -DAyaka:upaniDAyaka
+23:0,0:9699:upaparIkzA:upaparIkzA, -kzaRam:upaparIkzaRam
+23:0,1:9736:upabdaH:upabdaH, -bdi:upabdi
+23:0,0:9897:upavAhyaH:upavAhyaH, -hyA:upavAhyA
+23:0,0:9920:upavfMha:upavfMha, -haRam:upavfMhaRam
+23:0,0:9946:upaSikzA:upaSikzA, -kzaRam:upaSikzaRam
+23:0,0:9966:upaSlezaH:upaSlezaH, -zaRam:upaSlezaRam
+23:0,0:9994:upasaMgrahaH:upasaMgrahaH, -haRam:upasaMgrahaRam
+23:0,0:10132:upAKyAnam:upAKyAnam, -nakam:upAKyAnakam
+23:0,0:10272:uraNgaH:uraNgaH, -gamaH:uraNgamaH
+23:0,0:10853:oqaka:oqaka, -qavaH:oqavaH
+23:0,0:10854:oqikAH:oqikAH, -oqI:oqI
+23:0,0:10968:OpakAryam:OpakAryam, -ryA:OpakAryA
+23:0,2:10998:Opayika:Opayika, -OpAyika:OpAyika
+23:0,0:11068:Ozaram:Ozaram, -rakam:Ozarakam
+23:0,0:11142:kaNkellaH:kaNkellaH, -lliH:kaNkelliH
+23:0,0:11528:kambiH:kambiH, -mbI:kambI
+23:0,1:11597:karkanDuH:karkanDuH, -nDUH:karkanDUH
+23:0,0:11609:karkowaH:karkowaH, -wakaH:karkowakaH
+23:0,0:11726:kalAdaH:kalAdaH, -dakaH:kalAdakaH
+23:0,0:11984:kApyakaraH:kApyakaraH, -kAraH:kAraH
+23:0,0:12259:kirmiH:kirmiH, -rmI:kirmI
+23:0,1:12281:kizkinDaH:kizkinDaH, -nDyaH:kizkinDyaH
+23:0,0:12611:kulIraH:kulIraH, -rakaH:kulIrakaH
+23:0,0:12685:kustumbarI:kustumbarI, -mburuH:kustumburuH
+23:0,0:13564:Kanitrakam:Kanitrakam, -trikA:KanitrikA
+23:0,0:13921:galdaH:galdaH, -ldA:galdA
+23:0,0:14203:gfj:gfj, -gfYj:gfYj
+23:0,0:14213:gfDyam:gfDyam, -DyA:gfDyA
+23:0,0:14295:gozWiH:gozWiH, -zWI:gozWI
+23:0,0:14580:cakriH:cakriH, -kruH:cakruH
+23:0,0:15058:cumbaH:cumbaH, -mbA:cumbA
+23:1,0:15103:cUrRiH:cUrRiH, -rRI:cUrRI
+23:0,0:15228:CalliH:CalliH, -llI:CallI
+23:0,0:15387:janar:janar, -nanas:jananas
+23:0,0:15986:qip:qip, -qimp:qimp
+23:0,0:16202:tarakzaH:tarakzaH, -kzuH:tarakzuH
+23:0,0:16481:tiryaktA:tiryaktA, -ktvam:tiryaktvam
+23:0,0:16575:tumbiH:tumbiH, -mbI:tumbI
+23:0,0:17272:dAseraH:dAseraH, -rakaH:dAserakaH
+23:0,0:17371:dugDa:dugDa, -duGa:duGa
+23:0,0:17572:dErGyam:dErGyam, -rGam:dErGam
+23:0,0:17583:dEvalaH:dEvalaH, -lakaH:dEvalakaH
+23:0,0:17689:draNgaH:draNgaH, -NgA:draNgA
+23:0,0:18652:niketaH:niketaH, -takaH:niketakaH
+23:0,0:18687:nigaraH:nigaraH, -raRam:nigaraRam
+23:0,0:19033:nirDAra:nirDAra, -raRam:nirDAraRam
+23:1,0:19756:paYjiH:paYjiH, -YjI:paYjI
+23:0,0:20135:pariGarmaH:pariGarmaH, -rmyaH:pariGarmyaH
+23:1,0:20852:palliH:palliH, -llI:pallI
+23:0,0:21112:pAraDenuH:pAraDenuH, -nukaH:pAraDenukaH
+23:0,0:21257:pAlakyaH:pAlakyaH, -kyA:pAlakyA
+23:3,0:21372:piRqiH:piRqiH, -RqI:piRqI
+23:0,0:21446:piSIlam:piSIlam, -lakam:piSIlakam
+23:0,0:21547:putraMjIvaH:putraMjIvaH, -vakaH:putraMjIvakaH
+23:0,0:21572:puraMDriH:puraMDriH, -DrI:puraMDrI
+23:0,0:21624:pulastiH:pulastiH, -styaH:pulastyaH
+23:0,0:22047:prakIryaH:prakIryaH, -ryA:prakIryA
+23:0,0:22511:pratibanDiH:pratibanDiH, -nDI:pratibanDI
+23:0,0:23178:pramaT:pramaT, -manT:pramanT
+23:0,0:24070:prAhRetarAm:prAhRetarAm, -tamAm:prAhRetamAm
+23:5,0:24410:bandiH:bandiH, -ndI:bandI
+23:0,0:24651:bid:bid, -bind:bind
+23:0,0:24721:budDimattA:budDimattA, -ttvam:budDimattvam
+23:4,0:24856:BaNgiH:BaNgiH, -NgI:BaNgI
+23:0,0:24897:BaRqiH:BaRqiH, -RqI:BaRqI
+23:0,0:24976:BavantaH:BavantaH, -ntiH:BavantiH
+23:0,0:25173:BillowaH:BillowaH, -wakaH:BillowakaH
+23:0,0:25231:BuSuRqiH:BuSuRqiH, -RqI:BuSuRqI
+23:1,0:25531:maYjiH:maYjiH, -YjI:maYjI
+23:0,0:25722:manT:manT, -maT:maT
+23:0,0:25817:maroliH:maroliH, -likaH:marolikaH
+23:3,0:25879:malliH:malliH, -llI:mallI
+23:0,0:26395:muYjAwaH:muYjAwaH, -wakaH:muYjAwakaH
+23:8,0:26950:yazwiH:yazwiH, -zwI:yazwI
+23:0,0:27276:raD:raD, -ranD:ranD
+23:0,0:27290:raP:raP, -ramP:ramP
+23:3,0:27325:raSanA:raSanA, -rasanA:rasanA
+23:30,0:27408:rAtriH:rAtriH, -trI:rAtrI
+23:0,0:27986:likzA:likzA, -liKyA:liKyA
+23:0,0:28023:limpiH:limpiH, -liviH:liviH
+23:1,0:28474:vamraH:vamraH, -mrI:vamrI
+23:0,0:28497:varatrA:varatrA, -tram:varatram
+23:0,0:28597:vartiH:vartiH, -rtI:vartI
+23:1,0:28921:vAtsiH:vAtsiH, -tsI:vAtsI
+23:0,0:30090:viraYcaH:viraYcaH, -YciH:viraYciH
+23:0,0:30697:vfkkaH:vfkkaH, -kkA:vfkkA
+23:0,0:31028:vEraktam:vEraktam, -ktyam:vEraktyam
+23:1,0:32016:Sikyam:Sikyam, -kyA:SikyA
+23:2,0:32120:SiSnam:SiSnam, -Sisnam:Sisnam
+23:0,0:32219:SutudriH:SutudriH, -drUH:SutudrUH
+23:0,0:32564:SrAvastiH:SrAvastiH, -stI:SrAvastI
+23:0,0:33093:sagarBaH:sagarBaH, -rByaH:sagarByaH
+23:0,0:34610:sAMkASyam:sAMkASyam, -SyA:sAMkASyA
+23:2,0:35136:suraNgaH:suraNgaH, -NgA:suraNgA
+23:0,0:35235:sUrmiH:sUrmiH, -rmI:sUrmI
+23:0,0:35284:sfB:sfB, -sfmB:sfmB
+23:0,1:35880:spfhya:spfhya, -spArha:spArha
+23:0,0:36588:hEqimbaH:hEqimbaH, -mbiH:hEqimbiH
+23:0,0:36675:hruq:hruq, -hrUq:hrUq
+24:0,1:361:acApala:acApala, -lya:acApalya
+24:0,0:455:ajura:ajura, -rya:ajurya
+24:0,0:496:aYjizWaH:aYjizWaH, -zRuH:aYjizRuH
+24:0,0:698:atimartya:atimartya, -mAnuza:atimAnuza
+24:0,0:770:ativyaTanam:ativyaTanam, -TA:ativyaTA
+24:0,0:905:ad:ad, -da:ada
+24:0,0:1017:aDarAcIna:aDarAcIna, -cya:aDarAcya
+24:0,0:1233:aDyAhAraH:aDyAhAraH, -haraRam:aDyAharaRam
+24:0,1:1324:anaparADa:anaparADa, -Din:anaparADin
+24:0,0:1609:anirvftiH:anirvftiH, -ttiH:anirvfttiH
+24:0,0:1675:anukaraRam:anukaraRam, -kftiH:anukftiH
+24:1,3:1750:anuja:anuja, -jAta:anujAta
+24:0,1:1863:anupatanam:anupatanam, -pAtaH:anupAtaH
+24:0,0:1880:anupameya:anupameya, -mita:anupamita
+24:0,0:1911:anupAta:anupAta, -tin:anupAtin
+24:0,0:1969:anuBava:anuBava, -BAva:anuBAva
+24:0,0:2063:anuroDin:anuroDin, -Daka:anuroDaka
+24:0,0:2070:anulAsaH:anulAsaH, -syaH:anulAsyaH
+24:0,0:2139:anuveDaH:anuveDaH, -vyADaH:anuvyADaH
+24:0,0:2260:anuharaRam:anuharaRam, -hAraH:anuhAraH
+24:0,0:2290:anfc:anfc, -ca:anfca
+24:0,0:2346:antarayaH:antarayaH, -rAyaH:antarAyaH
+24:0,0:2387:anDaMBavizRu:anDaMBavizRu, -BAvuka:anDaMBAvuka
+24:0,0:2550:apagAram:apagAram, -goram:apagoram
+24:0,0:2609:apad:apad, -pAda:apAda
+24:0,0:2777:apavaraka:apavaraka, -vAraka:apavAraka
+24:0,0:2889:apahasitam:apahasitam, -hAsaH:apahAsaH
+24:0,0:2942:apAya:apAya, -yin:apAyin
+24:0,0:2955:apAvartanam:apAvartanam, -vfttiH:apAvfttiH
+24:0,0:3123:apratima:apratima, -mAna:apratimAna
+24:2,0:3241:abanDu:abanDu, -bAnDava:abAnDava
+24:0,0:3268:abdevatAka:abdevatAka, -dEvata:abdEvata
+24:0,0:3292:aBayaMkara:aBayaMkara, -kft:aBayaMkft
+24:1,0:3712:aBiSapanam:aBiSapanam, -SApaH:aBiSApaH
+24:0,0:3719:aBiSIta:aBiSIta, -SyAta:aBiSyAta
+24:0,0:3720:aBiSIna:aBiSIna, -SyAna:aBiSyAna
+24:0,0:3730:aBiSriz:aBiSriz, -Sliz:aBiSliz
+24:0,0:3754:aBizAvakaH:aBizAvakaH, -zotf:aBizotf
+24:0,2:4119:amaNgala:amaNgala, -lya:amaNgalya
+24:0,0:4486:aruz:aruz, -zwa:aruzwa
+24:0,0:4863:avaguraRam:avaguraRam, -goraRam:avagoraRam
+24:0,0:5574:aviBAvanA:aviBAvanA, -nam:aviBAvanam
+24:0,1:5823:aSoDana:aSoDana, -Dita:aSoDita
+24:0,0:6345:A:A, -AH:AH
+24:0,0:6716:AQyaMBavizRu:AQyaMBavizRu, -BAvuka:AQyaMBAvuka
+24:0,1:7021:AnfSaMsa:AnfSaMsa, -sya:AnfSaMsya
+24:0,0:7022:AnEpuRam:AnEpuRam, -Ryam:AnEpuRyam
+24:0,1:7263:AmaraRAnta:AmaraRAnta, -tika:AmaraRAntika
+24:0,0:7292:Amur:Amur, -ri:Amuri
+24:0,0:7353:AyaTApuryam:AyaTApuryam, -pUrvyam:AyaTApUrvyam
+24:0,0:7465:Aruj:Aruj, -ja:Aruja
+24:0,0:7943:AsevA:AsevA, -vanam:Asevanam
+24:0,0:8300:IK:IK, -INK:INK
+24:0,0:8301:Ij:Ij, -IYj:IYj
+24:0,0:8360:Izma:Izma, -zvaH:IzvaH
+24:0,0:8635:utkleSana:utkleSana, -Sin:utkleSin
+24:0,1:8949:udAsa:udAsa, -sin:udAsin
+24:0,1:9445:upagiri:upagiri, -ram:upagiram
+24:0,1:9525:upajIvaka:upajIvaka, -vin:upajIvin
+24:0,0:10338:ulUpa:ulUpa, -pin:ulUpin
+24:0,0:10508:UzmaRa:UzmaRa, -Rya:UzmaRya
+24:2,2:10855:oqraH:oqraH, -oRqraH:oRqraH
+24:0,1:10943:OdaSvita:OdaSvita, -Sivatka:OdaSivatka
+24:1,0:11718:kalaSI:kalaSI, -SiH:kalaSiH
+24:0,0:11732:kalAmbiH:kalAmbiH, -kA:kA
+24:0,1:11914:kAWinam:kAWinam, -nyam:kAWinyam
+24:0,0:12251:kirAtakaH:kirAtakaH, -tikaH:kirAtikaH
+24:0,0:12270:kilAwin:kilAwin, -waH:kilAwaH
+24:0,0:12471:kudraNkaH:kudraNkaH, -NgaH:kudraNgaH
+24:2,0:13153:krimiH:krimiH, -kA:kA
+24:0,0:13395:kzIrAvI:kzIrAvI, -vikA:kzIrAvikA
+24:0,0:13944:gavyUtam:gavyUtam, -tiH:gavyUtiH
+24:0,0:13962:gANgawaH:gANgawaH, -weyaH:gANgaweyaH
+24:0,0:14026:gArBiRam:gArBiRam, -Ryam:gArBiRyam
+24:0,0:14255:gATakaH:gATakaH, -TikaH:gATikaH
+24:0,0:14847:cApalam:cApalam, -lyam:cApalyam
+24:0,0:14955:citrIkaraRam:citrIkaraRam, -kAraH:citrIkAraH
+24:0,0:17466:dfQIkaraRam:dfQIkaraRam, -kAraH:dfQIkAraH
+24:0,0:18252:nagnaMBavizRu:nagnaMBavizRu, -BAvuka:nagnaMBAvuka
+24:0,0:18726:nicikI:nicikI, -nEcikI:nEcikI
+24:0,0:18758:nidarSaka:nidarSaka, -nam:nam
+24:0,0:20835:palitaMBavizRu:palitaMBavizRu, -BAvuka:palitaMBAvuka
+24:0,0:20927:pAcA:pAcA, -ciH:pAciH
+24:0,0:21857:pESunam:pESunam, -nyam:pESunyam
+24:0,1:22353:pratikartavya:pratikartavya, -kArya:pratikArya
+24:0,0:22388:pratigrAhaka:pratigrAhaka, -hin:pratigrAhin
+24:0,0:25332:BEmaseniH:BEmaseniH, -nyaH:BEmasenyaH
+24:0,0:25568:maRqapakaH:maRqapakaH, -pikA:maRqapikA
+24:0,0:26008:mAqqukaH:mAqqukaH, -kikaH:mAqqukikaH
+24:0,0:27110:yuzmAdfS:yuzmAdfS, -Sa:yuzmAdfSa
+24:0,0:27158:yOgapadam:yOgapadam, -dyam:yOgapadyam
+24:0,0:28029:lihaH:lihaH, -leQf:leQf
+24:0,0:30676:vIruD:vIruD, -DA:vIruDA
+24:0,0:32361:SEKarikaH:SEKarikaH, -reyaH:SEKareyaH
+24:0,0:32543:SravApyaH:SravApyaH, -yyaH:SravApyyaH
+24:0,0:33949:samIkaraRam:samIkaraRam, -kriyA:samIkriyA
+24:0,1:35160:suzumRaH:suzumRaH, -mnaH:suzumnaH
+24:0,2:35495:sOmerava:sOmerava, -ruka:sOmeruka
+x:0,0:35:akaqamam:akaqamam, akaTaham, ˚cakram:akaTaham,akaqamacakram
+x:1,0:300:aNkowaH:aNkowaH, -WaH, -laH:aNkoWaH,aNkolaH
+y:0,0:337:aNgIkAraH:aNgIkAraH, -kftiH, -karaRam:aNgIkftiH,aNgIkaraRam
+x:14,0:341:aNguliH:aNguliH, -lI, -riH, -rI:aNgulI,aNguriH,aNgurI
+x:0,0:343:aNgulIyam:aNgulI(rI)yam, -kam, -yakam:aNgurIyam,aNgurIyakam,aNgulIyakam
+x:0,0:554:atandra:atandra, -ndrita, -n, -la:atandrita,atandrin,atandrila
+y:0,0:617:aticCatraH:aticCatraH, -trA, -cCatrakA:aticCatrA,aticCatrakA
+x:0,2:734:atiromaSa:ati(ro)lomaSa:atiromaSa
+x:0,0:883:atrasta:atrasta, atrAsa, -trasnu:atrAsa,atrasnu
+x:0,0:932:adAnya:adAnya, adAyin, adAman, adASu, adASuri, -dASvas:adAnya,adAyin,adAman,adASu,adASuri,adASvas
+x:0,0:1015:aDarasmAt:aDarasmAt, -rataH, -stAt, -rAt, -tAt, -reRa:aDarataH,aDarastAt,aDarAt,aDaratAt,aDareRa
+x:0,0:1056:aDigamya:aDigamya, -gamanIya, -gantavya:aDigamanIya,aDigantavya
+x:0,0:1113:aDirAjyam:aDirAjyam, -zwram:aDirAzwram
+x:0,1:1147:aDiSrayaRam:aDiSrayaRam, -paRam:aDiSrapaRam
+x:0,0:1190:aDokza:aDo'kza, aDo'kzaja, aDoM'Suka:aDokzaja,aDoMSuka
+x:0,0:1219:aDyApaka:aDyApaka, -panam, aDyAya:aDyApanam,aDyAya
+x:0,0:1314:anapakaraRam:anapakaraRam, -karman, -kriyA:anapakaraRam,anapakarman
+x:0,0:1330:anapasPur:anapasPur, -ra, -rat:anapasPura,anapasPurat
+x:0,0:1347:anaBiSasta:anaBiSasta, -sti, -stya:anaBiSasti,anaBiSastya
+x:0,0:1559:anicCa:anicCa, -cCaka, -cCu, -cCuka, -cCat:anicCaka,anicCu,anicCuka,anicCat
+x:0,0:1579:animizam:animizam, -zA, -mezam:animizA,animezam
+x:0,1:1680:anukArya:anukArya, -karaRIya, -kartavya:anukaraRIya,anukartavya
+x:0,0:1838:anunaya:anunaya, -nAyikA:anunAyikA
+x:0,0:1968:anubrAhmaRin:anubrAhmaRin, -ka:anubrAhmaRika
+x:0,0:2066:anurUpataH:anurUpataH, -peRa, -paSaH:anurUpeRa,anurUpaSaH
+x:0,0:2178:anuzak:anuzak, -w:anuzaw
+x:0,0:2185:anuzekaH:anuzekaH, -secanam:anusecanam
+y:0,0:2296:anftaka:anfta(ti)ka, anftin:anftika,anftin
+y:12,0:2348:antarikzam:antari(rI)kzam:antarIkzam
+x:0,0:2416:anyAdfkza:anyAdfkza, -S, -Sa:anyAdfS,anyAdfSa
+x:0,0:2491:anvezaH:anvezaH, -zaRam, -RA:anvezaRam,anvezaRA
+y:0,0:2492:anvezaka:anvezaka, anvezin, anvezwf:anvezin,anvezwf
+y:1,0:2762:apalapanam:apalapanam, apalApaH:apalApaH
+x:0,0:2823:apaSiras:apaSiras, -SIrza, -rzan:apaSIrza,apaSIrzan
+x:0,0:2917:apANkta:apANkta, -pANkteya, -pANktya:apANkteya,apANktya
+x:3,0:2938:apApa:apApa, -pin:apApin
+x:0,0:3044:apekzya:apekzya, -kzitavya, -kzaRIya:apekzitavya,apekzaRIya
+x:0,0:3063:aptu:aptu, -ptU -ryam:aptU,aptUryam
+x:0,0:3169:aprayApaRi:aprayApaRi, -niH:aprayApaniH
+y:0,0:3236:abaDa:abaDa, -Dya:abaDya
+x:0,0:3369:aBiGAta:aBiGAta, -GAtaka, -takin:aBiGAtaka,aBiGAtakin
+x:0,0:3522:aBiprAp:aBiprAp, -ptiH:aBiprAptiH
+x:0,0:3545:aBiBAvin:aBiBAvin, -BAva(vu)ka:aBiBAvaka,aBiBAvuka
+y:0,0:3583:aBimarSaH:aBimarSaH, -rSanam, -marzaH, -zaRam:aBimarSanam,aBimarzaH,aBimarzaRam
+x:0,0:3584:aBimarSaka:aBimarSaka, -rzaka, -marSin, -rzin:aBimarzaka,aBimarSin,aBimarzin
+x:0,2:3592:aBiyAtiH:aBiyAtiH, -yAyin, -tf:aBiyAyin,aBiyAyitf
+x:0,0:3641:aBilAzaka:aBilAzaka, -lAzi(si)n, -lAzuka:aBilAzin,aBilAsin,aBilAzuka
+x:0,1:3749:aBizecanIya:aBizecanIya, -zecya, -zekya:aBizecya,aBizekya
+x:0,0:3810:aBisara:aBisara, -sarga, -sarjana:aBisarga,aBisarjana
+y:0,0:3813:aBisAntvaH:aBisA(SA)ntvaH, -ntvanam:aBiSAntvaH,aBisAntvanam
+x:0,0:3913:aBoktf:aBoktf, ˚Bogin:aBogin
+x:0,0:3943:aByamitrIRaH:aByamitrIRaH, -yaH, -mitryaH:aByamitrIyaH,aByamitryaH
+x:0,0:4066:aByudgamaH:aByudgamaH, -manam, -gatiH:aByudgamanam,aByudgatiH
+x:0,0:4089:aByuzya:aByu(ByU)zya, -zIya, aByozya, aByozIya:aByUzya,aByuzIya,aByozya,aByozIya
+x:0,0:4156:amarzaRa:amarzaRa, -rzita, -rzin, -rzavat:amarzita,amarzin,amarzavat
+x:0,0:4219:amUdfS:amUdfS, -Sa, -kza:amUdfSa,amUdfkza
+x:0,0:4366:ayoguqa:ayoguqa, -jAla:ayojAla
+x:0,0:4379:araMkf:araMkf, -gam:araMgam
+y:0,1:4381:arajas:arajas, araja, arajaska:araja,arajaska
+x:0,0:4481:aruRIyaH:aruRIyaH, -˚yogaH:aruRIyayogaH
+x:0,0:4488:aruzati:aruza(zya)ti:aruzyati
+x:0,0:4521:argalaH:argalaH, -lA, -lI, -lam:argalA,argalI,argalam
+x:0,1:4594:arbudaH:arbu(rba)daH, -dam:arbadaH,arbudam
+x:0,0:4712:alimpaka:alimpaka, -baka:alimbaka
+y:0,0:5062:avanejanam:avanejanam, avanejanI, avaneja:avanejanI,avaneja
+x:0,0:5405:avahitTA:ava(ba)hitTA, -tTam:abahitTA,avahitTam
+x:0,0:6060:asamAvfttaH:asamAvfttaH, -ttakaH, asamAvartakaH, asamAvfttikaH:asamAvfttakaH,asamAvartakaH,asamAvfttikaH
+y:0,0:6297:ahantya:ahantya, ahantra, ahanya:ahantra,ahanya
+x:0,0:6332:aheLat:aheLa(qa)t, -heqamAna:aheqat,aheqamAna
+x:0,0:6403:AkAraRam:AkA(ka)raRam, -RA:AkaraRam,AkAraRA
+y:0,0:6611:AcaraRIya:AcaraRIya, Acaritavya, Acarya:Acaritavya,Acarya
+x:1,0:6831:AdinavaH:Adi(dI)navaH, -vam:AdInavaH,Adinavam
+y:0,1:6992:AnupUrvam:AnupUrvam, -rvyam, -rvI:AnupUrvyam,AnupUrvI
+y:0,0:6993:AnupUrve:AnupUrve, -rvye, -Ra, anupUrvyA:AnupUrvye,AnupUrvyeRa,anupUrvyA
+x:0,1:7200:ABAsura:ABAsu(sva)ra:ABAsvara
+x:0,0:7570:AlaBya:AlaBya, Ala(lam)BanIya:AlaBanIya,AlamBanIya
+x:0,1:7825:AScotana:ASco(Scyo)tana:AScyotana
+x:0,0:7953:AstikatA:AstikatA, -tva, Astikyam:Astikatva,Astikyam
+x:0,0:8035:AhutIkf:AhutIkf, -BU:AhutIBU
+y:0,1:8101:iNgudaH:iNgudaH, -dI, iNgulaH:iNgudI,iNgulaH
+x:0,0:8335:IrzyAlu:IrzyA(rzA)lu, Irzyu(rzu):IrzAlu,Irzyu,Irzu
+x:0,0:8371:ukuRaH:u(uM)kuRaH:uMkuRaH
+x:0,0:8446:ucCAstra:ucCAstra, ˚vartin:ucCAstravartin
+c:1,1:8475:ucCrayaH:ucCra(cCrA)yaH:ucCrAyaH
+x:0,0:8580:utkAsaH:utkAsaH, -sanam, utkAsikA:utkAsanam,utkAsikA
+x:0,0:8914:udaravat:udaravat, udarika, -la:udarika,udarila
+x:0,0:9233:udvejin:udveji(gi)n, -jaka:udvegin,udvejaka
+x:0,1:9744:upaBogya:upaBogya, -Boktavya, -Bojya:upaBoktavya,upaBojya
+x:0,0:10296:uruvuH:uruvuH, -vukaH, -vUkaH:uruvukaH,uruvUkaH
+x:0,1:10402:uSIraH:uSI(zI)raH, -ram, uSI(zI)rakam:uzIraH,uSIram,uSIrakam,uzIrakam
+x:0,0:10440:uhApohaH:u(U)hApohaH:UhApohaH
+x:0,0:10484:UrDvakaH:UrDva(rdDa)kaH:UrdDakaH
+yz:0,0:10585:ftuTA:ftuTA:
+x:0,0:10596:fDaj:fDaj(k):fDak
+x:0,0:10668:equkaH:equ(qU, qo)kaH, -kam:eqUkaH,equqokaH,equkam,
+x:0,0:10681:etAdfS:etAdfS, -dfkza, -dfS:etAdfkza,etAdfS
+x:0,0:10773:EqaviqaH:Eqa(la)viqaH(laH):ElavilaH
+x:0,1:11131:kaNkataH:kaNkataH, -tam, kaNkatI, -tikA:kaNkatam,kaNkatI,kaNkatikA
+x:0,0:11138:kaNkuzWaH:kaNku(gu)zWaH, -zWam:kaNguzWaH,kaNkuzWam
+x:0,0:11161:kacCawikA:kacCa(cCA)wikA, kacCAwI:kacCAwikA,kacCAwI
+x:0,1:11268:kaqaNgarIya:kaqaNga(kA)rIya:kaqaNkArIya
+x:0,0:11272:kaqambaH:kaqa(la)mbaH(mbI):kalambaH,kaqambI,kalambI
+x:0,0:11289:kaRAwInaH:kaRAwInaH, -wIraH, -wArakaH:kaRAwIraH,kaRAwArakaH
+y:0,0:11536:kayADuH:kayADuH, -DUH::kayADUH
+y:0,0:11548:karaRqakaH:karaRqakaH, karaRqikA, karaRqI:karaRqikA,karaRqI
+x:0,2:11560:karamBaH:karamBaH(mbaH):karambaH
+x:0,0:11653:karpawika:karpawika, -n:karpawin
+x:0,0:11658:karpAsaH:karpAsaH, -sam, -sI:karpAsam,karpAsI
+y:0,1:11816:kaSerukaH:kaSerukaH, kaseruka, -kAH:kaseruka,kaserukAH
+x:2,0:11847:kasturikA:kastu(stU)rikA, kastUrI:kastUrikA,kastUrI
+x:0,0:12062:kArukaH:kAru(rU)kaH, -kA:kArUkaH,kArukA
+x:0,0:12068:kArotamaH:kArota(tta)maH, -raH:kArottamaH,kArotaraH
+x:0,0:12110:kArzaH:kArzaH, -rzakaH, -rzikaH:kArzakaH,kArzikaH
+x:1,2:12165:kASaH:kASaH, -SakaH, -Sam:kASakaH,kASam
+x:0,0:12212:kiMSulukaH:kiMSu(la)lukaH:kiMSulukaH,kiMSulakaH
+y:0,0:12224:kiYjam:kiYjam, kiYjalaH, kiYjalkaH:kiYjalaH,kiYjalkaH
+x:0,0:12283:kisalaH:kisalaH, -lam, kisalayaH, -yam:kisalam,kisalayaH,kisalayam
+x:0,0:12321:kuMS:kuMS(s):kuMs
+x:0,0:12348:kujamBalaH:kujamBalaH, kujamBilaH, -raH:kujamBilaH,kujamBiraH
+x:0,1:12376:kuwIraH:kuwIraH, -ram, kuwIrakaH:kuwIram,kuwIrakaH
+x:0,2:12419:kuqmala:kuq(w)mala:kuwmala
+x:8,2:12434:kuRqaH:kuRqaH, -qI, -qam:kuRqI,kuRqam
+x:0,0:12444:kuRqinam:kuRqinam, -puram:kuRqinapuram
+x:0,0:12452:kutukita:kutukita, -n:kutukin
+x:0,0:12466:kuTaH:kuTaH, -Tam, -TA:kuTam,kuTA
+x:0,1:12469:kuddAraH:kuddAraH, -laH, -lakaH:kuddAlaH,kuddAlakaH
+x:0,0:12513:kumAr:kumAr(l):kumAl
+y:0,0:12546:kuraRwaH:kuraRwaH, kuraRwakaH, kuraRwikA:kuraRwakaH,kuraRwikA
+x:0,1:12553:kuravaH:kuravaH(baH), kurava(ba)kaH:kurabaH,kuravakaH,kurabakaH
+x:0,0:12573:kurpAsaH:ku(kU)rpAsaH, ku(kU)rpAsakaH:kUrpAsaH,kurpAsakaH,kUrpAsakaH
+x:0,0:12775:kfkalaH:kfkalaH, kfkalAsaH, -SaH:kfkalAsaH,kfkalASaH
+x:0,0:12789:kfntanikA:kfntanikA, -nI:kfntanI
+yz:0,0:12793:kftvA:kftvAcintA:
+y:0,0:12853:kekAvalaH:kekAvalaH, kekikaH, kekin:kekikaH,kekin
+x:3,1:12901:kesaraH:kesa(Sa)raH, -ram:keSaraH,kesaram
+x:0,0:12980:konAlakaH:konAlakaH, -kA, -kam:konAlakA,konAlakam
+x:0,0:12997:kolA:kolA, -liH, -lI:koliH,kolI
+x:0,0:13027:kOcumAra:kOcumAra, -yogaH:kOcumArayogaH
+x:0,0:13051:kOtUhalam:kOtUhalam(lyam):kOtUhalyam
+x:0,0:13093:kOSalam:kOSalam(lyam):kOSalyam
+x:0,1:13175:krIqanakaH:krIqanakaH, -kam, krIqanIyam, -yakam:krIqanakam,krIqanIyam,krIqanIyakam
+x:0,0:13247:klIbatA:klIbatA, klEbyam(vyam):klEbyam,klEvyam
+x:0,1:13269:kzaR:kzaR(n):kzan
+x:0,0:13368:kzipatiH:kzipatiH(stiH):kzipastiH
+x:0,0:13510:KaYjarIwaH:KaYjarIwaH, -wakaH, KaYjaleKaH:KaYjarIwakaH,KaYjaleKaH
+x:0,0:13608:KalinaH:Kali(lI)naH, -nam:KalInaH,Kalinam
+x:0,0:13612:KaleDAnI:KaleDAnI, -vAlI:KalevAlI
+x:0,0:13617:KaliSaH:KaliSaH, KalliSaH, -leSaH, -leSayaH:KalliSaH,KaleSaH,KaleSayaH
+x:0,0:13620:KalUrikA:KalUrikA(rakam):KalUrakam
+c:0,0:13639:KAw:KAw(t):KAt
+x:0,0:13640:KAwaH:KAwaH, -wA, -wikA, -wI:KAwA,KAwikA,KAwI
+x:0,1:13660:KAraH:KAraH, -riH, -rI:KAriH,KArI
+x:0,0:13717:Kow:Kow, -q, -r, -l:Koq,Kor,Kol
+x:0,0:13792:gaRquH:gaRquH(RqUH):gaRqUH
+x:0,0:13809:gadyARakaH:gadyARa(na, la)kaH:gadyAnakaH,gadyAlakaH
+x:1,1:13880:gartaH:gartaH, -rtA, -rtam:gartA,gartam
+x:0,1:13945:gavequH:gavequH, -DuH, -DukA:gaveDuH,gaveDukA
+x:1,0:13980:gARqivaH:gARqi(RqI)vaH, -vam:gARqIvaH, gARqivam
+x:0,0:14054:giriyakaH:giri(rI)yakaH, giriyAkaH:girIyakaH,giriyAkaH
+x:0,0:14130:gundAlaH:gundA(ndrA)laH:gundrAlaH
+x:0,0:14197:gUrd:gUrd(gurd):gurd
+x:4,2:14290:golaH:golaH, -lA, -lam:golA,golam
+x:0,0:14309:gODAraH:gODAraH, -DeyaH, -DeraH:gODeyaH,gODeraH
+x:0,1:14472:GAwaH:GAwaH, -wA, -wikA:GAwA,GAwikA
+x:0,0:14504:GurGurakaH:GurGurakaH, -rikA:GurGurikA
+y:0,0:14695:camatkaraRam:camatkaraRam, camatkAraH, camatkftiH:camatkAraH,camatkftiH
+y:0,0:14738:carcarikA:carcarikA, carcarI:carcarI
+x:0,0:14779:caviH:caviH, -kam, -kA, -vI, -vyakam, -vyA:cavikam,cavikA,cavI,cavyakam,cavyA
+x:0,0:14925:ciNgawaH:ciNgawaH, -wI, -qa:ciNgawI,ciNgaqa
+y:0,0:14988:cilicimaH:cili(lI)ci(cI)maH, -miH, cilImaH, celacImaH:cilIcImaH,cilicimiH,cilImaH,celacImaH
+x:0,0:15040:cuRwA:cuRwA, -RwI, -RqA:cuRwI,cuRqA
+x:0,0:15124:cewikA:cewi(qi)kA, cewiH:ceqikA,cewiH
+x:0,0:15149:cEtraraTam:cEtraraTam(Tyam):cEtraraTyam
+x:0,0:15317:jaganuH:jaganuH(nnuH):jagannuH
+x:0,0:15338:jajaH:ja(jaY)jaH:jaYjaH
+y:0,0:15388:janiH:janiH, janikA, janI:janikA,janI
+x:0,0:15728:jfmBaH:jfmBaH, -BA, -Bam:jfmBA,jfmBam
+x:0,0:15932:walaH:wa(wA)laH, walanam:wAlaH,walanam
+x:0,0:16201:tara:tara, taraRa, taraRi, taraRqa, tari-rI, tarIza:taraRa,taraRi,taraRqa,tari,tarI,tarIza
+x:0,0:16313:tAqakA:tA(wa)qakA:waqakA
+y:0,1:16447:tintiqaH:tintiqaH, -qI, tintiqikA, tintiqIkAH:tintiqI,tintiqikA,tintiqIkAH
+x:0,0:16448:tintilI:tintilI, tintili(lI)kA:tintilikA,tintilIkA
+y:0,0:16567:tup:tup, tump, tumP:tump,tumP
+x:0,0:16642:tURiH:tURiH, tURIraH, -ram:tURIraH,tURIram
+x:1,1:16726:taraRqaH:taraRqaH, -RqA, -RqI, -Rqam:taraRqA,taraRqI,taraRqam
+y:0,0:16733:taritram:taritram, taritrI, tariRI:taritrI,tariRI
+y:0,0:16789:tottram:tottram, toda, todanam:toda,todanam
+x:0,0:16862:trup:trup(P), trump(mP):trump,trumP
+x:0,0:16967:daMsanam:daMsanam, -nA, daMsas, daMsiH:daMsanA,daMsas,daMsiH
+x:1,0:17015:daDIcaH:daDIcaH, -ciH, daDyac:daDIciH,daDyac
+x:0,0:17081:dardruH:dardruH(rdrUH):dardrUH
+x:0,0:17082:dardruRa:dardru(rdrU)Ra:dardrURa
+x:1,1:17188:dAqimaH:dAqi(li)maH, -mA:dAlimaH,dAqimA
+y:0,0:17606:doza:doza, dozika, dozin:dozika,dozin
+x:0,0:17769:drekkaRaH:drekka(kkA, zkA)RaH:drekkARaH,drezkARaH
+y:0,0:17776:drORAyanaH:drORAyanaH, -niH, drORiH:drORAyaniH,drORiH
+y:0,0:17865:DattUraH:DattUraH, DattUrakaH, -kA:DattUrakaH,DattUrakA
+y:0,0:17914:DarRasa:DarRasa, -si, DarRi:DarRasi,DarRi
+x:0,0:18094:DUS:DUS(z, s):DUz,DUs
+y:0,0:18145:DOrtakam:DOrtakam, DOrtiMkam, DOrtyam:DOrtiMkam,DOrtyam
+x:0,0:18153:DmANkz:DmAN(DvAN)kz:DvANkz
+y:0,0:18155:DyAta:DyAta, DyAna, DyAnika:DyAna,DyAnika
+x:0,0:18539:nAlikera:nAlikera, nAlikeli, -lI:nAlikeli,nAlikelI
+x:0,0:18591:niHSrayaRI:niHSraya(yi)RI, niHSreRi, -RI:niHSrayiRI,niHSreRi,niHSreRI
+x:0,0:18811:nipaWaH:nipa(pA)WaH, nipaWanam, nipaWitiH:nipAWaH,nipaWanam,nipaWitiH
+y:0,0:18951:nirIkzaRam:nirIkzaRam, nirIkzA, nirIkzitam:nirIkzA,nirIkzitam
+x:0,1:19201:nivirISa:nivirI(qI)Sa, -sa:niviqISa, nivirIsa
+x:1,0:19354:nizWIvaH:nizWI(zWe)vaH, -vam, nizWI(zWe)vanam, nizWIvitam:nizWevaH,nizWIvam,nizWIvanam,nizWevanam,nizWIvitam
+x:0,0:19473:nutta:nutta(nna):nunna
+x:0,0:19501:net:net, -d:ned
+x:0,0:19668:paMS:paMS, -s:paMs
+x:0,0:19854:patimatI:patimatI, -vatI:pativatI
+y:2,0:19892:padAjiH:padAjiH, padAtaH, padAtiH:padAtaH,padAtiH
+x:0,0:20210:pariRayaH:pariRayaH, -nam:pariRayanam
+x:0,0:20261:paridevanam:paridevanam, -nA, paridevitam:paridevanA,paridevitam
+x:0,0:20325:paripfcCika:paripfcCi(zwi)ka:paripfzwika
+x:0,0:20441:pariramBaH:pari(rI)ramBaH, -Ram:parIramBaH,pariramBaRam
+x:0,0:20479:pariviRRaH:pariviRRaH(nnaH), parivittaH, parivittiH:parivinnaH,parivittaH,parivittiH
+x:0,0:20484:pariviS:pariviS(z):pariviz
+x:0,0:20489:parivezaRam:parivezaRam, -Sanam:pariveSanam
+x:0,0:20545:pariSoDaH:pariSoDaH, -nam:pariSoDanam
+x:0,1:20568:parizkaRRa:parizkaRRa(nna):parizkanna
+x:0,0:20578:parizwomaH:parizwo(sto)maH:paristomaH
+x:0,0:20602:parisaryA:pari(rI)saryA, pari(rI)sAraH:parIsaryA,parisAraH,parIsAraH
+y:0,0:20655:parItApa:parItApa, parIpAka, parIvAra, -vAha, parIhAsa:parIpAka,parIvAra,parIvAha,parIhAsa
+x:0,0:20779:paryupAsaka:paryupAsaka, -sin, -sitf:paryupAsin,paryupAsitf
+x:0,0:20872:paS:paS, -z -s:paz,pas
+x:0,0:20873:paS:paS, -s:pas
+x:0,0:20874:paz:paz, -S:paS
+x:0,0:20894:pahnavAH:pahna(hla)vAH, pahlikAH:pahlavAH,pahlikAH
+x:0,0:21057:pAdAlindaH:pAdAlindaH, -ndA, -ndI:pAdAlindA,pAdAlindI
+x:0,0:21313:picaRqaH:picaRqaH, -Rqam, piciRqaH, -Rqam:picaRqam piciRqaH,piciRqam
+x:0,0:21695:pUpalA:pUpalA(lI), pUpAlikA, pUpAlI, pUlikA, pUpikA:pUpalI,pUpAlikA,pUpAlI,pUlikA,pUpikA
+x:0,0:21768:pfSnikA:pfSni(zRi)kA, pfSnI(zRI):pfzRikA,pfSnI,pfzRI
+x:0,2:21815:peSala:peSa(za, sa)la:pezala,pesala
+y:0,0:22286:praRAlaH:praRAlaH, -lI, praRAlikA:praRAlI,praRAlikA
+x:0,0:22585:pratiroDaka:pratiroDaka, pratiroDin, -dDf:pratiroDin,pratirodDf
+x:0,0:22818:pratyavamarSaH:pratyavamarSaH, -rzaH:pratyavamarzaH
+x:0,0:22884:pratyutkramaH:pratyutkramaH, -tkramaRam, -tkrAntiH:pratyutkramaRam,pratyutkrAntiH
+x:0,0:23082:prapunAwaH:prapunA(nnA)waH, -qaH:prapunnAwaH,prapunAqaH
+x:4,1:23114:prabAlaH:prabA(vA)laH, -lam:pravAlaH,prabAlam
+x:0,0:23400:pravahaRI:pravahaRI, -nikAyaH:pravahanikAyaH
+x:0,0:23548:praScotanam:praSco(Scyo)tanam:praScyotanam
+z:0,0:24222:prozyapApIyAn:prozya-pApIyAn:
+x:0,0:24363:PewkAraH:Pew(t)kAraH:PetkAraH
+x:0,0:24503:baliSam:baliSam, baliSiH, -SI:baliSiH,baliSI
+x:0,0:24515:bazkayaRI:bazkaya(yi)RI(nI):bazkayinI
+y:0,0:24607:bAlukI:bAlukI, bAluNkI, bAluNgI:bAluNkI,bAluNgI
+y:0,2:24639:bAhlakAH:bAhlakAH, bAhlikAH, bAhlIkAH:bAhlakAH,bAhlikAH,bAhlIkAH
+x:0,0:24644:biwakaH:biwakaH, -kam, biwakA:biwakam,biwakA
+x:0,0:24899:BaRqiraH:BaRqiraH(laH), BaRqIraH:BaRqilaH,BaRqIraH
+x:0,1:24965:BallaH:BallaH, -llI, -llam:BallI,Ballam
+y:0,0:25004:BastrakA:BastrakA, BastrA, BastriH:BastrA,BastriH
+y:0,0:25095:BArgavam:BArgavam, BArgavakam, BArgavapriyaH:BArgavakam,BArgavapriyaH
+x:0,0:25103:BAlukaH:BAlu(lU)kaH, BAllu(llU)kaH:BAlUkaH,BAllukaH,BAllUkaH
+x:0,0:25177:BizmA:BizmA, BizmikA, -wA, BissawA, BissiwA:BizmikA,BizmiwA,BissawA,BissiwA
+x:0,0:25230:BuvisTa:BuvisTa(zWa):BuvizWa
+y:0,0:25271:BftyatA:BftyatA, -tvam, BftyaBAvaH:Bftyatvam,BftyaBAvaH
+x:1,0:25475:makzikaH:makzikaH, makzi(kzI)kA:makzikA,makzIkA
+x:0,0:25540:maYjuzA:maYju(YjU)zA, maYju(YjU)zikA:maYjUzA,maYjuzikA,maYjUzikA
+y:0,0:25748:mandArakaH:mandArakaH, mandAravaH, mandAruH:mandAravaH,mandAruH
+x:0,0:25766:mapazwaH:mapa(pu)zwaH, -zwakaH:mapuzwaH,mapazwakaH
+x:0,0:25777:mayazwaH:maya(yu)zwaH, -zwakaH:mayuzwaH,mayazwakaH
+y:0,0:25973:mAMsikA:mAMsikA, mAMsinI, mAMsI:mAMsinI,mAMsI
+x:0,0:26307:miSiH:miSiH(ziH, -siH):miziH,misiH
+x:2,0:26482:mustaH:mustaH, -stA, -stam:mustA,mustam
+y:0,0:26483:mustakaH:mustakaH, -kam, -kA:mustakam,mustakA
+y:0,0:26501:mUwaH:mUwaH, mUwakaH, mUqakaH:mUwakaH,mUqakaH
+y:0,0:26510:mUrKatA:mUrKatA, -tvam, mUrKiman:mUrKatvam,mUrKiman
+y:0,0:26526:mUrvA:mUrvA, -rvI, mUrvikA:mUrvI,mUrvikA
+x:0,0:26559:mfgAvit:mfgAvit(d):mfgAvid
+y:0,0:26638:meWiH:meWiH, meQI, meTiH:meQI,meTiH
+y:0,0:26710:mEreyaH:mEreyaH, -yam, mEreyakaH, -kam:mEreyam,mEreyakaH,mEreyakam
+x:0,0:26817:mrew:mrew(q):mreq
+y:0,0:27076:yuC:yuC, yucC:yucC
+y:0,0:27122:yUzaH:yUzaH, -zam, yUzan:yUzam,yUzan
+x:0,0:27345:rasonaH:ra(su)sonaH:rasunaH
+x:0,0:27445:rASIkfta:rASIkfta, -BUta:rASIBUta
+x:0,0:27562:ruvuH:ruvuH, rubu(bU)kaH:rubukaH,rubUkaH
+x:0,0:27625:reb:reb(v):rev
+x:0,0:27706:rOw:rOw(q):rOq
+x:0,0:27884:laSunaH:laSu(SU)naH, -nam:laSUnaH,laSunam
+x:0,0:28167:loRA:loRA, -RI, loRAmlA:lORI,loRAmlA
+x:0,0:28521:varivasita:varivasi(syi)ta:varivasyita
+y:0,0:28815:vahewakaH:vahewakaH, vahequkaH, vahEqukaH:vahequkaH,vahEqukaH
+yz:0,0:28915:vAtUlIBramaH:vAtUlI-BramaH:
+x:0,0:28942:vAD:vAD, vADa, vADaka, vADana, -nA, vADA:vADa,vADaka,vADana,vADanA,vADA
+y:0,0:29041:vArdDuziH:vArdDuzi(za)H, vArdDuzikaH, vArdDuzin:vArdDuzaH,vArdDuzikaH,vArdDuzin
+y:0,0:29067:vAlmikiH:vAlmikiH, vAlmIkaH, vAlmIkiH:vAlmIkaH,vAlmIkiH
+x:0,0:29208:vikASin:vikASi(zi, si)n:vikAzin,vikAsin
+x:0,0:29258:vikrayikaH:vikra(krA)yikaH, vikrayin:vikrAyikaH,vikrayin
+x:0,0:29307:vigarhaRam:vigarhaRam, -RA, vigarhA:vigarhaRA,vigarhA
+x:0,0:29335:viGasIkftaH:viGasIkftaH, -BUtaH:viGasIBUtaH
+x:0,0:29530:vitardiH:vitardiH, -rdI, vitardikA:vitarrdI,vitardikA
+y:0,0:29531:vitardDiH:vitardDiH, -rdDI, vitardDikA:vitardDI,vitardDikA
+y:0,0:29969:viBItaH:viBItaH, -tam, viBItakaH, -kam, viBItakI, viBItA:viBItam,viBItakaH,viBItakam,viBItakI,viBItA
+x:0,0:30021:vimarzin:vima(rSi)rzin:vimarSin
+y:0,0:30218:vilepikA:vilepikA, vilepI, vilepyaH:vilepI,vilepyaH
+y:0,0:30352:viSezatas:viSezatas, viSezeRa, viSezAt:viSezeRa,viSezAt
+x:0,0:30446:vizARaH:vizARaH, -Ram, -RI:vizARam,vizARI
+x:0,0:30503:visaMzWula:visaMzWu(sTu)la:visaMsTula
+x:0,0:30778:veNkawaH:veNkawaH, veNkawAdriH, -giriH:veNkawAdriH,veNkawagiriH
+y:0,0:30889:vEkakzakam:vEkakzakam, vEkakzikam, vEkakzikI:vEkakzikam,vEkakzikI
+y:0,0:31043:vErocanaH:vErocanaH, vErocaniH, vErociH:vErocaniH,vErociH
+x:0,0:31516:vrUz:vrUz, -s:vrUs
+x:2,1:31788:SazpaH:SazpaH(spaH):SaspaH
+x:0,0:31806:SAkapURiH:SAkapURiH, -rRiH:SAkapUrRiH
+x:0,0:31941:SArkaraka:SArkaraka, -rika, -rIya:SArkarika,SArkarIya
+x:3,1:32254:Sulvam:Sulvam(lbam):Sulbam
+x:1,0:32312:SfNKalaH:SfNKalaH, -lA, -lam:SfNKalA,SfNKalam
+x:0,0:32344:SePAliH:SePAliH, -lI, SePAlikA:SePAlI,SePAlikA
+x:0,0:32479:ScotaH:Sco(Scyo)taH, Sco(Scyo)tanam:ScyotaH,Scotanam,Scyotanam
+x:0,0:32741:zvakk:zvakk, zvask-zk:zvask,zvazk
+x:0,0:33251:sajuz:sajuz(s):sajus
+x:0,0:34055:samudriya:samudri(drI)ya, samudrya:samudrIya,samudrya
+y:0,0:34099:samUraH:samUraH, samUruH, samUrakaH:samUruH,samUrakaH
+x:0,0:34447:sallakA:sallakA, sallaki-kI:sallaki,sallakI
+y:0,0:34490:savyezwf:savyezwf, savyezWaH, savyezWf, savyezWAtf:savyezWaH,savyezWf,savyezWAtf
+y:0,0:34640:sAtInaH:sAtInaH, sAtInakaH, sAtIlakaH:sAtInakaH,sAtIlakaH
+y:0,0:34696:sAnikA:sAnikA, sAniyikA, sAneyI:sAniyikA,sAneyI
+x:0,0:34715:sAntvaH:sAntvaH, sAntvA, sAntvam, sAntvanam, -nA:sAntvA,sAntvam,sAntvanam,sAntvanA
+x:2,0:34812:sAmyam:sAmyam, -tA, -tvam:sAmyatA,sAmyatvam
+x:0,0:34871:sArpaH:sArpaH(rpyaH):sArpyaH
+y:0,0:34981:siMhARam:siMhARam, -nam, siMhARakaH, -kam:siMhAnam,siMhARakaH,siMhARakam
+x:0,0:34991:siNGaRam:siNGa(NGA)Ram, siNGARakam:siNGARam,siNGARakam
+x:0,0:35231:sUrkz:sUrkz(rkzy):sUrkzy
+x:0,0:35232:sUrkzaRam:sUrkza(rkzya)Ram:sUrkzyaRam
+x:0,0:35358:sErIyaH:sErI(re)yaH, sErI(re)yakaH:sEreyaH,sErIyakaH,sEreyakaH
+x:0,0:35428:sOKasuptikaH:sOKa(pra)suptikaH:sOKaprasuptikaH
+x:0,0:35551:sOhArdyam:sOhArdyam, sOhfdam, -dyam, sOhfdayam:sOhfdam,sOhfdyam,sOhfdayam
+x:0,0:35944:sPuliNgaH:sPuliNgaH, -Ngam, sPuliNgA:sPuliNgam,sPuliNgA
+x:0,0:36060:svaMg:svaM(k)g:svaMk
+x:0,0:36473:hilamociH:hilamociH, -mocikA, -mocI:hilamocikA,hilamocI
+x:0,0:36513:huhu:huhu(hU), hUhU:huhU,hUhU
+x:0,0:36526:hfRIyate:hf(hri)RIyate:hriRIyate
+manx:0,0:25:aMhas:{#aMhas#} {#aMhaH, ˚hasI#}:aMhaH,aMhasI
+manx:0,2:170:akzIva:{#akzIva#} ({#ba#}):akzIba
+manx:1,0:228:agiraH:{#agiraH#} ({#naH ?#}):aginaH
+manx:0,0:292:aNkurita:{#aNkurita#} ({#aNkUrita#}):aNkUrita
+manx:8,0:351:aNGri:{#aNGri#} ({#aMhriH#}):aMhriH
+manx:0,0:420:ajarakaH:{#ajarakaH#} ({#kam#}):ajarakam
+manz:2,0:489:aYjas:{#aYjas#} ({#-jaH#}):
+man:1,0:530:aRiH:{#aRiH#} , {#-RI#}:aRI
+manx:0,0:532:aRiman:{#aRiman#} [{#aRu-imanic#}], {#aRutA, -tvam#}:aRutA,aRutvam
+manx:0,0:537:aRIyas:{#aRIyas#} {#aRizWa#}:aRizWa
+manx:0,0:539:aRW:{#aRW#} €1  (also {#aW#}):aW
+manx:0,0:696:atimatiH:{#atimatiH#} , {#-mAnaH#}:atimAnaH
+manx:0,0:708:atimuktiH:{#atimuktiH#} , {#-mokzaH#}:atimokzaH
+manx:4,0:877:atra:{#atra#} ({#atrA#} ):atrA
+manx:6,0:889:aTa:{#aTa#} ( {#aTA#}):aTA
+manx:0,0:1024:aDivettavyA:{#aDivettavyA#} ({#-vedyA#}):aDivedyA
+manx:0,0:1112:aDirAj:{#aDirAj#} , {#-jaH#}:aDirAjH
+manx:0,0:1170:aDyetf:{#aDyetf#} , {#-trI#}:aDyetrI
+manz:0,0:1702:anukzattf:{#anukzattf#} , ({#-ttA#}):
+manz:0,0:1707:anuKyAtf:{#anuKyAtf#} ({#-tA#}):anuKyAtA
+manx:0,0:1850:anuneya:{#anuneya#} ({#-nIya#}):anunIya
+manx:0,0:1907:anupA:{#anupA#} €2 , {#-pAl#} €10:anupAl
+manx:0,0:2090:anUcAna:{#anUcAna#} or {#-naH#}:anUcAnaH
+manx:0,0:2154:anuSAsaka:{#anuSAsaka, -SAsin, -SAstf#} or {#SAsitf#}:anuSAsin,anuSAstf,anuSAsitf
+manx:0,0:2220:anusavanam:{#anusavanam#} (also {#anusavam#}):anusavam
+manx:0,0:2303:anekIkf:{#anekIkf#} or {#BU#}:anekIBU
+manx:2,0:2353:antargata:{#antargata#} {%%}, {#-gAmin#}:antargAmin
+manx:1,0:2479:anvAhAryaH:{#anvAhAryaH#} (also {#-ryam#}) {#-ryakam#}:anvAhAryam,anvAhAryakam
+manx:0,0:2513:apakftiH:{#apakftiH#} {#apakftyam#}:apakftyam
+manx:0,0:2646:apanuttiH:{#apanuttiH#} , {#-nodaH, -nodanam#}:apanodaH,apanodanam
+manx:0,0:2686:apayaSas:{#apayaSas#} ({#-SaH#}):apayaSaH
+manx:0,0:2874:apasPur:{#apasPur#} ({#-sPUH#}), {#-ra, -rat#}:apasPura,apasPurat
+manx:1,1:2947:apArTa:{#apArTa#} [{#apa-arTa#}], {#apArTaka#}:apArTaka
+manx:0,0:2953:apAvftiH:{#apAvftiH#} , {#apAvaraRam#}:apAvaraRam
+many:0,0:2984:apiDAnam:{#apiDAnam#}, (also {#piDAnam#}):piDAnam
+manz:0,0:3005:apuMs:{#apuMs#} ({#˚pumAn#}):
+manx:0,2:3127:apratiraTa:{#apratiraTa#} or {#-TaH#}:apratiraTaH
+manx:0,1:3143:apratta:{#apratta#} ({#˚pradatta#}):apradatta
+manx:0,0:3163:apramUra:{#apramUra#} (), {#apramUrcCita#}:apramUrcCita
+manx:0,1:3223:apsaH:{#apsaH, -psA#} ▪.({#-psAH#} ):apsA
+manx:2,0:3225:apsaras:{#apsaras#} ({#-rAH, -rA#}):apsarA
+manx:0,3:3251:abIja:{#abIja#} ({#-jaka#}):abIjaka
+manx:0,1:3298:aBastrakA:{#aBastrakA, aBastrikA#} also {#aBastrAkA#}:aBastrikA,aBastrAkA
+manx:0,0:3364:aBigrah:{#aBigrah#} ( {#-graB#}):aBigraB
+manx:0,0:3438:aBiDAyaka:{#aBiDAyaka#} ({#-yikA#} ), {#aBiDAyin#}:aBiDAyikA,aBiDAyin
+manx:0,0:3599:aBiyuj:{#aBiyuj#} ({#-k, -g#}):aBiyuk,aBiyug
+manx:0,0:3640:aBilAzaH:{#aBilAzaH#} ({#˚saH#} sometimes):aBilAsaH
+manx:0,0:3725:aBiSyAta:{#aBiSyAta#} or {#aBiSIta#}:aBiSIta
+manx:1,0:3738:aBizaNgaH:{#aBizaNgaH#} (also {#aBisaNgaH#}):aBisaNgaH
+manx:0,0:3819:aBisarI:{#aBisarI#} ({#-riH#}):aBisariH
+manx:0,0:3861:aBItvan:{#aBItvan#} ({#-rI#} ), {#aBItvara#}:aBItvarI,aBItvara
+manx:0,0:4187:amAvasyA:{#amAvasyA, -vAsyA, -vasI, -vAsI#} (also written {#amAmasI, -mAsI#}):amAvAsyA,amAvasI,amAvAsI,amAmasI,amAmAsI
+manx:0,0:4193:amitrayati:{#amitrayati#}  , {#amitrAyate#}:amitrAyate
+manx:0,0:4269:ambAqA:{#ambAqA#} ( {#-lA#}):ambAlA
+manx:0,0:4278:amburaH:{#amburaH#}, ({#-mbaraH#}):ambaraH
+manx:0,1:4324:ayasmaya:{#ayasmaya#}, ({#ayomaya#}):ayomaya
+manx:2,3:4386:araRiH:{#araRiH#} , {#-RI#}:araRI
+manx:0,0:4459:arin:{#arin#} ({#-ri#}):ari
+manx:0,0:4480:aruRiman:{#aruRiman#} , {#aruRatA#}:aruRatA
+manz:0,0:4545:arcis:{#arcis#} ({#-rciH#}):
+manx:111,2:4582:arDa:{#arDa#} (Written also as {#ardDa#}):ardDa
+manx:0,0:4607:aryamika:{#aryamika#} ({#aryamiya#} and {#aryamila#} also):aryamiya,aryamila
+manx:0,1:5217:avalakza:{#avalakza#} (also written {#valakza#}):valakza
+manx:0,0:5461:avAstava:{#avAstava#} ({#-vika#}):avAstavika
+manx:1,3:5653:avIja:{#avIja, -jaka#} ({#abIja#}):avIjaka,abIja
+manx:0,0:6219:asTAga:{#asTAga#} ({#-GaH, -yaH, -raH#}):asTAGaH,asTAyaH,asTAraH
+manx:0,0:6480:AKaH:{#AKaH#}, [{#AKan-qa#}], {#AKanaH#} [{#Kan-Ga#} <ls>P. III. 3. 125</ls>]:AKanaH
+manx:0,0:6626:Acitika:{#Acitika#} ({#-kI#} ), {#AcitIna#}:AcitikI,AcitIna
+manx:0,0:6678:Ajur:{#Ajur#} , {#AjU#}:AjU
+manx:0,1:7168:Abarha:{#Abarha#} (also {#Abarhita#}):Abarhita
+manx:0,0:7294:AmuzyAyaRa:{#AmuzyAyaRa#} or {#-RaH#} ({#-RI#} ):AmuzyAyaRaH,AmuzyAyaRI
+manx:0,0:7804:ASiYjita:{#ASiYjita#} (also {#AsiYjita#}):AsiYjita
+manx:0,0:7835:ASramika:{#ASramika#} , {#ASramin#}:ASramin
+manx:0,0:7990:AsmAka:{#AsmAka#} ({#-kI#} ), {#AsmAkIna#}:AsmAkI,AsmAkIna
+manx:0,0:8007:Asvanita:{#Asvanita#} or {#AsvAnta#}:AsvAnta
+manx:1,0:8112:iq:{#iq#} (also written {#il#} in Veda):il
+manx:0,0:8124:iRqraH:{#iRqraH, -Rqram#} ({#iRqvam#}):iRqram,iRqvam
+manx:0,0:8223:irivillA:{#irivillA#} or {#irivillikA#}:irivillikA
+manx:0,0:8525:uW:{#uW#} = {#UW#}:UW_
+manx:6,0:8526:uquH:{#uquH#} , {#uqu#}:uqu
+manx:0,0:8918:udaraTiH:{#udaraTiH#} ({#-Tin#}):udaraTin
+manx:1,0:9171:udyAnam:{#udyAnam#} ({#-naH#} also):udyAnaH
+manx:0,0:9297:unmajj:{#unmajj#} ({#masj#}):unmasj
+manx:0,0:9323:unmanI:{#unmanI#} {#as#}:unmanIas
+manx:0,0:9394:upakArikA:{#upakArikA#} (also {#upakArI#}):upakArI
+manx:0,0:9399:upakftiH:{#upakftiH#} , {#upakriyA#}:upakriyA
+manx:0,0:9572:upadiS:{#upadiS#} , {#upadiSA#}:upadiSA
+manx:0,0:9802:upayogitA:{#upayogitA#} or {#˚tvam#}:upayogitvam
+manx:0,0:10429:uzRih:{#uzRih#} also {#uzRihA#} [<ls>Mbh.</ls> on <ls>P. IV. 1. 1</ls>.]:uzRihA
+manx:0,0:10451:UDanyam:{#UDanyam#} or {#UDasyam#}:UDasyam
+manx:0,0:10564:fRavat:{#fRavat, -van#} or {#fRAvat#}:fRavan,fRAvat
+manx:0,0:10706:elavAlu:{#elavAlu#} , {#elavAlakam#}:elavAlakam
+manx:0,0:11035:OmInam:{#OmInam#} ({#-yam#}):OmIyam
+manx:0,0:11137:kaNkuH:{#kaNkuH#} (also {#kaNgu#}):kaNgu
+manx:0,0:11146:kaNgu:{#kaNgu#} ({#-gU#} ), {#kaNgunI#}:kaNgU,kaNgunI
+manx:0,0:11265:kaqakam:{#kaqakam#} ({#kaqakaYci#}:kaqakaYci
+manx:3,0:11327:kaRquH:{#kaRquH#} , {#kaRqUH#}:kaRqUH
+manx:0,1:11437:kandowaH:{#kandowaH#} ({#-wwaH#}):kandowwaH
+manx:2,0:11509:kamaRqaluH:{#kamaRqaluH, -lu#} , {#-lU#}:kamaRqalu,kamaRqalU
+manx:0,0:11575:karIru:{#karIru#} ({#-rU#}):karIrU
+manx:0,0:11601:karkarI:{#karkarI#} ({#-riH#}):karkariH
+manx:1,0:11717:kalaSaH:{#kalaSaH, -saH#} ({#-Sam, -sam#}):kalasaH,kalaSam,kalasam
+manx:1,0:11798:kavAwa:{#kavAwa#} ({#-wI#}):kavAwI
+manx:0,0:11870:kAkiRi:{#kAkiRi, kAkiRikA#}, also {#kAkaRI#}:kAkiRikA,kAkaRI
+manx:0,0:11871:kAkiRika:{#kAkiRika#}, also {#kAkiRIka#}:kAkiRIka
+manx:0,0:11877:kAkecI:{#kAkecI#} , {#kAkocikaH#}:kAkocikaH
+manx:1,1:12025:kAyaka:{#kAyaka#} ({#-yikA#} ), {#kAyika#} ({#-kI#} ):kAyikA,kAyika,kAyikI
+manx:0,0:12084:kArdama:{#kArdama#} ({#-mI#} ), {#kArdama(mi)ka#} ({#-kI#} ):kArdamI,kArdamaka,kArdamika,kArdamikI
+many:0,1:12111:kArzApaRaH:{#kArzApaRaH, -Ram#} (or {#-paRakaH#}):kArzApaRam,kArzApaRakaH
+manx:0,0:12176:kASmarI:{#kASmarI#} (also {#kASmaryaH, -yam#}):kASmaryaH,kASmaryam
+manx:0,0:12294:kIdfS:{#kIdfS, kIdfSa#} ({#-SI#} ), {#kIdfkza#} ({#-kzI#} ):kIdfSa,kIdfSI,kIdfkza,kIdfkzI
+manx:0,0:12518:kumArika:{#kumArika#} ({#-kI#} ), {#kumArin#} ({#-RI#} ):kumArikI,kumArin,kumAriRI
+manx:0,1:12567:kuruvindaH:{#kuruvindaH, -ndam#} (also {#kuruvillaH#}):kuruvindam,kuruvillaH
+manx:0,0:12635:kuveRI:{#kuve(RA)RI#} ({#RiH#}):kuveRA,kuveRiH
+manx:0,0:12661:kuzWin:{#kuzWin#} ({#-nI#} ), {#kuzWita#}:kuzWinI,kuzWita
+manx:0,0:12700:kU:{#kU#} €1. €6  ({#kuvate, kuvate#}); also {#ku#} €9  ({#ku(kU)nAti, ku(kU)nIte#}):ku
+manz:0,0:12982:kopa:{#kopa#} and other derived words:
+manx:21,2:13002:koSaH:{#koSaH, -Sam#} ({#zaH, -zam#}):koSam,kozaH,kozam
+manx:5,4:13100:kOSika:{#kOSika#} ({#-kI#} ), also {#kOzika#} ({#-kI#}):kOSikI,kOzika,kOzikI
+manx:0,0:13309:kzamitf:{#kzamitf#} ({#-trI#} ), {#kzamin#} ({#-RI#} ):kzamitrI,kzamin,kzamiRI
+manx:0,1:13403:kzut:{#kzut#} , {#kzutam, -tA, -tiH#}:kzutam,kzutA,kzutiH
+manx:5,0:13424:kzud:{#kzud#} , {#kzuDA#}:kzuDA
+manx:0,1:13482:kzviq:{#kzviq#} €1 , {#kzvid#} €4:kzvid
+manx:0,0:13494:KaNkaraH:{#KaNkaraH#} (also {#KaNKaraH#}):KaNKaraH
+manx:0,0:13797:gata:{#gata, gati#},:gati
+manx:0,0:13966:gANgeruH:{#gANgeruH#} ({#-kaH#}):gANgerukaH
+manx:0,0:14025:gArBa:{#gArBa#} ({#-rBI#} ) [{#garBe sADu aR#}], {#gArBika#} ({#-kI#} ):gArBI,gArBika,gArBikI
+manx:0,0:14076:guj:{#guj#} €1  ({#gojati#}), often {#guYj#} €1  ({#guYjati, guYjita#} or {#gujita#}):guYj,guYjita,gujita
+manx:0,0:14151:guP:{#guP#} or {#gumP#}:gumP
+manx:0,0:14334:graT:{#graT#} or {#granT#}:granT
+manx:0,1:14395:grEva:{#grEva#} ({#-vI#} ), {#grEveya#} ({#-yI#} ):grEvI,grEveya,grEveyI
+manx:0,0:14490:GuwaH:{#GuwaH, GuwiH, -wI#} , {#GuwikaH, -kA#}:GuwiH,GuwI,GuwikaH,GuwikA
+manx:1,1:14523:GUrRa:{#GUrRa#} (also {#GUrRAyamAna#}):GUrRAyamAna
+manx:0,0:14629:caRqiH:{#caRqiH#} {%f%}, {#caRqikA#}:caRqikA
+manx:0,0:14964:cintitiH:{#cintitiH#} , {#cintiyA#}:cintiyA
+manx:0,0:15014:cIrI:{#cIrI#} , {#cIrIvAkaH#}:cIrIvAkaH
+manx:0,1:15165:cOqa:{#cOqa#} ({#-qI#} ), {#cOla#} ({#-lI#} ):cOqI,cOla,cOlI
+manx:0,0:15197:CadiH:{#CadiH#} , {#Cadis#}:Cadis
+manx:0,0:15219:CardaH:{#CardaH, Cardanam, CardiH#} , {#CardikA#}:Cardanam,CardiH,CardikA
+manx:0,0:15298:CelA:{#CelA#} ({#PelA#}):PelA
+man:0,0:15348:jawiH:{#jawiH#} ({#-wI#}):jawI
+manx:0,0:15434:jayantiH:{#jayantiH#} ({#-ntI#}):jayantI
+manx:0,0:15453:jarc:{#jarc#} ({#-rC, -rj#}):jarC,jarj
+manx:0,0:15477:jalpaka:{#jalpaka#} ({#-lpikA#} ), {#jalpAka#}:jalpikA,jalpAka
+manx:0,1:15567:jAmbIram:{#jAmbIram#} ({#-lam#}):jAmbIlam
+manx:0,0:15887:JirikA:{#JirikA, JirI#} or {#JirIkA#}:JirI,JirIkA
+manx:1,2:15920:waNkaRam:{#waNkaRam#} ({#-nam#}):waNkanam
+manx:0,0:15942:wippaRI:{#wippaRI#} ({#-nI#}):wippanI
+manx:0,0:16337:tAdfkza:{#tAdfkza#} ({#-kzI#} ), {#tAdfS#} , {#tAdfSa#} ({#-SI#} ):tAdfkzI,tAdfS,tAdfSa,tAdfSI
+manx:0,0:16469:tiraskAraH:{#tiraskAraH, tiraskftiH#} , {#tiraskriyA#}:tiraskftiH,tiraskriyA
+manx:0,0:16592:turI:{#turI#} ({#-riH#}):turiH
+manx:0,0:16610:tulasi:{#tulasi#} (Metrically for {#tulasI#}), {#tulasikA#}:tulasikA
+manx:0,0:16707:tfmp:{#tfmp#} or {#tfmP#}:tfmP
+manx:0,1:16830:trapulam:{#trapulam, -zam, trapus#} , {#trapusam#}:trapuzam,trapus,trapusam
+manx:1,0:16861:trowiH:{#trowiH#} , {#-wI#}:trowI
+manx:0,0:17065:daraRi:{#daraRi#} , {#daraRI#}:daraRI
+manx:0,0:17111:daSat:{#daSat#} , {#daSatiH#}:daSatiH
+manx:0,0:17196:dAka:{#dAka, dAti, dAtf, dAnam, dAnu#},:dAti,dAtf,dAnam,dAnu
+manx:0,0:17244:dArzwAnta:{#dArzwAnta#} ({#-tI#} ), {#dArzwAntika#} ({#-kI#} ):dArzwAntI,dArzwAntika,dArzwAntikI
+manx:0,0:17275:dAha:{#dAha, dAhaka, dAhana, dAhya#},:dAhaka,dAhana,dAhya
+manx:0,0:17481:dfmp:{#dfmp#} ({#-mP#}):dfmP
+manx:0,0:17535:devika:{#devika#} ({#-kI#} ), {#devila#}:devikI,devila
+manx:0,0:17570:dEna:{#dEna#} ({#-nI#} ), {#dEnaMdina#} ({#-nI#} ), {#dEnika#} ({#-kI#} ):dEnI,dEnaMdina,dEnaMdinI,dEnika,dEnikI
+manx:0,1:17652:dOzkula:{#dOzkula#} ({#-lI#} ), {#dOzkuleya#} ({#-yI#} ), {#dOzkulya#}:dOzkulI,dOzkuleya,dOzkuleyI,dOzkulya
+manz:0,0:18104:DftiM:{#DftiM#} {#kf#}:
+manz:0,0:18105:DftiM:{#DftiM#} {#banD#}:
+man:0,0:18223:naktan:{#naktan#} , {#naktiH#}:naktiH
+manx:0,0:18270:naqila:{#naqila#} , {#naqvat#} ({#-tI#} ):naqvat,naqvatI
+manx:0,0:18311:napuMs:{#napuMs#} , {#napuMsaH#}:napuMsaH
+manx:0,0:18338:namya:{#namya#}, also {#namanIya#}:namanIya
+manc:0,0:18409:naS:{#naS#} , {#naSaH, naSanam#}:naSaH,naSanam
+manx:0,0:18564:nAsikaH:{#nAsikaH#} ({#-kam#}):nAsikam
+manx:2,0:18624:nikazaH:{#nikazaH#} ({#-saH#}):nikasaH
+manx:0,0:18625:nikazaRaH:{#nikazaRaH#} ({#-Ram#}):nikazaRam
+manx:0,0:18890:nimlukti:{#nimlukti#} , {#nimlocaH#}:nimlocaH
+manx:0,0:18942:nirAkftiH:{#nirAkftiH#} , {#nirAkriyA#}:nirAkriyA
+manx:0,0:18952:nirISam:{#nirISam#} ({#-zam#}):nirIzam
+manx:0,1:19109:nirvapaRa:{#nirvapaRa#} , {#-RI#}:nirvapaRI
+manx:0,0:19248:niSuB:{#niSuB#} ({#-mB#}):niSumB
+manx:0,0:19442:nIDram:{#nIDram#} ({#-vram#}):nIvram
+manx:3,0:19455:nIlI:{#nIlI#} ({#-liH#}):nIliH
+manx:0,0:19527:nEHSreyasa:{#nEHSreyasa#} ({#-sI#} ), {#nEHSreyasika#} ({#-kI#} ):nEHSreyasI,nEHSreyasika,nEHSreyasikI
+manx:0,1:19545:nEtyaka:{#nEtyaka#} ({#-kI#} ), {#nEtyika#} ({#-kI#} ):nEtyakI,nEtyika,nEtyikI
+manx:0,0:19556:nEpuRam:{#nEpuRam#} ({#-Ryam#}):nEpuRyam
+manx:0,0:19592:nESa:{#nESa#} ({#-SI#} ), {#nESika#} ({#-kI#} ):nESI,nESika,nESikI
+manx:0,0:19662:nyUnayati:{#nyUnayati#}  , {#nyUnIkf#} €8:nyUnIkf
+manx:0,1:19695:paNkeruh:{#paNkeruh#} , {#-ham#}:paNkeruham
+manx:0,0:19788:pawwiSaH:{#pawwi(wwI)SaH#} ({#saH#}):pawwISaH,pawwIsaH
+manx:0,0:19824:paRqraH:{#paRqraH#} ({#-kaH#}):paRqraka
+manx:0,0:19918:panuH:{#panuH#} ({#-nUH#} ):panUH
+manx:0,0:20292:paripaRam:{#paripaRam#} ({#-nam#}):paripanam
+manx:0,0:20487:pariveSaH:{#pari(rI)veSaH#} ({#zaH#}):parIveSaH,parIvezaH
+manx:0,0:20519:parivettf:{#parivettf#} , {#parivedakaH#}:parivedakaH
+manx:0,0:20531:parivrAj:{#parivrAj#} , {#parivrAjaH, -jakaH#}:parivrAjaH,parivrAjakaH
+manx:0,0:20584:parizvaNgaH:{#parizvaNgaH, parizva(sva)Yjanam#} or {#parizvajanam#}:parizvaYjanam,parisvaYjanam,parizvajanam
+manx:0,0:20608:paristf:{#paristf#} €5 , {#paristF#} €9:paristF
+manx:0,0:20632:parihARiH:{#parihARiH#} ({#-niH#}):parihAniH
+manx:0,0:20676:parezwaH:{#parezwaH#} , {#parezwukA#}:parezwukA
+manx:0,0:20686:parkawiH:{#parkawiH, -wI#} , {#parkawin#}:parkawI,parkawin
+manc:0,0:20739:paryastiH:{#paryastiH#} , {#paryastikA#}:paryastikA
+manx:16,0:20899:pAMsuH:{#pAMsuH#} ({#-SuH#}):pAMXuH
+manx:0,0:20933:pAYcadaSa:{#pAYcadaSa#} ({#-SI#} ), {#pAYcadaSya#} ({#-SyI#} ):pAYcadaSI,pAYcadaSya,pAYcadaSyI
+manx:0,0:21297:pAzaRqakaH:{#pAzaRqakaH, pAzaRqin#} , {#pAKaRqikaH#}:pAzaRqin,pAKaRqikaH
+manx:0,0:21315:picaRqin:{#pica(ci)Rqin#} ({#-ka, -la#}):piciRqin,picaRqika,picaRqila
+manx:0,0:21342:piYjAlam:{#piYjAlam#} ({#-nam#}):piYjAnam
+manx:0,0:21420:pippawA:{#pippawA#} ({#-qA#}):pippaqA
+manx:0,2:21499:pukkaSa:{#pukkaSa#} ({#-SI#} ), {#pukkasa#} ({#-sI#} ):pukkaSI,pukkasa,pukkasI
+manx:0,0:21722:pUrvin:{#pUrvin#} ({#-RI#} ), {#pUrvIRa#}:pUrviRI,pUrvIRa
+manx:3,2:21767:pfSni:{#pfSni#} ({#-zRi#}):pfzRi
+manx:0,0:21789:pecakin:{#pecakin#} , {#pecilaH#}:pecilaH
+manx:0,1:21791:pewaH:{#pewaH#} ({#-wA, -wI, -wam#} also):pewA,pewI,pewam
+manx:0,0:21795:pewwAlaH:{#pewwAlaH, -lam#} (also {#pewwAlakaH, -kam#}):pewwAlam,pewwAlakaH,pewwAlakam
+manx:0,0:21823:pezaRiH:{#pezaRiH#} , {#pezaRI, pezAkaH#}:pezaRI,pezAkaH
+manx:0,0:21845:pEtta:{#pEtta#} ({#-ttI#} ), {#pEttika#} ({#-kI#} ):pEttI,pEttika,pEttikI
+manx:0,0:21960:pOliH:{#pOliH#} , {#pOlI#}:pOlI
+manx:0,0:22137:praGaRaH:{#praGaRaH#} ({#-naH#}), {#praGARaH#} ({#-naH#}):praGanaH,praGARaH,praGAnaH
+manx:0,1:22163:pracalita:{#pracalita#} {#(pracalat)#}:pracalat
+manx:0,0:22257:prajYAla:{#prajYAla, prajYin#} ({#-nI#} ), {#prajYila#}:prajYin,prajYinI,prajYila
+manx:0,0:22768:pratuzwiH:{#pratuzwiH#} , {#pratozaH#}:pratozaH
+manx:0,0:22891:pratyudgatiH:{#pratyudgatiH#} , {#pratyudgamaH, pratyudgamanam#}:pratyudgamaH,pratyudgamanam
+manx:0,0:23080:prapIta:{#prapIta#} ({#-na#}):prapIna
+manx:0,0:23286:prayApanam:{#prayApanam#} ({#-Ram#}):prayApaRam
+manx:0,0:23408:pravahliH:{#pravahliH, -hlI#} (also {#-hlikA#} and {#-hlIkA#}):pravahlI,pravahlikA,pravahlIkA
+manx:0,1:23514:pravrAj:{#pravrAj#} , {#pravrAjakaH#}:pravrAjakaH
+manx:0,0:23777:praheliH:{#praheliH#} , {#prahelikA#}:prahelikA
+manx:0,0:23921:prAdoza:{#prAdoza#} ({#-zI#} ), {#prAdozika#} ({#-kI#} ):prAdozI,prAdozika,prAdozikI
+manx:0,0:24360:PulliH:{#PulliH#} (also {#PultiH#}):PultiH
+manx:0,0:24611:bAlvaja:{#bAlvaja#} (also {#bAlbaja#}):bAlbaja
+manx:0,0:24628:bAhudantin:{#bAhudantin#} , {#bAhudanteyaH#}:bAhudanteyaH
+manx:0,0:24734:buBukzita:{#buBukzita#} (also {#buBukzat#}):buBukzat
+manx:0,1:24747:busam:{#busam#} ({#-zam#}):buzam
+manx:0,0:24752:bfSI:{#bfSI, bfzI#} ({#-sI#}):bfzI,bfsI
+manx:18,2:24836:BagaH:{#BagaH#} (also {#Bagam#}):Bagam
+manx:0,0:24979:BavAdfkza:{#BavAdfkza#} ({#-kzI#} ), {#BavAdfS#} , {#BavAdfSa#} ({#-SI#} ):BavAdfkzI,BavAdfS,BavAdfSa,BavAdfSI
+manx:0,0:25120:BAvata:{#BAvata#} ({#-tI#} ), {#BAvatka#} ({#-kI#} ):BAvatI,BAvatka,BAvatkI
+manx:0,0:25436:BrukuMSaH:{#Bru(BrU)kuMSaH#} ({#saH#}):BrUkuMSaH,BrukuMsaH
+manx:0,0:25477:maK:{#maK#} or {#maNK#}:maNK
+manx:0,0:25490:maGA:{#maGA#}, ({#-GI#}):maGI
+manx:4,1:25799:marIciH:{#marIciH#} (Rarely {#marIcI#} also):marIcI
+manx:0,0:25824:marjikA:{#marji(jji)kA#} ({#tA#}):marjjikA,marjitA
+manx:0,0:25936:mahar:{#mahar#} {#(mahas)#}:mahas
+manx:0,0:26042:mAtsara:{#mAtsara#} ({#-rI#} ), {#mAtsarika#} ({#-kI#} ):mAtsarI,mAtsarika,mAtsarikI
+manx:0,0:26055:mAdfkza:{#mAdfkza#} ({#-kzI#} ), {#mAdfS#} , {#mAdfSa#} ({#-SI#} ):mAdfkzI,mAdfS,mAdfSa,mAdfSI
+manx:0,0:26162:mArgaSiraH:{#mArgaSiraH, mArgaSiras#} , {#mArgaSIrzaH#}:mArgaSiras,mArgaSIrzaH
+manx:0,0:26233:mAhAkula:{#mAhAkula#} ({#-lI#} ), {#mAhAkulIna#} ({#-nI#} ):mAhAkulI,mAhAkulIna,mAhAkulInI
+manx:0,0:26821:mlecC:{#mlecC#} or {#mleC#}:mleC
+manx:1,0:27009:yAdfkza:{#yAdfkza#} ({#-kzI#} ), {#yAdfS, yAdfSa#} ({#-SI#} ):yAdfkzI,yAdfS,yAdfSa,yAdfSI
+manx:3,0:27155:yozA:{#yozA, yozit#} , {#yozitA#}:yozit,yozitA
+manx:0,0:27160:yOw:{#yOw#} ({#-q#}):yOq
+manx:0,0:27175:yOzmAka:{#yOzmAka#} ({#-kI#} ), {#yOzmAkIRa#} ({#RA#} ):yOzmAkI,yOzmAkIRa,yOzmAkIRA
+manx:0,0:27375:rAj:{#rAj#} , {#rAjaH#}:rAjaH
+manz:0,0:27416:rAtrO:{#rAtrO#} {#Sayanam#}:
+manx:0,0:27448:rAzwriH:{#rAzwriH#} , {#-zwrI#}:rAzwrI
+manx:0,0:27491:rirI:{#rirI#} or {#rIrI#}:rIrI
+manx:0,0:27495:riSyaH:{#riSyaH#} ({#-zyaH#}):rizyaH
+manx:7,3:27578:rUkza:{#rUkza#} (written as {#rukza#} also):rukza
+manx:0,0:27666:rodas:{#rodas#} [{#rud-asun#}] (in dual), {#rodasI#}:rodasI
+manx:0,0:27751:laGaw:{#laGaw#} [{#laNGeH awiH, nalopaSca#} <ls>Uṇ. 1. 127</ls>], {#laGAwaH#}:laGAwaH
+manx:0,0:28082:luzaBaH:{#luzaBaH#} also {#luSaBaH#}:luSaBaH
+manx:0,0:28258:vakrozWiH:{#vakrozWiH#} , {#vakrozWikA#}:vakrozWikA
+manx:0,0:28376:vadantiH:{#vadantiH#} , {#vadantI#}:vadantI
+manx:0,0:28394:vaDuH:{#vaDuH#} , {#vaDukA#}:vaDukA
+manx:0,0:28444:vanDya:{#vanDya#} [<ls>Uṇ. 4. 121</ls>], {#vanDyA#}:vanDyA
+manx:0,1:28764:vasizWaH:{#vasizWaH#} (also written {#vaSizWa#}):vaSizWa
+manyz:0,0:28818:vahnisAtkf:{#vahnisAtkf#}:
+manx:0,0:29029:vArtAkaH:{#vArtAkaH, vArtAkiH#} , {#vArtAkin#} , {#vArtAkI#} , {#vArtAkuH#}:vArtAkiH,vArtAkin,vArtAkI,vArtAkuH
+manx:9,0:29032:vArttA:{#vArttA#} [written also as {#vArtA#}]:vArtA
+manx:0,0:29115:vAsurA:{#vAsurA#} also {#vASurA#}:vASurA
+manx:0,0:29381:viciH:{#viciH#} , {#vicI#}:vicI
+manx:0,0:29450:vijinaH:{#vijinaH, -nam#} ({#-laH, -lam#}):vijinam,vijilaH,vijilam
+manx:0,0:29633:vidviz:{#vidviz#} , {#vidvizaH#}:vidvizaH
+manx:0,0:29654:viDAyaka:{#viDAyaka#} ({#-yIkA#} ), {#viDAyin#}:viDAyIkA,viDAyin
+manx:0,0:29673:viDUtiH:{#viDUtiH#} , {#viDUnanam#}:viDUnanam
+manx:0,0:29751:vinirmuktiH:{#vinirmuktiH#} , {#vinirmokzaH#}:vinirmokzaH
+manx:2,0:30642:vIciH:{#vIciH#} , {#vIcI#} [<ls>Uṇ. 4. 72</ls>]:vIcI
+manx:0,0:30672:vIrAyate:{#vIrAyate#} {#(vIrayate)#}:vIrayate
+manx:0,0:30952:vEtraka:{#vEtraka#} ({#-kI#} ), {#vEtrakIya#}:vEtrakI,vEtrakIya
+manx:0,0:30970:vEDa:{#vEDa#} ({#-DI#} ), {#vEDika#} ({#-kI#} ):vEDI,vEDika,vEDikI
+manx:0,0:31397:vyAyAmika:{#vyAyAmika#} ({#-kI#} ), {#vyAyAmin#}:vyAyAmikI,vyAyAmin
+manx:0,0:31441:vyucCittiH:{#vyucCittiH#} , {#vyucCedaH#}:vyucCedaH
+manx:0,0:31465:vyuz:{#vyuz#} = {#pyuz#}:pyuz
+manx:0,0:31585:SaNkuciH:{#SaNkuciH, SaNkocaH#}, ({#-ciH#}):SaNkocaH,SaNkociH
+manx:0,0:31589:SaNKanakaH:{#SaNKanakaH#}, ({#-KaH#}):SaNKanaKaH
+manx:0,0:31615:Satika:{#Satika#} ({#-kI#} ), {#Satya#}:SatikI,Satya
+manx:0,0:31727:Sarkarika:{#Sarkarika#} ({#-kI#} ), {#Sarkarila, SarkarAvata#}:SarkarikI,Sarkarila,SarkarAvata
+manx:0,0:32070:SibiH:{#SibiH#} ({#-viH#}):SiviH
+manx:0,0:32297:SUrmaH:{#SUrmaH, SUrmiH#} , {#SUrmikA, SUrmI#}:SUrmiH,SUrmikA,SUrmI
+many:1,0:32342:SepaH:{#SepaH, Sepas#} , {#SePaH, -Pam, SePas#}:Sepas,SePaH,SePam,SePas
+manx:2,0:32585:SreRiH:{#SreRiH#} , {#SreRI#}:SreRI
+manx:0,1:32675:Svastana:{#Svastana#} ({#-nI#} ), {#Svastya#}:SvastanI,Svastya
+manx:0,0:33335:sawiH:{#sawiH, -wI#} , {#sawikA#}:sawI,sawikA
+manx:0,0:33383:satyAkf:{#satyAkf#} €8 , {#satyApayati#}:satyApayati
+many:3,0:33407:sadfkza:{#sadfkza#} ({#-kzI#} ), {#sadfS, sadfSa#} ({#-SI#} ):sadfkzI,sadfS,sadfSa,sadfSI
+manx:0,0:33469:saMtamas:{#saMtamas#} , {#saMtamasam#}:saMtamasam
+manx:0,0:33909:samAsaktiH:{#samAsaktiH#} , {#samAsaMgaH#}:samAsaMgaH
+manx:0,1:34320:saMmuKa:{#saMmuKa#} ({#-KA#} or {#-KI#} ), {#saMmuKIna#}:saMmuKA,saMmuKI,saMmuKIna
+manx:0,0:34357:sarajas:{#sarajas, -sA#} , {#sarajaskA#}:sarajasA,sarajaskA
+manx:0,0:34405:sarjiH:{#sarjiH, sarjikA, sarjI#} , {#sarjikAkzAraH, sarjikzAraH#}:sarjikA,sarjI,sarjikAkzAraH,sarjikzAraH
+manx:0,1:34561:sAMvatsara:{#sAMvatsara#} ({#-rI#} ), {#sAMvatsarika#} ({#-kI#} ):sAMvatsarI,sAMvatsarika,sAMvatsarikI
+many:0,0:34658:sAdyaskaH:{#sAdyaskaH#} (also {#sAdyaskraH#}):sAdyaskraH
+manx:0,1:34743:sAptapada:{#sAptapada#} ({#-dI#} ), {#sAptapadIna#}:sAptapadI,sAptapadIna
+manx:0,0:34872:sArpiza:{#sArpiza#} ({#-zI#} ), {#sArpizka#} ({#-zkI#} ):sArpizI,sArpizka,sArpizkI
+manx:0,0:34879:sArvajanika:{#sArvajanika#} ({#-kI#} ), {#sArvajanIna#} ({#-nI#} ), {#sArvajanya#}:sArvajanikI,sArvajanIna,sArvajanInI,sArvajanya
+manx:0,0:35251:sfkkam:{#sfkkam, sfkkaRI, sfkkan#} , {#sfkkiRI, sfkkin#} , {#sfkvam, sfkvaRI, sfkvan#} , {#sfkviRI, sfkvin#}:sfkkaRI,sfkkan,sfkkiRI,sfkkin,sfkvam,sfkvaRI,sfkvan,sfkviRI,sfkvin
+manx:0,0:35401:sopADi:{#sopADi#} , {#sopADika#} ({#-kI#} ):sopADika,sopADikI
+many:0,0:35429:sOKika:{#sOKika#} ({#-kI#} ), {#sOKIya#} ({#-yI#} ):sOKikI,sOKIya,sOKIyI
+manx:0,0:35761:sTikaH:{#sTikaH#}, ({#-kkaH#}):sTikkaH
+manx:0,0:35825:snuh:{#snuh, snuhA, -hiH#} , {#-hI#}:snuhA,snuhiH,snuhI
+manx:0,0:35872:spfzwAspfzwi:{#spfzwAspfzwi#} , {#spfzwAspfzwam#}:spfzwAspfzwam
+manx:1,0:36072:svaDitiH:{#svaDitiH#} , {#svaDitI#}:svaDitI
+manx:0,0:36156:svArAj:{#svArAj#} , {#svArAjyaH#}:svArAjyaH
+manx:0,0:36216:haqikaH:{#haqi(qqi)kaH, haqqiH#} (also {#haqqakaH, haqqipaH#}):haqqikaH,haqqiH,haqqakaH,haqqipaH
+manx:2,0:36242:hanumat:{#hanumat#} ({#-nUmat#}):hanUmat
+manx:0,0:36313:hallISam:{#hallISam#} ({#-zam#}):hallIzam
+manx:1,0:36446:hinduH:{#hinduH#} also {#hindU#}:hindU
+manx:0,1:36516:hURaH:{#hURaH#} ({#-naH#}):hUnaH
