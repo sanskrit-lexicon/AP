@@ -1,0 +1,85 @@
+; <L>487<pc>0035-2<k1>aYjaliH<k2>aYjaliH
+5528 old .{@{#karman#}@} {%<lex>n.</lex>%} folding the hands, respectful salutation; {#lubDamarTena gfhvIyAt krudDaM cAYjalikarmaRA#} <ls>Chāṇ. 33</ls>.
+;
+5528 new .{@{#-karman#}@} {%<lex>n.</lex>%} folding the hands, respectful salutation; {#lubDamarTena gfhvIyAt krudDaM cAYjalikarmaRA#} <ls>Chāṇ. 33</ls>.
+;---------------------------------------------------
+; <L>3821<pc>0189-1<k1>aBisAraH<k2>aBisAraH
+32072 old .{@{#sTAnam#}@} a place fit for making appointments; see under {#aBisArikA#} below.
+;
+32072 new .{@{#-sTAnam#}@} a place fit for making appointments; see under {#aBisArikA#} below.
+;---------------------------------------------------
+; <L>11538<pc>0535-1<k1>karakaH<k2>karakaH,
+96702 old .{@{#amBas#}@} {%<lex>m.</lex>%} the cocoa-nut tree.
+;
+96702 new .{@{#-amBas#}@} {%<lex>m.</lex>%} the cocoa-nut tree.
+;---------------------------------------------------
+; <L>11693<pc>0544-1<k1>kala<k2>kala
+98365 old .{@{#aNkuraH#}@} the Sārasa bird.
+;
+98365 new .{@{#-aNkuraH#}@} the Sārasa bird.
+;---------------------------------------------------
+; <L>16222<pc>0763-2<k1>taru<k2>taru
+140720 old .{@{#tU(DU)likA#}@} A bat, flying fox (because it suspends itself
+;
+140720 new .{@{#-tU(DU)likA#}@} A bat, flying fox (because it suspends itself
+;---------------------------------------------------
+; <L>16222<pc>0763-2<k1>taru<k2>taru
+140733 old .{@{#ruhA#}@} a parasitical plant.
+;
+140733 new .{@{#-ruhA#}@} a parasitical plant.
+;---------------------------------------------------
+; <L>17339<pc>0817-1<k1>dIpaH<k2>dIpaH
+151392 old .{@{#aNkura#}@} the flame or light of a lamp; {#dIpANkuracCAyAcaYcalamAkalagya#} <ls>Bh. 3. 68</ls>. {#kuraRwakavipARquraM daDati DAma dIpANkurAH#} <ls>Vb.</ls>
+;
+151392 new .{@{#-aNkura#}@} the flame or light of a lamp; {#dIpANkuracCAyAcaYcalamAkalagya#} <ls>Bh. 3. 68</ls>. {#kuraRwakavipARquraM daDati DAma dIpANkurAH#} <ls>Vb.</ls>
+;---------------------------------------------------
+; <L>17429<pc>0827-2<k1>dohaH<k2>dohaH
+153227 old .{@{#apanayaH, -jam#}@} milk.
+;
+153227 new .{@{#-apanayaH, -jam#}@} milk.
+;---------------------------------------------------
+; <L>17799<pc>0847-2<k1>dvi<k2>dvi
+157182 old .{@{#kaH, -kakAraH#}@}
+;
+157182 new .{@{#-kaH, -kakAraH#}@}
+;---------------------------------------------------
+; <L>18624<pc>0893-1<k1>nikazaH<k2>nikazaH
+165941 old .{@{#upalaH, -grAvan#}@} {%<lex>m.</lex>%}, {@{#-pAzARaH#}@}
+;
+165941 new .{@{#-upalaH, -grAvan#}@} {%<lex>m.</lex>%}, {@{#-pAzARaH#}@}
+;---------------------------------------------------
+; <L>18923<pc>0906-1<k1>nir<k2>nir
+168868 old .{@{#udvigna, -udvega#}@} {%<lex>a.</lex>%} free from excitement or perturbation, sedate, calm.
+;
+168868 new .{@{#-udvigna, -udvega#}@} {%<lex>a.</lex>%} free from excitement or perturbation, sedate, calm.
+;---------------------------------------------------
+; <L>24457<pc>1154-1<k1>barhaH<k2>barhaH,
+218268 old .{@{#candrakaH, -netram#}@} the eye in a peacockʼs tail (<lang>Mar.</lang> <ns>{#morapIsa#}</ns>).
+;
+218268 new .{@{#-candrakaH, -netram#}@} the eye in a peacockʼs tail (<lang>Mar.</lang> <ns>{#morapIsa#}</ns>).
+;---------------------------------------------------
+; <L>29869<pc>1452-1<k1>vipratipanna<k2>vipratipanna
+275861 old .{@{#budDi#}@} {%<lex>a.</lex>%} having a false opinion.
+;
+275861 new .{@{#-budDi#}@} {%<lex>a.</lex>%} having a false opinion.
+;---------------------------------------------------
+; <L>30655<pc>1486-2<k1>vItiH<k2>vItiH
+282847 old .{@{#hotraH#}@}
+;
+282847 new .{@{#-hotraH#}@}
+;---------------------------------------------------
+; <L>31238<pc>1511-2<k1>vyaBicAraH<k2>vyaBi(BI)cAraH
+287927 old .{@{#kft#}@} {%<lex>a.</lex>%} committing adultery.
+;
+287927 new .{@{#-kft#}@} {%<lex>a.</lex>%} committing adultery.
+;---------------------------------------------------
+; <L>32251<pc>1562-2<k1>SulkaH<k2>SulkaH,
+298093 old .{@{#grAhaka, -grAhin#}@} {%<lex>m.</lex>%} a toll-collector.
+;
+298093 new .{@{#-grAhaka, -grAhin#}@} {%<lex>m.</lex>%} a toll-collector.
+;---------------------------------------------------
+; <L>35732<pc>1721-1<k1>sTApanam<k2>sTApanam
+330381 old .{@{#vftta#}@} {%<lex>a.</lex>%} one who is past all restoration to strength.
+;
+330381 new .{@{#-vftta#}@} {%<lex>a.</lex>%} one who is past all restoration to strength.
+;---------------------------------------------------

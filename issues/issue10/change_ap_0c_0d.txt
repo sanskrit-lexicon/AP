@@ -1,0 +1,120 @@
+; <L>12<pc>0002-1<k1>aMSuH<k2>aMSuH
+184 old .{@{#-DaraH, -patiH, -Bft, -bARaH, -Brtf, -svAmin#}@} the sun, (bearer or lord of rays).
+;
+184 new .{@{#-DaraH, -patiH, -Bft, -bARaH, -Bartf, -svAmin#}@} the sun, (bearer or lord of rays).
+;---------------------------------------------------
+; <L>1297<pc>0074-1<k1>ananta<k2>ananta
+12122 old .{@{#-caturdaSI, -˚vratam#}@} [{#anantasya ArADanaM yasyAM sA caturdaSI#}]
+;
+12122 new .{@{#-caturdaSI, -vratam#}@} [{#anantasya ArADanaM yasyAM sA caturdaSI#}]
+;---------------------------------------------------
+; <L>2334<pc>0118-2<k1>antar<k2>antar
+20136 old .{@{#˚cara, -aDyakzaH, -rakzakaH, -vartI#}@} guardian or superintendent of the harem,
+;
+20136 new .{@{#-puracara, -purADyakzaH, -purarakzakaH, -puravartI#}@} guardian or superintendent of the harem,
+;---------------------------------------------------
+; <L>2342<pc>0123-2<k1>antarA<k2>antarA
+20566 old .{@{#-˚garBiRInyAyaH#}@} a position similar to the foetus which resides
+;
+20566 new .{@{#-garBiRInyAyaH#}@} a position similar to the foetus which resides
+;---------------------------------------------------
+; <L>3017<pc>0157-1<k1>apuzpa<k2>apuzpa
+26211 old .{@{#-Pala, ˚da#}@} bearing having neither fruits nor flowers; fruits without flowering.
+;
+26211 new .{@{#-Pala, -Palada#}@} bearing having neither fruits nor flowers; fruits without flowering.
+;---------------------------------------------------
+; <L>3627<pc>0182-2<k1>aBirUpa<k2>aBirUpa
+30850 old .{@{#˚patiH#}@} ‘having an agreeable husband’, <ab>N.</ab> of a fast or riteperformed to secure a good husband in the next world; <ls>Mk. 1</ls>.
+;
+30850 new .{@{#-patiH#}@} ‘having an agreeable husband’, <ab>N.</ab> of a fast or riteperformed to secure a good husband in the next world; <ls>Mk. 1</ls>.
+;---------------------------------------------------
+; <L>4275<pc>0207-2<k1>ambu<k2>ambu
+35633 old .{@{#-˚sravA#}@} Aloe perfoliata (<lang>Mar.</lang> <ns>{#koraPaqa#}</ns>).
+;
+35633 new .{@{#-DisravA#}@} Aloe perfoliata (<lang>Mar.</lang> <ns>{#koraPaqa#}</ns>).
+;---------------------------------------------------
+; <L>4564<pc>0223-2<k1>arTaH<k2>arTaH
+38728 old .{@{#-˚tvam#}@} Implication.
+;
+38728 new .{@{#-prAptatvam#}@} Implication.
+;---------------------------------------------------
+; <L>5170<pc>0252-2<k1>avara<k2>avara
+43651 old .{@{#˚taH#}@} {%<lex>ind.</lex>%} from below.
+;
+43651 new .{@{#-arDataH#}@} {%<lex>ind.</lex>%} from below.
+;---------------------------------------------------
+; <L>5953<pc>0286-2<k1>asti<k2>asti
+49990 old .{@{#-˚pravAdaH#}@} <ab>N.</ab> of the fourth of the fourteen Pūrvas or older writings of the Jainas.
+;
+49990 new .{@{#-pravAdaH#}@} <ab>N.</ab> of the fourth of the fourteen Pūrvas or older writings of the Jainas.
+;---------------------------------------------------
+; <L>8130<pc>0381-2<k1>iti<k2>iti
+67924 old .{@{#˚tA, -kAryatA, -kftyatA#}@} any proper or necessary duty, obligation; {#sa#}
+;
+67924 new .{@{#-kartavyatA, -kAryatA, -kftyatA#}@} any proper or necessary duty, obligation; {#sa#}
+;---------------------------------------------------
+; <L>10632<pc>0493-c1<k1>eka<k2>eka
+88990 old .{@{#-Syam#}@} ({#ekEkaSyam#}) Single state, severally {#ekEkaSyenAnupUrvaM#}
+;
+88990 new .{@{#-ekaSyam#}@} ({#ekEkaSyam#}) Single state, severally {#ekEkaSyenAnupUrvaM#}
+;---------------------------------------------------
+; <L>10632<pc>0493-c1<k1>eka<k2>eka
+88992 old .{@{#-˚Syena#}@} (instrumental used as an <lex>adv.</lex>) individually, singly, one
+;
+88992 new .{@{#-ekaSyena#}@} (instrumental used as an <lex>adv.</lex>) individually, singly, one
+;---------------------------------------------------
+; <L>10632<pc>0493-c1<k1>eka<k2>eka
+89245 old .{@{#˚tA, -tvam#}@} consanguinity.
+;
+89245 new .{@{#-piRqatA, -piRqatvam#}@} consanguinity.
+;---------------------------------------------------
+; <L>10779<pc>0503-2<k1>Etareya<k2>Etareya
+90491 old .{@{#˚AraRyakam#}@} <ab>N.</ab> of the Āraṇyaka composed by Aitareya.
+;
+90491 new .{@{#-AraRyakam#}@} <ab>N.</ab> of the Āraṇyaka composed by Aitareya.
+;---------------------------------------------------
+; <L>13388<pc>0626-2<k1>kzIraH<k2>kzIraH,
+114199 old .{@{#˚jaH#}@}
+;
+114199 new .{@{#-abDijaH#}@}
+;---------------------------------------------------
+; <L>13439<pc>0629-1<k1>kzuraH<k2>kzuraH
+114636 old .{@{#-˚mAlA#}@} a chain of crescent necklets; {#aho mayA BadravatyAH kzurapramAlAhitA#} <ls>Pratijñā. 4</ls>.
+;
+114636 new .{@{#-pramAlA#}@} a chain of crescent necklets; {#aho mayA BadravatyAH kzurapramAlAhitA#} <ls>Pratijñā. 4</ls>.
+;---------------------------------------------------
+; <L>13592<pc>0637-1<k1>KarjUraH<k2>KarjUraH
+116051 old .{@{#˚jaH#}@} a kind of sugar.
+;
+116051 new .{@{#-rasajaH#}@} a kind of sugar.
+;---------------------------------------------------
+; <L>14097<pc>0661-2<k1>guRaH<k2>guRaH
+120848 old .{@{#-˚viBAga#}@} {%<lex>a.</lex>%} distinguishing an action and an attribute.
+;
+120848 new .{@{#-karmaviBAga#}@} {%<lex>a.</lex>%} distinguishing an action and an attribute.
+;---------------------------------------------------
+; <L>14268<pc>0671-1<k1>go<k2>go
+122680 old .{@{#˚kartf, -kArin#}@} {%<lex>m.</lex>%} the founder of a family. {@{#˚kIlA#}@} the earth. {@{#˚ja#}@}
+;
+122680 new .{@{#-trakartf, -trakArin#}@} {%<lex>m.</lex>%} the founder of a family.
+;---------------------------------------------------
+; <L>14268<pc>0671-1<k1>go<k2>go
+122681 old  {%<lex>a.</lex>%} born in the same family, gentile, a relation; <ls>Bhāg. 3. 7. 24</ls>;
+;
+122681 new .{@{#-trakIlA#}@} the earth. {@{#˚ja#}@}{%<lex>a.</lex>%} born in the same family, gentile, a relation; <ls>Bhāg. 3. 7. 24</ls>;
+;---------------------------------------------------
+; <L>14268<pc>0671-1<k1>go<k2>go
+122684 old .{@{#-Bid#}@} {%<lex>m.</lex>%} an epithet of Indra; {#hfdi kzato gotraBidapyamarzaRaH#}
+;
+122684 new .{@{#-traBid#}@} {%<lex>m.</lex>%} an epithet of Indra; {#hfdi kzato gotraBidapyamarzaRaH#}
+;---------------------------------------------------
+; <L>14268<pc>0671-1<k1>go<k2>go
+122777 old .{@{#˚rasaH#}@} gum myrrh. {@{#˚rAzwrAH#}@} (<ab>pl.</ab>) <ab>N.</ab> of
+;
+122777 new .{@{#-parasaH#}@} gum myrrh. {@{#˚rAzwrAH#}@} (<ab>pl.</ab>) <ab>N.</ab> of
+;---------------------------------------------------
+; <L>14493<pc>0686-2<k1>GuRaH<k2>GuRaH
+125347 old .{@{#˚nyAyaH#}@} see under {#nyAya#}; {#GuRAkzaranyAyena nirmitaM tasyA vapuH#} <ls>Dk.</ls>
+;
+125347 new .{@{#-akzaranyAyaH#}@} see under {#nyAya#}; {#GuRAkzaranyAyena nirmitaM tasyA vapuH#} <ls>Dk.</ls>
+;---------------------------------------------------

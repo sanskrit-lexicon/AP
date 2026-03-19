@@ -6,5 +6,7 @@
 * issue6  Tooltips for gender
 * issue7  AP global changes, continue.
 * issue8  Study of ap57_AB_v4a
+* issue9  Study of main-entry alternate headwords
+* issue10 Study of compounds
 
 
