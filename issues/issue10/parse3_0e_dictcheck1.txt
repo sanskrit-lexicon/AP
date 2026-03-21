@@ -6990,7 +6990,7 @@
 12241:kim:-nimitta:kinnimitta
 12241:kim:-nimittam:kinnimittam
 12241:kim:-nu:kinnu
-12241:kim:-nu Kalu:kinnu Kalu?
+12241:kim:-nuKalu:kinnuKalu
 12241:kim:-paca, -pacAna:kimpaca,kimpacAna
 12241:kim:-parAkama:kimparAkama?
 12241:kim:-pAka:kimpAka
@@ -7001,7 +7001,7 @@
 12241:kim:-praBAva:kimpraBAva
 12241:kim:-BUta:kimBUta
 12241:kim:-rUpa:kiMrUpa
-12241:kim:-vadanti, -ntI:kiMvadanti,kinntI?
+12241:kim:-vadanti, -vadantI:kiMvadanti,kiMvadantI
 12241:kim:-varAwakaH:kiMvarAwakaH
 12241:kim:-vA:kiMvA
 12241:kim:-vida:kiMvida
@@ -9358,8 +9358,8 @@
 14268:go:-sAvitrI:gosAvitrI
 14268:go:-sUtrikA:gosUtrikA
 14268:go:-stanaH:gostanaH
-14268:go:-stanA, -nI:gostanA,gonI?
-14268:go:-sTAnam, -kram:gosTAnam,gokram?
+14268:go:-stanA, -stanI:gostanA,gostanI
+14268:go:-sTAnam, -sTAnakam:gosTAnam,gosTAnakam
 14268:go:-svAmin:gosvAmin
 14268:go:-hatyA:gohatyA
 14268:go:-hallam:gohallam
@@ -10184,7 +10184,7 @@
 14962:cintA:-veSman:cintAveSman
 14963:cintita:-upanata, -upasTita:cintitopanata,cintitopasTita
 14969:cipiwaH:-grIva:cipiwagrIva
-14969:cipiwaH:-GnARa, -nAsa, -nAsika:cipiwaGnARa?,cipiwanAsa,cipiwanAsika
+14969:cipiwaH:-GrARa, -nAsa, -nAsika:cipiwaGrARa,cipiwanAsa,cipiwanAsika
 14969:cipiwaH:-nAsika:cipiwanAsika
 14975:cira:-Ayus:cirAyus
 14975:cira:-AroDaH:cirAroDaH
@@ -10964,7 +10964,7 @@
 16065:taqit:-latA:taqillatA
 16065:taqit:-leKA:taqilleKA
 16072:taRqulaH:-ambu:taRqulAmbu
-16072:taRqulaH:-utTam, -kam:taRqulotTam,taRqulakam?
+16072:taRqulaH:-utTam, -udakam:taRqulotTam,taRqulodakam
 16072:taRqulaH:-oGaH:taRqulOGaH
 16072:taRqulaH:-kaRaH:taRqulakaRaH
 16072:taRqulaH:-kaRqanam:taRqulakaRqanam
@@ -11506,7 +11506,7 @@
 16587:turaNgaH:-ArUQaH:turaNgArUQaH?
 16587:turaNgaH:-kAntA:turaNgakAntA?
 16587:turaNgaH:-dvizaRI:turaNgadvizaRI
-16587:turaNgaH:-priyaH, -yam:turaNgapriyaH,turaNgayam?
+16587:turaNgaH:-priyaH, -priyam:turaNgapriyaH,turaNgapriyam
 16587:turaNgaH:-meDaH:turaNgameDaH
 16587:turaNgaH:-yAyin, -sAdin:turaNgayAyin,turaNgasAdin
 16587:turaNgaH:-vaktraH, -vadanaH:turaNgavaktraH,turaNgavadanaH
@@ -12122,7 +12122,7 @@
 17019:dantaH:-AlikA, -AlI:dantAlikA,dantAlI
 17019:dantaH:-ucCizwam:dantocCizwam
 17019:dantaH:-udBedaH:dantodBedaH
-17019:dantaH:-ulUKalikaH, -Kalin:dantolUKalikaH,dantaKalin?
+17019:dantaH:-ulUKalikaH, -ulUKalin:dantolUKalikaH,dantolUKalin
 17019:dantaH:-karzaRaH:dantakarzaRaH
 17019:dantaH:-kAraH:dantakAraH
 17019:dantaH:-kAzWam:dantakAzWam
@@ -12297,7 +12297,7 @@
 17137:dAhaH:-Atmaka:dAhAtmaka
 17137:dAhaH:-jvaraH:dAhajvaraH
 17137:dAhaH:-saraH, -saras:dAhasaraH,dAhasaras
-17137:dAhaH:-hara, -haraRa:dAhahara?,dAhaharaRa
+17137:dAhaH:dAhara, dAharaRa:dAhara?,dAharaRa?
 17146:datta:-anapakarman, -anapAkarman, -apradAnikam:dattAnapakarman,dattAnapAkarman,dattApradAnikam
 17146:datta:-avaDAna:dattAvaDAna
 17146:datta:-Atman:dattAtman
@@ -17299,44 +17299,44 @@
 21486:pIluH:-parRI:pIluparRI
 21486:pIluH:-pAkavAdin:pIlupAkavAdin?
 21492:pIvara:-stanI:pIvarastanI
-21495:puMs:-anuja:puMranuja?
-21495:puMs:-anujA:puMranujA?
-21495:puMs:-apatyam:puMrapatyam?
-21495:puMs:-arTaH:puMrarTaH?
-21495:puMs:-AKyA:puMrAKyA?
-21495:puMs:-AcAraH:puMrAcAraH?
-21495:puMs:-kawiH:puMHkawiH
-21495:puMs:-kAmA:puMHkAmA
-21495:puMs:-kokilaH:puMHkokilaH
-21495:puMs:-KewaH:puMHKewaH?
-21495:puMs:-gavaH:puMrgavaH?
-21495:puMs:-calaH:puMScalaH
-21495:puMs:-calI:puMScalI
-21495:puMs:-calIyaH:puMScalIyaH
-21495:puMs:-calU:puMScalU
-21495:puMs:-cihnam:puMScihnam
-21495:puMs:-janman:puMrjanman?
-21495:puMs:-dAsaH:puMrdAsaH?
-21495:puMs:-DvajaH:puMrDvajaH?
-21495:puMs:-nakzatram:puMrnakzatram?
-21495:puMs:-nAgaH:puMrnAgaH?
-21495:puMs:-nAwaH, -qaH:puMrnAwaH?,puMrqaH?
-21495:puMs:-nAmaDeyaH:puMrnAmaDeyaH?
-21495:puMs:-nAman:puMrnAman?
-21495:puMs:-putraH:puMHputraH
-21495:puMs:-prajananam:puMHprajananam
-21495:puMs:-BAvaH:puMrBAvaH?
-21495:puMs:-BUman:puMrBUman?
-21495:puMs:-yogaH:puMryogaH?
+21495:puMs:-anuja:pumanuja
+21495:puMs:-anujA:pumanujA
+21495:puMs:-apatyam:pumapatyam
+21495:puMs:-arTaH:pumarTaH
+21495:puMs:-AKyA:pumAKyA
+21495:puMs:-AcAraH:pumAcAraH
+21495:puMs:-kawiH:puNkawiH?
+21495:puMs:-kAmA:puNkAmA?
+21495:puMs:-kokilaH:puNkokilaH?
+21495:puMs:-KewaH:puNKewaH
+21495:puMs:-gavaH:puNgavaH
+21495:puMs:-calaH:puYcalaH?
+21495:puMs:-calI:puYcalI?
+21495:puMs:-calIyaH:puYcalIyaH?
+21495:puMs:-calU:puYcalU?
+21495:puMs:-cihnam:puYcihnam?
+21495:puMs:-janman:puYjanman
+21495:puMs:-dAsaH:pundAsaH
+21495:puMs:-DvajaH:punDvajaH
+21495:puMs:-nakzatram:punnakzatram
+21495:puMs:-nAgaH:punnAgaH
+21495:puMs:-nAwaH, -nAqaH:punnAwaH,punnAqaH
+21495:puMs:-nAmaDeyaH:punnAmaDeyaH
+21495:puMs:-nAman:punnAman
+21495:puMs:-putraH:pumputraH?
+21495:puMs:-prajananam:pumprajananam?
+21495:puMs:-BAvaH:pumBAvaH
+21495:puMs:-BUman:pumBUman
+21495:puMs:-yogaH:puMyogaH
 21495:puMs:-ratnam:puMratnam
 21495:puMs:-rASiH:puMrASiH
 21495:puMs:-rUpam:puMrUpam
-21495:puMs:-lakzaRam:puMrlakzaRam?
-21495:puMs:-liNga:puMrliNga?
-21495:puMs:-vatsaH:puMrvatsaH?
-21495:puMs:-vfzaH:puMrvfzaH?
-21495:puMs:-veza:puMrveza?
-21495:puMs:-savana:puMssavana?
+21495:puMs:-lakzaRam:puMlakzaRam?
+21495:puMs:-liNga:puMliNga
+21495:puMs:-vatsaH:puMvatsaH
+21495:puMs:-vfzaH:puMvfzaH
+21495:puMs:-veza:puMveza
+21495:puMs:-savana:puMsavana
 21507:pucCaH:-agram, -mUlam:pucCAgram,pucCamUlam
 21507:pucCaH:-kaRwakaH:pucCakaRwakaH
 21507:pucCaH:-jAham:pucCajAham
@@ -17996,7 +17996,7 @@
 21895:pozya:-vargaH:pozyavargaH
 21906:pORqraH:-varDanaH:pORqravarDanaH
 21913:pOtra:-jIvikam:pOtrajIvikam
-21922:pOra:-aNnA, -yozit:pOrANnA?,pOrayozit
+21922:pOra:-aNganA, -yozit:pOrANganA,pOrayozit
 21922:pOra:-kAryam:pOrakAryam
 21922:pOra:-janaH, -lokaH:pOrajanaH,pOralokaH
 21922:pOra:-jAnapada:pOrajAnapada
@@ -18015,7 +18015,7 @@
 22005:prakASa:-nArI:prakASanArI
 22005:prakASa:-vaYcakaH:prakASavaYcakaH
 22006:prakASaka:-jYAtf:prakASakajYAtf
-22009:prakASita:-virudDatA, -tvam:prakASitavirudDatA,prakASitatvam?
+22009:prakASita:-virudDatA, -virudDatvam:prakASitavirudDatA,prakASitavirudDatvam
 22022:prakaraRam:-samaH:prakaraRasamaH
 22028:prakfta:-arTa:prakftArTa
 22029:prakftiH:-amitraH:prakftyamitraH?
@@ -20644,7 +20644,7 @@
 25105:BAvaH:-grAhya:BAvagrAhya
 25105:BAvaH:-cezwitam:BAvacezwitam
 25105:BAvaH:-jaH:BAvajaH
-25105:BAvaH:-Ja, -vid:BAvaJa?,BAvavid?
+25105:BAvaH:-jYaa, -vid:BAvajYaa?,BAvavid?
 25105:BAvaH:-darSin:BAvadarSin
 25105:BAvaH:-nirvfttiH:BAvanirvfttiH?
 25105:BAvaH:-neriH:BAvaneriH
@@ -21817,7 +21817,7 @@
 25646:maDu:-yazwikA, -vallI:maDuyazwikA,maDuvallI
 25646:maDu:-rasa:maDurasa
 25646:maDu:-lagnaH:maDulagnaH
-25646:maDu:-lih, -leh, -lehin:maDulih,maDuleh?,maDulehin
+25646:maDu:-lih, -leha, -lehin:maDulih,maDuleha,maDulehin
 25646:maDu:-vanam:maDuvanam
 25646:maDu:-vallI:maDuvallI
 25646:maDu:-vAc:maDuvAc
@@ -31899,7 +31899,7 @@
 35088:su:-deSikaH:sudeSikaH
 35088:su:-Danvan:suDanvan
 35088:su:-Darman:suDarman
-35088:su:-DarmA, -DarrmI:suDarmA,suDarrmI?
+35088:su:-DarmA, -DarmI:suDarmA,suDarmI
 35088:su:-DAta:suDAta
 35088:su:-DAra:suDAra
 35088:su:-Dita:suDita

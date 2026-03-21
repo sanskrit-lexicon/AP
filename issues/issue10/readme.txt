@@ -386,7 +386,7 @@ python dalglobpy/dictcheck.py tempwork/parse3_0e.txt tempwork/parse3_0e_dictchec
 # dictcheck1 using dalglob
 python dalglobpy/dictcheck1.py tempwork/parse3_0e.txt tempwork/parse3_0e_dictcheck1.txt
 34177 lines written to tempwork/parse3_0e_dictcheck1.txt
-2481 keys not found
+2455 keys not found
 
 cp tempwork/parse3_0e_dictcheck1.txt parse3_0e_dictcheck1.txt
 * parse3_0e_dictcheck1  observations
