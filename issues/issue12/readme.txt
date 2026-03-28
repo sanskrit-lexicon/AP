@@ -207,5 +207,7 @@ Ref: https://github.com/sanskrit-lexicon/AP/issues/12"
 git push
 
 * ==========================================
+* Update hwnorm1 and csl-apidev repos
+# See readme_hwnorm1.txt for details
 * THE END
 
