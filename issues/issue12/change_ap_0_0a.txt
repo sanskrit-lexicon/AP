@@ -1,0 +1,70 @@
+; <L>12790<pc>0598-2<k1>kftrima<k2>kftrima
+108815 old .{@{#-putraH#}@} see {#kftrimaH#}; .{@{#-putrakaH#}@} a doll, puppet; {#mandAkinIsEkatavedikABiH#}
+;
+108815 new .{@{#-putraH#}@} see {#kftrimaH#}; 
+;---------------------------------------------------
+; <L>12790<pc>0598-2<k1>kftrima<k2>kftrima
+108816 old  {#sA kandukEH kftrimaputrakESca#} ({#reme#}) <ls>Ku. 1. 29</ls>
+;
+108816 new .{@{#-putrakaH#}@} a doll, puppet; {#mandAkinIsEkatavedikABiH sA kandukEH kftrimaputrakESca#} ({#reme#}) <ls>Ku. 1. 29</ls>
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120267 old ∙²5 Knowledge from hearing ({#SravaRajajYAna#}); {#prapUrvagO pUrvajO citraBAnU#}
+;
+120267 new ∙²5 Knowledge from hearing ({#SravaRajajYAna#}); {#prapUrvagO pUrvajO citraBAnU girA vA''SaMsAmi tapasA hyanantO#} <ls>Mb. 1. 3. 57. <ab>com.</ab></ls>
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120268 old  {#girA vA''SaMsAmi tapasA hyanantO#} <ls>Mb. 1. 3. 57. <ab>com.</ab></ls>
+;
+120268 new  
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120273 old ∙²2 a learned man; so {#girISaH#}, .{@{#-raTaH#}@} ({#gIraTaH#}) <ab>N.</ab> of Bṛhaspati.
+;
+120273 new ∙²2 a learned man; so {#girISaH#}, 
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120274 old .{@{#-vARaH, -bARaH#}@} ({#gIrvARa#}) a god, deity; {#parimalo#}
+;
+120274 new .{@{#-raTaH#}@} ({#gIraTaH#}) <ab>N.</ab> of Bṛhaspati.
+;---------------------------------------------------
+; <L>14050<pc>0659-1<k1>gir<k2>gir
+120275 old  {#gIrvARacetoharaH#} <ls>Bv. 1. 63</ls>, <ls n="Bv. 1.">84</ls>. {#˚kusumam#} cloves.
+;
+120275 new .{@{#-vARaH, -bARaH#}@} ({#gIrvARa#}) a god, deity; {#parimalo gIrvARacetoharaH#} <ls>Bv. 1. 63</ls>, <ls n="Bv. 1.">84</ls>. {#˚kusumam#} cloves.
+;---------------------------------------------------
+; <L>17019<pc>0800-2<k1>dantaH<k2>dantaH
+148243 old .{@{#-mUlIyAH#}@} (<ab>pl.</ab>) the dental letters, {%<ab>viz.</ab>%}
+;
+148243 new .{@{#-mUlIyAH#}@} (<ab>pl.</ab>) the dental letters, {%<ab>viz.</ab>%}  {#x, t, T, d, D, n, l#}, and {#s#}.
+;---------------------------------------------------
+; <L>17019<pc>0800-2<k1>dantaH<k2>dantaH
+148244 old  {#x, t, T, d, D, n, l#}, and {#s#}. .{@{#-rogaH#}@} tooth-ache.
+;
+148244 new .{@{#-rogaH#}@} tooth-ache.
+;---------------------------------------------------
+; <L>27214<pc>1323-2<k1>raNgaH<k2>raNgaH
+250027 old  {#-upajIvin#} {%<lex>m.</lex>%}, .{@{#-kAraH, -jIvikaH#}@}
+;
+250027 new  {#-upajIvin#} {%<lex>m.</lex>%}, 
+;---------------------------------------------------
+; <L>27214<pc>1323-2<k1>raNgaH<k2>raNgaH
+250028 old  a painter.
+;
+250028 new .{@{#-kAraH, -jIvikaH#}@} a painter.
+;---------------------------------------------------
+; <L>34421<pc>1655-2<k1>sarva<k2>sarva
+317517 old .{@{#-saMnahanam, -saMnAhaH#}@} assembling of a complete army, a complete armament; see
+;
+317517 new .{@{#-saMnahanam, -saMnAhaH#}@} assembling of a complete army, a complete armament; see {#-aBisAraH#}.
+;---------------------------------------------------
+; <L>34421<pc>1655-2<k1>sarva<k2>sarva
+317518 old .{#-aBisAraH#}. .{@{#-samatA#}@} equality towards everything; {#sa sarvasamatAmetya#}
+;
+317518 new .{@{#-samatA#}@} equality towards everything; {#sa sarvasamatAmetya#} {#brahmAByeti paraM padam#} <ls>Ms. 12. 125</ls>.
+;---------------------------------------------------
+; <L>34421<pc>1655-2<k1>sarva<k2>sarva
+317519 old  {#brahmAByeti paraM padam#} <ls>Ms. 12. 125</ls>.
+;
+317519 new 
+;---------------------------------------------------

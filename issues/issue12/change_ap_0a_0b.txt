@@ -1,0 +1,190 @@
+; <L>4<pc>0001-2<k1>aMSaH<k2>aMSaH
+106 old .{@{#-avatAraH, -taraRam#}@} [<sab>{#za˚ ta˚#}</sab>] descent (on earth) of parts
+;
+106 new .{@{#-avatAraH, -avataraRam#}@} [<sab>{#za˚ ta˚#}</sab>] descent (on earth) of parts
+;---------------------------------------------------
+; <L>942<pc>0054-2<k1>aditi<k2>aditi
+8948 old  ‘the boundless Heaven’, or according to others, ‘the visible infinite, the endless expanse beyond the earth, beyond[Page0055-1] the clouds, beyond the sky’
+;
+8948 new  ‘the boundless Heaven’, or according to others, ‘the visible infinite, the endless expanse beyond the earth, beyond the clouds, beyond the sky’
+;---------------------------------------------------
+; <L>942<pc>0054-2<k1>aditi<k2>aditi
+8949 old 
+;
+8949 new [Page0055-1]
+;---------------------------------------------------
+; <L>8044<pc>0377-2<k1>AhArikam<k2>AhArikam
+67132 old  soul; according to Colebrooke, it is ‘a minute form issuing from the head of a meditative[Page0378-1] sage to consult an omniscient saint and returning with the desired information’
+;
+67132 new  soul; according to Colebrooke, it is ‘a minute form issuing from the head of a meditative sage to consult an omniscient saint and returning with the desired information’.
+;---------------------------------------------------
+; <L>8044<pc>0377-2<k1>AhArikam<k2>AhArikam
+67135 old .
+;
+67135 new 
+;---------------------------------------------------
+; <L>11874<pc>0553-1<k1>kAkuH<k2>kAkuH
+100131 old  anger; {#‘kAkuH striyAM vikAro#}[Page0553-2] {#yaH SokaBItyAdiBirDvaneH’#} <ls>Ak.</ls>
+;
+100131 new  anger; {#‘kAkuH striyAM vikAro yaH SokaBItyAdiBirDvaneH’#} <ls>Ak.</ls>
+;---------------------------------------------------
+; <L>11874<pc>0553-1<k1>kAkuH<k2>kAkuH
+100132 old 
+;
+100132 new [Page0553-2]
+;---------------------------------------------------
+; <L>12971<pc>0607-2<k1>koRaH<k2>koRaH
+110524 old .{@{#-AGAtaH#}@} striking of drums, tabors <ab>&c.</ab>, used in the sense of ‘a mingled sound of various[Page0608-1] musical instruments’
+;
+110524 new .{@{#-AGAtaH#}@} striking of drums, tabors <ab>&c.</ab>, used in the sense of ‘a mingled sound of various musical instruments’
+;---------------------------------------------------
+; <L>12971<pc>0607-2<k1>koRaH<k2>koRaH
+110525 old 
+;
+110525 new [Page0608-1]
+;---------------------------------------------------
+; <L>16222<pc>0763-2<k1>taru<k2>taru
+140730 old .{@{#-rAjan#}@} {%<lex>m.</lex>%} ‘the king[Page0764-1] of trees’
+;
+140730 new .{@{#-rAjan#}@} {%<lex>m.</lex>%} ‘the king of trees’
+;---------------------------------------------------
+; <L>16222<pc>0763-2<k1>taru<k2>taru
+140731 old 
+;
+140731 new [Page0764-1]
+;---------------------------------------------------
+; <L>16680<pc>0782-1<k1>tfRam<k2>tfRam
+144611 old .{@{#-pIqam#}@} hand-to-hand fighting; {#‘rajjUkara Re tfRamiva#}[Page0782-2] {#yatra bAhvAdikaM vyAvartyate tadyudDam’#} <ls>Mb. 23. 3. 20</ls> <ab>com.</ab>
+;
+144611 new .{@{#-pIqam#}@} hand-to-hand fighting; {#‘rajjUkara Re tfRamiva yatra bAhvAdikaM vyAvartyate tadyudDam’#} <ls>Mb. 23. 3. 20</ls> <ab>com.</ab>
+;---------------------------------------------------
+; <L>16680<pc>0782-1<k1>tfRam<k2>tfRam
+144612 old 
+;
+144612 new [Page0782-2]
+;---------------------------------------------------
+; <L>16975<pc>0797-2<k1>dakziRA<k2>dakziRA
+147663 old ∙²2 ‘the[Page0798-1] path of the {#dakziRA#}’
+;
+147663 new ∙²2 ‘the path of the {#dakziRA#}’, {%<ab>i. e.</ab>%} the cow, constituting the sacrificial cow.
+;---------------------------------------------------
+; <L>16975<pc>0797-2<k1>dakziRA<k2>dakziRA
+147664 old 
+;
+147664 new [Page0798-1]
+;---------------------------------------------------
+; <L>16975<pc>0797-2<k1>dakziRA<k2>dakziRA
+147665 old , {%<ab>i. e.</ab>%} the cow, constituting the sacrificial cow.
+;
+147665 new 
+;---------------------------------------------------
+; <L>19887<pc>0959-1<k1>padam<k2>padam
+178698 old  foot-prints; {#padamanuviDeyaM ca mahatAm#} <ls>Bh. 2. 28</ls> ‘the foot-steps of the great[Page0959-2] must be followed’
+;
+178698 new  foot-prints; {#padamanuviDeyaM ca mahatAm#} <ls>Bh. 2. 28</ls> ‘the foot-steps of the great must be followed’
+;---------------------------------------------------
+; <L>19887<pc>0959-1<k1>padam<k2>padam
+178699 old 
+;
+178699 new [Page0959-2]
+;---------------------------------------------------
+; <L>22101<pc>1057-2<k1>pragaRqI<k2>pragaRqI
+198567 old  {#iti prAcAM pAWaH . tadvyAKyAnaM ca tadIyameva . ‘saMcAro yatra#}[Page1058-1] {#lokAnAM dUrAdevAvabuDyate . pragaRqI sA ca vijYeyA bahiHprAkArasaMjYitA ..’ ityAdi#} <ls>Mb. 12. 69. 43</ls> <ab>com.</ab>
+;
+198567 new  {#iti prAcAM pAWaH . tadvyAKyAnaM ca tadIyameva . ‘saMcAro yatra#}
+;---------------------------------------------------
+; <L>22101<pc>1057-2<k1>pragaRqI<k2>pragaRqI
+198568 old 
+;
+198568 new  {#lokAnAM dUrAdevAvabuDyate . pragaRqI sA ca vijYeyA bahiHprAkArasaMjYitA ..’ ityAdi#} <ls>Mb. 12. 69. 43</ls> <ab>com.</ab>
+;---------------------------------------------------
+; <L>22101<pc>1057-2<k1>pragaRqI<k2>pragaRqI
+198569 old 
+;
+198569 new [Page1058-1]
+;---------------------------------------------------
+; <L>22345<pc>1067-1<k1>prati<k2>prati
+200985 old ∙²1 ‘against the[Page1070-1] hair or grain’
+;
+200985 new ∙²1 ‘against the hair or grain’
+;---------------------------------------------------
+; <L>22345<pc>1067-1<k1>prati<k2>prati
+200986 old 
+;
+200986 new [Page1070-1]
+;---------------------------------------------------
+; <L>23549<pc>1113-2<k1>praSnaH<k2>praSnaH
+210283 old  {#praSna ityaBiDIyate#}); {#anAmayapraSnapUrvakam#} <ls>Ś. 5</ls> ‘with an inquiry about (your) well-being[Page1114-1] or health’
+;
+210283 new  {#praSna ityaBiDIyate#}); {#anAmayapraSnapUrvakam#} <ls>Ś. 5</ls> ‘with an inquiry about (your) well-being or health’
+;---------------------------------------------------
+; <L>23549<pc>1113-2<k1>praSnaH<k2>praSnaH
+210284 old 
+;
+210284 new [Page1114-1]
+;---------------------------------------------------
+; <L>31377<pc>1518-1<k1>vyApAraH<k2>vyApAraH
+289212 old  ‘will be pleased to exert[Page1518-2] herself in that behalf’
+;
+289212 new  ‘will be pleased to exert herself in that behalf’;
+;---------------------------------------------------
+; <L>31377<pc>1518-1<k1>vyApAraH<k2>vyApAraH
+289213 old 
+;
+289213 new [Page1518-2]
+;---------------------------------------------------
+; <L>31377<pc>1518-1<k1>vyApAraH<k2>vyApAraH
+289214 old ; {#na vyApAraSatenApi Sukavat pAWyate bakaH#}
+;
+289214 new  {#na vyApAraSatenApi Sukavat pAWyate bakaH#}
+;---------------------------------------------------
+; <L>34411<pc>1655-1<k1>sarpaH<k2>sarpaH
+317247 old .{@{#-AvAsam, -izwam#}@} [Page1655-2] the sandal tree.
+;
+317247 new .{@{#-AvAsam, -izwam#}@} the sandal tree.
+;---------------------------------------------------
+; <L>34411<pc>1655-1<k1>sarpaH<k2>sarpaH
+317248 old 
+;
+317248 new [Page1655-2]
+;---------------------------------------------------
+; <L>34421<pc>1655-2<k1>sarva<k2>sarva
+317355 old .{@{#-anukramaRikA, -anukramaRI#}@} [Page1656-1] a general index.
+;
+317355 new .{@{#-anukramaRikA, -anukramaRI#}@} a general index.
+;---------------------------------------------------
+; <L>34421<pc>1655-2<k1>sarva<k2>sarva
+317356 old 
+;
+317356 new [Page1656-1]
+;---------------------------------------------------
+; <L>35004<pc>1680-1<k1>sita<k2>sita
+322313 old .{@{#-CadaH, -pakzaH#}@} [Page1680-2] a swan, goose.
+;
+322313 new .{@{#-CadaH, -pakzaH#}@} a swan, goose.
+;---------------------------------------------------
+; <L>35004<pc>1680-1<k1>sita<k2>sita
+322314 old 
+;
+322314 new [Page1680-2]
+;---------------------------------------------------
+; <L>35172<pc>1696-1<k1>sUkzma<k2>sUkzma
+325433 old .{@{#-makzikam, -makzikA#}@} [Page1696-2] a mosquito, gnat.
+;
+325433 new .{@{#-makzikam, -makzikA#}@} a mosquito, gnat.
+;---------------------------------------------------
+; <L>35172<pc>1696-1<k1>sUkzma<k2>sUkzma
+325434 old 
+;
+325434 new [Page1696-2] 
+;---------------------------------------------------
+; <L>36554<pc>1764-1<k1>hetuH<k2>hetuH
+338669 old .{@{#-utprekzA, -upamA#}@} [Page1764-2] a simile accompanied with reasons.
+;
+338669 new .{@{#-utprekzA, -upamA#}@} a simile accompanied with reasons.
+;---------------------------------------------------
+; <L>36554<pc>1764-1<k1>hetuH<k2>hetuH
+338670 old 
+;
+338670 new [Page1764-2] 
+;---------------------------------------------------

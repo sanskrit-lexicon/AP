@@ -1,0 +1,31 @@
+132693,132694c132693
+< .{@{#-kaH#}@} An ascetic, or devotee (who mutters prayers); <ab>cf.</ab> <ls>P. III. 2. 166</ls>;
+<  {#jaYjapUko'kzamAlAvAn … …#} <ls>Bk. 5. 61</ls>.
+---
+> .{@{#-kaH#}@} An ascetic, or devotee (who mutters prayers); <ab>cf.</ab> <ls>P. III. 2. 166</ls>;  {#jaYjapUko'kzamAlAvAn … …#} <ls>Bk. 5. 61</ls>.
+132696d132694
+< 
+132700d132697
+< 
+132704,132705c132701
+< 
+< <L>15344<pc>0723-2<k1>jawa<k2>jawa
+---
+> <L>15343.1<pc>0723-2<k1>jawa<k2>jawa
+132707c132703,132707
+< .{@{#-wA#}@} [<ls>Uṇ. 5. 30</ls>]
+---
+> <LEND>
+> 
+> 
+> <L>15344<pc>0723-2<k1>jawA<k2>jawA
+> {#jawA#}¦ [<ls>Uṇ. 5. 30</ls>]
+145942c145942,145943
+< .{@{#-navatiH#}@} {%<lex>f.</lex>%} ninety-three. {@{#paYcASat#}@} {%<lex>f.</lex>%} fifty-three.
+---
+> .{@{#-navatiH#}@} {%<lex>f.</lex>%} ninety-three.
+> .{@{#-paYcASat#}@} {%<lex>f.</lex>%} fifty-three.
+145948c145949
+< .{@{#-saptAtiH#}@} {%<lex>f.</lex>%} seventy-three.
+---
+> .{@{#-saptatiH#}@} {%<lex>f.</lex>%} seventy-three.
