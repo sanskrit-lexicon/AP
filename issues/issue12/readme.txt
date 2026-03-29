@@ -209,5 +209,7 @@ git push
 * ==========================================
 * Update hwnorm1 and csl-apidev repos
 # See readme_hwnorm1.txt for details
+* Update database for dalglob1 program
+# see readme_dalglob1.txt
 * THE END
 

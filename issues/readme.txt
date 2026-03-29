@@ -8,5 +8,6 @@
 * issue8  Study of ap57_AB_v4a
 * issue9  Study of main-entry alternate headwords
 * issue10 Study of compounds
+* issue12 Install ap version with compounds, alternate headwords
 
 
