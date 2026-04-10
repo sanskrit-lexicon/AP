@@ -20,6 +20,11 @@ def adjust_hw(basehw, suffix):
     # ISAna / -nI = ISAnI
     elif (basehw.endswith('a') and suffix.endswith('I')) and ((basehw[:-1] + 'I').endswith(suffix)):
         return basehw[:-1] + 'I'
+    """
+    # aguru / -ru = aguru
+    elif basehw.endswith(suffix):
+        return basehw
+    """
     print('No result found for: ' + basehw + ' + ' + suffix)
     return None
 
@@ -48,4 +53,5 @@ if __name__=="__main__":
             #fout.write(lin + '\n')
     print('Resolved : ', correct)
     print('Unresolved : ', wrong)
+    print('Total : ', correct + wrong)
 
