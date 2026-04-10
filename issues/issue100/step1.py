@@ -35,6 +35,10 @@ def adjust_hw(basehw, suffix):
     # atikaTA / -Ta/TaH/Tam = atikaTa/atikaTaH/atikaTam
     elif re.sub('A$', 'a', basehw).endswith(re.sub('a[Hm]*$', 'a', suffix)):
         return basehw[:-2] + suffix
+    # siMhala[m]* / -lAH = siMhalAH
+    elif re.sub('a$', 'AH', basehw).endswith(suffix):
+        return basehw[:-2] + suffix
+    # If no matches, they need to be manually corrected
     print('No result found for: ' + basehw + ' + ' + suffix)
     return None
 
