@@ -6,7 +6,7 @@ correct = 0
 wrong = 0
 
 def adjust_hw(basehw, suffix):
-    basehw = re.sub('aH$', 'a', basehw) # rameSaH -> rameSa
+    basehw = re.sub('a[Hm]$', 'a', basehw) # rameSaH -> rameSa
     suffix = suffix.lstrip('-') # -nI -> nI
     # kamala / -lam = kamalam
     if (basehw.endswith('a') and suffix.endswith('am')) and ((basehw + 'm').endswith(suffix)):
