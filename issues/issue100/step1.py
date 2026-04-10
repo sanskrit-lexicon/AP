@@ -23,6 +23,9 @@ def adjust_hw(basehw, suffix):
     # aguru / -ru = aguru
     elif basehw.endswith(suffix):
         return basehw
+    # akziti / -tiH = akzitiH
+    elif basehw.endswith(suffix.rstrip('[mH]')):
+        return basehw + suffix[-1]
     print('No result found for: ' + basehw + ' + ' + suffix)
     return None
 
