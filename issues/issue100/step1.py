@@ -29,6 +29,9 @@ def adjust_hw(basehw, suffix):
     # aNkin / -nI = aNkinI
     elif (basehw+'I').endswith(suffix):
         return basehw + 'I'
+    # anurAgin / -RI = anurAgiRI
+    elif (basehw[:-1]+'RI').endswith(suffix):
+        return basehw[:-1] + 'RI'
     # atikaTA / -Ta/TaH/Tam = atikaTa/atikaTaH/atikaTam
     elif re.sub('A$', 'a', basehw).endswith(re.sub('a[Hm]*$', 'a', suffix)):
         return basehw[:-2] + suffix
