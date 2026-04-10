@@ -26,6 +26,9 @@ def adjust_hw(basehw, suffix):
     # akziti / -tiH = akzitiH
     elif basehw.endswith(suffix.rstrip('[mH]')):
         return basehw + suffix[-1]
+    # aNkin / -nI = aNkinI
+    elif (basehw+'I').endswith(suffix):
+        return basehw + 'I'
     print('No result found for: ' + basehw + ' + ' + suffix)
     return None
 
