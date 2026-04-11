@@ -71,6 +71,8 @@ def adjust_hw(basehw, suffix, lid):
     # AmuktiH + kti = AmuktiH
     elif basehw.endswith('H') and re.sub('iH$', 'i', basehw).endswith(suffix):
         return basehw[:-1]
+    elif basehw.endswith('H') and re.sub('uH$', 'u', basehw).endswith(suffix):
+        return basehw[:-1]
     # If no matches, they need to be manually corrected
     print(lid + ' -> ' + basehw + ' + ' + suffix)
     return None

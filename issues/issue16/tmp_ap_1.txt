@@ -54153,7 +54153,7 @@
  The bottle-gourd.
 <LEND>
 
-<L>4691<pc>0235-1<k1>alAbuH<k2>alAbuH,<e>1
+<L>4691.XYZ<pc>0235-1<k1>alAbu<k2>alAbu,<e>1
 {#alAbuH, -bUH#} + .{@{#-bu#}@}¦ ({%<lex>n.</lex>%})
 ∙²1 A vessel made of gourd.
 ∙²2 A fruit of the gourd which is very light and floats in water; {#kiM#}
@@ -56374,7 +56374,7 @@
 {#avawuH#} + .{@{#-wuH#}@}¦ {%<lex>f.</lex>%} The raised portion of the neck.
 <LEND>
 
-<L>4939<pc>0243-2<k1>avawuH<k2>avawuH<e>1
+<L>4939.XYZ<pc>0243-2<k1>avawu<k2>avawu<e>1
 {#avawuH#} + .{@{#-wu#}@}¦ {%<lex>n.</lex>%} A hole, a rent.
 .━{@<ab>Comp.</ab>@}: {#avawujaH#}
 <LEND>
@@ -85269,7 +85269,7 @@
 {#AluH#} + .{@{#-luH#}@}¦ {%<lex>f.</lex>%} A pitcher, waterjar.
 <LEND>
 
-<L>7615<pc>0360-1<k1>AluH<k2>AluH<e>1
+<L>7615.XYZ<pc>0360-1<k1>Alu<k2>Alu<e>1
 {#AluH#} + .{@{#-lu#}@}¦ {%<lex>n.</lex>%} A raft, float.
 <LEND>
 
@@ -105747,7 +105747,7 @@
 {#upaguruH#}¦ An assistant teacher.
 <LEND>
 
-<L>9448<pc>0442-2<k1>upaguruH<k2>upaguruH<e>1
+<L>9448.XYZ<pc>0442-2<k1>upaguru<k2>upaguru<e>1
 {#upaguruH#} + .{@{#-ru#}@}¦ {%<lex>ind.</lex>%} Near a teacher.
 <LEND>
 
@@ -276585,7 +276585,7 @@
 ∙²10 The central part of the hand.
 <LEND>
 
-<L>21486<pc>1026-1<k1>pIluH<k2>pIluH<e>1
+<L>21486.XYZ<pc>1026-1<k1>pIlu<k2>pIlu<e>1
 {#pIluH#} + .{@{#-lu#}@}¦ {%<lex>n.</lex>%} The fruit of the Pīlu tree.
 .━{@<ab>Comp.</ab>@}: {#pIlupatraH, pIluparRI, pIlupAkavAdin#}
 <LEND>
@@ -306843,7 +306843,7 @@
  <ls>Bṛ. Up. 6. 3. 13</ls>.
 <LEND>
 
-<L>24076<pc>1136-2<k1>priyaNguH<k2>priyaNguH<e>1
+<L>24076.XYZ<pc>1136-2<k1>priyaNgu<k2>priyaNgu<e>1
 {#priyaNguH#} + .{@{#-gu#}@}¦ {%<lex>n.</lex>%}
 ∙²1 Saffron.
 ∙²2 mustard seed.
@@ -431944,7 +431944,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 A kind of astringent substance.
 <LEND>
 
-<L>31974<pc>1547-2<k1>SAluH<k2>SAluH<e>1
+<L>31974.XYZ<pc>1547-2<k1>SAlu<k2>SAlu<e>1
 {#SAluH#} + .{@{#-lu#}@}¦ {%<lex>n.</lex>%} The root of the water-lily.
 <LEND>
 

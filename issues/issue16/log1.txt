@@ -54,9 +54,7 @@
 4594 -> arbuda + AkAraH
 4611 -> arvan + tI
 4630 -> arhat + ttama
-4691 -> alAbuH + bu
 4881 -> avaGoza + RA
-4939 -> avawuH + wu
 4965 -> avataraRa + maNgalam
 5186 -> avarudDiH + kA
 5433 -> avAta + tama
@@ -87,7 +85,6 @@
 7332 -> Amla + paYcakam
 7332 -> Amla + vetasaH
 7411 -> AraRa + jAH
-7615 -> AluH + lu
 7769 -> ASita + tama
 7821 -> ASOca + nirRayaH
 7863 -> ASvina + cihnitam
@@ -110,7 +107,6 @@
 9124 -> udbanDa + nDanI
 9137 -> udBawa + tvam
 9231 -> udvigna + dfS
-9448 -> upaguruH + ru
 9510 -> upajAta + Keda
 9557 -> upadaMSa + nam
 9736 -> upabda + upadbiH
@@ -200,7 +196,6 @@
 21192 -> pAriSezya + zyAt
 21385 -> pitf + rO
 21385 -> pitf + raH
-21486 -> pIluH + lu
 21600 -> purIza + zyam
 21668 -> pustaka + AgAram
 21668 -> pustaka + AstaraRam
@@ -211,7 +206,6 @@
 22812 -> pratyarTa + vedanaH
 23514 -> pravrAj + jikA
 24071 -> priya + priyeRa
-24076 -> priyaNguH + gu
 24440 -> baBru + BrUH
 24622 -> bAhuH + hU
 24639 -> bAhlakAH + kam
@@ -232,7 +226,6 @@
 30796 -> vetasa + amlaH
 31088 -> vEzuvat + tam
 31757 -> SalAwu + duH
-31974 -> SAluH + lu
 32025 -> SiKaRqa + KaRqikA
 32356 -> SEkya + ayasam
 32407 -> SoRita + Ram
@@ -249,6 +242,6 @@
 35365 -> sotka + RWam
 35507 -> sOrasenAH + nI
 36620 -> homIya + myam
-Resolved :  7472  -  96.74996762915966 %
-Unresolved :  251  -  3.250032370840347 %
+Resolved :  7479  -  96.8406059821313 %
+Unresolved :  244  -  3.1593940178687037 %
 Total :  7723  -  100%
