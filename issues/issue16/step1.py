@@ -53,6 +53,9 @@ def adjust_hw(basehw, suffix, lid):
     # kuSIlava / -vO = kuSIlavO
     elif re.sub('a$', 'O', basehw).endswith(suffix):
         return re.sub('a$', 'O', basehw)
+    # tariH / -rI = tarI
+    elif re.sub('iH$', 'I', basehw).endswith(suffix):
+        return re.sub('iH$', 'I', basehw)
     # If no matches, they need to be manually corrected
     print(lid + ' -> ' + basehw + ' + ' + suffix)
     return None

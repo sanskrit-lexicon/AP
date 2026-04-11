@@ -125013,7 +125013,7 @@
 ∙²3 An elephantʼs cheek.
 <LEND>
 
-<L>11219<pc>0520-1<k1>kawiH<k2>kawiH,<e>1
+<L>11219.XYZ<pc>0520-1<k1>kawI<k2>kawI,<e>1
 {#kawiH, -wI#} + .{@{#-wI#}@}¦ Long pepper.
 .━{@<ab>Comp.</ab>@}: {#kawikuzWam, kawikUpaH, kawitawam, kawitram, kawideSaH, kawimAlikA, kawirohakaH, kawiSIrzakaH, kawiSUlaH, kawiSfNKalA, kawisUtram#}
 <LEND>
@@ -204619,7 +204619,7 @@
 ∙²3 The end or hem of a garment.
 <LEND>
 
-<L>16730<pc>0784-1<k1>tariH<k2>tariH<e>1
+<L>16730.XYZ<pc>0784-1<k1>tarI<k2>tarI<e>1
 {#tariH, -rIH#} + .{@{#-rI#}@}¦
 ∙²1 A small wooden baling-vessel.
 ∙²2 A club.
@@ -273276,7 +273276,7 @@
 ∙²16 A circumference.
 <LEND>
 
-<L>21261<pc>1016-1<k1>pAliH<k2>pAliH,<e>1
+<L>21261.XYZ<pc>1016-1<k1>pAlI<k2>pAlI,<e>1
 {#pAliH, -lI#} + .{@{#-lI#}@}¦ A pot, boiler.
 .━{@<ab>Comp.</ab>@}: {#pAlyAmayaH, pAlijvaraH, pAliBaNgaH#}
 <LEND>
@@ -363787,7 +363787,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  <ls>Ś. 2. 9</ls>; {#yuvatijanakaTAmUkaBAvaH parezAm#} <ls>Bh.</ls>; so {#iBayuvatiH#}.
 <LEND>
 
-<L>27106<pc>1316-1<k1>yuvatiH<k2>yuvatiH,<e>1
+<L>27106.XYZ<pc>1316-1<k1>yuvatI<k2>yuvatI,<e>1
 {#yuvatiH, -tI#} + .{@{#-tI#}@}¦
 ∙²1 The sign {%virgo%} of the zodiac.
 ∙²2 Turmeric (also {#yuvatiH#}).
@@ -425867,7 +425867,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  <ab>N.</ab> of the wife of Indra; {#asUta putraM samaye SacIsamA#} <ls>R. 3. 13</ls>, <ls n="R. 3.">23</ls>.
 <LEND>
 
-<L>31593<pc>1529-1<k1>SaciH<k2>SaciH,<e>1
+<L>31593.XYZ<pc>1529-1<k1>SacI<k2>SacI,<e>1
 {#SaciH, -cI#} + .{@{#-cI#}@}¦ <ab>Ved.</ab>
 ∙²1 Speech, eloquence.
 ∙²2 Activity, energy.

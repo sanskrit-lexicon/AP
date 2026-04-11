@@ -147,7 +147,6 @@
 11065 -> OzaDiH + paYcaprakArAH
 11065 -> OzaDiH + pratiniDiH
 11172 -> kajjala + lA(lI)
-11219 -> kawiH + wI
 11296 -> kaRwaka + PalaH
 11332 -> kaRqUyana + kaH
 11386 -> kadamba + kam
@@ -202,7 +201,6 @@
 16274 -> talina + udarI
 16447 -> tintiqa + kam
 16563 -> tundika + kzundilaH
-16730 -> tariH + rI
 16830 -> trapula + zam
 16887 -> trEvarRa + kaH
 17068 -> daradAH + daH
@@ -225,7 +223,6 @@
 20997 -> pARqyAH + RqyaH
 21123 -> pAraMparya + pAraMparyeRa
 21192 -> pAriSezya + zyAt
-21261 -> pAliH + lI
 21385 -> pitf + rO
 21385 -> pitf + raH
 21486 -> pIluH + lu
@@ -253,7 +250,6 @@
 25371 -> BOmika + BOmya
 25812 -> marul + lokaH
 26640 -> meQra + dram
-27106 -> yuvatiH + tI
 28256 -> vakrIBU + vakrIBAvaH
 28542 -> varUtf + trI
 28864 -> vAjasaneyin + saMhitA
@@ -264,7 +260,6 @@
 30272 -> vivAsa + vivAsakAle
 30796 -> vetasa + amlaH
 31088 -> vEzuvat + tam
-31593 -> SaciH + cI
 31757 -> SalAwu + duH
 31974 -> SAluH + lu
 32025 -> SiKaRqa + KaRqikA
@@ -284,6 +279,6 @@
 35365 -> sotka + RWam
 35507 -> sOrasenAH + nI
 36620 -> homIya + myam
-Resolved :  7437  -  96.29677586430144 %
-Unresolved :  286  -  3.7032241356985627 %
+Resolved :  7442  -  96.36151754499546 %
+Unresolved :  281  -  3.638482455004532 %
 Total :  7723  -  100%
