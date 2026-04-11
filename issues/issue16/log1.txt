@@ -44,10 +44,8 @@
 3487 -> aBinetf + trI
 3568 -> aBimanyuH + puram
 3814 -> aBisAya + arkam
-3835 -> aBisvara + re
 3869 -> aBIta + tiH
 3876 -> aBImoda + mud
-3929 -> aByaDva + Dve
 3973 -> aByavahAra + maRqapaH
 4118 -> amatiH + amatIvan
 4135 -> amanuzya + tA
@@ -133,12 +131,10 @@
 10056 -> upastamBaka + tA
 10078 -> upasneha + tA
 10122 -> upAMSu + tvam
-10123 -> upAka + ke
 10333 -> ulUka + jit
 10333 -> ulUka + yAtuH
 10634 -> ekaka + Satam
 10637 -> ekatas + dat
-10758 -> EkAntika + ke
 10869 -> oman + nA
 11001 -> Oparizwa + kam
 11058 -> OSana + sam
@@ -215,7 +211,6 @@
 18995 -> nirjita + indriyaH
 19174 -> nivat + tA
 19201 -> nivirISa + sA
-19449 -> nIla + le
 19695 -> paNkeruh + haH
 19748 -> paYcAlAH + laH
 20040 -> parAhata + tiH
@@ -232,7 +227,6 @@
 21668 -> pustaka + mudrA
 21668 -> pustaka + pustikApUlikaH
 22002 -> prakAma + Buj
-22005 -> prakASa + Se
 22353 -> pratikartavya + ryam
 22812 -> pratyarTa + vedanaH
 23514 -> pravrAj + jikA
@@ -242,7 +236,6 @@
 24622 -> bAhuH + hU
 24639 -> bAhlakAH + kaH
 24639 -> bAhlakAH + kam
-24722 -> buDa + De
 25039 -> BAjana + leKitam
 25039 -> BAjana + lokaH
 25062 -> BAdra + dAH
@@ -271,7 +264,6 @@
 33435 -> sanAtana + taH
 34239 -> saMbanDin + SabdaH
 34419 -> sarma + sarman
-34422 -> sarvaka + ke
 34759 -> sAman + sAmnA
 34845 -> sArasa + sArasyam
 34978 -> siMhala + dvIpaH
@@ -279,6 +271,6 @@
 35365 -> sotka + RWam
 35507 -> sOrasenAH + nI
 36620 -> homIya + myam
-Resolved :  7442  -  96.36151754499546 %
-Unresolved :  281  -  3.638482455004532 %
+Resolved :  7450  -  96.46510423410592 %
+Unresolved :  273  -  3.5348957658940825 %
 Total :  7723  -  100%

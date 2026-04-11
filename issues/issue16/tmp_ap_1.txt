@@ -42048,7 +42048,7 @@
 {#aBisvaraH#}¦ Urging towards, driving onwards.
 <LEND>
 
-<L>3835<pc>0189-2<k1>aBisvaraH<k2>aBisvaraH<e>1
+<L>3835.XYZ<pc>0189-2<k1>aBisvare<k2>aBisvare<e>1
 {#aBisvaraH#} + .{@{#-re#}@}¦ Very close or near.
 <LEND>
 
@@ -42837,7 +42837,7 @@
 {#aByaDvam#}¦ {%<lex>adv.</lex>%} Towards the way, on the way.
 <LEND>
 
-<L>3929<pc>0192-2<k1>aByaDvam<k2>aByaDvam<e>1
+<L>3929.XYZ<pc>0192-2<k1>aByaDve<k2>aByaDve<e>1
 {#aByaDvam#} + .{@{#-Dve#}@}¦ Near the way; {#yayoraByaDva uta yad dUre#} <ls>Av. 4. 28. 2</ls>.
 <LEND>
 
@@ -111510,7 +111510,7 @@
 {#upAka#}¦ {%<lex>a.</lex>%} <ab>Ved.</ab> Joined together, near.
 <LEND>
 
-<L>10123<pc>0469-2<k1>upAka<k2>upAka<e>1
+<L>10123.XYZ<pc>0469-2<k1>upAke<k2>upAke<e>1
 {#upAka#} + .{@{#-ke#}@}¦ (<ab>du.</ab>) An epithet of night and morning; {#A BandamAne upAke#}
  <ls>Rv. 1. 142. 7</ls>. ━{%<lex>ind.</lex>%} In the immediate neighbourhood, before or in
  the presence of.
@@ -120622,7 +120622,7 @@
 ∙²3 Exclusive.
 <LEND>
 
-<L>10758<pc>0502-a2<k1>EkAntika<k2>EkAntika<e>1
+<L>10758.XYZ<pc>0502-a2<k1>EkAntike<k2>EkAntike<e>1
 {#EkAntika#} + .{@{#-ke#}@}¦ In private, apart from others; <ls>Pt. 1</ls>.
 <LEND>
 
@@ -250286,7 +250286,7 @@
 ∙²2 A Rāgiṇī.
 <LEND>
 
-<L>19449<pc>0935-2<k1>nIla<k2>nIla<e>1
+<L>19449.XYZ<pc>0935-2<k1>nIle<k2>nIle<e>1
 {#nIla#} + .{@{#-le#}@}¦ {%<lex>f.</lex>%} (<ab>du.</ab>)
 ∙²1 The two arteries in front of the neck.
 ∙²2 A black and blue mark on the skin; (for other senses see {#nIlI#}.)
@@ -285037,7 +285037,7 @@
 ∙²2 Aloud, audibly (used as a stage-direction in drama; <ab>opp.</ab> {#Atmagatam#}).
 <LEND>
 
-<L>22005<pc>1053-1<k1>prakASa<k2>prakASa<e>1
+<L>22005.XYZ<pc>1053-1<k1>prakASe<k2>prakASe<e>1
 {#prakASa#} + .{@{#-Se#}@}¦ {%<lex>ind.</lex>%} Openly, publicly.
 ∙²2 Visibly.
 ∙²3 In the presence of.
@@ -317392,7 +317392,7 @@
 {#buDa#} + .{@{#-DA#}@}¦ Spikenard.
 <LEND>
 
-<L>24722<pc>1170-1<k1>buDa<k2>buDa<e>1
+<L>24722.XYZ<pc>1170-1<k1>buDe<k2>buDe<e>1
 {#buDa#} + .{@{#-De#}@}¦ {%<lex>ind.</lex>%} On a Wednesday.
 .━{@<ab>Comp.</ab>@}: {#buDAzwamI, buDajanaH, buDatAtaH, buDadinam, buDavAraH, buDavAsaraH, buDaratnam, buDasAnuH, buDasutaH#}
 <LEND>
@@ -462804,7 +462804,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 Whole, entire.
 <LEND>
 
-<L>34422<pc>1657-1<k1>sarvaka<k2>sarvaka<e>1
+<L>34422.XYZ<pc>1657-1<k1>sarvake<k2>sarvake<e>1
 {#sarvaka#} + .{@{#-ke#}@}¦ {%<lex>ind.</lex>%} Everywhere, universally.
 <LEND>
 

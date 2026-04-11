@@ -56,6 +56,9 @@ def adjust_hw(basehw, suffix, lid):
     # tariH / -rI = tarI
     elif re.sub('iH$', 'I', basehw).endswith(suffix):
         return re.sub('iH$', 'I', basehw)
+    # aBisvara + re
+    elif re.sub('a$', 'e', basehw).endswith(suffix):
+        return re.sub('a$', 'e', basehw)
     # If no matches, they need to be manually corrected
     print(lid + ' -> ' + basehw + ' + ' + suffix)
     return None
