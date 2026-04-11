@@ -59,6 +59,9 @@ def adjust_hw(basehw, suffix, lid):
     # aBisvara + re
     elif re.sub('a$', 'e', basehw).endswith(suffix):
         return re.sub('a$', 'e', basehw)
+    # upastamBaka + tA
+    elif suffix == 'tA':
+        return basehw + 'tA'
     # If no matches, they need to be manually corrected
     print(lid + ' -> ' + basehw + ' + ' + suffix)
     return None

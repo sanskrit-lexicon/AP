@@ -35639,7 +35639,7 @@
  {#atItAyAmaprajasi bAnDavAstadavApnuyuH#} <ls>Y. 2. 144</ls>.
 <LEND>
 
-<L>3099<pc>0160-2<k1>aprajas<k2>aprajas,<e>1
+<L>3099.XYZ<pc>0160-2<k1>aprajastA<k2>aprajastA,<e>1
 {#aprajas, aprajAta#} + .{@{#-tA#}@}¦ A woman who has borne no child, a barren woman.
 <LEND>
 <L>3099.002<pc>0160-2<k1>aprajAta<k2>aprajAta<e>1
@@ -36082,7 +36082,7 @@
 {#apramAda#} + .{@{#-dam#}@}¦ {%<lex>ind.</lex>%} Carefully, attentively, uninterruptedly.
 <LEND>
 
-<L>3157<pc>0162-2<k1>apramAda<k2>apramAda<e>1
+<L>3157.XYZ<pc>0162-2<k1>apramAdatA<k2>apramAdatA<e>1
 {#apramAda#} + .{@{#-tA#}@}¦ The state of being cautious; {#SOcAkroDApramAdatA#} <ls>Y. 3. 313</ls>.
 <LEND>
 
@@ -44622,7 +44622,7 @@
 ∙²2 A demon, fiend (= {#rakzaHpiSAcAdi#} <ls>Sk.</ls> on <ls>P. II. 4. 23</ls>).
 <LEND>
 
-<L>4135<pc>0200-1<k1>amanuzya<k2>amanuzya<e>1
+<L>4135.XYZ<pc>0200-1<k1>amanuzyatA<k2>amanuzyatA<e>1
 {#amanuzya#} + .{@{#-tA#}@}¦ Unmanliness.
 <LEND>
 
@@ -110817,7 +110817,7 @@
 {#upastamBaka#}¦ {%<lex>a.</lex>%} Supporting, aiding, encouraging.
 <LEND>
 
-<L>10056<pc>0466-2<k1>upastamBaka<k2>upastamBaka<e>1
+<L>10056.XYZ<pc>0466-2<k1>upastamBakatA<k2>upastamBakatA<e>1
 {#upastamBaka#} + .{@{#-tA#}@}¦ Abundance, excess.
 <LEND>
 
@@ -111104,7 +111104,7 @@
  <ls>Rām. 6. 5. 11</ls>.
 <LEND>
 
-<L>10078<pc>0468-1<k1>upasnehaH<k2>upasnehaH<e>1
+<L>10078.XYZ<pc>0468-1<k1>upasnehatA<k2>upasnehatA<e>1
 {#upasnehaH#} + .{@{#-tA#}@}¦ Moistness, humidity; <ls>Pratimā 3</ls>.
 <LEND>
 
@@ -246518,7 +246518,7 @@
 ∙²2 Depth.
 <LEND>
 
-<L>19174<pc>0921-2<k1>nivat<k2>nivat<e>1
+<L>19174.XYZ<pc>0921-2<k1>nivattA<k2>nivattA<e>1
 {#nivat#} + .{@{#-tA#}@}¦ {%<lex>ind.</lex>%} Downwards (also {#nivanA#} in this sense).
 <LEND>
 
@@ -402826,7 +402826,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#viDana#}¦ {%<lex>a.</lex>%} Poor.
 <LEND>
 
-<L>29640<pc>1441-2<k1>viDana<k2>viDana<e>1
+<L>29640.XYZ<pc>1441-2<k1>viDanatA<k2>viDanatA<e>1
 {#viDana#} + .{@{#-tA#}@}¦ Poverty.
 <LEND>
 
