@@ -61668,7 +61668,7 @@
 ∙²2 The space between the chin and the head.
 <LEND>
 
-<L>5577<pc>0267-1<k1>avimukta<k2>avimukta<e>1
+<L>5577.XYZ<pc>0267-1<k1>avimuktakaH<k2>avimuktakaH<e>1
 {#avimukta#} + .{@{#-kaH#}@}¦ <ab>N.</ab> of a plant (<lang>Mar.</lang> <ns>{#kusarI#}</ns>).
 .━{@<ab>Comp.</ab>@}: {#avimuktApIqaH, avimukteSvaraH#}
 <LEND>
@@ -61997,7 +61997,7 @@
 ∙²3 The subtle elements; {#tanmAtrARyaviSezAH#} <ls>Sāṅ. K. 38</ls>.
 <LEND>
 
-<L>5618<pc>0268-2<k1>aviSeza<k2>aviSeza<e>1
+<L>5618.XYZ<pc>0268-2<k1>aviSezaka<k2>aviSezaka<e>1
 {#aviSeza#} + .{@{#-ka#}@}¦ {%<lex>a.</lex>%} Inconclusive, not leading to any definite conclusion;
  {#api cEkena saMniDAnamaviSezako hetuH#} <ls>Ms. 11. 1. 64</ls>.
 .━{@<ab>Comp.</ab>@}: {#aviSezajYa, aviSezavacana#}
@@ -71715,11 +71715,11 @@
  {#Bavanto me'hrIrezA tu mayA tulA#} <ls>Rām. 3. 10. 8</ls>.
 <LEND>
 
-<L>6340<pc>0303-2<k1>ahrI<k2>ahrI<e>1
+<L>6340.XYZ<pc>0303-2<k1>ahrIka<k2>ahrIka<e>1
 {#ahrI#} + .{@{#-ka#}@}¦ {%<lex>a.</lex>%} Shameless (beggar).
 <LEND>
 
-<L>6340<pc>0303-2<k1>ahrI<k2>ahrI<e>1
+<L>6340.XYZ<pc>0303-2<k1>ahrIkaH<k2>ahrIkaH<e>1
 {#ahrI#} + .{@{#-kaH#}@}¦ A Buddhist mendicant.
 <LEND>
 
@@ -79581,7 +79581,7 @@
  a belonging to the duties of a storekeeper or chamberlain.
 <LEND>
 
-<L>7028<pc>0336-2<k1>Antaratamyam<k2>Antaratamyam,<e>1
+<L>7028.XYZ<pc>0336-2<k1>AntaratamyakaH<k2>AntaratamyakaH,<e>1
 {#Antaratamyam, Antaryam#} + .{@{#-kaH#}@}¦ The chamberlain
 <LEND>
 
@@ -109673,7 +109673,7 @@
 ∙²2 Occupied with, engaged.
 <LEND>
 
-<L>9907<pc>0461-2<k1>upavizwa<k2>upavizwa<e>1
+<L>9907.XYZ<pc>0461-2<k1>upavizwaka<k2>upavizwaka<e>1
 {#upavizwa#} + .{@{#-ka#}@}¦ {%<lex>a.</lex>%} Firmly settled (said of a foetus which remains in the
  womb beyond the usual time).
 <LEND>
@@ -126573,7 +126573,7 @@
 {#kaRqUyana, -naka#} + .{@{#-nI#}@}¦ A brush for rubbing.
 <LEND>
 
-<L>11332<pc>0524-2<k1>kaRqUyana<k2>kaRqUyana,<e>1
+<L>11332.XYZ<pc>0524-2<k1>kaRqUyanakaH<k2>kaRqUyanakaH,<e>1
 {#kaRqUyana, -naka#} + .{@{#-kaH#}@}¦ A tickler; {#karRasya kaRqUyanakena vApi#} ({#tfRena kAryaM#}
  {#BavatISvarARAm#}) <ls>Pt. 1. 71</ls>.
 <LEND>
@@ -130308,7 +130308,7 @@
 ∙²2 The fibrous root or stem of a lotus.
 <LEND>
 
-<L>11562<pc>0536-1<k1>karahAwaH<k2>karahAwaH<e>1
+<L>11562.XYZ<pc>0536-1<k1>karahAwakaH<k2>karahAwakaH<e>1
 {#karahAwaH#} + .{@{#-kaH#}@}¦ (= {#karahAwaH#}) {#aciraSESiraviklamaSezitA kamalinI karahAwakaSezitA#}
  <ls>Rām. Ch. 4. 6</ls>.
 ∙²3 A group of lotuses.
@@ -136406,7 +136406,7 @@
 ∙²2 Wicked, perverse.
 <LEND>
 
-<L>11969<pc>0557-1<k1>kApawa<k2>kApawa,<e>1
+<L>11969.XYZ<pc>0557-1<k1>kApawakaH<k2>kApawakaH,<e>1
 {#kApawa, kApawika#} + .{@{#-kaH#}@}¦
 ∙²1 A flatterer, parasite.
 ∙²2 A student, scholar.
@@ -207704,7 +207704,7 @@
 .({@{#-kI#}@} {%<lex>f.</lex>%}) Relating to the first three castes.
 <LEND>
 
-<L>16887<pc>0793-2<k1>trEvarRa<k2>trEvarRa,<e>1
+<L>16887.XYZ<pc>0793-2<k1>trEvarRakaH<k2>trEvarRakaH,<e>1
 {#trEvarRa, -trEvarRika#} + .{@{#-kaH#}@}¦ A member of the first three castes.
 <LEND>
 <L>16887.002<pc>0793-2<k1>trEvarRika<k2>trEvarRika<e>1
@@ -315939,7 +315939,7 @@
 {#bAhlakAH, bAhlikAH, bAhlIkAH#}¦ {%<lex>m.</lex>%} (<ab>pl.</ab>) <ab>N.</ab> of a people.
 <LEND>
 
-<L>24639<pc>1165-2<k1>bAhlakAH<k2>bAhlakAH,<e>1
+<L>24639.XYZ<pc>1165-2<k1>bAhlakAHkaH<k2>bAhlakAHkaH,<e>1
 {#bAhlakAH, bAhlikAH, bAhlIkAH#} + .{@{#-kaH#}@}¦
 ∙²1 A king of the Bālhikas.
 ∙²2 A horse of the Balkh breed; {#kAmbojavizaye jAtErbAhlIkESca hayottamEH#}

@@ -63,10 +63,8 @@
 5478 -> avikriya + tvam
 5559 -> avipakva + karaRa
 5559 -> avipakva + budDi
-5577 -> avimukta + kaH
 5603 -> avivakzita + vacanatA
 5612 -> avivenat + nam
-5618 -> aviSeza + ka
 5652 -> avIci + saMSozaRaH
 5685 -> avEdya + tvam
 5908 -> aSvin + nO
@@ -81,14 +79,11 @@
 6259 -> asmftiH + ti
 6303 -> aharaRIya + ryaH
 6335 -> ahna + ahnyam
-6340 -> ahrI + ka
-6340 -> ahrI + kaH
 6602 -> AcAnta + tiH
 6784 -> AtmanA + saptamaH
 6787 -> AtmaMBari + tvam
 6799 -> ATarvaRa + Siras
 6992 -> AnupUrva + vat
-7028 -> Antaratamya + kaH
 7028 -> Antaratamya + kam
 7237 -> AByantara + rikaH
 7289 -> AmuktiH + kti
@@ -123,7 +118,6 @@
 9510 -> upajAta + Keda
 9557 -> upadaMSa + nam
 9736 -> upabda + upadbiH
-9907 -> upavizwa + ka
 9950 -> upaSaya + sTa
 10122 -> upAMSu + tvam
 10333 -> ulUka + jit
@@ -139,15 +133,12 @@
 11065 -> OzaDiH + pratiniDiH
 11172 -> kajjala + lA(lI)
 11296 -> kaRwaka + PalaH
-11332 -> kaRqUyana + kaH
 11386 -> kadamba + kam
 11414 -> kanInaka + nikam
 11542 -> karawa + muKam
 11546 -> karaRa + sutA
 11560 -> karamBa + vAlukA
-11562 -> karahAwa + kaH
 11859 -> kAMsyaka + koSI
-11969 -> kApawa + kaH
 12066 -> kArUzAH + zam
 12272 -> kilAsa + sin
 12381 -> kuwumbika + nI
@@ -193,7 +184,6 @@
 16447 -> tintiqa + kam
 16563 -> tundika + kzundilaH
 16830 -> trapula + zam
-16887 -> trEvarRa + kaH
 17068 -> daradAH + daH
 17068 -> daradAH + dam
 17261 -> dASArhAH + rhaH
@@ -228,7 +218,6 @@
 24076 -> priyaNguH + gu
 24440 -> baBru + BrUH
 24622 -> bAhuH + hU
-24639 -> bAhlakAH + kaH
 24639 -> bAhlakAH + kam
 25039 -> BAjana + leKitam
 25039 -> BAjana + lokaH
@@ -264,6 +253,6 @@
 35365 -> sotka + RWam
 35507 -> sOrasenAH + nI
 36620 -> homIya + myam
-Resolved :  7457  -  96.55574258707756 %
-Unresolved :  266  -  3.4442574129224393 %
+Resolved :  7468  -  96.69817428460443 %
+Unresolved :  255  -  3.3018257153955717 %
 Total :  7723  -  100%

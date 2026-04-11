@@ -62,6 +62,12 @@ def adjust_hw(basehw, suffix, lid):
     # upastamBaka + tA
     elif suffix == 'tA':
         return basehw + 'tA'
+    # upastamBaka + tA
+    elif suffix == 'tA':
+        return basehw + 'tA'
+    # aviSeza + ka[HM]*
+    elif re.search('^ka[HM]*$', suffix):
+        return basehw + suffix
     # If no matches, they need to be manually corrected
     print(lid + ' -> ' + basehw + ' + ' + suffix)
     return None
