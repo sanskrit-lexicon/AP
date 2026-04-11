@@ -7,7 +7,7 @@ wrong = 0
 
 def adjust_hw(basehw, suffix):
     basehw = re.sub('[a][Hm]$', 'a', basehw) # rameSaH -> rameSa
-    suffix = suffix.lstrip('-') # -nI -> nI
+    suffix = suffix.lstrip('[-˚]') # -nI -> nI
     # kamala / -lam = kamalam
     if (basehw.endswith('a') and suffix.endswith('am')) and ((basehw + 'm').endswith(suffix)):
         return basehw + 'm'
@@ -47,6 +47,9 @@ def adjust_hw(basehw, suffix):
     # kanizWaka / -zWikA = kanizWikA
     elif re.sub('aka$', 'ikA', basehw).endswith(suffix):
         return re.sub('aka$', 'ikA', basehw)
+    # janman / -hetuH = janmahetuH
+    elif basehw == 'janman' and not re.search('^[aAiIuUfFxeEoO]', suffix):
+        return 'janma' + suffix
     # If no matches, they need to be manually corrected
     print('No result found for: ' + basehw + ' + ' + suffix)
     return None
