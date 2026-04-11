@@ -32,6 +32,9 @@ This takes tmp_ap_0.txt as input and produces tmp_ap_1.txt as output.
 log1.tsv is a tab separated file the Lid, basehw, suffix and resolution fields. If resolution is not found, the answer is shown as 'None'.
 Where automatic resolution could not be done, temp_ap_1.txt file has key1 and key2 marked with '.ABC' as placeholder, so that they can be easily identified and corrected manually.
 As there is a high possibility that L numbers may change subsequent to handling of other patterns in future, all new L numbers are marked with '.XYZ' as placeholder in tmp_ap_1.txt. They will be mechanically filled in later, looking at the L numbers of surrounding entries.
+Thus the result of `cat tmp_ap_1.txt | grep '.ABC' | wc -l` should be equal to `cat log1.tsv | grep 'None' | wc -l`.
+Result of `cat tmp_ap_1.txt | grep '.XYZ' | wc -l` should be equal to the lines of log1.tsv minus one.
+
 
 
 

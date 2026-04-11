@@ -764,7 +764,7 @@
  {#anInayadakalyasanDo vanDanAgAraM#} <ls>Dk. 31</ls>.
 <LEND>
 
-<L>63<pc>0004-1<k1>akalya.ABC<k2>akalya.ABC<e>1
+<L>63.XYZ<pc>0004-1<k1>akalya.ABC<k2>akalya.ABC<e>1
 {#akalya#} + .{@{#-SarIra#}@}¦ {%<lex>a.</lex>%} not in sound health; <ls>Pratimā 3</ls>.
 <LEND>
 
@@ -2394,7 +2394,7 @@
  undecaying, unfailing.
 <LEND>
 
-<L>164<pc>0010-1<k1>akzita.ABC<k2>akzita.ABC<e>1
+<L>164.XYZ<pc>0010-1<k1>akzita.ABC<k2>akzita.ABC<e>1
 {#akzita#} + .{@{#-tama#}@}¦
 ∙²1 Water.
 ∙²2 100000 millions.
@@ -2848,7 +2848,7 @@
 ∙²3 The science of antidotes; one of the 8 parts of medical science.
 <LEND>
 
-<L>212<pc>0012-1<k1>agada.ABC<k2>agada.ABC<e>1
+<L>212.XYZ<pc>0012-1<k1>agada.ABC<k2>agada.ABC<e>1
 {#agada#} + .{@{#-rAjaH#}@}¦ good medicine; {#SreyastanotyagadarAja ivopayuktaH#} <ls>Bhāg. 10. 47. 59</ls>.
 <LEND>
 
@@ -3182,7 +3182,7 @@
  {#vAcAmagocarAM harzAvasTAmaspfSat#} <ls>Dk. 169</ls>, beyond the power of words, indescribable.
 <LEND>
 
-<L>236<pc>0014-1<k1>agocara.ABC<k2>agocara.ABC<e>1
+<L>236.XYZ<pc>0014-1<k1>agocara.ABC<k2>agocara.ABC<e>1
 {#agocara#} + .{@{#-rama#}@}¦
 ∙²1 Anything beyond the cognizance of the senses.
 ∙²2 Not being seen or observed, or known; {#kaTaM devapAdAnAmagocareREvaM#}
@@ -5060,7 +5060,7 @@
  {#kuryAttu SilpavittamaH#} <ls>Māna. 62. 17</ls>.
 <LEND>
 
-<L>269<pc>0021-2<k1>aGana.ABC<k2>aGana.ABC<e>1
+<L>269.XYZ<pc>0021-2<k1>aGana.ABC<k2>aGana.ABC<e>1
 {#aGana#} + .{@{#-mAnam#}@}¦ Measurement by the interior of a structure; {#evaM tad#}
  {#GanamAnamuktamaGanamAnaM vakzyate'DunA#} <ls>Māna. 33. 331-35</ls>.
 <LEND>
@@ -6814,7 +6814,7 @@
  has recently calved.
 <LEND>
 
-<L>369<pc>0029-1<k1>acira.ABC<k2>acira.ABC<e>1
+<L>369.XYZ<pc>0029-1<k1>acira.ABC<k2>acira.ABC<e>1
 {#acira#} + .{@{#-rama#}@}¦ {%<lex>adv.</lex>%} (also {#acireRa, acirAya, acirAt, acirasya#} in
  the same senses)
 ∙²1 Not long since, not long ago.
@@ -7629,7 +7629,7 @@
  {#rAmAjaryaM kuru drutam .#} <ls>Bk. 6. 53</ls>.
 <LEND>
 
-<L>421<pc>0032-1<k1>ajarya.ABC<k2>ajarya.ABC<e>1
+<L>421.XYZ<pc>0032-1<k1>ajarya.ABC<k2>ajarya.ABC<e>1
 {#ajarya#} + .{@{#-ryama#}@}¦ (with {#saMgatam#} expressed or understood) Friendship;
  {#mfgErajaryaM jarasopadizwam#} <ls>R. 18. 7</ls>.
 <LEND>
@@ -8118,7 +8118,7 @@
  or unconsciously.
 <LEND>
 
-<L>467<pc>0034-1<k1>ajYAna.ABC<k2>ajYAna.ABC<e>1
+<L>467.XYZ<pc>0034-1<k1>ajYAna.ABC<k2>ajYAna.ABC<e>1
 {#ajYAna#} + .{@{#-parIkzA#}@}¦ See {#ajYAtavastuSAstra#}.
 <LEND>
 
@@ -8446,7 +8446,7 @@
 ∙²2 {#aYjalyAkAramuKa#} (mouse-mouthed) arrow {#BallEraYjalikErapi#} <ls>Rām. 6. 45. 23</ls>.
 <LEND>
 
-<L>488<pc>0035-2<k1>aYjalikA.ABC<k2>aYjalikA.ABC<e>1
+<L>488.XYZ<pc>0035-2<k1>aYjalikA.ABC<k2>aYjalikA.ABC<e>1
 {#aYjalikA#} + .{@{#-veDa#}@}¦ a fighting stratagem {#jAnannaYjalikAveDaM nApAkrAmata pARqavaH#} <ls>Mb. 7. 26. 23</ls>.
 <LEND>
 
@@ -9791,7 +9791,7 @@
 ∙²3 One who violates Vedic traditions of conduct.
 <LEND>
 
-<L>619<pc>0041-1<k1>aticCandaH.ABC<k2>aticCandaH.ABC<e>1
+<L>619.XYZ<pc>0041-1<k1>aticCandaH.ABC<k2>aticCandaH.ABC<e>1
 {#aticCandaH, -das#} + .{@{#-s#}@}¦ {%<lex>f.</lex> <lex>n.</lex>%}
 ∙²1 <ab>N.</ab> of two classes of metres ({#atikrAntA CandaH vfttAnusArivarRavinyAsaBedam#})
 ∙²2 Fondness, inclination.
@@ -9860,11 +9860,11 @@
  Very sharp, pungent.
 <LEND>
 
-<L>629<pc>0041-2<k1>atitIvra.ABC<k2>atitIvra.ABC<e>1
+<L>629.XYZ<pc>0041-2<k1>atitIvra.ABC<k2>atitIvra.ABC<e>1
 {#atitIvra, -tIkzRa#} + .{@{#-kzRaH#}@}¦ <ab>N.</ab> of the plant {#SoBAYjana#}.
 <LEND>
 
-<L>629<pc>0041-2<k1>atitIvra.ABC<k2>atitIvra.ABC<e>1
+<L>629.XYZ<pc>0041-2<k1>atitIvra.ABC<k2>atitIvra.ABC<e>1
 {#atitIvra, -tIkzRa#} + .{@{#-kzRA#}@}¦ (<lang>Mar.</lang> <ns>{#moharI#}</ns>).
 <LEND>
 
@@ -11142,7 +11142,7 @@
  <ls>Rv. 10. 90. 1</ls> was over and above by 10 Aṅgulas.
 <LEND>
 
-<L>789<pc>0047-2<k1>atizWA.ABC<k2>atizWA.ABC<e>1
+<L>789.XYZ<pc>0047-2<k1>atizWA.ABC<k2>atizWA.ABC<e>1
 {#atizWA#} + .{@{#-zwA#}@}¦ [{#sTA-kvip zatvam#}] Superiority, precedence. {#mEtasminsaMvadizwA#}
  {#atizWAH#} <ls>Bṛ. Up. 2. 1. 2</ls>. ━{%<lex>a.</lex>%} {#˚vat, -van#} Surpassing, standing
  at the head of all.
@@ -13100,7 +13100,7 @@
  {#ajarastfzvavizyannatasezu tizwati#} <ls>Rv. 1. 58. 2</ls>.
 <LEND>
 
-<L>974<pc>0056-2<k1>adman.ABC<k2>adman.ABC<e>1
+<L>974.XYZ<pc>0056-2<k1>adman.ABC<k2>adman.ABC<e>1
 {#adman#} + .{@{#-sad#}@}¦ {%<lex>m.</lex>%} (also {@{#-sadvan#}@}) {%<lex>a.</lex>%}
  companion at a meal; {#admA hi sUno admasadvA#} <ls>Rv. VI. 4. 4</ls>.
 <LEND>
@@ -15601,7 +15601,7 @@
  the burden of cares <ab>&c.</ab>
 <LEND>
 
-<L>1181<pc>0068-2<k1>aDura.ABC<k2>aDura.ABC<e>1
+<L>1181.XYZ<pc>0068-2<k1>aDura.ABC<k2>aDura.ABC<e>1
 {#aDura#} + .{@{#-DUH#}@}¦ [<sab>{#na˚ ta˚#}</sab>] Absence of burden or cares.
 <LEND>
 
@@ -15883,7 +15883,7 @@
  -<ls>Telangʼs Bhagavadgītā</ls>;
 <LEND>
 
-<L>1217<pc>0070-1<k1>aDyAtma.ABC<k2>aDyAtma.ABC<e>1
+<L>1217.XYZ<pc>0070-1<k1>aDyAtma.ABC<k2>aDyAtma.ABC<e>1
 {#aDyAtma#} + .{@{#-tman#}@}¦
 ∙²1 Egotism; {#karmARyaDyAtmanA rudre yadahaM mamatA kriyA#} <ls>Bhāg. 7. 12. 29</ls>.
 ∙²2 Wind; {#sparSamaDyAtmani tvacam#} <ls>Bhāg. 7. 12. 27</ls>. {#˚cetasA#} <ls>Bg. 3. 30</ls>.
@@ -17314,7 +17314,7 @@
 {#anapakAraH#}¦ Harmlessness.
 <LEND>
 
-<L>1315<pc>0076-1<k1>anapakAraH.ABC<k2>anapakAraH.ABC<e>1
+<L>1315.XYZ<pc>0076-1<k1>anapakAraH.ABC<k2>anapakAraH.ABC<e>1
 {#anapakAraH#} + .{@{#-kArin#}@}¦ {%<lex>a.</lex>%} Harmless, innocent.
 <LEND>
 
@@ -17763,7 +17763,7 @@
 ∙²4 Unfortunate.
 <LEND>
 
-<L>1371<pc>0077-2<k1>anarTya.ABC<k2>anarTya,.ABC<e>1
+<L>1371.XYZ<pc>0077-2<k1>anarTya.ABC<k2>anarTya,.ABC<e>1
 {#anarTya, anarTaka#} + .{@{#-kam#}@}¦ Nonsensical or incoherent talk.
 <LEND>
 <L>1371.002<pc>0077-2<k1>anarTaka<k2>anarTaka<e>1
@@ -21129,7 +21129,7 @@
 ∙²2 Unusual; unfit.
 <LEND>
 
-<L>1743<pc>0093-1<k1>anucita.ABC<k2>anucita.ABC<e>1
+<L>1743.XYZ<pc>0093-1<k1>anucita.ABC<k2>anucita.ABC<e>1
 {#anucita#} + .{@{#-arTaH#}@}¦ An unusual meaning.
 <LEND>
 
@@ -21462,7 +21462,7 @@
 {#anuttara#} + .{@{#-rAH#}@}¦ (<ab>pl.</ab>) A class of gods among Jainas ({#˚upapAtika#}).
 <LEND>
 
-<L>1780<pc>0094-2<k1>anuttara.ABC<k2>anuttara.ABC<e>1
+<L>1780.XYZ<pc>0094-2<k1>anuttara.ABC<k2>anuttara.ABC<e>1
 {#anuttara#} + .{@{#-upapAtikadaSAH#}@}¦ {%<lex>f.</lex>%} Title of the ninth aṅga of the Jainas
  treating of those gods.
 <LEND>
@@ -21493,7 +21493,7 @@
 {#anutpattiH#}¦ {%<lex>f.</lex>%} Failure, non-production.
 <LEND>
 
-<L>1784<pc>0094-2<k1>anutpattiH.ABC<k2>anutpattiH.ABC<e>1
+<L>1784.XYZ<pc>0094-2<k1>anutpattiH.ABC<k2>anutpattiH.ABC<e>1
 {#anutpattiH#} + .{@{#-ttika#}@}¦ {%<lex>a.</lex>%} Not yet produced.
 .━{@<ab>Comp.</ab>@}: {#anutpattiDarmakzAntiH, anutpattisamaH, anutpattisamA#}
 <LEND>
@@ -21657,7 +21657,7 @@
 {#anudiS#}¦ €6 <ab>P.</ab> To point out, assign.
 <LEND>
 
-<L>1803<pc>0095-1<k1>anudiS.ABC<k2>anudiS.ABC<e>1
+<L>1803.XYZ<pc>0095-1<k1>anudiS.ABC<k2>anudiS.ABC<e>1
 {#anudiS#} + .{@{#-anudiSam#}@}¦ {%<lex>ind.</lex>%} In every quarter.
 <LEND>
 
@@ -22093,7 +22093,7 @@
 ∙²6 A degree of latitude, opposite to one given.
 <LEND>
 
-<L>1863<pc>0097-1<k1>anupatanam.ABC<k2>anupatanam,.ABC<e>1
+<L>1863.XYZ<pc>0097-1<k1>anupatanam.ABC<k2>anupatanam,.ABC<e>1
 {#anupatanam, -pAtaH#} + .{@{#-tam#}@}¦ {%<lex>ind.</lex>%} (regarded as ending in {%namul%} from {#pat#}) Following
  in succession, going after; {#latAnupAtaM kusumAnyagfhRAt#} <ls>Bk. 2. 11</ls>
  ({#latAM latAmanupAtya#} going to creeper after creeper, or after bending the creepers.)
@@ -22232,7 +22232,7 @@
  best, most excellent.
 <LEND>
 
-<L>1879<pc>0098-1<k1>anupama.ABC<k2>anupama.ABC<e>1
+<L>1879.XYZ<pc>0098-1<k1>anupama.ABC<k2>anupama.ABC<e>1
 {#anupama#} + .{@{#-matiH#}@}¦ <ab>N.</ab> of a contemporary of Śākya muni.
 <LEND>
 
@@ -22536,7 +22536,7 @@
 {#anupUrvya#}¦ {%<lex>a.</lex>%} Regular, orderly, successive.
 <LEND>
 
-<L>1924<pc>0099-1<k1>anupUrvya.ABC<k2>anupUrvya.ABC<e>1
+<L>1924.XYZ<pc>0099-1<k1>anupUrvya.ABC<k2>anupUrvya.ABC<e>1
 {#anupUrvya#} + .{@{#-rvI#}@}¦ = {#AnupUrvI#} <ab>q. v.</ab>
 <LEND>
 
@@ -24059,7 +24059,7 @@
  {#tadanuvAdiguRaH kusumodgamaH#} <ls>R. 9. 33</ls>.
 <LEND>
 
-<L>2094<pc>0107-2<k1>anuvAdaka.ABC<k2>anuvAdaka,.ABC<e>1
+<L>2094.XYZ<pc>0107-2<k1>anuvAdaka.ABC<k2>anuvAdaka,.ABC<e>1
 {#anuvAdaka, -vAdin#} + .{@{#-n#}@}¦ {%<lex>m.</lex>%} <ab>N.</ab> of any one of the three notes of the gamut.
 <LEND>
 <L>2094.002<pc>0107-2<k1>anuvAdin<k2>anuvAdin<e>1
@@ -25314,7 +25314,7 @@
 {#anusPura#}¦ {%<lex>a.</lex>%} <ab>Ved.</ab> Whizzing (as an arrow).
 <LEND>
 
-<L>2248<pc>0114-1<k1>anusPura.ABC<k2>anusPura.ABC<e>1
+<L>2248.XYZ<pc>0114-1<k1>anusPura.ABC<k2>anusPura.ABC<e>1
 {#anusPura#} + .{@{#-sPur#}@}¦ To whiz towards; {#anu yad gAvaH sPurAnfjipyam#} <ls>Rv. 6. 67. 11</ls>.
 <LEND>
 
@@ -25362,7 +25362,7 @@
  always belongs to a preceding vowel; {#anunAsikAtparo'nusvAraH#} <ls>P. VIII. 3. 4</ls>.
 <LEND>
 
-<L>2255<pc>0114-1<k1>anusvAraH.ABC<k2>anusvAraH.ABC<e>1
+<L>2255.XYZ<pc>0114-1<k1>anusvAraH.ABC<k2>anusvAraH.ABC<e>1
 {#anusvAraH#} + .{@{#-vyavAyaH#}@}¦ Separation between two sounds caused by an {#anusvAra#}.
 <LEND>
 
@@ -34790,7 +34790,7 @@
 {#aputraH#}¦ Not a son.
 <LEND>
 
-<L>3010<pc>0157-1<k1>aputraH.ABC<k2>aputraH.ABC<e>1
+<L>3010.XYZ<pc>0157-1<k1>aputraH.ABC<k2>aputraH.ABC<e>1
 {#aputraH#} + .{@{#-putrakaH#}@}¦ {%<lex>a.</lex>%} ({#˚trikA#} {%<lex>f.</lex>%}) Having no son or heir.
 <LEND>
 
@@ -34911,7 +34911,7 @@
 ∙²3 Honeycomb. {#Adityo devamaMDu … antarikzamapUpo#} <ls>Ch. Up. 3. 1. 1</ls>.
 <LEND>
 
-<L>3021<pc>0157-1<k1>apUpaH.ABC<k2>apUpaH.ABC<e>1
+<L>3021.XYZ<pc>0157-1<k1>apUpaH.ABC<k2>apUpaH.ABC<e>1
 {#apUpaH#} + .{@{#-SAlA#}@}¦ a Sweetmeat shop; {#saBAprapApUpaSAlA#} <ls>Ms. 9. 264</ls>.
 <LEND>
 
@@ -34920,7 +34920,7 @@
  [{#apUpAya hitaM, Ca yat ca#}] Belonging to, intended for, {#apUpa#}.
 <LEND>
 
-<L>3022<pc>0157-2<k1>apUpIya.ABC<k2>apUpIya,.ABC<e>1
+<L>3022.XYZ<pc>0157-2<k1>apUpIya.ABC<k2>apUpIya,.ABC<e>1
 {#apUpIya, -apUpya#} + .{@{#-pyam#}@}¦ Flour, meal.
 <LEND>
 <L>3022.002<pc>0157-2<k1>apUpya<k2>apUpya<e>1
@@ -35272,7 +35272,7 @@
  A sort of pot-herb ({#apanadDamudakaM yasyAH, tatPalezUdakavattyAttaTAtvam#}).
 <LEND>
 
-<L>3052<pc>0159-1<k1>apodikA.ABC<k2>apodikA,.ABC<e>1
+<L>3052.XYZ<pc>0159-1<k1>apodikA.ABC<k2>apodikA,.ABC<e>1
 {#apodikA, -kI#} + .{@{#-kI#}@}¦ see {#upodakI#}. Bassella Lucida or Rubra (<lang>Mar.</lang> <ns>{#ToramayALa#}</ns>)
 <LEND>
 <L>3052.002<pc>0159-1<k1>apodikI<k2>apodikI<e>1
@@ -36086,7 +36086,7 @@
 {#apramAda#} + .{@{#-tA#}@}¦ The state of being cautious; {#SOcAkroDApramAdatA#} <ls>Y. 3. 313</ls>.
 <LEND>
 
-<L>3157<pc>0162-2<k1>apramAda.ABC<k2>apramAda.ABC<e>1
+<L>3157.XYZ<pc>0162-2<k1>apramAda.ABC<k2>apramAda.ABC<e>1
 {#apramAda#} + .{@{#-din#}@}¦ {%<lex>a.</lex>%} careful; {#tasmE mAM brUhi viprAya niDipAyApramAdine#} <ls>Ms. 2. 115</ls>.
 <LEND>
 
@@ -36439,7 +36439,7 @@
 {#aprAjYa#}¦ {%<lex>a.</lex>%} Ignorant, unlearned.
 <LEND>
 
-<L>3202<pc>0164-1<k1>aprAjYa.ABC<k2>aprAjYa.ABC<e>1
+<L>3202.XYZ<pc>0164-1<k1>aprAjYa.ABC<k2>aprAjYa.ABC<e>1
 {#aprAjYa#} + .{@{#-jYatA#}@}¦ Ignorance; {#duHKaM sumahadApnoti pretyAprAjYatayA naraH#} <ls>Ms. 4. 167</ls>.
 <LEND>
 
@@ -36724,12 +36724,12 @@
 
 <LEND>
 
-<L>3229<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
+<L>3229.XYZ<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
 {#apsu#} + .{@{#-kzit#}@}¦ a god (dwelling within the clouds); {#apsukzito mahinEkAdaSa#}
  {#sTa#} <ls>Rv. 1. 139. 11</ls>.
 <LEND>
 
-<L>3229<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
+<L>3229.XYZ<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
 {#apsu#} + .{@{#-cara#}@}¦ {%<lex>a.</lex>%} aquatic; moving in waters. <ls>P. VI. 3. 1</ls>.
 .{@{#-ja, -jA#}@} {%<lex>a.</lex>%} born in the waters or in the atmosphere; {#yadagne#}
  {#divijA asyapsujA vA sahaskfta#} <ls>Rv. 8. 43. 28</ls>.
@@ -36738,16 +36738,16 @@
 ∙²2 a cane or reed.
 <LEND>
 
-<L>3229<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
+<L>3229.XYZ<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
 {#apsu#} + .{@{#-jit#}@}¦ vanquishing the aerial Asuras.
 <LEND>
 
-<L>3229<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
+<L>3229.XYZ<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
 {#apsu#} + .{@{#-mat#}@}¦ {%<lex>a.</lex>%} possessed of what is in water; not losing oneʼs nature
  in water (as lightning); getting sufficient water.
 <LEND>
 
-<L>3229<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
+<L>3229.XYZ<pc>0165-1<k1>apsu.ABC<k2>apsu.ABC<e>1
 {#apsu#} + .{@{#-yoni#}@}¦ {%<lex>a.</lex>%} born from the waters.
 <LEND>
 
@@ -38165,7 +38165,7 @@
 {#aBigfhIta#}¦ {%<lex>a.</lex>%} Taken hold of.
 <LEND>
 
-<L>3367<pc>0170-2<k1>aBigfhIta.ABC<k2>aBigfhIta.ABC<e>1
+<L>3367.XYZ<pc>0170-2<k1>aBigfhIta.ABC<k2>aBigfhIta.ABC<e>1
 {#aBigfhIta#} + .{@{#-pARi#}@}¦ {%<lex>a.</lex>%} Having the hands joined; <ls>Bhāg.</ls>
 <LEND>
 
@@ -39350,7 +39350,7 @@
 ∙²2 An actor.
 <LEND>
 
-<L>3487<pc>0176-2<k1>aBinetf.ABC<k2>aBinetf.ABC<e>1
+<L>3487.XYZ<pc>0176-2<k1>aBinetf.ABC<k2>aBinetf.ABC<e>1
 {#aBinetf#} + .{@{#-trI#}@}¦ An actress.
 <LEND>
 
@@ -39997,7 +39997,7 @@
 ∙²3 Name of two kings of Kāśmīra; <ls>Rāj. T.</ls>
 <LEND>
 
-<L>3568<pc>0179-2<k1>aBimanyuH.ABC<k2>aBimanyuH.ABC<e>1
+<L>3568.XYZ<pc>0179-2<k1>aBimanyuH.ABC<k2>aBimanyuH.ABC<e>1
 {#aBimanyuH#} + .{@{#-puram#}@}¦ -Name of a town. <ls>Rāj. T.</ls>
 <LEND>
 
@@ -41877,7 +41877,7 @@
 ∙²2 Sunset ‘{#sAyo nASadinAntayoH’ iti viSvaH .#}
 <LEND>
 
-<L>3814<pc>0188-2<k1>aBisAyaH.ABC<k2>aBisAyaH.ABC<e>1
+<L>3814.XYZ<pc>0188-2<k1>aBisAyaH.ABC<k2>aBisAyaH.ABC<e>1
 {#aBisAyaH#} + .{@{#-arkam#}@}¦ ━{%<lex>ind.</lex>%} At Sunset; {#aBisAyArkamAvfttAM CAyAmiva#} <ls>Ki. 11. 51</ls>.
 <LEND>
 
@@ -42334,7 +42334,7 @@
  Not afraid, fearless.
 <LEND>
 
-<L>3869<pc>0190-2<k1>aBIta.ABC<k2>aBIta,.ABC<e>1
+<L>3869.XYZ<pc>0190-2<k1>aBIta.ABC<k2>aBIta,.ABC<e>1
 {#aBIta, -ti#} + .{@{#-tiH#}@}¦ {%<lex>f.</lex>%}
 ∙²1 Fearlessness.
 ∙²2 Approach, attack, assault; {#viSvA aBItIrapaso yuyoDi#} <ls>Rv. 2. 33. 3</ls>.
@@ -42386,7 +42386,7 @@
 {#aBImodaH#}¦ Joy, delight.
 <LEND>
 
-<L>3876<pc>0190-2<k1>aBImodaH.ABC<k2>aBImodaH.ABC<e>1
+<L>3876.XYZ<pc>0190-2<k1>aBImodaH.ABC<k2>aBImodaH.ABC<e>1
 {#aBImodaH#} + .{@{#-mud#}@}¦ <ab>Ved.</ab> great joy, or {%<lex>a.</lex>%} excessively delighted.
 <LEND>
 
@@ -43184,7 +43184,7 @@
  <ls>V. 2</ls>; <ls>Ratn. 2</ls>.
 <LEND>
 
-<L>3973<pc>0194-1<k1>aByavahAraH.ABC<k2>aByavahAraH.ABC<e>1
+<L>3973.XYZ<pc>0194-1<k1>aByavahAraH.ABC<k2>aByavahAraH.ABC<e>1
 {#aByavahAraH#} + .{@{#-maRqapaH#}@}¦ A dining hall.
 <LEND>
 
@@ -44448,7 +44448,7 @@
 ∙²4 Want, poverty. {%<lex>a.</lex>%} poor, indigent; {#anApirajYA asajAtyAmatiH#} <ls>Rv. 10. 39. 6</ls>.
 <LEND>
 
-<L>4118<pc>0199-2<k1>amatiH.ABC<k2>amatiH.ABC<e>1
+<L>4118.XYZ<pc>0199-2<k1>amatiH.ABC<k2>amatiH.ABC<e>1
 {#amatiH#} + .{@{#-amatIvan#}@}¦ {%<lex>a.</lex>%} <ab>Ved.</ab>
 ∙²1 Evil-minded, wicked ({#duzwa, apraSastabudDimat#} <ls>Sāy.</ls>).
 ∙²2 Poor, indigent; {#na me stotAmatIvA na durhitaH syAdagne na pApayA#} <ls>Rv. 8. 19. 26</ls>.
@@ -45267,7 +45267,7 @@
  {#sumahAtmanaH#} <ls>Rām. 1. 7. 1</ls>; {#amAtyAH sarva evEte kAryAH syurna tu mantriRaH#} <ls>Kau. A. 1. 8</ls>.
 <LEND>
 
-<L>4171<pc>0202-1<k1>amAtyaH.ABC<k2>amAtyaH.ABC<e>1
+<L>4171.XYZ<pc>0202-1<k1>amAtyaH.ABC<k2>amAtyaH.ABC<e>1
 {#amAtyaH#} + .{@{#-amAtyikA#}@}¦ {%<lex>f.</lex>%} <ls>Mbh.</ls> on <ls>P. VII. 3. 1</ls>.
 .━{@<ab>Comp.</ab>@}: {#amAtyotpattiH#}
 <LEND>
@@ -47079,7 +47079,7 @@
 {#ambujinI#}¦ The lotus-creeper.
 <LEND>
 
-<L>4276<pc>0208-1<k1>ambujinI.ABC<k2>ambujinI.ABC<e>1
+<L>4276.XYZ<pc>0208-1<k1>ambujinI.ABC<k2>ambujinI.ABC<e>1
 {#ambujinI#} + .{@{#-kuwumbin#}@}¦ {%<lex>m.</lex>%} The sun, <ls>Śāhendra. 1. 40</ls>.
 <LEND>
 
@@ -48229,7 +48229,7 @@
 {#ayAs#}¦ {%<lex>a.</lex>%} [<ab>fr.</ab> {#i#} ‘to go’ <ls>Nir.</ls>] <ab>Ved.</ab> Agile, nimble.
 <LEND>
 
-<L>4343<pc>0211-2<k1>ayAs.ABC<k2>ayAs.ABC<e>1
+<L>4343.XYZ<pc>0211-2<k1>ayAs.ABC<k2>ayAs.ABC<e>1
 {#ayAs#} + .{@{#-yAH#}@}¦ {%<lex>ind.</lex>%} [{#i-AsiH#} <ls>Uṇ. 4. 221</ls>] Fire.
 <LEND>
 
@@ -50823,7 +50823,7 @@
  {#ca daDi sarpiH sataRqulam . yavaH sidDArTakaScEva azwANgo'rGaH prakIrtitaH ..#})
 <LEND>
 
-<L>4526<pc>0221-1<k1>arGaH.ABC<k2>arGaH.ABC<e>1
+<L>4526.XYZ<pc>0221-1<k1>arGaH.ABC<k2>arGaH.ABC<e>1
 {#arGaH#} + .{@{#-tantram#}@}¦ <ab>cf.</ab> also {#raktabilvAkzatEH puzpErdaDidUrvANkuSEstilEH .#}
  {#sAmAnyaH sarvadevAnAmarGo'yaM parikIrtitaH .. -devIpurARam#} and {#ApaH#}
  {#kzIraM kuSAgrARi GftaM maDu taTA daDi . raktAni karavIrARi taTA raktaM#}
@@ -52128,7 +52128,7 @@
 ∙²3 That is to say, namely.
 <LEND>
 
-<L>4569<pc>0227-1<k1>arTAt.ABC<k2>arTAt.ABC<e>1
+<L>4569.XYZ<pc>0227-1<k1>arTAt.ABC<k2>arTAt.ABC<e>1
 {#arTAt#} + .{@{#-kftam#}@}¦ Performed through the force of implication or as a matter
  of course; {#na cArTAtkftaM codakaH prApayati#} <ls>ŚB. on MS. 5. 2. 8</ls>.
 <LEND>
@@ -52972,7 +52972,7 @@
 ∙²10 <ab>N.</ab> of a hell.
 <LEND>
 
-<L>4594<pc>0230-1<k1>arbudaH.ABC<k2>arbu(rba)daH, -dam.ABC<e>1
+<L>4594.XYZ<pc>0230-1<k1>arbudaH.ABC<k2>arbu(rba)daH, -dam.ABC<e>1
 {#arbu(rba)daH, -dam#} + .{@{#-AkAraH#}@}¦ <ab>N.</ab> of the plant Cordia myxa (<lang>Mar.</lang> <ns>{#goMdaRI, BoMkara#}</ns>).
 <LEND>
 <L>4594.002<pc>0230-1<k1>arbadaH<k2>arbadaH<e>1
@@ -53153,7 +53153,7 @@
 ∙²5 A short span ({#gokarRaparimARa#}).
 <LEND>
 
-<L>4611<pc>0230-2<k1>arvan.ABC<k2>arvan.ABC<e>1
+<L>4611.XYZ<pc>0230-2<k1>arvan.ABC<k2>arvan.ABC<e>1
 {#arvan#} + .{@{#-tI#}@}¦
 ∙²1 A mare.
 ∙²2 A bawd, procuress.
@@ -53439,7 +53439,7 @@
  {#yaTAsTitArTavAdI ca devo'rhan parameSvaraH ..#}; see the word {#jEna#} also.
 <LEND>
 
-<L>4630<pc>0232-1<k1>arhat.ABC<k2>arhat.ABC<e>1
+<L>4630.XYZ<pc>0232-1<k1>arhat.ABC<k2>arhat.ABC<e>1
 {#arhat#} + .{@{#-ttama#}@}¦ {%<lex>a.</lex>%} most worthy or venerable; {#arhattamAya viprAya#}
  {#tasmE dattaM mahAPalam#} <ls>Ms. 3. 128</ls>.
 <LEND>
@@ -55943,7 +55943,7 @@
  Proclaiming, denouncing.
 <LEND>
 
-<L>4881<pc>0242-1<k1>avaGozaH.ABC<k2>avaGozaH,.ABC<e>1
+<L>4881.XYZ<pc>0242-1<k1>avaGozaH.ABC<k2>avaGozaH,.ABC<e>1
 {#avaGozaH, -zaRam#} + .{@{#-RA#}@}¦ A proclamation.
 <LEND>
 <L>4881.002<pc>0242-1<k1>avaGozaRam<k2>avaGozaRam<e>1
@@ -56583,7 +56583,7 @@
 ∙²9 An extract, a quotation.
 <LEND>
 
-<L>4965<pc>0245-1<k1>avataraRam.ABC<k2>avataraRam.ABC<e>1
+<L>4965.XYZ<pc>0245-1<k1>avataraRam.ABC<k2>avataraRam.ABC<e>1
 {#avataraRam#} + .{@{#-maNgalam#}@}¦ A solemn reception.
 <LEND>
 
@@ -58474,7 +58474,7 @@
 ∙²3 Gaining.
 <LEND>
 
-<L>5186<pc>0253-2<k1>avarudDiH.ABC<k2>avarudDiH.ABC<e>1
+<L>5186.XYZ<pc>0253-2<k1>avarudDiH.ABC<k2>avarudDiH.ABC<e>1
 {#avarudDiH#} + .{@{#-kA#}@}¦ {%<lex>f.</lex>%} A woman secluded in the inner apartments; <ls>Rāj. T.</ls>
 <LEND>
 
@@ -60520,7 +60520,7 @@
 ∙²4 Unattacked, unconquered (<ab>Ved.</ab>).
 <LEND>
 
-<L>5433<pc>0263-1<k1>avAta.ABC<k2>avAta.ABC<e>1
+<L>5433.XYZ<pc>0263-1<k1>avAta.ABC<k2>avAta.ABC<e>1
 {#avAta#} + .{@{#-tama#}@}¦ The windless atmosphere; {#AnIdavAtaM svaDayA tadekam#} <ls>Rv. 10. 129. 2</ls>.
 <LEND>
 
@@ -61524,12 +61524,12 @@
  inexperienced, of undeveloped understanding.
 <LEND>
 
-<L>5559<pc>0266-2<k1>avipakva.ABC<k2>avipakva.ABC<e>1
+<L>5559.XYZ<pc>0266-2<k1>avipakva.ABC<k2>avipakva.ABC<e>1
 {#avipakva#} + .{@{#-karaRa#}@}¦ {%<lex>a.</lex>%} Having immature or undeveloped organs; {#taTA'vipakvakaraRa#}
  {#AtmajYAnasya na kzamaH#} <ls>Y. 3. 141</ls>.
 <LEND>
 
-<L>5559<pc>0266-2<k1>avipakva.ABC<k2>avipakva.ABC<e>1
+<L>5559.XYZ<pc>0266-2<k1>avipakva.ABC<k2>avipakva.ABC<e>1
 {#avipakva#} + .{@{#-budDi#}@}¦ {%<lex>a.</lex>%} Having an immature or inexperienced mind.
 <LEND>
 
@@ -61891,7 +61891,7 @@
 ∙²2 Not to be said or spoken.
 <LEND>
 
-<L>5603<pc>0268-1<k1>avivakzita.ABC<k2>avivakzita.ABC<e>1
+<L>5603.XYZ<pc>0268-1<k1>avivakzita.ABC<k2>avivakzita.ABC<e>1
 {#avivakzita#} + .{@{#-vacanatA#}@}¦ The state of mantras of not being meant to convey their meaning.
 <LEND>
 
@@ -61957,7 +61957,7 @@
  {#manasAvivenat#} <ls>Rv. 4. 24. 6</ls>.
 <LEND>
 
-<L>5612<pc>0268-2<k1>avivenat.ABC<k2>avivenat.ABC<e>1
+<L>5612.XYZ<pc>0268-2<k1>avivenat.ABC<k2>avivenat.ABC<e>1
 {#avivenat#} + .{@{#-nam#}@}¦ {%<lex>ind.</lex>%} Not disaffectedly, favourably.
 <LEND>
 
@@ -62235,7 +62235,7 @@
  {#jalamiva sTalamaSmapfzWamavaBAsate#} <ls>Bhāg.</ls>)
 <LEND>
 
-<L>5652<pc>0269-2<k1>avIci.ABC<k2>avIci.ABC<e>1
+<L>5652.XYZ<pc>0269-2<k1>avIci.ABC<k2>avIci.ABC<e>1
 {#avIci#} + .{@{#-saMSozaRaH#}@}¦ A particular Samādhi.
 <LEND>
 
@@ -65586,7 +65586,7 @@
  of horses; <ls>Rv. 4. 2. 5</ls> ━{%<lex>m.</lex>%} A cavalier, a horse-tamer.
 <LEND>
 
-<L>5908<pc>0281-2<k1>aSvin.ABC<k2>aSvin.ABC<e>1
+<L>5908.XYZ<pc>0281-2<k1>aSvin.ABC<k2>aSvin.ABC<e>1
 {#aSvin#} + .{@{#-nO#}@}¦ (<ab>du.</ab>)
 ∙²1 The two physicians of the gods who are represented as the twin sons
  of the Sun by a nymph in the form of a mare; <ab>cf.</ab> {#tvAzwrI tu saviturBAryA#}
@@ -66537,7 +66537,7 @@
 ∙²2 A part of the wheel of a chariot.
 <LEND>
 
-<L>5939<pc>0285-1<k1>azwrA.ABC<k2>azwrA.ABC<e>1
+<L>5939.XYZ<pc>0285-1<k1>azwrA.ABC<k2>azwrA.ABC<e>1
 {#azwrA#} + .{@{#-vin#}@}¦ {%<lex>a.</lex>%} obeying the goad (as a bull); {#SunamazwrAvyacarat#}
  {#kapadIM#} <ls>Rv. 10. 102. 8</ls>.
 <LEND>
@@ -67225,7 +67225,7 @@
 ∙²2 {%Puruṣa%} or soul (in <ab>Sāṅ. Phil.</ab>)
 <LEND>
 
-<L>6005<pc>0288-2<k1>asaMga.ABC<k2>asaMga.ABC<e>1
+<L>6005.XYZ<pc>0288-2<k1>asaMga.ABC<k2>asaMga.ABC<e>1
 {#asaMga#} + .{@{#-cArin#}@}¦ {%<lex>a.</lex>%} moving without obstacle. <ls>Rām. 5</ls>. {#˚vat#} {%<lex>a.</lex>%}
  not attached to. <ls>Rām. 3</ls>
 <LEND>
@@ -67971,7 +67971,7 @@
  {#yAvajjIvamahaM mOnI#} when uttered by some one; see {#abadDa#} also.
 <LEND>
 
-<L>6073<pc>0291-1<k1>asaMbadDa.ABC<k2>asaMbadDa.ABC<e>1
+<L>6073.XYZ<pc>0291-1<k1>asaMbadDa.ABC<k2>asaMbadDa.ABC<e>1
 {#asaMbadDa#} + .{@{#-arTavyavaDAna#}@}¦ {%<lex>a.</lex>%} Having the interception of an irrelevant
  matter; {#tasmAnnAsambadDArTavyavaDAnEkavAkyatA Bavati .#} <ls>ŚB. on MS. 3. 1. 21</ls>.
 <LEND>
@@ -68055,7 +68055,7 @@
 ∙²2 Inconceivable, incomprehensible.
 <LEND>
 
-<L>6081<pc>0291-2<k1>asaMBAvanIya.ABC<k2>asaMBAvanIya,.ABC<e>1
+<L>6081.XYZ<pc>0291-2<k1>asaMBAvanIya.ABC<k2>asaMBAvanIya,.ABC<e>1
 {#asaMBAvanIya, -asaMBAvya#} + .{@{#-vyam#}@}¦ = {#asaMBavyam#} <ab>q. v.</ab>
 <LEND>
 <L>6081.002<pc>0291-2<k1>asaMBAvya<k2>asaMBAvya<e>1
@@ -68066,7 +68066,7 @@
 {#asaMBAvita#}¦ {%<lex>a.</lex>%} Unworthy of.
 <LEND>
 
-<L>6082<pc>0291-2<k1>asaMBAvita.ABC<k2>asaMBAvita.ABC<e>1
+<L>6082.XYZ<pc>0291-2<k1>asaMBAvita.ABC<k2>asaMBAvita.ABC<e>1
 {#asaMBAvita#} + .{@{#-upamA#}@}¦ A simile that implies impossibility.
 <LEND>
 
@@ -68383,7 +68383,7 @@
  {#sAsnAdimati asADuH#} <ls>Bhartṛ. Mbh. Dīpikā</ls>
 <LEND>
 
-<L>6120<pc>0292-2<k1>asADu.ABC<k2>asADu.ABC<e>1
+<L>6120.XYZ<pc>0292-2<k1>asADu.ABC<k2>asADu.ABC<e>1
 {#asADu#} + .{@{#-DvI#}@}¦ An unchaste woman.
 .{@{#˚tA, -tvam#}@} Wickedness.
 .━{@<ab>Comp.</ab>@}: {#asADuvfttA#}
@@ -69751,7 +69751,7 @@
 {#asTan#}¦ {%<lex>n.</lex>%} (the base used in some of the cases of {#asTiM#}; after <ab>acc.</ab>) A bone.
 <LEND>
 
-<L>6217<pc>0297-2<k1>asTan.ABC<k2>asTan.ABC<e>1
+<L>6217.XYZ<pc>0297-2<k1>asTan.ABC<k2>asTan.ABC<e>1
 {#asTan#} + .{@{#-vat#}@}¦ {%<lex>a.</lex>%}
 ∙²1 Having bones, bony; {#asTanvantaM yadanasTA biBarti#} <ls>Rv. 1. 164. 4</ls>.
 ∙²2 Vertebrated (animal).
@@ -70954,7 +70954,7 @@
  <ls>Ku. 5. 8</ls>. {#˚vikrama#} {%<lex>a.</lex>%} <ls>Bhāg. 3. 18. 21</ls>.
 <LEND>
 
-<L>6303<pc>0301-1<k1>aharaRIya.ABC<k2>aharaRIya,.ABC<e>1
+<L>6303.XYZ<pc>0301-1<k1>aharaRIya.ABC<k2>aharaRIya,.ABC<e>1
 {#aharaRIya, -ahArya#} + .{@{#-ryaH#}@}¦ A mountain; {@{#˚tA, -tvam#}@} not being liable to be taken
  away, security; {#sarvadravyezu vidyEva dravyamAhuranuttamam . ahAryatvAt …#} <ls>H. Pr. 4</ls>.
 <LEND>
@@ -71679,7 +71679,7 @@
  {#pApam#} <ls>Mb. 1. 2. 393</ls>.
 <LEND>
 
-<L>6335<pc>0303-2<k1>ahnaH.ABC<k2>ahnaH.ABC<e>1
+<L>6335.XYZ<pc>0303-2<k1>ahnaH.ABC<k2>ahnaH.ABC<e>1
 {#ahnaH#} + .{@{#-ahnyam#}@}¦ Daily course (of the sun) {#dvAtriMSataM vE devasyAhnyAnyayaM#}
  {#lokaH#} <ls>Bṛ. Up. 3. 3. 2</ls>.
 <LEND>
@@ -74549,7 +74549,7 @@
 ∙²3 Fit for sipping.
 <LEND>
 
-<L>6602<pc>0316-2<k1>AcAnta.ABC<k2>AcAnta.ABC<e>1
+<L>6602.XYZ<pc>0316-2<k1>AcAnta.ABC<k2>AcAnta.ABC<e>1
 {#AcAnta#} + .{@{#-tiH#}@}¦ {%<lex>f.</lex>%} Sipping (water) for purifying the mouth; <ls>B. R.</ls>
 <LEND>
 
@@ -77057,7 +77057,7 @@
  himself and one more; so {@{#˚tftIyaH#}@} himself with two others;
 <LEND>
 
-<L>6784<pc>0325-2<k1>AtmanA.ABC<k2>AtmanA.ABC<e>1
+<L>6784.XYZ<pc>0325-2<k1>AtmanA.ABC<k2>AtmanA.ABC<e>1
 {#AtmanA#} + .{@{#-˚saptamaH#}@}¦ Being oneself the seventh; {#AtmanA saptamo rAjA niryayO#}
  {#gajasAhvayAt#} <ls>Mb. 17. 1. 25</ls>.
 <LEND>
@@ -77231,7 +77231,7 @@
 ∙²2 The black art, magic ({#jAraRamAraRa#}).
 <LEND>
 
-<L>6799<pc>0326-2<k1>ATarvaRa.ABC<k2>ATarvaRa.ABC<e>1
+<L>6799.XYZ<pc>0326-2<k1>ATarvaRa.ABC<k2>ATarvaRa.ABC<e>1
 {#ATarvaRa#} + .{@{#-Siras#}@}¦ {%<lex>n.</lex>%} <ab>N.</ab> of an Upaniṣad belonging to the Atharvaveda.
 <LEND>
 
@@ -79287,7 +79287,7 @@
 ∙²3 (In logic) Conclusion regularly or syllogistically drawn.
 <LEND>
 
-<L>6992<pc>0335-1<k1>AnupUrvam.ABC<k2>AnupUrvam,.ABC<e>1
+<L>6992.XYZ<pc>0335-1<k1>AnupUrvam.ABC<k2>AnupUrvam,.ABC<e>1
 {#AnupUrvam, -rvyam, -rvI#} + .{@{#-vat#}@}¦ Having a (definite) order; {#AnupUrvyavatAmekadeSagrahaRezu#}
  {#AgamavadantyalopaH syAt .#} <ls>Ms. 10. 5. 1</ls>.
 <LEND>
@@ -79585,7 +79585,7 @@
 {#Antaratamyam, Antaryam#} + .{@{#-kaH#}@}¦ The chamberlain
 <LEND>
 
-<L>7028<pc>0336-2<k1>Antaratamyam.ABC<k2>Antaratamyam,.ABC<e>1
+<L>7028.XYZ<pc>0336-2<k1>Antaratamyam.ABC<k2>Antaratamyam,.ABC<e>1
 {#Antaratamyam, Antaryam#} + .{@{#-kam#}@}¦ The office of the above.
 <LEND>
 <L>7028.002<pc>0336-2<k1>Antaryam<k2>Antaryam<e>1
@@ -81401,7 +81401,7 @@
  king. <ls>RT. 8. 426</ls>.
 <LEND>
 
-<L>7237<pc>0344-1<k1>AByantara.ABC<k2>AByantara.ABC<e>1
+<L>7237.XYZ<pc>0344-1<k1>AByantara.ABC<k2>AByantara.ABC<e>1
 {#AByantara#} + .{@{#-rikaH#}@}¦ An officer connected with harem. Rāmgani Copperplate of
  Īśvaraghoṣa (<ls>Inscriptions of Bengal, p. 149</ls>).
 <LEND>
@@ -82294,13 +82294,13 @@
 {#AmlaH, -mlA#} + .{@{#-mlam#}@}¦ Sourness, acidity.
 <LEND>
 
-<L>7332<pc>0347-2<k1>AmlaH.ABC<k2>AmlaH,.ABC<e>1
+<L>7332.XYZ<pc>0347-2<k1>AmlaH.ABC<k2>AmlaH,.ABC<e>1
 {#AmlaH, -mlA#} + .{@{#-paYcakam#}@}¦ The aggregate of the five following Ziziphus Jujuba
  (<lang>Mar.</lang> <ns>{#bora#}</ns>), Pomegranate (<lang>Mar.</lang> <ns>{#qALiMba#}</ns>), Mangosteen (<lang>Mar.</lang> <ns>{#kokaMba#}</ns>),
  Tamarind (<lang>Mar.</lang> <ns>{#ciMca#}</ns>), Averrhoa Carambola (<lang>Mar.</lang> <ns>{#karamara#}</ns>).
 <LEND>
 
-<L>7332<pc>0347-2<k1>AmlaH.ABC<k2>AmlaH,.ABC<e>1
+<L>7332.XYZ<pc>0347-2<k1>AmlaH.ABC<k2>AmlaH,.ABC<e>1
 {#AmlaH, -mlA#} + .{@{#-vetasaH#}@}¦ <ab>N.</ab> of the plant Rumex Vesicarius (<lang>Mar.</lang> <ns>{#cukA#}</ns>).
 <LEND>
 <L>7332.002<pc>0347-2<k1>AmlA<k2>AmlA<e>1
@@ -83186,7 +83186,7 @@
 ∙²2 A precipice; {#yABirantakaM jasamAnamAraRe#} <ls>Rv. 1. 112. 6</ls>.
 <LEND>
 
-<L>7411<pc>0351-1<k1>AraRam.ABC<k2>AraRam.ABC<e>1
+<L>7411.XYZ<pc>0351-1<k1>AraRam.ABC<k2>AraRam.ABC<e>1
 {#AraRam#} + .{@{#-jAH#}@}¦ <ab>N.</ab> of a class of Jaina deities.
 <LEND>
 
@@ -86587,7 +86587,7 @@
 ∙²3 Voracious, gluttonous.
 <LEND>
 
-<L>7769<pc>0365-2<k1>ASita.ABC<k2>ASita.ABC<e>1
+<L>7769.XYZ<pc>0365-2<k1>ASita.ABC<k2>ASita.ABC<e>1
 {#ASita#} + .{@{#-tama#}@}¦
 ∙²1 Eating.
 ∙²2 Giving food (in charity); <ls>Bṛ. Up. 4. 1. 2</ls>.
@@ -87188,7 +87188,7 @@
  {#daSAhaM SAvamASOcaM sapiRqezu viDIyate#} <ls>Ms. 5. 59</ls>, <ls n="Ms. 5.">61</ls>, <ls n="Ms. 5.">62</ls>, <ls n="Ms. 5.">74</ls>, <ls n="Ms. 5.">80</ls>; <ls>Y. 3. 18</ls>.
 <LEND>
 
-<L>7821<pc>0367-2<k1>ASOcam.ABC<k2>ASOcam.ABC<e>1
+<L>7821.XYZ<pc>0367-2<k1>ASOcam.ABC<k2>ASOcam.ABC<e>1
 {#ASOcam#} + .{@{#-nirRayaH#}@}¦ <ab>N.</ab> of a work.
 <LEND>
 
@@ -87773,7 +87773,7 @@
 {#ASvina#} + .{@{#-nam#}@}¦ A dayʼs journey for a horse or rider (<ab>Ved.</ab>).
 <LEND>
 
-<L>7863<pc>0370-1<k1>ASvina.ABC<k2>ASvina.ABC<e>1
+<L>7863.XYZ<pc>0370-1<k1>ASvina.ABC<k2>ASvina.ABC<e>1
 {#ASvina#} + .{@{#-cihnitam#}@}¦ The autumnal equinox.
 <LEND>
 
@@ -87801,7 +87801,7 @@
  the Āśvalāyana Sūtras; {#kOsalyaScASvalAyanaH#} <ls>Praśna. Up. 1. 1</ls>.
 <LEND>
 
-<L>7867<pc>0370-1<k1>ASvalAyanaH.ABC<k2>ASvalAyanaH.ABC<e>1
+<L>7867.XYZ<pc>0370-1<k1>ASvalAyanaH.ABC<k2>ASvalAyanaH.ABC<e>1
 {#ASvalAyanaH#} + .{@{#-SAKA#}@}¦ The school of {#ASvalAyana#}.
 <LEND>
 
@@ -88533,7 +88533,7 @@
 {#AsuriH#}¦ A pupil of Kapila. {#munirAsuraye'nukampayA pradadO#} <ls>Sāṅ. K. 70</ls>.
 <LEND>
 
-<L>7938<pc>0373-2<k1>AsuriH.ABC<k2>AsuriH.ABC<e>1
+<L>7938.XYZ<pc>0373-2<k1>AsuriH.ABC<k2>AsuriH.ABC<e>1
 {#AsuriH#} + .{@{#-kalpaH#}@}¦ <ab>N.</ab> of a Kalpa.
 <LEND>
 
@@ -89123,7 +89123,7 @@
 {#Asru#}¦ {%<lex>a.</lex>%} Flowing or streaming in abundance.
 <LEND>
 
-<L>8000<pc>0376-1<k1>Asru.ABC<k2>Asru.ABC<e>1
+<L>8000.XYZ<pc>0376-1<k1>Asru.ABC<k2>Asru.ABC<e>1
 {#Asru#} + .{@{#-payas#}@}¦ {%<lex>a.</lex>%} One whose milk is streaming in abundance. (as a
  cow); {#agAdDuNkftErAsrupayA javena#} <ls>Bhāg. 10. 13. 30</ls>.
 <LEND>
@@ -89597,7 +89597,7 @@
 ∙²4 The ornamentative part of the drama, such as dress, decorations <ab>&c.</ab>
 <LEND>
 
-<L>8045<pc>0378-1<k1>AhArya.ABC<k2>AhArya.ABC<e>1
+<L>8045.XYZ<pc>0378-1<k1>AhArya.ABC<k2>AhArya.ABC<e>1
 {#AhArya#} + .{@{#-SoBA#}@}¦ Adventitious beauty (not natural).
 <LEND>
 
@@ -89655,7 +89655,7 @@
 {#Ahna#} + .{@{#-hnam#}@}¦ [{#ahnAM samUhaH aY#}] A series of days, many days.
 <LEND>
 
-<L>8049<pc>0378-1<k1>Ahna.ABC<k2>Ahna.ABC<e>1
+<L>8049.XYZ<pc>0378-1<k1>Ahna.ABC<k2>Ahna.ABC<e>1
 {#Ahna#} + .{@{#-AhnInEbukam#}@}¦ Some religious act performed by the Southerners ({%<ab>i. e.</ab>%}
  those that hail from South India). {#ye'pi SyAmA bfhanto lohitAkzAste'pi#}
  {#na sarve AhnInEbukAdIn kurvate#} <ls>ŚB. on MS. 1. 3. 18</ls>; {#ye dAkziRAtyA#}
@@ -89752,7 +89752,7 @@
 ∙²2 Challenge, provoking, calling; {#˚kAmyA#} desire of fighting.
 <LEND>
 
-<L>8061<pc>0378-2<k1>AhavaH.ABC<k2>AhavaH.ABC<e>1
+<L>8061.XYZ<pc>0378-2<k1>AhavaH.ABC<k2>AhavaH.ABC<e>1
 {#AhavaH#} + .{@{#-BUmiH#}@}¦ {%<lex>f.</lex>%} Battle-field.
 <LEND>
 
@@ -93378,7 +93378,7 @@
 ∙²4 Regarding, looking after, caring for.
 <LEND>
 
-<L>8292<pc>0392-1<k1>IkzaRam.ABC<k2>IkzaRam.ABC<e>1
+<L>8292.XYZ<pc>0392-1<k1>IkzaRam.ABC<k2>IkzaRam.ABC<e>1
 {#IkzaRam#} + .{@{#-Sravas#}@}¦ {%<lex>m.</lex>%} A serpent; {#ezA no nEzWikI budDiH sarvezAmIkzaRaSravaH#} <ls>Mb. 1. 37. 29</ls>.
 <LEND>
 
@@ -93523,7 +93523,7 @@
  endowed with such qualities.
 <LEND>
 
-<L>8312<pc>0392-2<k1>Idfkza.ABC<k2>Idfkza.ABC<e>1
+<L>8312.XYZ<pc>0392-2<k1>Idfkza.ABC<k2>Idfkza.ABC<e>1
 {#Idfkza, -Sa#} + .{@{#-k#}@}¦ {%<lex>n.</lex>%} Such a condition; such occasion; {#laBante yudDamIdfSam#}
  <ls>Bg. 2. 32</ls>, <ls n="Bg.">6. 42</ls>, <ls n="Bg.">11. 49</ls>.
 <LEND>
@@ -93558,7 +93558,7 @@
 {#Ipsita#} + .{@{#-tam#}@}¦ Desire, wish.
 <LEND>
 
-<L>8316<pc>0392-2<k1>Ipsita.ABC<k2>Ipsita.ABC<e>1
+<L>8316.XYZ<pc>0392-2<k1>Ipsita.ABC<k2>Ipsita.ABC<e>1
 {#Ipsita#} + .{@{#-Palam#}@}¦ A kind of sweet Cocoanut (<lang>Mar.</lang> <ns>{#mohAcA nAraLa#}</ns>).
 <LEND>
 
@@ -94175,7 +94175,7 @@
 ∙²2 A part of a chariot.
 <LEND>
 
-<L>8356<pc>0394-2<k1>IzA.ABC<k2>IzA.ABC<e>1
+<L>8356.XYZ<pc>0394-2<k1>IzA.ABC<k2>IzA.ABC<e>1
 {#IzA#} + .{@{#-ze#}@}¦ (<ab>du.</ab>) The double or fork-shaped pole.
 .━{@<ab>Comp.</ab>@}: {#IzAdaRqaH, IzAdanta#}
 <LEND>
@@ -94815,7 +94815,7 @@
  <ls>Rām. 2. 19. 37</ls>.
 <LEND>
 
-<L>8396<pc>0397-1<k1>ucita.ABC<k2>ucita.ABC<e>1
+<L>8396.XYZ<pc>0397-1<k1>ucita.ABC<k2>ucita.ABC<e>1
 {#ucita#} + .{@{#-jYa#}@}¦ {%<lex>n.</lex>%} Knowing what is becoming, proper or convenient.
 <LEND>
 
@@ -96104,7 +96104,7 @@
 {#uqUpaH#}¦ = {#uqupaH#} <ab>q. v.</ab>
 <LEND>
 
-<L>8528<pc>0402-1<k1>uqUpaH.ABC<k2>uqUpaH.ABC<e>1
+<L>8528.XYZ<pc>0402-1<k1>uqUpaH.ABC<k2>uqUpaH.ABC<e>1
 {#uqUpaH#} + .{@{#-priyA#}@}¦ A lotus-creeper.
 <LEND>
 
@@ -96114,7 +96114,7 @@
 ∙²2 Formidable, terrific; {#uqqAmaravyastavistAridoHKaRqaparyAsitakzmADaram#} <ls>Māl. 2. 23</ls>.
 <LEND>
 
-<L>8529<pc>0402-1<k1>uqqAmara.ABC<k2>uqqAmara.ABC<e>1
+<L>8529.XYZ<pc>0402-1<k1>uqqAmara.ABC<k2>uqqAmara.ABC<e>1
 {#uqqAmara#} + .{@{#-tantra#}@}¦ <ab>N.</ab> of a Tantra.
 <LEND>
 
@@ -98100,7 +98100,7 @@
 ∙²3 Bouncing; <ls>Dk. 1</ls>.
 <LEND>
 
-<L>8687<pc>0409-2<k1>uttaraNga.ABC<k2>uttaraNga.ABC<e>1
+<L>8687.XYZ<pc>0409-2<k1>uttaraNga.ABC<k2>uttaraNga.ABC<e>1
 {#uttaraNga#} + .{@{#-raH#}@}¦ A high wave. <ls>Ks. 123. 196</ls>.
 <LEND>
 
@@ -99176,7 +99176,7 @@
 ∙²5 An ironical comparison.
 <LEND>
 
-<L>8792<pc>0414-1<k1>utprekzA.ABC<k2>utprekzA.ABC<e>1
+<L>8792.XYZ<pc>0414-1<k1>utprekzA.ABC<k2>utprekzA.ABC<e>1
 {#utprekzA#} + .{@{#-avayavaH#}@}¦ A kind of simile
 .━{@<ab>Comp.</ab>@}: {#utprekzAvallaBaH#}
 <LEND>
@@ -101773,7 +101773,7 @@
  <ls>R. 13. 47</ls>; <ls>Mk. 5. 27</ls>.
 <LEND>
 
-<L>9001<pc>0425-1<k1>udgArin.ABC<k2>udgArin.ABC<e>1
+<L>9001.XYZ<pc>0425-1<k1>udgArin.ABC<k2>udgArin.ABC<e>1
 {#udgArin#} + .{@{#-riH#}@}¦ ({%<lex>m.</lex>%}) The 57th year of the Jupiter cycle; {#udgArisaMjYaM#}
  {#tadanu kzayAya nareSvarARAM vizamA ca vfzwiH#} <ls>Bṛ. S. 8. 50</ls>.
 <LEND>
@@ -102898,7 +102898,7 @@
 ∙²2 Hanging oneself.
 <LEND>
 
-<L>9124<pc>0430-1<k1>udbanDa.ABC<k2>udbanDa.ABC<e>1
+<L>9124.XYZ<pc>0430-1<k1>udbanDa.ABC<k2>udbanDa.ABC<e>1
 {#udbanDa#} + .{@{#-nDanI#}@}¦ A hook, or a hanging rope; {#ajYAnAdupasaMpannA rajjurudbanDanI#}
  {#yaTA#} <ls>Rām. 2. 12. 80</ls>.
 <LEND>
@@ -103817,7 +103817,7 @@
 ∙²2 Alarmed, frightened; <ls>U. 4</ls>.
 <LEND>
 
-<L>9231<pc>0434-1<k1>udvigna.ABC<k2>udvigna.ABC<e>1
+<L>9231.XYZ<pc>0434-1<k1>udvigna.ABC<k2>udvigna.ABC<e>1
 {#udvigna#} + .{@{#-dfS#}@}¦ {%<lex>f.</lex>%}
  {@{#-locanam#}@} A frightened glance.
 <LEND>
@@ -106288,7 +106288,7 @@
 ∙²1 Produced, caused; {#˚kopa, ˚kroDa#} excited, moved to anger.
 <LEND>
 
-<L>9510<pc>0445-2<k1>upajAta.ABC<k2>upajAta.ABC<e>1
+<L>9510.XYZ<pc>0445-2<k1>upajAta.ABC<k2>upajAta.ABC<e>1
 {#upajAta#} + .{@{#-˚Keda#}@}¦ Suffering from exhaustion, faint, feeble; {#˚viSvAsa#}
  confiding, believing, trusting.
 ∙²2 Happened, taken place; <ls>U. 4</ls>.
@@ -106646,7 +106646,7 @@
 ∙³({%b%}) <ab>N.</ab> of another plant ({#samazWila#}).
 <LEND>
 
-<L>9557<pc>0447-1<k1>upadaMSaH.ABC<k2>upadaMSaH.ABC<e>1
+<L>9557.XYZ<pc>0447-1<k1>upadaMSaH.ABC<k2>upadaMSaH.ABC<e>1
 {#upadaMSaH#} + .{@{#-nam#}@}¦ Context; {#CAgopakaraRamasyopadaMSitaM yadupadaMSane paSuSabdacCAgABiprAya#}
  {#iti gamyate .#} <ls>ŚB. on MS. 6. 8. 35</ls>.
 <LEND>
@@ -108147,7 +108147,7 @@
  general; {#grAvARo Dnantu rakzasa upabdEH#} <ls>Rv. 7. 104. 17</ls> (= <ls>Av. 8. 4. 17</ls>).
 <LEND>
 
-<L>9736<pc>0454-2<k1>upabdaH.ABC<k2>upabdaH,.ABC<e>1
+<L>9736.XYZ<pc>0454-2<k1>upabdaH.ABC<k2>upabdaH,.ABC<e>1
 {#upabdaH, -bdi#} + .{@{#-upadbiH#}@}¦ {%<lex>m.</lex>%} A particular venomous animal; {#upabde punarvo#}
  {#yantu#} <ls>Av. 2. 24. 6</ls>.
 <LEND>
@@ -109969,7 +109969,7 @@
 {#upaSaya#} + .{@{#-yA#}@}¦ A prepared piece of clay.
 <LEND>
 
-<L>9950<pc>0462-2<k1>upaSaya.ABC<k2>upaSaya.ABC<e>1
+<L>9950.XYZ<pc>0462-2<k1>upaSaya.ABC<k2>upaSaya.ABC<e>1
 {#upaSaya#} + .{@{#-sTa#}@}¦ {%<lex>a.</lex>%} Lying in ambush (as a hunter); see {#upaSayaH#} (2).
 <LEND>
 
@@ -113759,11 +113759,11 @@
 ∙²2 Fat; {#vanizwusanniDAnAdurUkeRa vapABiDAnam .#} (<ab>v. l.</ab>) <ls>MS. 9. 4. 22</ls>.
 <LEND>
 
-<L>10333<pc>0478-2<k1>ulUkaH.ABC<k2>ulUkaH.ABC<e>1
+<L>10333.XYZ<pc>0478-2<k1>ulUkaH.ABC<k2>ulUkaH.ABC<e>1
 {#ulUkaH#} + .{@{#-jit#}@}¦ A crow.
 <LEND>
 
-<L>10333<pc>0478-2<k1>ulUkaH.ABC<k2>ulUkaH.ABC<e>1
+<L>10333.XYZ<pc>0478-2<k1>ulUkaH.ABC<k2>ulUkaH.ABC<e>1
 {#ulUkaH#} + .{@{#-yAtuH#}@}¦ A demon in the shape of an owl; {#ulUkayAtuM SuSulUkayAtum#}
  <ls>Rv. 7. 104. 22</ls>.
 <LEND>
@@ -119491,7 +119491,7 @@
 ∙²2 Same, identical.
 <LEND>
 
-<L>10634<pc>0498-2<k1>ekaka.ABC<k2>ekaka.ABC<e>1
+<L>10634.XYZ<pc>0498-2<k1>ekaka.ABC<k2>ekaka.ABC<e>1
 {#ekaka#} + .{@{#-Satam#}@}¦ one percent.
 <LEND>
 
@@ -119518,7 +119518,7 @@
  {#patirozaDInAmAvizkfto'ruRapuraHsara ekato'rkaH#} <ls>Ś. 4. 2</ls>.
 <LEND>
 
-<L>10637<pc>0498-2<k1>ekatas.ABC<k2>ekatas.ABC<e>1
+<L>10637.XYZ<pc>0498-2<k1>ekatas.ABC<k2>ekatas.ABC<e>1
 {#ekatas#} + .{@{#-dat#}@}¦ ({#ekatodat#}) Having teeth in only one jaw; <ls>Ms. 5. 18</ls>.
 <LEND>
 
@@ -121636,7 +121636,7 @@
 ∙²3 A kind person.
 <LEND>
 
-<L>10869<pc>0507-1<k1>oman.ABC<k2>oman.ABC<e>1
+<L>10869.XYZ<pc>0507-1<k1>oman.ABC<k2>oman.ABC<e>1
 {#oman#} + .{@{#-nA#}@}¦ A friend, helper, protector; {#pari GraMsamomanA vAM vayo#}
  {#gAt#} <ls>Rv. 7. 69. 4</ls>.
 <LEND>
@@ -122665,7 +122665,7 @@
 {#Oparizwa#}¦ {%<lex>a.</lex>%} ({#-zwI#} {%<lex>f.</lex>%}) [{#uparizwa-aR#}] Being or produced above.
 <LEND>
 
-<L>11001<pc>0511-1<k1>Oparizwa.ABC<k2>Oparizwa.ABC<e>1
+<L>11001.XYZ<pc>0511-1<k1>Oparizwa.ABC<k2>Oparizwa.ABC<e>1
 {#Oparizwa#} + .{@{#-kam#}@}¦ A kind of coitus; <ls>Vātsy.</ls>
 <LEND>
 
@@ -123064,18 +123064,18 @@
  by him; {#pitAmahAdvaraM leBe sarvamOSanasaM Danam#} <ls>Rām. 4. 51. 13</ls>.
 <LEND>
 
-<L>11058<pc>0513-1<k1>OSana.ABC<k2>OSana,.ABC<e>1
+<L>11058.XYZ<pc>0513-1<k1>OSana.ABC<k2>OSana,.ABC<e>1
 {#OSana, OSanasa#} + .{@{#-sam#}@}¦
 ∙²1 The law-book of {#uSanas#} (a treatise on civil polity).
 ∙²2 <ab>N.</ab> of an Upapurāṇa.
 <LEND>
 
-<L>11058<pc>0513-1<k1>OSana.ABC<k2>OSana,.ABC<e>1
+<L>11058.XYZ<pc>0513-1<k1>OSana.ABC<k2>OSana,.ABC<e>1
 {#OSana, OSanasa#} + .{@{#-sAH#}@}¦ <ab>N.</ab> of a school of writers on the science of government mentioned
  by Kauṭilya; <ls>Kau. A. 1. 15</ls>.
 <LEND>
 
-<L>11058<pc>0513-1<k1>OSana.ABC<k2>OSana,.ABC<e>1
+<L>11058.XYZ<pc>0513-1<k1>OSana.ABC<k2>OSana,.ABC<e>1
 {#OSana, OSanasa#} + .{@{#-sI#}@}¦ <ab>N.</ab> of Devayanī; {#taM vIramAhOSanasI premanirBarayA girA#}
  <ls>Bhāg. 9. 18. 20</ls>.
 <LEND>
@@ -123151,7 +123151,7 @@
 ∙²4 An annual or deciduous plant; {#˚DIpatiH#} <ab>N.</ab> of Soma, the lord of plants.
 <LEND>
 
-<L>11065<pc>0513-1<k1>OzaDiH.ABC<k2>OzaDiH,.ABC<e>1
+<L>11065.XYZ<pc>0513-1<k1>OzaDiH.ABC<k2>OzaDiH,.ABC<e>1
 {#OzaDiH, -DI#} + .{@{#-paYcaprakArAH#}@}¦ (1) Juice of a green herb ({#rasa#}). (2) Powder
 [Page0513-2]
  of dry medicinal billets {#cUrRa#}. (3) Decoction of medicinal herbs ({#kazAya#}).
@@ -123160,7 +123160,7 @@
  {#musalI, muRqI, SatAvarI#}.
 <LEND>
 
-<L>11065<pc>0513-1<k1>OzaDiH.ABC<k2>OzaDiH,.ABC<e>1
+<L>11065.XYZ<pc>0513-1<k1>OzaDiH.ABC<k2>OzaDiH,.ABC<e>1
 {#OzaDiH, -DI#} + .{@{#-pratiniDiH#}@}¦ A substitute for a herb which cannot be secured.
 <LEND>
 <L>11065.002<pc>0513-1<k1>OzaDI<k2>OzaDI<e>1
@@ -124482,7 +124482,7 @@
 ∙²4 Ink.
 <LEND>
 
-<L>11172<pc>0518-1<k1>kajjalam.ABC<k2>kajjalam.ABC<e>1
+<L>11172.XYZ<pc>0518-1<k1>kajjalam.ABC<k2>kajjalam.ABC<e>1
 {#kajjalam#} + .{@{#-lA(lI)#}@}¦
  A kind of fish.
 <LEND>
@@ -126014,7 +126014,7 @@
 {#kaRwakaH, -kam#} + .{@{#-kI#}@}¦ A kind of {#vArtAkI#}.
 <LEND>
 
-<L>11296<pc>0523-1<k1>kaRwakaH.ABC<k2>kaRwakaH,.ABC<e>1
+<L>11296.XYZ<pc>0523-1<k1>kaRwakaH.ABC<k2>kaRwakaH,.ABC<e>1
 {#kaRwakaH, -kam#} + .{@{#-PalaH#}@}¦ See {#kaRwakaPala#}.
 .━{@<ab>Comp.</ab>@}: {#kaRwakAgraH, kaRwakASanaH, kaRwakaBakzakaH, kaRwakaBuj, kaRwakAzWIlaH, kaRwakAgAraH, kaRwakAQyH, kaRwakodDaraRam, kaRwakadrumaH, kaRwakaprAvftA, kaRwakaPalaH, kaRwakamardanam, kaRwakayukta, kaRwakaviSoDanam, kaRwakavfntAkI, kaRwakaSreRiH, kaRwakaSreRI#}
 <LEND>
@@ -127343,7 +127343,7 @@
 {#kadambaH, -kadambakaH#} + .{@{#-mbam#}@}¦ A multitude.
 <LEND>
 
-<L>11386<pc>0527-2<k1>kadambaH.ABC<k2>kadambaH,.ABC<e>1
+<L>11386.XYZ<pc>0527-2<k1>kadambaH.ABC<k2>kadambaH,.ABC<e>1
 {#kadambaH, -kadambakaH#} + .{@{#-kam#}@}¦
 ∙²1 A multitude, group; {#CAyAbadDakadambakaM mfgakulaM romanTamaByasyatu#} <ls>Ś. 2. 6</ls>.
 ∙²2 The flower of the Kadamba tree; {#pfTukadambakadambakarAjitam#} <ls>Ki. 5. 9</ls>.
@@ -127791,7 +127791,7 @@
 ∙²2 The pupil of the eye.
 <LEND>
 
-<L>11414<pc>0528-2<k1>kanInakaH.ABC<k2>kanInakaH.ABC<e>1
+<L>11414.XYZ<pc>0528-2<k1>kanInakaH.ABC<k2>kanInakaH.ABC<e>1
 {#kanInakaH#} + .{@{#-nikam#}@}¦ <ab>N.</ab> of several Sāmans.
 <LEND>
 
@@ -130059,7 +130059,7 @@
 ∙²2 A cow difficult to be milked.
 <LEND>
 
-<L>11542<pc>0535-1<k1>karawaH.ABC<k2>karawaH.ABC<e>1
+<L>11542.XYZ<pc>0535-1<k1>karawaH.ABC<k2>karawaH.ABC<e>1
 {#karawaH#} + .{@{#-muKam#}@}¦ A spot where an elephantʼs temple bursts; <ls>Mb.</ls>
 <LEND>
 
@@ -130142,7 +130142,7 @@
 ∙²2 Absurd or irrational number.
 <LEND>
 
-<L>11546<pc>0535-2<k1>karaRa.ABC<k2>karaRa.ABC<e>1
+<L>11546.XYZ<pc>0535-2<k1>karaRa.ABC<k2>karaRa.ABC<e>1
 {#karaRa#} + .{@{#-sutA#}@}¦ {%<lex>f.</lex>%} An adopted daughter.
 .━{@<ab>Comp.</ab>@}: {#karaRADipaH, karaRakutUhalam, karaRagrAmaH, karaRatrARam, karaRaviBaktiH, karaRavinyayaH#}
 <LEND>
@@ -130287,7 +130287,7 @@
 ∙²2 A vessal for churning curds; <ls>Rām. 2. 91. 72</ls>.
 <LEND>
 
-<L>11560<pc>0536-1<k1>karamBaH.ABC<k2>karamBaH.ABC<e>1
+<L>11560.XYZ<pc>0536-1<k1>karamBaH.ABC<k2>karamBaH.ABC<e>1
 {#karamBaH(mbaH)#} + .{@{#-vAlukA#}@}¦ Hot sand (punishment in hell); {#karamBavAlukAstaptA#} <ls>Mb. 18. 2. 24</ls>.
 <LEND>
 <L>11560.002<pc>0536-1<k1>karambaH<k2>karambaH<e>1
@@ -134962,7 +134962,7 @@
 {#kAMsyakam#}¦ Brass.
 <LEND>
 
-<L>11859<pc>0552-1<k1>kAMsyakam.ABC<k2>kAMsyakam.ABC<e>1
+<L>11859.XYZ<pc>0552-1<k1>kAMsyakam.ABC<k2>kAMsyakam.ABC<e>1
 {#kAMsyakam#} + .{@{#-koSI#}@}¦ {%<lex>a.</lex>%} kind of musical instrument; <ls>Hch.</ls>
 <LEND>
 
@@ -138080,7 +138080,7 @@
 ∙²2 A man of an intermediate caste (father {#vrAtyavESya#} and mother {#vESya#}); <ls>Ms. 10. 23</ls>.
 <LEND>
 
-<L>12066<pc>0562-2<k1>kArUzAH.ABC<k2>kArUzAH.ABC<e>1
+<L>12066.XYZ<pc>0562-2<k1>kArUzAH.ABC<k2>kArUzAH.ABC<e>1
 {#kArUzAH#} + .{@{#-zam#}@}¦ Hunger; {#iha BUmyAM malaM dattvA devAH kArUzameva ca#} <ls>Rām. 1. 24. 20</ls>.
 <LEND>
 
@@ -141520,7 +141520,7 @@
 ∙²3 A kind of leprosy.
 <LEND>
 
-<L>12272<pc>0574-1<k1>kilAsa.ABC<k2>kilAsa.ABC<e>1
+<L>12272.XYZ<pc>0574-1<k1>kilAsa.ABC<k2>kilAsa.ABC<e>1
 {#kilAsa#} + .{@{#-sin#}@}¦ {%<lex>a.</lex>%} Leprous; <ls>P. V. 2. 128</ls>.
 <LEND>
 
@@ -143195,7 +143195,7 @@
 ∙²5 ({%<lex>m.</lex>%}) A home-slave.
 <LEND>
 
-<L>12381<pc>0579-1<k1>kuwumbikaH.ABC<k2>kuwumbikaH,.ABC<e>1
+<L>12381.XYZ<pc>0579-1<k1>kuwumbikaH.ABC<k2>kuwumbikaH,.ABC<e>1
 {#kuwumbikaH, -kuwumbin#} + .{@{#-nI#}@}¦
 ∙²1 The wife of a householder, a house-wife (in charge of the house); {#dravyopakaraRaM#}
  {#sarvaM nAnvavEkzatkuwumbinI#} <ls>Mb. 12. 228. 60</ls>. {#Bavatu kuwumbinImAhUya#}
@@ -143989,7 +143989,7 @@
 ∙²2 The Kāñchana tree.
 <LEND>
 
-<L>12469<pc>0582-1<k1>kuddAraH.ABC<k2>kuddAraH,.ABC<e>1
+<L>12469.XYZ<pc>0582-1<k1>kuddAraH.ABC<k2>kuddAraH,.ABC<e>1
 {#kuddAraH, -laH, -lakaH#} + .{@{#-lakam#}@}¦
 ∙²1 A copper pitcher.
 ∙²2 A measure; {#ekena kuddAlakena KArIsahasram#} <ls>Mbh.</ls> on <ls>P. II. 1. 69</ls>.
@@ -145969,7 +145969,7 @@
 {#kulatTaH#}¦ A kind of pulse; <ls>Mb. 13. 111. 71</ls>.
 <LEND>
 
-<L>12590<pc>0588-1<k1>kulatTaH.ABC<k2>kulatTaH.ABC<e>1
+<L>12590.XYZ<pc>0588-1<k1>kulatTaH.ABC<k2>kulatTaH.ABC<e>1
 {#kulatTaH#} + .{@{#-tTikA#}@}¦ A blue stone used as a collyrium.
 <LEND>
 
@@ -151470,7 +151470,7 @@
 ∙²2 The red water-lily.
 <LEND>
 
-<L>12945<pc>0606-2<k1>kokanadam.ABC<k2>kokanadam.ABC<e>1
+<L>12945.XYZ<pc>0606-2<k1>kokanadam.ABC<k2>kokanadam.ABC<e>1
 {#kokanadam#} + .{@{#-dinI#}@}¦ The red water-lily; {#na BekaH kokanadinIkiMjalkAsvAdakovidaH#} <ls>Ks. 30. 78</ls>.
 <LEND>
 
@@ -151525,7 +151525,7 @@
  {#tApayan . turagAniva tigmAMSoH pratApastasya papraTe ..#} <ls>Rāj. T. 4. 159</ls>.
 <LEND>
 
-<L>12950<pc>0607-1<k1>koNkaH.ABC<k2>koNkaH,.ABC<e>1
+<L>12950.XYZ<pc>0607-1<k1>koNkaH.ABC<k2>koNkaH,.ABC<e>1
 {#koNkaH, koNkaRaH#} + .{@{#-Ram#}@}¦ A kind of weapon.
 <LEND>
 <L>12950.002<pc>0607-1<k1>koNkaRaH<k2>koNkaRaH<e>1
@@ -152366,7 +152366,7 @@
 ∙²2 Repentance.
 <LEND>
 
-<L>13019<pc>0609-2<k1>kOkftyam.ABC<k2>kOkftyam.ABC<e>1
+<L>13019.XYZ<pc>0609-2<k1>kOkftyam.ABC<k2>kOkftyam.ABC<e>1
 {#kOkftyam#} + .{@{#-kOkkuwa#}@}¦ {%<lex>a.</lex>%} [{#kukkuwa-aR#}] Relating to a cock; <ls>Rām. 2. 91. 70</ls>.
 <LEND>
 
@@ -152518,7 +152518,7 @@
  <ls>Mu. 1. 7</ls>; {#spfSati mAM BftyaBAvena kOwilyaSizyaH#} <ls>Mu. 7</ls>.
 <LEND>
 
-<L>13037<pc>0610-1<k1>kOwilyam.ABC<k2>kOwilyam.ABC<e>1
+<L>13037.XYZ<pc>0610-1<k1>kOwilyam.ABC<k2>kOwilyam.ABC<e>1
 {#kOwilyam#} + .{@{#-SAstram#}@}¦ Chāṇakyaʼs doctrine (diplomacy).
 <LEND>
 
@@ -154348,7 +154348,7 @@
  {#krIqanakaniva#} <ls>Bhāg. 3. 2. 30</ls>; <ls>Ś. 7</ls>.
 <LEND>
 
-<L>13175<pc>0616-2<k1>krIqanakaH.ABC<k2>krIqanakaH,.ABC<e>1
+<L>13175.XYZ<pc>0616-2<k1>krIqanakaH.ABC<k2>krIqanakaH,.ABC<e>1
 {#krIqanakaH, -kam, krIqanIyam, -yakam#} + .{@{#-krIqanakatayA#}@}¦ {%<lex>ind.</lex>%} After the manner of a play-thing; <ls>Bhāg. 5. 26. 32</ls>.
 <LEND>
 <L>13175.002<pc>0616-2<k1>krIqanakam<k2>krIqanakam<e>1
@@ -155122,7 +155122,7 @@
  {#SuBAcArasya#}, which seems doubtful).
 <LEND>
 
-<L>13236<pc>0619-2<k1>kliSita.ABC<k2>kliSita,.ABC<e>1
+<L>13236.XYZ<pc>0619-2<k1>kliSita.ABC<k2>kliSita,.ABC<e>1
 {#kliSita, -klizwa#} + .{@{#-zwam#}@}¦ A contradictory statement.
 .━{@<ab>Comp.</ab>@}: {#kliSitavartman#}
 <LEND>
@@ -155310,7 +155310,7 @@
 ∙²2 The sound of any musical instrument.
 <LEND>
 
-<L>13257<pc>0620-1<k1>kvaRaH.ABC<k2>kvaRaH,.ABC<e>1
+<L>13257.XYZ<pc>0620-1<k1>kvaRaH.ABC<k2>kvaRaH,.ABC<e>1
 {#kvaRaH, kvaRanam, kvaRitam, kvARaH#} + .{@{#-naH#}@}¦ A small earthen pot or boiler.
 <LEND>
 <L>13257.002<pc>0620-1<k1>kvaRanam<k2>kvaRanam<e>1
@@ -155442,7 +155442,7 @@
 .{@{#kzaRAt, -kzaRen#}@} in a moment, at once, immediately).
 <LEND>
 
-<L>13270<pc>0620-2<k1>kzaRaH.ABC<k2>kzaRaH,.ABC<e>1
+<L>13270.XYZ<pc>0620-2<k1>kzaRaH.ABC<k2>kzaRaH,.ABC<e>1
 {#kzaRaH, -Ram#} + .{@{#-kzaRekzaRe#}@}¦ {%<lex>ind.</lex>%} Every instant, moment; {#kzaRekzaRe yannavatAmupEti#}
  {#tadeva rUpaM ramaRIyatAyAH ArabDErvyasanErBUmnA kzIRakoSaH kzaRe kzaRe#}
  <ls>Rāj. T. 5. 166</ls>.
@@ -157419,7 +157419,7 @@
  {#kzutamivopaSuSruve#} <ls>Śi. 15. 91</ls>.
 <LEND>
 
-<L>13403<pc>0627-2<k1>kzut.ABC<k2>kzut.ABC<e>1
+<L>13403.XYZ<pc>0627-2<k1>kzut.ABC<k2>kzut.ABC<e>1
 {#kzut#} {%<lex>f.</lex>%}, {#kzutam, -tA, -tiH#} {%<lex>f.</lex>%} + .{@{#-janikA#}@}¦ ({#kzujjanikA#}) Mustard.
 <LEND>
 <L>13403.002<pc>0627-2<k1>kzutam<k2>kzutam<e>1
@@ -157697,7 +157697,7 @@
  {#kzodIyAnapi gacCati#} <ls>Śi. 2. 100</ls>.
 <LEND>
 
-<L>13422<pc>0628-2<k1>kzodIyas.ABC<k2>kzodIyas.ABC<e>1
+<L>13422.XYZ<pc>0628-2<k1>kzodIyas.ABC<k2>kzodIyas.ABC<e>1
 {#kzodIyas#} + .{@{#-kzodya#}@}¦ {%<lex>a.</lex>%} To be trampled on; <ls>Rām. 2. 80. 10</ls>.
 <LEND>
 
@@ -162729,7 +162729,7 @@
 ∙²4 A kind of liquor ({#madya#}); {#palARqugaRqUzayutAn KAdantI cEqakAnbahUna#} <ls>Mb. 8. 44. 28</ls>.
 <LEND>
 
-<L>13795<pc>0645-2<k1>gaRqUzaH.ABC<k2>gaRqUzaH.ABC<e>1
+<L>13795.XYZ<pc>0645-2<k1>gaRqUzaH.ABC<k2>gaRqUzaH.ABC<e>1
 {#gaRqUzaH, -zA#} + .{@{#-gaRqUzIkf#}@}¦ To swallow in one draught; {#tasya jahnuH suto gaNgAM#}
  {#gaRqUzIkftya yo'pibat#} <ls>Bhāg. 9. 15. 3</ls>.
 <LEND>
@@ -165863,7 +165863,7 @@
 {#gARqI#}¦ A rhinoceros.
 <LEND>
 
-<L>13982<pc>0656-1<k1>gARqI.ABC<k2>gARqI.ABC<e>1
+<L>13982.XYZ<pc>0656-1<k1>gARqI.ABC<k2>gARqI.ABC<e>1
 {#gARqI#} + .{@{#-gARqImaya#}@}¦ {%<lex>a.</lex>%} made of {#gARqI#}, as the bow of Arjuna; {#eza#}
  {#gARqImayaScApo lokasaMhArasaMBftaH#} <ls>Mb. 5. 98. 19</ls>.
 <LEND>
@@ -166247,7 +166247,7 @@
 ∙²4 <ab>N.</ab> of Durgā, <ls>Ks. 53. 172</ls>.
 <LEND>
 
-<L>14012<pc>0657-2<k1>gAyatrI.ABC<k2>gAyatrI.ABC<e>1
+<L>14012.XYZ<pc>0657-2<k1>gAyatrI.ABC<k2>gAyatrI.ABC<e>1
 {#gAyatrI#} + .{@{#-tram#}@}¦ A hymn composed and recited in the Gāyatrī metre.
 .━{@<ab>Comp.</ab>@}: {#gAyatrImantraH, gAyatrIvallaBaH#}
 <LEND>
@@ -168787,7 +168787,7 @@
 {#gurumatI#}¦ A pregnant woman; {#striyAH svasurgurumatyA vaDo'yam#} <ls>Bhāg. 10. 2. 21</ls>.
 <LEND>
 
-<L>14162<pc>0666-1<k1>gurumatI.ABC<k2>gurumatI.ABC<e>1
+<L>14162.XYZ<pc>0666-1<k1>gurumatI.ABC<k2>gurumatI.ABC<e>1
 {#gurumatI#} + .{@{#-ttA#}@}¦ Heaviness; {#tamaSmAnaM manyamAna Atmano gurumattayA#} <ls>Bhāg. 10. 7. 27</ls>.
 <LEND>
 
@@ -168811,7 +168811,7 @@
  {#gurviRIM mA SucaH SuBe#} <ls>Mb. 14. 36</ls>; {#gurviRIM nAnugacCanti na spfSanti rajasvalAm#}.
 <LEND>
 
-<L>14164<pc>0666-2<k1>gurviRI.ABC<k2>gurviRI,.ABC<e>1
+<L>14164.XYZ<pc>0666-2<k1>gurviRI.ABC<k2>gurviRI,.ABC<e>1
 {#gurviRI, gurvI#} + .{@{#-rvI#}@}¦ The wife of a preceptor.
 <LEND>
 <L>14164.002<pc>0666-2<k1>gurvI<k2>gurvI<e>1
@@ -176994,7 +176994,7 @@
 ∙²4 A kind of perfume (<lang>Mar.</lang> <ns>{#vALA#}</ns>).
 <LEND>
 
-<L>14628<pc>0693-2<k1>caRqA.ABC<k2>caRqA,.ABC<e>1
+<L>14628.XYZ<pc>0693-2<k1>caRqA.ABC<k2>caRqA,.ABC<e>1
 {#caRqA, -RqI#} + .{@{#-RqI#}@}¦
 ∙²1 A term of endearment applied to oneʼs mistress.
 ∙²2 Hurt, injury.
@@ -177528,20 +177528,20 @@
 {#caturTa#} + .{@{#-rTam#}@}¦ A quarter, a fourth part.
 <LEND>
 
-<L>14642<pc>0695-1<k1>caturTa.ABC<k2>caturTa.ABC<e>1
+<L>14642.XYZ<pc>0695-1<k1>caturTa.ABC<k2>caturTa.ABC<e>1
 {#caturTa#} + .{@{#-aMSa#}@}¦ {%<lex>a.</lex>%} receiving a fourth part.
 .({@{#-SaH#}@}) a quarter or fourth part.
 <LEND>
 
-<L>14642<pc>0695-1<k1>caturTa.ABC<k2>caturTa.ABC<e>1
+<L>14642.XYZ<pc>0695-1<k1>caturTa.ABC<k2>caturTa.ABC<e>1
 {#caturTa#} + .{@{#-ASramaH#}@}¦ the fourth stage of a Brāhmaṇaʼs religious life, {%Saṃnyāsa%}.
 <LEND>
 
-<L>14642<pc>0695-1<k1>caturTa.ABC<k2>caturTa.ABC<e>1
+<L>14642.XYZ<pc>0695-1<k1>caturTa.ABC<k2>caturTa.ABC<e>1
 {#caturTa#} + .{@{#-Palam#}@}¦ the second inequality or equation of a planet.
 <LEND>
 
-<L>14642<pc>0695-1<k1>caturTa.ABC<k2>caturTa.ABC<e>1
+<L>14642.XYZ<pc>0695-1<k1>caturTa.ABC<k2>caturTa.ABC<e>1
 {#caturTa#} + .{@{#-Bakta#}@}¦ {%<lex>a.</lex>%} eating the fourth meal. {@{#BAj#}@} {%<lex>a.</lex>%} receiving
  a fourth part of every source of income from the subjects, as a king;
  (this is allowed only in times of financial embarrassments, the usual share
@@ -183344,7 +183344,7 @@
 ∙²2 Crested.
 <LEND>
 
-<L>15090<pc>0714-1<k1>cUqAra.ABC<k2>cUqAra,.ABC<e>1
+<L>15090.XYZ<pc>0714-1<k1>cUqAra.ABC<k2>cUqAra,.ABC<e>1
 {#cUqAra, -la#} + .{@{#-lam#}@}¦ The head.
 <LEND>
 <L>15090.002<pc>0714-1<k1>cUqAla<k2>cUqAla<e>1
@@ -183781,11 +183781,11 @@
 ∙²5 Action, deed, performing.
 <LEND>
 
-<L>15138<pc>0715-2<k1>cezwA.ABC<k2>cezwA.ABC<e>1
+<L>15138.XYZ<pc>0715-2<k1>cezwA.ABC<k2>cezwA.ABC<e>1
 {#cezwA#} + .{@{#-nASaH#}@}¦ destruction of the world.
 <LEND>
 
-<L>15138<pc>0715-2<k1>cezwA.ABC<k2>cezwA.ABC<e>1
+<L>15138.XYZ<pc>0715-2<k1>cezwA.ABC<k2>cezwA.ABC<e>1
 {#cezwA#} + .{@{#-nirUpaRam#}@}¦ observing a personʼs movements.
 <LEND>
 
@@ -187006,14 +187006,14 @@
 ∙²14 Custom, manner.
 <LEND>
 
-<L>15403<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
+<L>15403.XYZ<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
 {#janman#} + .{@{#-aDipaH#}@}¦
 ∙²1 an epithet of Śiva.
 ∙²2 the regent of a constellation under which a person is born (in astrology);
  {#horAjanmADipayorjanmarkze vASuBo rAjYaH#} <ls>Bṛ. S. 34. 11</ls>.
 <LEND>
 
-<L>15403<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
+<L>15403.XYZ<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
 {#janman#} + .{@{#-antaram#}@}¦
 ∙²1 another life.
 ∙²2 the preceding life, former birth; {#mano hi janmAntarasaMgatijYam#} <ls>R. 7. 15</ls>.
@@ -187021,25 +187021,25 @@
 ∙²4 the other world.
 <LEND>
 
-<L>15403<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
+<L>15403.XYZ<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
 {#janman#} + .{@{#-antarIya#}@}¦ {%<lex>a.</lex>%} belonging to or done in another life; {#janmAntarIyEH#}
  {#sAmrAjyaM mayA prApIti cintayan#} <ls>Rāj. T. 6. 85</ls>.
 <LEND>
 
-<L>15403<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
+<L>15403.XYZ<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
 {#janman#} + .{@{#-anDaH#}@}¦ {%<lex>a.</lex>%} born blind.
 <LEND>
 
-<L>15403<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
+<L>15403.XYZ<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
 {#janman#} + .{@{#-azwamI#}@}¦ the eighth day of the dark fortnight of Srāvaṇa, the
  birth-day of Kṛṣṇa.
 <LEND>
 
-<L>15403<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
+<L>15403.XYZ<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
 {#janman#} + .{@{#-Aspadam#}@}¦ birthplace.
 <LEND>
 
-<L>15403<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
+<L>15403.XYZ<pc>0726-2<k1>janman.ABC<k2>janman.ABC<e>1
 {#janman#} + .{@{#-ISaH#}@}¦ = 2 {#janmADipa#};
 <LEND>
 
@@ -189070,7 +189070,7 @@
  <ab>&c.</ab>; <ab>cf.</ab> <ls>R. 8. 95</ls>. {#jahnoH kanyAM sagaratanayasvargasopAnapaNktim#} <ls>Me. 52</ls>.
 <LEND>
 
-<L>15501<pc>0732-1<k1>jahnuH.ABC<k2>jahnuH.ABC<e>1
+<L>15501.XYZ<pc>0732-1<k1>jahnuH.ABC<k2>jahnuH.ABC<e>1
 {#jahnuH#} + .{@{#-saptamI#}@}¦ The seventh day of the bright half of Vaiśākha.]
 <LEND>
 
@@ -189946,7 +189946,7 @@
  A citron.
 <LEND>
 
-<L>15567<pc>0735-1<k1>jAmbIram.ABC<k2>jAmbIram.ABC<e>1
+<L>15567.XYZ<pc>0735-1<k1>jAmbIram.ABC<k2>jAmbIram.ABC<e>1
 {#jAmbIram#} ({#-lam#}) + .{@{#-lam#}@}¦ <ab>Ved.</ab> The knee-pan.
 <LEND>
 <L>15567.002<pc>0735-1<k1>jAmbIlam<k2>jAmbIlam<e>1
@@ -193133,11 +193133,11 @@
 {#jyotizI, jyotizkaH#}¦ A planet, star, luminary.
 <LEND>
 
-<L>15814<pc>0746-1<k1>jyotizI.ABC<k2>jyotizI,.ABC<e>1
+<L>15814.XYZ<pc>0746-1<k1>jyotizI.ABC<k2>jyotizI,.ABC<e>1
 {#jyotizI, jyotizkaH#} + .{@{#-zkam#}@}¦ <ab>N.</ab> of the shining peak of Meru.
 <LEND>
 
-<L>15814<pc>0746-1<k1>jyotizI.ABC<k2>jyotizI,.ABC<e>1
+<L>15814.XYZ<pc>0746-1<k1>jyotizI.ABC<k2>jyotizI,.ABC<e>1
 {#jyotizI, jyotizkaH#} + .{@{#-zkaH#}@}¦ The {#citraka#} tree.
 <LEND>
 <L>15814.002<pc>0746-1<k1>jyotizkaH<k2>jyotizkaH<e>1
@@ -196095,7 +196095,7 @@
 {#tanayaH#} + .{@{#-yam#}@}¦ Posterity, family, offspring.
 <LEND>
 
-<L>16106<pc>0757-2<k1>tanayaH.ABC<k2>tanayaH.ABC<e>1
+<L>16106.XYZ<pc>0757-2<k1>tanayaH.ABC<k2>tanayaH.ABC<e>1
 {#tanayaH#} + .{@{#-tanayIkfta#}@}¦ {%<lex>a.</lex>%} made a son; {#mAtAmahasya yo mAtrA dOhitrastanayIkftaH#} <ls>Rāj. T. 4. 8</ls>.
 <LEND>
 
@@ -198637,7 +198637,7 @@
 {#talavaH#}¦ A musician (playing with palms on the instrument); <ls>Vāj. 30. 20</ls>.
 <LEND>
 
-<L>16271<pc>0765-2<k1>talavaH.ABC<k2>talavaH.ABC<e>1
+<L>16271.XYZ<pc>0765-2<k1>talavaH.ABC<k2>talavaH.ABC<e>1
 {#talavaH#} + .{@{#-kAraH#}@}¦ (<ab>pl.</ab>) <ab>N.</ab> of a school of the {#sAmaveda#}. {#˚prAhmaRam#},
  {#˚upanizad#} other names for {#jEminIya brAhmaRa#} and {#upanizad#}.
 <LEND>
@@ -198666,7 +198666,7 @@
 {#talina#} + .{@{#-nam#}@}¦ A bed, couch.
 <LEND>
 
-<L>16274<pc>0765-2<k1>talina.ABC<k2>talina.ABC<e>1
+<L>16274.XYZ<pc>0765-2<k1>talina.ABC<k2>talina.ABC<e>1
 {#talina#} + .{@{#-udarI#}@}¦ {%<lex>a.</lex>%} a slender-waisted woman; {#snAnAvasAne talinodarIRAmakftrimaM#}
  {#maRqanamAvirAsIt#} <ls>Vikr. 10. 88</ls>.
 <LEND>
@@ -200761,7 +200761,7 @@
 ∙²2 A sour sauce (made of its fruits); <ls>Bṛ. S. 55. 21</ls>.
 <LEND>
 
-<L>16447<pc>0772-2<k1>tintiqaH.ABC<k2>tintiqaH,.ABC<e>1
+<L>16447.XYZ<pc>0772-2<k1>tintiqaH.ABC<k2>tintiqaH,.ABC<e>1
 {#tintiqaH, -qI, tintiqikA, tintiqIkAH#} + .{@{#-kam#}@}¦
 ∙²1 The fruit of the tamarind.
 ∙²2 A sour sauce.
@@ -202450,7 +202450,7 @@
 ∙²4 Great, <ls>N. 2. 89</ls>.
 <LEND>
 
-<L>16563<pc>0778-1<k1>tundika.ABC<k2>tundika,.ABC<e>1
+<L>16563.XYZ<pc>0778-1<k1>tundika.ABC<k2>tundika,.ABC<e>1
 {#tundika, tundita, tundin, tundiBa, tundila#} + .{@{#-kzundilaH#}@}¦ The god Gaṇeśa.
 <LEND>
 <L>16563.002<pc>0778-1<k1>tundita<k2>tundita<e>1
@@ -205893,7 +205893,7 @@
  Tin.
 <LEND>
 
-<L>16830<pc>0788-1<k1>trapulam.ABC<k2>trapulam,.ABC<e>1
+<L>16830.XYZ<pc>0788-1<k1>trapulam.ABC<k2>trapulam,.ABC<e>1
 {#trapulam, -zam, trapus#} {%<lex>n.</lex>%}, {#trapusam#} + .{@{#-zam#}@}¦ Cucumber.
 <LEND>
 <L>16830.002<pc>0788-1<k1>trapuzam<k2>trapuzam<e>1
@@ -210657,11 +210657,11 @@
 {#daradAH#}¦ {%<lex>m.</lex>%} (<ab>pl.</ab>) A country bordering on Kashmir.
 <LEND>
 
-<L>17068<pc>0803-2<k1>daradAH.ABC<k2>daradAH.ABC<e>1
+<L>17068.XYZ<pc>0803-2<k1>daradAH.ABC<k2>daradAH.ABC<e>1
 {#daradAH#} + .{@{#-daH#}@}¦ Fear, terror.
 <LEND>
 
-<L>17068<pc>0803-2<k1>daradAH.ABC<k2>daradAH.ABC<e>1
+<L>17068.XYZ<pc>0803-2<k1>daradAH.ABC<k2>daradAH.ABC<e>1
 {#daradAH#} + .{@{#-dam#}@}¦ Red lead.
 <LEND>
 
@@ -213405,7 +213405,7 @@
 {#dASArhAH#}¦ {%<lex>m.</lex>%} (<ab>pl.</ab>) The descendants of Daśārha, the Yādavas; <ls>Śi. 2. 64</ls>.
 <LEND>
 
-<L>17261<pc>0812-1<k1>dASArhAH.ABC<k2>dASArhAH.ABC<e>1
+<L>17261.XYZ<pc>0812-1<k1>dASArhAH.ABC<k2>dASArhAH.ABC<e>1
 {#dASArhAH#} + .{@{#-rhaH#}@}¦ An epithet of Kṛṣṇa.
 <LEND>
 
@@ -218684,7 +218684,7 @@
 ∙³({%c%})
 <LEND>
 
-<L>17445<pc>0828-1<k1>dUra.ABC<k2>dUra.ABC<e>1
+<L>17445.XYZ<pc>0828-1<k1>dUra.ABC<k2>dUra.ABC<e>1
 {#dUra#} + .{@{#-dUrAt#}@}¦
 ∙²1 from a distance, from afar; {#prakzAlanAdDi paNkasya dUrAdasparSanaM#}
  {#varam, dUrAdAgataH#} ‘come from afar’ (regarded as <ab>comp.</ab>); {#nadIyamaBito … … dUrAtparityajyatAm#}
@@ -227238,7 +227238,7 @@
  Himālaya (as king of mountains). ∙²7 A dike, bank.
 <LEND>
 
-<L>17907<pc>0854-1<k1>DaraRa.ABC<k2>DaraRa.ABC<e>1
+<L>17907.XYZ<pc>0854-1<k1>DaraRa.ABC<k2>DaraRa.ABC<e>1
 {#DaraRa#} + .{@{#-Rama#}@}¦
 ∙²1 Supporting, sustaining, upholding; {#sAraM DaritrIDaraRakzamaM ca#}
  <ls>Ku. 1. 17</ls>; {#DaraRiDaraRakiRacakragarizWe#} <ls>Gīt. 1</ls>.
@@ -230096,7 +230096,7 @@
 ∙²3 Chastened; {#AtmAnaM cedvijAnIyAtparaM jYAnaDutASayaH#} <ls>Bhāg. 7. 15. 40</ls>.
 <LEND>
 
-<L>18037<pc>0863-2<k1>Duta.ABC<k2>Duta.ABC<e>1
+<L>18037.XYZ<pc>0863-2<k1>Duta.ABC<k2>Duta.ABC<e>1
 {#Duta#} + .{@{#-ti#}@}¦ {%<lex>f.</lex>%} Shaking, flapping; {#Syeneyasya bfhatpatatraDutayaH#}
  {#praKyApayantyAgamam#} <ls>Mv. 5. 1</ls>.
 <LEND>
@@ -238277,7 +238277,7 @@
  {#nAqi(qI)kera, nAlikera#} (<ls>Bhāg. 8. 2. 11</ls>), {#nAlikeli, -lI#}.]
 <LEND>
 
-<L>18527<pc>0890-1<k1>nArikeraH.ABC<k2>nArikeraH,.ABC<e>1
+<L>18527.XYZ<pc>0890-1<k1>nArikeraH.ABC<k2>nArikeraH,.ABC<e>1
 {#nArikeraH, -laH#} + .{@{#-lI#}@}¦ Fermented liquor made from the water of the cocoa-nut.
 <LEND>
 <L>18527.002<pc>0890-1<k1>nArikelaH<k2>nArikelaH<e>1
@@ -239613,7 +239613,7 @@
  {#niKilArTameti#} <ls>Bil. Ch. 29</ls>.
 <LEND>
 
-<L>18672<pc>0895-1<k1>niKila.ABC<k2>niKila.ABC<e>1
+<L>18672.XYZ<pc>0895-1<k1>niKila.ABC<k2>niKila.ABC<e>1
 {#niKila#} + .{@{#-lena#}@}¦ {%<lex>ind.</lex>%} completely, totally; {#niKilena vicinvantO sItAM#}
  {#daSaraTAtmajO#} <ls>Rām. 3. 61. 20</ls>.
 <LEND>
@@ -241351,7 +241351,7 @@
  {#nibarhaRaM dvizAM na titikzAsamamasti sADanam#} <ls>Ki. 2. 43</ls>; <ls>Mv. 3. 37</ls>.
 <LEND>
 
-<L>18841<pc>0902-1<k1>nibarhaRa.ABC<k2>niba(va)rhaRa.ABC<e>1
+<L>18841.XYZ<pc>0902-1<k1>nibarhaRa.ABC<k2>niba(va)rhaRa.ABC<e>1
 {#niba(va)rhaRa#} + .{@{#-nam#}@}¦ Killing, destruction, annihilation, slaughter; {#nibarhaRaM#}
  {#DarmaDanErvigarhitaM viSizya viSvAsajuzAM dvizAmapi#} <ls>N. 1. 131</ls>; {#ihEva#}
  {#tu tvayA sTeyaM tAmrAnananibarhaRe#} <ls>Śiva B. 29. 61</ls>.
@@ -244949,7 +244949,7 @@
 ∙²3 Claimed; {#sa dattvA nirjitAM vfdDiM karaRe parivartayet#} <ls>Ms. 8. 154</ls>.
 <LEND>
 
-<L>18995<pc>0914-2<k1>nirjita.ABC<k2>nirjita.ABC<e>1
+<L>18995.XYZ<pc>0914-2<k1>nirjita.ABC<k2>nirjita.ABC<e>1
 {#nirjita#} + .{@{#-indriyaH#}@}¦ a saint.
 <LEND>
 
@@ -246777,7 +246777,7 @@
 ∙²2 Coarse, gross.
 <LEND>
 
-<L>19201<pc>0922-2<k1>nivirISa.ABC<k2>nivirI(qI)Sa, -sa.ABC<e>1
+<L>19201.XYZ<pc>0922-2<k1>nivirISa.ABC<k2>nivirI(qI)Sa, -sa.ABC<e>1
 {#nivirI(qI)Sa, -sa#} + .{@{#-sA#}@}¦ A crooked nose.
 <LEND>
 <L>19201.002<pc>0922-2<k1>niviqISa<k2>niviqISa<e>1
@@ -253615,7 +253615,7 @@
  {#kratUn#} <ls>Bhāg. 7. 15. 68</ls>; <ls>विष्णुपादादि॰ स्तोत्रम् 13</ls>.
 <LEND>
 
-<L>19695<pc>0946-2<k1>paNkeruh.ABC<k2>paNkeruh.ABC<e>1
+<L>19695.XYZ<pc>0946-2<k1>paNkeruh.ABC<k2>paNkeruh.ABC<e>1
 {#paNkeruh#} {%<lex>n.</lex>%}, {#-ham#} + .{@{#-haH#}@}¦ The crane or Sārasa bird.
 <LEND>
 <L>19695.002<pc>0946-2<k1>paNkeruham<k2>paNkeruham<e>1
@@ -255191,7 +255191,7 @@
 {#paYcAlAH#}¦ {%<lex>m.</lex>%} (<ab>pl.</ab>) ∙²1 <ab>N.</ab> of a country and its people.
 <LEND>
 
-<L>19748<pc>0952-1<k1>paYcAlAH.ABC<k2>paYcAlAH.ABC<e>1
+<L>19748.XYZ<pc>0952-1<k1>paYcAlAH.ABC<k2>paYcAlAH.ABC<e>1
 {#paYcAlAH#} + .{@{#-laH#}@}¦ A king of the Pañchālas.
 <LEND>
 
@@ -260631,7 +260631,7 @@
 {#parAhata#} + .{@{#-tam#}@}¦ A stroke.
 <LEND>
 
-<L>20040<pc>0970-1<k1>parAhata.ABC<k2>parAhata.ABC<e>1
+<L>20040.XYZ<pc>0970-1<k1>parAhata.ABC<k2>parAhata.ABC<e>1
 {#parAhata#} + .{@{#-tiH#}@}¦ {%<lex>f.</lex>%} Contradiction.
 <LEND>
 
@@ -263046,7 +263046,7 @@
 {#paripluta#} + .{@{#-tA#}@}¦ Spirituous liquor.
 <LEND>
 
-<L>20338<pc>0981-1<k1>paripluta.ABC<k2>paripluta.ABC<e>1
+<L>20338.XYZ<pc>0981-1<k1>paripluta.ABC<k2>paripluta.ABC<e>1
 {#paripluta#} + .{@{#-ti#}@}¦ {%<lex>f.</lex>%} Over-abundance {#puraBidA gamitastvamadfSyatAM trinayanatvapariplutiSaNkayA#} <ls>N. 4. 76</ls>.
 <LEND>
 
@@ -269754,7 +269754,7 @@
  {#raGoH pARqyAH pratApaM na vizehire#} <ls>R. 4. 49</ls>.
 <LEND>
 
-<L>20997<pc>1005-1<k1>pARqyAH.ABC<k2>pARqyAH.ABC<e>1
+<L>20997.XYZ<pc>1005-1<k1>pARqyAH.ABC<k2>pARqyAH.ABC<e>1
 {#pARqyAH#} + .{@{#-RqyaH#}@}¦ A king of that country; {#pARqyo'yamaMsArpitalambahAraH#} <ls>R. 6. 60</ls>.
 <LEND>
 
@@ -271941,7 +271941,7 @@
 ∙²3 Intermediation.
 <LEND>
 
-<L>21123<pc>1011-2<k1>pAraMparyam.ABC<k2>pAraMparyam.ABC<e>1
+<L>21123.XYZ<pc>1011-2<k1>pAraMparyam.ABC<k2>pAraMparyam.ABC<e>1
 {#pAraMparyam#} + .{@{#-pAraMparyeRa#}@}¦ {%<lex>ind.</lex>%} Successively, by degrees; {#nivfttezu#}
  {#ca sEnyezu pAraMparyeRa sarvaSaH . nimurktakavacAH sarve BIzmamIyurnarADipAH ..#}
  <ls>Mb. 6. 120. 29</ls>.
@@ -272450,7 +272450,7 @@
 {#pAriSezyam#}¦ That which is left over, remainder.
 <LEND>
 
-<L>21192<pc>1013-2<k1>pAriSezyam.ABC<k2>pAriSezyam.ABC<e>1
+<L>21192.XYZ<pc>1013-2<k1>pAriSezyam.ABC<k2>pAriSezyam.ABC<e>1
 {#pAriSezyam#} + .{@{#-zyAt#}@}¦ {%<lex>ind.</lex>%} Consequently, ergo.
 <LEND>
 
@@ -274828,12 +274828,12 @@
  {#pitfmAn vinetrA#} <ls>R. 14. 23</ls>, <ls n="R.">1. 24</ls>, <ls n="R.">11. 67</ls>.
 <LEND>
 
-<L>21385<pc>1021-1<k1>pitf.ABC<k2>pitf.ABC<e>1
+<L>21385.XYZ<pc>1021-1<k1>pitf.ABC<k2>pitf.ABC<e>1
 {#pitf#} + .{@{#-rO#}@}¦ (dual) Parents, father and mother; {#jagataH pitarO vande#}
  {#pArvatIparameSvarO#} <ls>R. 1. 1</ls>; <ls>Y. 2. 117</ls>.
 <LEND>
 
-<L>21385<pc>1021-1<k1>pitf.ABC<k2>pitf.ABC<e>1
+<L>21385.XYZ<pc>1021-1<k1>pitf.ABC<k2>pitf.ABC<e>1
 {#pitf#} + .{@{#-raH#}@}¦ (<ab>pl.</ab>)
 ∙²1 Fore-fathers, ancestors, fathers; {#nUnaM prasUtivikalena mayA prasiktaM#}
  {#DOtASruSezamudakaM pitaraH pibanti#} <ls>Ś. 6. 24</ls>.
@@ -278922,7 +278922,7 @@
 ∙²2 Rubbish, dirt.
 <LEND>
 
-<L>21600<pc>1033-2<k1>purIzam.ABC<k2>purIzam.ABC<e>1
+<L>21600.XYZ<pc>1033-2<k1>purIzam.ABC<k2>purIzam.ABC<e>1
 {#purIzam#} + .{@{#-zyam#}@}¦ excremental dirt; {#dravatpurIzyAH pulinEH samantataH#}
  <ls>Bhāg. 10. 18. 6</ls>.
 ∙²3 <ab>Ved.</ab> Water.
@@ -280526,21 +280526,21 @@
 ∙²2 A protuberant ornament, boss.
 <LEND>
 
-<L>21668<pc>1038-1<k1>pustakaH.ABC<k2>pustakaH,.ABC<e>1
+<L>21668.XYZ<pc>1038-1<k1>pustakaH.ABC<k2>pustakaH,.ABC<e>1
 {#pustakaH, -kam#} + .{@{#-AgAram#}@}¦ a library.
 <LEND>
 
-<L>21668<pc>1038-1<k1>pustakaH.ABC<k2>pustakaH,.ABC<e>1
+<L>21668.XYZ<pc>1038-1<k1>pustakaH.ABC<k2>pustakaH,.ABC<e>1
 {#pustakaH, -kam#} + .{@{#-AstaraRam#}@}¦ The wrapper of a manuscript; <ls>Hch.</ls>
 <LEND>
 
-<L>21668<pc>1038-1<k1>pustakaH.ABC<k2>pustakaH,.ABC<e>1
+<L>21668.XYZ<pc>1038-1<k1>pustakaH.ABC<k2>pustakaH,.ABC<e>1
 {#pustakaH, -kam#} + .{@{#-mudrA#}@}¦ a kind of
 [Page1038-2]
  mudrā mentioned in Tantraśāstra; {#vAmamuzwiM svABimuKIM kftvA pustakamudrikA#}.
 <LEND>
 
-<L>21668<pc>1038-1<k1>pustakaH.ABC<k2>pustakaH,.ABC<e>1
+<L>21668.XYZ<pc>1038-1<k1>pustakaH.ABC<k2>pustakaH,.ABC<e>1
 {#pustakaH, -kam#} + .{@{#-pustikApUlikaH#}@}¦ a collection of manuscripts; <ls>Hch. 3</ls>.
 <LEND>
 <L>21668.002<pc>1038-1<k1>pustakam<k2>pustakam<e>1
@@ -284964,7 +284964,7 @@
 ∙²3 Voluntarily, willingly; {#ye tizWanti Bavantu te'pi gamane kAmaM prakAmodyamAH#} <ls>Mu. 1. 25</ls>.
 <LEND>
 
-<L>22002<pc>1052-2<k1>prakAma.ABC<k2>prakAma.ABC<e>1
+<L>22002.XYZ<pc>1052-2<k1>prakAma.ABC<k2>prakAma.ABC<e>1
 {#prakAma#} + .{@{#-Buj#}@}¦ {%<lex>a.</lex>%} eating till satisfied or to the heartʼs content; {#na#}
  {#prakAmaBujaH SrAdDe svaDAsaMgrahatatparAH#} <ls>R. 1. 66</ls>.
 <LEND>
@@ -289785,7 +289785,7 @@
 ∙²3 To be cured or treated (by a physician).
 <LEND>
 
-<L>22353<pc>1070-2<k1>pratikartavya.ABC<k2>pratikartavya,.ABC<e>1
+<L>22353.XYZ<pc>1070-2<k1>pratikartavya.ABC<k2>pratikartavya,.ABC<e>1
 {#pratikartavya, -kArya#} + .{@{#-ryam#}@}¦ Retribution, retaliation; {#dizwayA te pratikartavye matirjAteyamacyuta#} <ls>Mb. 10. 4. 1</ls>.
 <LEND>
 <L>22353.002<pc>1070-2<k1>pratikArya<k2>pratikArya<e>1
@@ -293707,7 +293707,7 @@
 ∙²2 Hostility, opposition. ━{%<lex>ind.</lex>%} At every object, in every case.
 <LEND>
 
-<L>22812<pc>1086-2<k1>pratyarTa.ABC<k2>pratyarTa.ABC<e>1
+<L>22812.XYZ<pc>1086-2<k1>pratyarTa.ABC<k2>pratyarTa.ABC<e>1
 {#pratyarTa#} + .{@{#-vedanaH#}@}¦ Of contrary sensitivity; <ls>Mātaṅga L. 11. 38</ls>.
 <LEND>
 
@@ -300241,7 +300241,7 @@
 {#pravrAj#} {%<lex>m.</lex>%}, {#pravrAjakaH#}¦ A religious mendicant, recluse.
 <LEND>
 
-<L>23514<pc>1112-2<k1>pravrAj.ABC<k2>pravrAj.ABC<e>1
+<L>23514.XYZ<pc>1112-2<k1>pravrAj.ABC<k2>pravrAj.ABC<e>1
 {#pravrAj#} {%<lex>m.</lex>%}, {#pravrAjakaH#} + .{@{#-jikA#}@}¦ A female ascetic.
 <LEND>
 <L>23514.002<pc>1112-2<k1>pravrAjakaH<k2>pravrAjakaH<e>1
@@ -306435,7 +306435,7 @@
 {#priya#} + .{@{#-yam#}@}¦ {%<lex>ind.</lex>%} In a pleasing or agreeable manner.
 <LEND>
 
-<L>24071<pc>1135-2<k1>priya.ABC<k2>priya.ABC<e>1
+<L>24071.XYZ<pc>1135-2<k1>priya.ABC<k2>priya.ABC<e>1
 {#priya#} + .{@{#-priyeRa#}@}¦ {%<lex>ind.</lex>%} Willingly.
 .━{@<ab>Comp.</ab>@}: {#priyAtiTi, priyAnnam, priyAnnatvam, priyApAyaH, priyApriyaH, priyAmbuH, priyArTam, priyArha, priyAsu, priyAKya, priyAKyAnam, priyAKyAnikam, priyAtman, priyADAnam, priyAlApin, priyAsu, priyoktiH, priyopapattiH, priyopaBogaH, priyEzin, priyakara, priyakarman, priyakalatraH, priyakalaha, priyakAma, priyakAra, priyakAraka, priyakArin, priyakft, priyajanaH, priyajAniH, priyajIva, priyajIvitA, priyatozaRaH, priyadattA, priyadarSa, priyadarSana, priyadarSin, priyadevana, priyaDanvaH, priyanivedanam, priyaputraH, priyapraSnaH, priyaprasAdanam, priyaprAya, priyaprAyas, priyaprepsu, priyaBAvaH, priyaBAzaRam, priyaBAzin, priyamaRqana, priyamaDu, priyaraRa, priyavaktf, priyavacana, priyavayasyaH, priyavarRI, priyavastu, priyavAc, priyavAdikA, priyavAdin, priyaSravas, priyasaMvAsaH, priyasaKaH, priyasatya, priyasaMdeSaH, priyasaMprahAra, priyasamAgamaH, priyasahacarI, priyasAhasa, priyasuhfd, priyasvapna, priyahita#}
 <LEND>
@@ -311804,7 +311804,7 @@
 ∙²2 Any object of a brown colour.
 <LEND>
 
-<L>24440<pc>1153-1<k1>baBru.ABC<k2>baBru.ABC<e>1
+<L>24440.XYZ<pc>1153-1<k1>baBru.ABC<k2>baBru.ABC<e>1
 {#baBru#} + .{@{#-BrUH#}@}¦ {%<lex>f.</lex>%} A reddish-brown cow ({#kapilA#}); {#ajAnannahanadbaBroH#}
  {#SiraH SArdUlaSaNkayA#} <ls>Bhāg. 9. 2. 6</ls>.
 .━{@<ab>Comp.</ab>@}: {#baBruGAtuH, baBruvAhanaH#}
@@ -315555,7 +315555,7 @@
 ∙²11 The limb of a bow.
 <LEND>
 
-<L>24622<pc>1164-2<k1>bAhuH.ABC<k2>bAhuH.ABC<e>1
+<L>24622.XYZ<pc>1164-2<k1>bAhuH.ABC<k2>bAhuH.ABC<e>1
 {#bAhuH#} + .{@{#-hU#}@}¦ (<ab>du.</ab>) The lunar mansion Ārdrā.
 .━{@<ab>Comp.</ab>@}: {#bAhvantaram, bAhUtkzepam, bAhukara, bAhukaRwakam, bAhukuRWa, bAhukubja, bAhukunTaH, bAhucApaH, bAhujaH, bAhujyA, bAhutaraRam, bAhutraH, bAhutram, bAhutrARa, bAhudaRqaH, bAhudantakam, bAhuniHsftam, bAhupASaH, bAhupracAlakam, bAhupratibAhO, bAhuprasAraH, bAhuprasAraRam, bAhupraharaRaH, bAhuPalam, bAhubanDanam, bAhubalam, bAhuBaNgiH, bAhuBUzaRa, bAhuBUzA, bAhuBedin, bAhumUlam, bAhuyudDam, bAhuyoDaH, bAhuyoDin, bAhurakzA, bAhulatA, bAhuloham, bAhuvikzepaH, bAhuviGawwanam, bAhuviGawwitam, bAhuvIryam, bAhuvyAyAmaH, bAhuSAlin, bAhuSiKaram, bAhusaMBavaH, bAhusahasraBft#}
 <LEND>
@@ -315946,7 +315946,7 @@
  <ls>Rām. 1. 6. 22</ls>.
 <LEND>
 
-<L>24639<pc>1165-2<k1>bAhlakAH.ABC<k2>bAhlakAH,.ABC<e>1
+<L>24639.XYZ<pc>1165-2<k1>bAhlakAH.ABC<k2>bAhlakAH,.ABC<e>1
 {#bAhlakAH, bAhlikAH, bAhlIkAH#} + .{@{#-kam#}@}¦
 ∙²1 Saffron; {#… priyANgasaMgavyAluptastanatawabAhlikaSriyo'pi dfSyante#}
  {#bahirabalAH#} <ls>Rām. Ch. 7. 64</ls>.
@@ -323627,12 +323627,12 @@
 ∙²7 A measure equal to 64 {%palas%}.
 <LEND>
 
-<L>25039<pc>1190-2<k1>BAjanam.ABC<k2>BAjanam.ABC<e>1
+<L>25039.XYZ<pc>1190-2<k1>BAjanam.ABC<k2>BAjanam.ABC<e>1
 {#BAjanam#} + .{@{#-leKitam#}@}¦ A variety of diamonds capable of scratching on the surface
  of vessels; <ls>Kau. A. 2. 11. 29</ls>.
 <LEND>
 
-<L>25039<pc>1190-2<k1>BAjanam.ABC<k2>BAjanam.ABC<e>1
+<L>25039.XYZ<pc>1190-2<k1>BAjanam.ABC<k2>BAjanam.ABC<e>1
 {#BAjanam#} + .{@{#-lokaH#}@}¦ the world of inanimate things (<ab>opp.</ab> to {#sattvaloka#}); <ls>Buddh.</ls>
 .━{@<ab>Comp.</ab>@}: {#BAjanavizamaH#}
 <LEND>
@@ -323879,7 +323879,7 @@
  {#sAgare#} <ls>Jyotiṣa.</ls>
 <LEND>
 
-<L>25062<pc>1191-2<k1>BAdraH.ABC<k2>BAdraH,.ABC<e>1
+<L>25062.XYZ<pc>1191-2<k1>BAdraH.ABC<k2>BAdraH,.ABC<e>1
 {#BAdraH, BAdrapadaH#} + .{@{#-dAH#}@}¦ ({%<lex>f.</lex>%} <ab>pl.</ab>) <ab>N.</ab> of the 25th and 26th lunar mansions ({#pUrvABAdrapadA#}
  and {#uttarABAdrapadA#}).
 <LEND>
@@ -330139,7 +330139,7 @@
  {#gurUnahatvA hi mahAnuBAvAn Sreyo BoktuM BEkzyamapIha loke#} <ls>Bg. 2. 5</ls>.
 <LEND>
 
-<L>25330<pc>1211-2<k1>BEkzyam.ABC<k2>BEkzyam.ABC<e>1
+<L>25330.XYZ<pc>1211-2<k1>BEkzyam.ABC<k2>BEkzyam.ABC<e>1
 {#BEkzyam#} + .{@{#-ASramaH#}@}¦
 ∙²1 {#saMnyAsa#} <ab>q. v.</ab>; {#samadarSinaSca BUtezu BEkzyASramapadaM Bavet#} <ls>Mb. 12. 66. 5</ls>.
 ∙²2 {#brahmacarya#} <ab>q. v.</ab> <ls>Mb. 12. 66. 7</ls>.
@@ -330903,7 +330903,7 @@
 {#BOmika#}¦ {%<lex>a.</lex>%} ({#-kI#} {%<lex>f.</lex>%})
 <LEND>
 
-<L>25371<pc>1214-1<k1>BOmika.ABC<k2>BOmika.ABC<e>1
+<L>25371.XYZ<pc>1214-1<k1>BOmika.ABC<k2>BOmika.ABC<e>1
 {#BOmika#} + .{@{#-BOmya#}@}¦ {%<lex>a.</lex>%} [{#BUmi-Wak yat vA#}] Earthly, terrestrial, living
  or existing on the earth; {#BOmikEste samA jYeyA na tErAprayato Bavet#} <ls>Ms. 5. 142</ls>.
 <LEND>
@@ -340317,7 +340317,7 @@
 {#marul#}¦ In <ab>comp.</ab> for {#marut#}.
 <LEND>
 
-<L>25812<pc>1241-2<k1>marul.ABC<k2>marul.ABC<e>1
+<L>25812.XYZ<pc>1241-2<k1>marul.ABC<k2>marul.ABC<e>1
 {#marul#} + .{@{#-lokaH#}@}¦ the world of the gods.
 <LEND>
 
@@ -356173,7 +356173,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#meQraH#}¦ [{#mih-zwran#}] A ram.
 <LEND>
 
-<L>26640<pc>1289-1<k1>meQraH.ABC<k2>meQraH.ABC<e>1
+<L>26640.XYZ<pc>1289-1<k1>meQraH.ABC<k2>meQraH.ABC<e>1
 {#meQraH#} + .{@{#-dram#}@}¦ The male organ of generation, penis; ({#yasya#}) {#meQraM#}
  {#conmAdaSukrAByAM hInaM klIbaH sa ucyate#}.
 .━{@<ab>Comp.</ab>@}: {#meQracarman, meQrajaH, meQrarogaH, meQraSfNgI#}
@@ -383916,7 +383916,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 To retrograde.
 <LEND>
 
-<L>28256<pc>1379-1<k1>vakrIBU.ABC<k2>vakrIBU.ABC<e>1
+<L>28256.XYZ<pc>1379-1<k1>vakrIBU.ABC<k2>vakrIBU.ABC<e>1
 {#vakrIBU#} + .{@{#-vakrIBAvaH#}@}¦
 ∙²1 Curve.
 ∙²2 Dishonest or perverse disposition.
@@ -388328,7 +388328,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 A god, deity.
 <LEND>
 
-<L>28542<pc>1393-1<k1>varUtf.ABC<k2>varUtf.ABC<e>1
+<L>28542.XYZ<pc>1393-1<k1>varUtf.ABC<k2>varUtf.ABC<e>1
 {#varUtf#} + .{@{#-trI#}@}¦ A guardian deity.
 <LEND>
 
@@ -393500,7 +393500,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 A follower of the white Yajurveda, one belonging to the sect of the Vājasaneyins.
 <LEND>
 
-<L>28864<pc>1409-2<k1>vAjasaneyin.ABC<k2>vAjasaneyin.ABC<e>1
+<L>28864.XYZ<pc>1409-2<k1>vAjasaneyin.ABC<k2>vAjasaneyin.ABC<e>1
 {#vAjasaneyin#} + .{@{#-saMhitA#}@}¦ the text of the {#Suklayajurveda#}, ascribed to the Ṛṣi Yājñavalkya.
 <LEND>
 
@@ -395299,7 +395299,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  {#guRaH sparSaH#} <ls>Mb. 12. 184. 36</ls>.
 <LEND>
 
-<L>28990<pc>1414-2<k1>vAyavIya.ABC<k2>vAyavIya,.ABC<e>1
+<L>28990.XYZ<pc>1414-2<k1>vAyavIya.ABC<k2>vAyavIya,.ABC<e>1
 {#vAyavIya, vAyavya#} + .{@{#-vAyavyA#}@}¦ the northwest.
 .━{@<ab>Comp.</ab>@}: {#vAyavyapurARam#}
 <LEND>
@@ -401902,7 +401902,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 The natives of Vidarbha.
 <LEND>
 
-<L>29573<pc>1438-2<k1>vidarBAH.ABC<k2>vidarBAH.ABC<e>1
+<L>29573.XYZ<pc>1438-2<k1>vidarBAH.ABC<k2>vidarBAH.ABC<e>1
 {#vidarBAH#} + .{@{#-rBaH#}@}¦
 ∙²1 A king of the Vidarbhas.
 ∙²2 Any dry or desert soil.
@@ -407886,7 +407886,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 Singing, humming, chirping, buzzing; {#paraBftavirutaM kalaM yaTA prativacanIkftameBirIdfSam#} <ls>Ś. 4. 9</ls>.
 <LEND>
 
-<L>30134<pc>1462-2<k1>viruta.ABC<k2>viruta.ABC<e>1
+<L>30134.XYZ<pc>1462-2<k1>viruta.ABC<k2>viruta.ABC<e>1
 {#viruta#} + .{@{#-tiH#}@}¦ Screaming, howling.
 <LEND>
 
@@ -409294,7 +409294,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 Separation from; {#priyErvivAso bahuSaH saMvAsaScApriyEH saha#} <ls>Mb. 14. 16. 34</ls>.
 <LEND>
 
-<L>30272<pc>1468-1<k1>vivAsaH.ABC<k2>vivAsaH,.ABC<e>1
+<L>30272.XYZ<pc>1468-1<k1>vivAsaH.ABC<k2>vivAsaH,.ABC<e>1
 {#vivAsaH, -vivAsanam#} + .{@{#-vivAsakAle#}@}¦ {%<lex>ind.</lex>%} At the time of day-break.
 <LEND>
 <L>30272.002<pc>1468-1<k1>vivAsanam<k2>vivAsanam<e>1
@@ -417058,7 +417058,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 <ab>N.</ab> of Agni.
 <LEND>
 
-<L>30796<pc>1495-2<k1>vetasaH.ABC<k2>vetasaH.ABC<e>1
+<L>30796.XYZ<pc>1495-2<k1>vetasaH.ABC<k2>vetasaH.ABC<e>1
 {#vetasaH#} + .{@{#-amlaH#}@}¦ Rumex Vesicarius (<lang>Mar.</lang> <ns>{#cukA#}</ns>).
 .━{@<ab>Comp.</ab>@}: {#vetasagfham, vetasapatram, vetasavftti#}
 <LEND>
@@ -419994,7 +419994,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  Relating to the equinox, equinoctial.
 <LEND>
 
-<L>31088<pc>1506-1<k1>vEzuvat.ABC<k2>vEzuvat,.ABC<e>1
+<L>31088.XYZ<pc>1506-1<k1>vEzuvat.ABC<k2>vEzuvat,.ABC<e>1
 {#vEzuvat, vEzuvata#} + .{@{#-tam#}@}¦
 ∙²1 The equinox; {#sa eza udagayanadakziRAyanavEzuvatasaMjYABiH#} <ls>Bhāg. 5. 21. 3</ls>.
 ∙²2 The centre.
@@ -429079,7 +429079,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#SalAwu#}¦ {%<lex>a.</lex>%} Unripe.
 <LEND>
 
-<L>31757<pc>1539-1<k1>SalAwu.ABC<k2>SalAwu.ABC<e>1
+<L>31757.XYZ<pc>1539-1<k1>SalAwu.ABC<k2>SalAwu.ABC<e>1
 {#SalAwu#} + .{@{#-duH#}@}¦
 ∙²1 A kind of root.
 ∙²2 The Bilva tree.
@@ -432654,7 +432654,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 
 <LEND>
 
-<L>32025<pc>1550-1<k1>SiKaRqaH.ABC<k2>SiKaRqaH.ABC<e>1
+<L>32025.XYZ<pc>1550-1<k1>SiKaRqaH.ABC<k2>SiKaRqaH.ABC<e>1
 {#SiKaRqaH#} + .{@{#-KaRqikA#}@}¦ the {#cUqAkaraRa#} ceremony; <ls>Hch. 1</ls>.
 <LEND>
 
@@ -438578,7 +438578,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  <ls>Mb. 2. 49. 27</ls> (see Nīlakaṇṭha <ab>com.</ab>).
 <LEND>
 
-<L>32356<pc>1567-2<k1>SEkya.ABC<k2>SEkya.ABC<e>1
+<L>32356.XYZ<pc>1567-2<k1>SEkya.ABC<k2>SEkya.ABC<e>1
 {#SEkya#} + .{@{#-ayasam#}@}¦ Damasked steel; {#SakradevAya cikzepa sarvaSEkyAyasIM#}
  {#gadAm#} <ls>Mb. 6. 54. 24</ls>; {#SEkyAyasAni varmARi kAMsyAni ca samantataH#} <ls n="Mb.">7. 119. 42</ls>
  (<ab>com.</ab> {#SEkyAyasAni SoRitAyomayAni#}).
@@ -439210,7 +439210,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#SoRita#}¦ {%<lex>a.</lex>%} [{#SoR-itac#}] Red, purple, crimson.
 <LEND>
 
-<L>32407<pc>1569-2<k1>SoRita.ABC<k2>SoRita.ABC<e>1
+<L>32407.XYZ<pc>1569-2<k1>SoRita.ABC<k2>SoRita.ABC<e>1
 {#SoRita#} + .{@{#-Ram#}@}¦
 ∙²1 Blood; {#upasTitA SoRitapAraRA me#} <ls>R. 2. 39</ls>; <ls>Ve. 1. 21</ls>; <ls>Mu. 1. 8</ls>.
 ∙²2 Saffron.
@@ -444547,7 +444547,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 Possessed of or endowed with good qualities.
 <LEND>
 
-<L>32766<pc>1587-1<k1>saMyuj.ABC<k2>saMyuj.ABC<e>1
+<L>32766.XYZ<pc>1587-1<k1>saMyuj.ABC<k2>saMyuj.ABC<e>1
 {#saMyuj#} + .{@{#-jA#}@}¦ Union, connection; {#na pAraye'haM niravadyasaMyujAm#} <ls>Bhāg. 10. 33. 22</ls>.
 <LEND>
 
@@ -447889,7 +447889,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 A distant kinsman.
 <LEND>
 
-<L>33095<pc>1601-1<k1>sagotra.ABC<k2>sagotra.ABC<e>1
+<L>33095.XYZ<pc>1601-1<k1>sagotra.ABC<k2>sagotra.ABC<e>1
 {#sagotra#} + .{@{#-tam#}@}¦ Family, race, lineage.
 <LEND>
 
@@ -448516,7 +448516,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²6 Decease, death; {#yadi duHKamakftvA tu mama saMkramaRaM Bavet#} <ls>Rām. 2. 13. 12</ls>.
 <LEND>
 
-<L>33149<pc>1603-2<k1>saMkramaRam.ABC<k2>saMkramaRam.ABC<e>1
+<L>33149.XYZ<pc>1603-2<k1>saMkramaRam.ABC<k2>saMkramaRam.ABC<e>1
 {#saMkramaRam#} + .{@{#-kA#}@}¦ A gallery; <ls>Buddh.</ls>
 <LEND>
 
@@ -452022,7 +452022,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 Firm, fixed, settled; {#eza DarmaH sanAtanaH#} <ls>U. 5. 22. 3</ls> Primeval, ancient.
 <LEND>
 
-<L>33435<pc>1617-1<k1>sanAtana.ABC<k2>sanAtana.ABC<e>1
+<L>33435.XYZ<pc>1617-1<k1>sanAtana.ABC<k2>sanAtana.ABC<e>1
 {#sanAtana#} + .{@{#-taH#}@}¦
 ∙²1 The primeval being, Viṣṇu; {#sanAtanaH pitaramupAgamat svayam#} <ls>Bk. 1. 1</ls>.
 ∙²2 <ab>N.</ab> of Śiva.
@@ -460110,7 +460110,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  <ls>U. 1. 16</ls>; <ls>R. 2. 38</ls>.
 <LEND>
 
-<L>34239<pc>1648-2<k1>saMbanDin.ABC<k2>saMbanDin.ABC<e>1
+<L>34239.XYZ<pc>1648-2<k1>saMbanDin.ABC<k2>saMbanDin.ABC<e>1
 {#saMbanDin#} + .{@{#-SabdaH#}@}¦ an expression which gains its currency owing to the relationship
  existing between two persons or things; {#patnIti saMbanDiSabdo'yam#}
  <ls>ŚB. on MS. 6. 1. 7</ls>.
@@ -462143,7 +462143,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 Heaven.
 <LEND>
 
-<L>34419<pc>1655-2<k1>sarmaH.ABC<k2>sarmaH.ABC<e>1
+<L>34419.XYZ<pc>1655-2<k1>sarmaH.ABC<k2>sarmaH.ABC<e>1
 {#sarmaH#} + .{@{#-sarman#}@}¦ {%<lex>n.</lex>%} happiness; <ls>Uṇ. 1. 130</ls>.
 <LEND>
 
@@ -466616,7 +466616,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  {#sAma prastOti#}; <ls>Bṛ. Up. 1. 3. 28</ls>.
 <LEND>
 
-<L>34759<pc>1670-1<k1>sAman.ABC<k2>sAman.ABC<e>1
+<L>34759.XYZ<pc>1670-1<k1>sAman.ABC<k2>sAman.ABC<e>1
 {#sAman#} + .{@{#-sAmnA#}@}¦ {%<lex>ind.</lex>%} Willingly, gladly; {#tatra sma gATA gAyanti sAmnA#}
  {#paramavalgunA#} <ls>Mb. 3. 43. 28</ls>.
 .━{@<ab>Comp.</ab>@}: {#sAmodBavaH, sAmopacAraH, sAmopAyaH, sAmakalam, sAmagaH, sAmagarBaH, sAmagAyanaH, sAmaja, sAmajAta, sAmapraDAna, sAmayoniH, sAmavAdaH, sAmavid, sAmaviDAnam, sAmavedaH, sAmavedin, sAmavedIyaH#}
@@ -467772,7 +467772,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#sArasa#}¦ {%<lex>a.</lex>%} Crying, calling.
 <LEND>
 
-<L>34845<pc>1674-1<k1>sArasa.ABC<k2>sArasa.ABC<e>1
+<L>34845.XYZ<pc>1674-1<k1>sArasa.ABC<k2>sArasa.ABC<e>1
 {#sArasa#} + .{@{#-sArasyam#}@}¦ a cry, shout.
 <LEND>
 
@@ -469090,11 +469090,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#siMhalam#} + .{@{#-lAH#}@}¦ ({%<lex>m.</lex>%} <ab>pl.</ab>) The people of Ceylon.
 <LEND>
 
-<L>34978<pc>1679-2<k1>siMhalam.ABC<k2>siMhalam.ABC<e>1
+<L>34978.XYZ<pc>1679-2<k1>siMhalam.ABC<k2>siMhalam.ABC<e>1
 {#siMhalam#} + .{@{#-dvIpaH#}@}¦ the island of Ceylon.
 <LEND>
 
-<L>34978<pc>1679-2<k1>siMhalam.ABC<k2>siMhalam.ABC<e>1
+<L>34978.XYZ<pc>1679-2<k1>siMhalam.ABC<k2>siMhalam.ABC<e>1
 {#siMhalam#} + .{@{#-sTA#}@}¦ a species of pepper.
 <LEND>
 
@@ -477778,7 +477778,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 Bewailing, sorrowing.
 <LEND>
 
-<L>35365<pc>1704-2<k1>sotka.ABC<k2>sotka,.ABC<e>1
+<L>35365.XYZ<pc>1704-2<k1>sotka.ABC<k2>sotka,.ABC<e>1
 {#sotka, sotkaRWa#} + .{@{#-RWam#}@}¦ {%<lex>ind.</lex>%}
 ∙²1 With ardent or eager longing, anxiously; {#proqqIyeva balAkayA saraBasaM#}
  {#sotkaRWamAliNgitaH#} <ls>Mk. 5. 23</ls>.
@@ -479347,7 +479347,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#sOrasenAH#}¦ {%<lex>m.</lex>%} <ab>pl.</ab> <ab>N.</ab> of a district and its people.
 <LEND>
 
-<L>35507<pc>1710-1<k1>sOrasenAH.ABC<k2>sOrasenAH.ABC<e>1
+<L>35507.XYZ<pc>1710-1<k1>sOrasenAH.ABC<k2>sOrasenAH.ABC<e>1
 {#sOrasenAH#} + .{@{#-nI#}@}¦ See {#SOrasenI#}.
 <LEND>
 
@@ -496498,7 +496498,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  Belonging to or fit for an oblation.
 <LEND>
 
-<L>36620<pc>1767-1<k1>homIya.ABC<k2>homIya,.ABC<e>1
+<L>36620.XYZ<pc>1767-1<k1>homIya.ABC<k2>homIya,.ABC<e>1
 {#homIya, -homya#} + .{@{#-myam#}@}¦ (also {#hOmyam#})
 ∙²1 Ghee.
 ∙²2 Anything for an oblation ({#homadravya#}); {#agnInAmavyayaM hyetadDOmyaM#}
