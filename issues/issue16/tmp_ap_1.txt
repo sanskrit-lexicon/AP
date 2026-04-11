@@ -68511,7 +68511,7 @@
 ∙²4 Breath ({@{#SvAsa#}@}).
 <LEND>
 
-<L>6135<pc>0293-1<k1>asiH<k2>asiH<e>1
+<L>6135.XYZ<pc>0293-1<k1>asi<k2>asi<e>1
 {#asiH#} + .{@{#-si#}@}¦ {%<lex>ind.</lex>%} The 2nd <ab>pers.</ab> <ab>sing.</ab> of the present of {#as#} to be,
  used as an indeclinable in the sense of {#‘tvam’#} thou; as in {#kftavAnasi#}
  {#vipriyaM na me#} <ls>Ku. 4. 7</ls> (where however {#asi#} may be taken as a verb).
@@ -70268,7 +70268,7 @@
 ∙²2 Not forming part of the institutes of law.
 <LEND>
 
-<L>6259<pc>0299-1<k1>asmftiH<k2>asmftiH<e>1
+<L>6259.XYZ<pc>0299-1<k1>asmfti<k2>asmfti<e>1
 {#asmftiH#} + .{@{#-ti#}@}¦ {%<lex>ind.</lex>%} <ab>Ved.</ab> Inattentively; {#yadasmfti cakfma kiM cidagna#}
  {#upArima caraRe jAtavedaH#} <ls>Av. 7. 106. 1</ls>.
 <LEND>
@@ -81915,7 +81915,7 @@
 ∙²3 Putting on, wearing (clothes, ornaments <ab>&c.</ab>).
 <LEND>
 
-<L>7289<pc>0346-1<k1>AmuktiH<k2>AmuktiH<e>1
+<L>7289.XYZ<pc>0346-1<k1>Amukti<k2>Amukti<e>1
 {#AmuktiH#} + .{@{#-kti#}@}¦ {%<lex>ind.</lex>%} Till final beatitude is obtained.
 <LEND>
 
@@ -88132,7 +88132,7 @@
 ∙²2 Waylaying (<ab>Ved.</ab>).
 <LEND>
 
-<L>7895<pc>0371-2<k1>AsaktiH<k2>AsaktiH<e>1
+<L>7895.XYZ<pc>0371-2<k1>Asakti<k2>Asakti<e>1
 {#AsaktiH#} + .{@{#-kti#}@}¦ {%<lex>ind.</lex>%} <ab>Ved.</ab> Purposely.
 <LEND>
 
