@@ -1,4 +1,5 @@
 import re
+import sys
 from parseheadline import parseheadline
 
 
@@ -74,16 +75,21 @@ def adjust_hw(basehw, suffix, lid):
     elif basehw.endswith('H') and re.sub('uH$', 'u', basehw).endswith(suffix):
         return basehw[:-1]
     # If no matches, they need to be manually corrected
-    print(lid + ' -> ' + basehw + ' + ' + suffix)
     return None
 
 
 if __name__=="__main__":
-    fout = open('tmp_ap_1.txt', 'w')
+    input_file = sys.argv[1]
+    output_file = sys.argv[2]
+    log_file = sys.argv[3]
+
+    fout = open(output_file, 'w')
+    flog = open(log_file, 'w')
+    flog.write('Lnum\tbasehw\tsuffix\tresolution\n')
     correct = 0
     wrong = 0
 
-    with open('tmp_ap_0.txt', 'r') as fin:
+    with open(input_file, 'r') as fin:
         for lin in fin:
             lin = lin.rstrip()
             if '¦' in lin:
@@ -101,8 +107,10 @@ if __name__=="__main__":
                     suggestion =  adjust_hw(basehw, suffix, lid)
                     if suggestion:
                         correct += 1
+                        flog.write(f'{lid}\t{basehw}\t{suffix}\t{suggestion}\n')
                     else:
                         wrong += 1
+                        flog.write(f'{lid}\t{basehw}\t{suffix}\tNone\n')
                     fout.write('<LEND>\n\n')
                     if suggestion:
                         metaline1 = metaline.replace('<k1>' + basehw, '<k1>' + suggestion)
@@ -120,8 +128,8 @@ if __name__=="__main__":
                     fout.write(lin + '\n')
             else:
                 fout.write(lin + '\n')
-    print('Resolved : ', correct, ' - ', correct*100/(correct+wrong), '%')
-    print('Unresolved : ', wrong, ' - ', wrong*100/(correct+wrong), '%')
-    print('Total : ', correct + wrong, ' - ', '100%')
+    total = correct + wrong
+    print(f'Resolved: {correct}, Unresolved: {wrong}, Total: {total}')
     fin.close()
     fout.close()
+    flog.close()

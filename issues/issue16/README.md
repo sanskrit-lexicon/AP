@@ -24,3 +24,14 @@ tmp_ap_0.txt is taken as of 1bc3a0825a85b4e18120d872ef93e418e59e18ca in csl-orig
 
 # Step 1
 
+Correct entries having '^[.]{@{#\-([^ }]+)#}@}' in the regex.
+There were around 7412 such cases where the line starts with a word having the above regex. 
+They were easier to handle.
+`python3 step1.py tmp_ap_0.txt tmp_ap_1.txt log1.tsv`
+This takes tmp_ap_0.txt as input and produces tmp_ap_1.txt as output.
+log1.tsv is a tab separated file the Lid, basehw, suffix and resolution fields. If resolution is not found, the answer is shown as 'None'.
+Where automatic resolution could not be done, temp_ap_1.txt file has key1 and key2 marked with '.ABC' as placeholder, so that they can be easily identified and corrected manually.
+As there is a high possibility that L numbers may change subsequent to handling of other patterns in future, all new L numbers are marked with '.XYZ' as placeholder in tmp_ap_1.txt. They will be mechanically filled in later, looking at the L numbers of surrounding entries.
+
+
+
