@@ -9154,7 +9154,7 @@
  {#kalpyeta .#} <ls>ŚB. on MS. 6. 1. 7</ls>.
 <LEND>
 
-<L>553<pc>0038-1<k1>atantra<k2>atantra<e>1
+<L>553.XYZ<pc>0038-1<k1>atantratvam<k2>atantratvam<e>1
 {#atantra#} + .{@{#-tvam#}@}¦ meaninglessness, superfluity, superfluous nature. {#kiM#}
  {#tu itarasmin pakze bADyatetarAM SrutiH . EndraSabdasyAtantratvAt .#} <ls>ŚB. on MS. 6. 4. 29</ls>.
 <LEND>
@@ -60922,7 +60922,7 @@
 {#avikriya#} + .{@{#-yam#}@}¦ Brahman.
 <LEND>
 
-<L>5478<pc>0264-2<k1>avikriya<k2>avikriya<e>1
+<L>5478.XYZ<pc>0264-2<k1>avikriyatvam<k2>avikriyatvam<e>1
 {#avikriya#} + .{@{#-tvam#}@}¦ Unchangeableness.
 <LEND>
 
@@ -62540,7 +62540,7 @@
  {#saPalaM na Bavati, dozaSca jAyate . ato'vEdyaH SUdraH#} <ls>ŚB. on MS. 6. 1. 37</ls>.
 <LEND>
 
-<L>5685<pc>0270-2<k1>avEdya<k2>avEdya<e>1
+<L>5685.XYZ<pc>0270-2<k1>avEdyatvam<k2>avEdyatvam<e>1
 {#avEdya#} + .{@{#-tvam#}@}¦ ignorance (of the veda) {#avEdyatvAdaBAvaH karmaRi syAt#} <ls>MS. 6. 1. 37</ls>.
 <LEND>
 
@@ -77090,7 +77090,7 @@
  <ls>Bk. 2. 33</ls>; <ls>H. 3. 121</ls>.
 <LEND>
 
-<L>6787<pc>0326-1<k1>AtmaMBari<k2>AtmaMBari<e>1
+<L>6787.XYZ<pc>0326-1<k1>AtmaMBaritvam<k2>AtmaMBaritvam<e>1
 {#AtmaMBari#} + .{@{#-˚tvam#}@}¦ Selfishness {#… aho te AtmaMBaritvam . nAgAnanda#} <ls n="H.">2. 16</ls>.
 <LEND>
 
@@ -102997,7 +102997,7 @@
 ∙²2 A tortoise
 <LEND>
 
-<L>9137<pc>0430-2<k1>udBawa<k2>udBawa<e>1
+<L>9137.XYZ<pc>0430-2<k1>udBawatvam<k2>udBawatvam<e>1
 {#udBawa#} + .{@{#-tvam#}@}¦ weight, importance.
 <LEND>
 
@@ -111480,7 +111480,7 @@
 ∙²3 <ab>N.</ab> of a Soma offering.
 <LEND>
 
-<L>10122<pc>0469-2<k1>upAMSu<k2>upAMSu<e>1
+<L>10122.XYZ<pc>0469-2<k1>upAMSutvam<k2>upAMSutvam<e>1
 {#upAMSu#} + .{@{#-tvam#}@}¦ Silence. {#upAMSutvaM prajApaterDarmaH .#} <ls>ŚB. on MS. 10. 8. 52</ls>.
 .━{@<ab>Comp.</ab>@}: {#upAMSukrIqita, upAMSugrahaH, upAMSudaRqaH, upAMSuyAjaH, upAMSuvaDaH#}
 <LEND>

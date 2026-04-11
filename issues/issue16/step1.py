@@ -62,9 +62,9 @@ def adjust_hw(basehw, suffix, lid):
     # upastamBaka + tA
     elif suffix == 'tA':
         return basehw + 'tA'
-    # upastamBaka + tA
-    elif suffix == 'tA':
-        return basehw + 'tA'
+    # upastamBaka + tvam
+    elif suffix == 'tvam':
+        return basehw + 'tvam'
     # aviSeza + ka[HM]*
     elif re.search('^ka[HM]*$', suffix):
         return basehw + suffix

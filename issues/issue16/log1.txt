@@ -7,7 +7,6 @@
 421 -> ajarya + ryama
 467 -> ajYAna + parIkzA
 488 -> aYjalikA + veDa
-553 -> atantra + tvam
 619 -> aticCanda + s
 629 -> atitIvra + kzRaH
 629 -> atitIvra + kzRA
@@ -58,13 +57,11 @@
 4965 -> avataraRa + maNgalam
 5186 -> avarudDiH + kA
 5433 -> avAta + tama
-5478 -> avikriya + tvam
 5559 -> avipakva + karaRa
 5559 -> avipakva + budDi
 5603 -> avivakzita + vacanatA
 5612 -> avivenat + nam
 5652 -> avIci + saMSozaRaH
-5685 -> avEdya + tvam
 5908 -> aSvin + nO
 5939 -> azwrA + vin
 6005 -> asaMga + cArin
@@ -77,7 +74,6 @@
 6335 -> ahna + ahnyam
 6602 -> AcAnta + tiH
 6784 -> AtmanA + saptamaH
-6787 -> AtmaMBari + tvam
 6799 -> ATarvaRa + Siras
 6992 -> AnupUrva + vat
 7028 -> Antaratamya + kam
@@ -105,13 +101,11 @@
 8792 -> utprekzA + avayavaH
 9001 -> udgArin + riH
 9124 -> udbanDa + nDanI
-9137 -> udBawa + tvam
 9231 -> udvigna + dfS
 9510 -> upajAta + Keda
 9557 -> upadaMSa + nam
 9736 -> upabda + upadbiH
 9950 -> upaSaya + sTa
-10122 -> upAMSu + tvam
 10333 -> ulUka + jit
 10333 -> ulUka + yAtuH
 10634 -> ekaka + Satam
@@ -242,6 +236,6 @@
 35365 -> sotka + RWam
 35507 -> sOrasenAH + nI
 36620 -> homIya + myam
-Resolved :  7479  -  96.8406059821313 %
-Unresolved :  244  -  3.1593940178687037 %
+Resolved :  7485  -  96.91829599896413 %
+Unresolved :  238  -  3.0817040010358667 %
 Total :  7723  -  100%
