@@ -1,9 +1,6 @@
 import re
 from parseheadline import parseheadline
 
-fout = open('tmp_ap_1.txt', 'w')
-correct = 0
-wrong = 0
 
 def adjust_hw(basehw, suffix):
     basehw = re.sub('[a][Hm]$', 'a', basehw) # rameSaH -> rameSa
@@ -57,12 +54,19 @@ def adjust_hw(basehw, suffix):
 #print(adjust_hw('ISvaraH', '-rI'))
 
 if __name__=="__main__":
+    fout = open('tmp_ap_1.txt', 'w')
+    correct = 0
+    wrong = 0
+
     with open('tmp_ap_0.txt', 'r') as fin:
         for lin in fin:
             lin = lin.rstrip()
+            if '¦' in lin:
+                pref = lin.split('¦')[0]
             if lin.startswith('<L>'):
                 metaline = lin
                 meta = parseheadline(lin)
+                fout.write(lin + '\n')
             elif lin.startswith('.{@{#'):
                 m = re.search('^[.]{@{#\-([^ }]+)#}@}', lin)
                 if m:
@@ -73,11 +77,25 @@ if __name__=="__main__":
                         correct += 1
                     else:
                         wrong += 1
-                    print(basehw, suffix, adjust_hw(basehw, suffix))
-                    #fout.write('<LEND>\n\n')
-                    #fout.write(metaline + '\n')
-            #fout.write(lin + '\n')
-    print('Resolved : ', correct)
-    print('Unresolved : ', wrong)
-    print('Total : ', correct + wrong)
-
+                    suggestion =  adjust_hw(basehw, suffix)
+                    print(basehw, suffix, suggestion)
+                    fout.write('<LEND>\n\n')
+                    if suggestion:
+                        metaline1 = metaline.replace('<k1>' + basehw, '<k1>' + suggestion)
+                        metaline1 = metaline1.replace('<k2>' + basehw, '<k2>' + suggestion)
+                        metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
+                        fout.write(metaline1 + '\n')
+                    else:
+                        fout.write(metaline + '\n')
+                    hw_rep =  pref + ' + .{@{#-' +  m.group(1) + '#}@}¦'
+                    lin_with_pref = lin.replace('.{@{#-' + m.group(1) + '#}@}', hw_rep)
+                    fout.write(lin_with_pref + '\n')
+                else:
+                    fout.write(lin + '\n')
+            else:
+                fout.write(lin + '\n')
+    print('Resolved : ', correct, ' - ', correct*100/(correct+wrong), '%')
+    print('Unresolved : ', wrong, ' - ', wrong*100/(correct+wrong), '%')
+    print('Total : ', correct + wrong, ' - ', '100%')
+    fin.close()
+    fout.close()
