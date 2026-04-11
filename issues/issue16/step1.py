@@ -110,7 +110,9 @@ if __name__=="__main__":
                         metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
                         fout.write(metaline1 + '\n')
                     else:
-                        fout.write(metaline + '\n')
+                        metaline1 = metaline.replace('<k2>', '.ABC<k2>')
+                        metaline1 = metaline1.replace('<e>', '.ABC<e>')
+                        fout.write(metaline1 + '\n')
                     hw_rep =  pref + ' + .{@{#-' +  m.group(1) + '#}@}¦'
                     lin_with_pref = lin.replace('.{@{#-' + m.group(1) + '#}@}', hw_rep)
                     fout.write(lin_with_pref + '\n')
