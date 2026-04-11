@@ -1,3 +1,5 @@
+# Initial Statistics
+
 tmp_ap_0.txt is taken as of 1bc3a0825a85b4e18120d872ef93e418e59e18ca in csl-orig repository
 
 1           {@          15364
@@ -19,3 +21,6 @@ tmp_ap_0.txt is taken as of 1bc3a0825a85b4e18120d872ef93e418e59e18ca in csl-orig
 1.2         {@<          4454
 1.2.1       {@<ab>       4454
 1.3         {@[^<{]         1
+
+# Step 1
+

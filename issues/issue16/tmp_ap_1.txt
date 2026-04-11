@@ -10630,7 +10630,7 @@
 {#atiruc#}¦ {%<lex>m.</lex>%} [{#rocate iti ruk strIRAm UrudeSaH#}; {#atikrAnto rucam#} <ls>Tv.</ls>] The knee.
 <LEND>
 
-<L>726<pc>0045-1<k1>atiruc<k2>atiruc<e>1
+<L>726.XYZ<pc>0045-1<k1>atiruk<k2>atiruk<e>1
 {#atiruc#} + .{@{#-k#}@}¦ {%<lex>f.</lex>%} A very beautiful woman.
 <LEND>
 
@@ -31724,7 +31724,7 @@
 {#apapUta#}¦ {%<lex>a.</lex>%} Having badly formed hips.
 <LEND>
 
-<L>2655<pc>0142-2<k1>apapUta<k2>apapUta<e>1
+<L>2655.XYZ<pc>0142-2<k1>apapUtO<k2>apapUtO<e>1
 {#apapUta#} + .{@{#-tO#}@}¦ Badly formed hips; <ls>P. VI. 2. 187</ls>.
 <LEND>
 
@@ -33991,7 +33991,7 @@
 ∙²4 Southern (<ab>opp.</ab> {#udaYc#}); probably for {#avAYc#}.
 <LEND>
 
-<L>2919<pc>0153-1<k1>apAc<k2>apAc,<e>1
+<L>2919.XYZ<pc>0153-1<k1>apAk<k2>apAk,<e>1
 {#apAc, apAYc#} + .{@{#-k#}@}¦ {%<lex>ind.</lex>%}
 ∙²1 Behind, backwards.
 ∙²2 Westward or southward.
@@ -53183,7 +53183,7 @@
 [Page0231-1]
 <LEND>
 
-<L>4613<pc>0230-2<k1>arvAc<k2>arvAc<e>1
+<L>4613.XYZ<pc>0230-2<k1>arvAk<k2>arvAk<e>1
 {#arvAc#} + .{@{#-k#}@}¦ {%<lex>ind.</lex>%}
 ∙²1 Hitherward, on this side.
 ∙²2 From a certain point.
@@ -64732,7 +64732,7 @@
  {#dvAdaSANgulameQraSca daridrastu hayo mataH ..#}
 <LEND>
 
-<L>5890<pc>0278-2<k1>aSvaH<k2>aSvaH<e>1
+<L>5890.XYZ<pc>0278-2<k1>aSvO<k2>aSvO<e>1
 {#aSvaH#} + .{@{#-SvO#}@}¦ (<ab>du.</ab>) A horse and a mare.
 <LEND>
 
@@ -75799,7 +75799,7 @@
 ∙²2 Scrotum.
 <LEND>
 
-<L>6722<pc>0321-2<k1>ARqa<k2>ARqa<e>1
+<L>6722.XYZ<pc>0321-2<k1>ARqO<k2>ARqO<e>1
 {#ARqa#} + .{@{#-qO#}@}¦ (<ab>Ved.</ab>) The testicles. {#kroDo vfkkO manyurARqO prajA SepaH#} <ls>Av. 9. 7. 13</ls>.
 .━{@<ab>Comp.</ab>@}: {#ARqakoSaH, ARqaja#}
 <LEND>
@@ -77780,7 +77780,7 @@
 ∙²4 <ab>N.</ab> of the {%Arka%} plant (<lang>Mar.</lang> <ns>{#ruI#}</ns>).
 <LEND>
 
-<L>6829<pc>0328-2<k1>Aditya<k2>Aditya<e>1
+<L>6829.XYZ<pc>0328-2<k1>AdityO<k2>AdityO<e>1
 {#Aditya#} + .{@{#-tyO#}@}¦ (dual) <ab>N.</ab> of a constellation, the seventh lunar mansion ({#punarvasu#}).
 .━{@<ab>Comp.</ab>@}: {#AdityaketuH, AdityacandrO, AdityadarSanam, AdityapatraH, AdityaparRinI, AdityapurARam, AdityapuzpikA, AdityabanDuH, AdityaBaktA, AdityamaRqalam, Adityavratam, AdityasUnuH#}
 <LEND>
@@ -100249,7 +100249,7 @@
 ∙²4 Subsequent.
 <LEND>
 
-<L>8884<pc>0419-1<k1>udac<k2>udac,<e>1
+<L>8884.XYZ<pc>0419-1<k1>udak<k2>udak,<e>1
 {#udac, -udaYc#} + .{@{#-k#}@}¦ {%<lex>ind.</lex>%}
 ∙²1 Above.
 ∙²2 Northward, to the north of (with <ab>abl.</ab>); {#Acamyodak parAvftya#} <ls>Ms. 3. 217</ls>.
@@ -146553,7 +146553,7 @@
 ∙²4 An epithet of Vālmīki.
 <LEND>
 
-<L>12650<pc>0590-1<k1>kuSIlavaH<k2>kuSIlavaH<e>1
+<L>12650.XYZ<pc>0590-1<k1>kuSIlavO<k2>kuSIlavO<e>1
 {#kuSIlavaH#} + .{@{#-vO#}@}¦ (<ab>du.</ab>) The two sons of Rāma.
 <LEND>
 
@@ -186905,7 +186905,7 @@
 {#janitvaH#} + .{@{#-tvA#}@}¦ A mother.
 <LEND>
 
-<L>15393<pc>0726-2<k1>janitvaH<k2>janitvaH<e>1
+<L>15393.XYZ<pc>0726-2<k1>janitvO<k2>janitvO<e>1
 {#janitvaH#} + .{@{#-tvO#}@}¦ ({%dual%}) Parents.
 <LEND>
 
@@ -196087,7 +196087,7 @@
  <ls>Bṛ. S. 104. 27</ls>. {#giri˚, kalinda˚#} <ab>&c.</ab>
 <LEND>
 
-<L>16106<pc>0757-2<k1>tanayaH<k2>tanayaH<e>1
+<L>16106.XYZ<pc>0757-2<k1>tanayO<k2>tanayO<e>1
 {#tanayaH#} + .{@{#-yO#}@}¦ (dual) A son and a daughter.
 <LEND>
 
@@ -211673,7 +211673,7 @@
 {#dasra#}¦ {%<lex>a.</lex>%} [{#dasyati pAMsUn das-rak#}] Savage, fierce, destructive.
 <LEND>
 
-<L>17130<pc>0806-2<k1>dasra<k2>dasra<e>1
+<L>17130.XYZ<pc>0806-2<k1>dasrO<k2>dasrO<e>1
 {#dasra#} + .{@{#-srO#}@}¦ {%<lex>m.</lex>%} (<ab>du.</ab>)
 ∙²1 The two Asvins, the physicians of the gods; <ls>Mb. 1. 3. 58</ls>; <ls>Bṛ. Up. 2. 5. 17</ls>.
 ∙²2 The number ‘two’.
@@ -229292,7 +229292,7 @@
  assuming, <ab>&c.</ab>
 <LEND>
 
-<L>17978<pc>0860-1<k1>DAraRa<k2>DAraRa<e>1
+<L>17978.XYZ<pc>0860-1<k1>DAraRO<k2>DAraRO<e>1
 {#DAraRa#} + .{@{#-RO#}@}¦ (<ab>du.</ab>) The two female breasts.
 <LEND>
 
@@ -235183,7 +235183,7 @@
 ∙²2 Indra.
 <LEND>
 
-<L>18355<pc>0880-1<k1>narya<k2>narya<e>1
+<L>18355.XYZ<pc>0880-1<k1>naryO<k2>naryO<e>1
 {#narya#} + .{@{#-ryO#}@}¦ (<ab>du.</ab>) The two objects of human desire, {%<ab>i. e.</ab>%} Heaven and earth.
 <LEND>
 
@@ -238744,7 +238744,7 @@
 {#nAsikya#} + .{@{#-kyaH#}@}¦ A nasal sound.
 <LEND>
 
-<L>18568<pc>0891-2<k1>nAsikya<k2>nAsikya<e>1
+<L>18568.XYZ<pc>0891-2<k1>nAsikyO<k2>nAsikyO<e>1
 {#nAsikya#} + .{@{#-kyO#}@}¦ (<ab>du.</ab>) An epithet of the Aśvins.
 <LEND>
 
@@ -261424,7 +261424,7 @@
 ∙²13 (In <ab>astrol.</ab>) <ab>N.</ab> of the 19th Yoga.
 <LEND>
 
-<L>20132<pc>0973-2<k1>pariGaH<k2>pariGaH<e>1
+<L>20132.XYZ<pc>0973-2<k1>pariGO<k2>pariGO<e>1
 {#pariGaH#} + .{@{#-GO#}@}¦ {%<lex>m.</lex>%} (<ab>du.</ab>) Two birds flying on each side of a traveller
  (regarded as an omen).
 .━{@<ab>Comp.</ab>@}: {#pariGaguru, pariGastamBaH#}
@@ -277609,7 +277609,7 @@
  {#janmalagna#}.
 <LEND>
 
-<L>21543<pc>1029-1<k1>putraH<k2>putraH<e>1
+<L>21543.XYZ<pc>1029-1<k1>putrO<k2>putrO<e>1
 {#putraH#} + .{@{#-trO#}@}¦ (<ab>du.</ab>) A son and daughter.
 .━{@<ab>Comp.</ab>@}: {#putrAnnAdaH, putrArTin, putrAcArya, putrAdinI, putrezwiH, putrezwikA, putrESvaryam, putrakarman, putrakAma, putrakAmyA, putrakAryam, putrakft, putrakftakaH, putrajagDI, putrajAta, putradAram, putraDarmaH, putrapOtram, putrapOtrAH, putrapOtrIRa, putrapratiniDiH, putrapravaraH, putralABaH, putravaDaH, putrasaKaH, putrasUH, putrahIna, putrasaMkarin, putrahataH#}
 <LEND>
@@ -322477,7 +322477,7 @@
 ∙²10 Acquisition ({#prApti#}).
 <LEND>
 
-<L>24970<pc>1187-1<k1>Bava<k2>Bava<e>1
+<L>24970.XYZ<pc>1187-1<k1>BavO<k2>BavO<e>1
 {#Bava#} + .{@{#-vO#}@}¦ (dual) Śiva and Bhavānī.
 .━{@<ab>Comp.</ab>@}: {#BavAgram, BavAtiga, BavAntakft, BavAntaram, BavAbDiH, BavArRavaH, BavasamudraH, BavasAgaraH, BavasinDuH, BavABavO, BavABIzwam, BavAyanA, BavAyanI, BavAraRyam, BavAtmajaH, BavArta, BaveSaH, BavocCedaH, BavakzitiH, BavaGasmaraH, BavacCid, BavacCedaH, Bavajalam, BavadAru, BavanASinI, BavapratisaMDiH, BavabanDeSaH, BavaBaNgaH, BavaBAj, BavaBAvana, BavaBIru, BavaBUtam, BavaBUtiH, BavaBogaH, BavamanyuH, BavamocanaH, Bavarud, BavavItiH, BavavyayaH, BavaSeKaraH, BavasaMgin, BavasaMtatiH#}
 <LEND>
@@ -334470,7 +334470,7 @@
 ∙²3 A king of the Matsyas.
 <LEND>
 
-<L>25606<pc>1225-2<k1>matsyaH<k2>matsyaH<e>1
+<L>25606.XYZ<pc>1225-2<k1>matsyO<k2>matsyO<e>1
 {#matsyaH#} + .{@{#-tsyO#}@}¦ (dual) The sign {%Pisces%} of the zodiac.
 <LEND>
 
@@ -346092,7 +346092,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#mAtAmahaH#}¦ A maternal grandfather.
 <LEND>
 
-<L>26028<pc>1257-2<k1>mAtAmahaH<k2>mAtAmahaH<e>1
+<L>26028.XYZ<pc>1257-2<k1>mAtAmahO<k2>mAtAmahO<e>1
 {#mAtAmahaH#} + .{@{#-hO#}@}¦ (dual) The maternal grand-father and grand-mother.
 <LEND>
 
@@ -360740,7 +360740,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#yama#} + .{@{#-mI#}@}¦ <ab>N.</ab> of the river Yamunā.
 <LEND>
 
-<L>26908<pc>1305-1<k1>yama<k2>yama<e>1
+<L>26908.XYZ<pc>1305-1<k1>yamO<k2>yamO<e>1
 {#yama#} + .{@{#-mO#}@}¦ ({%<lex>m.</lex>%} <ab>du.</ab>)
 ∙²1 Twins; {#kaTaM tvametO DftisaMyamO yamO#} <ls>Ki. 1. 36</ls>.
 ∙²2 <ab>N.</ab> of the Aśvins; {#yamO yamopamO cEva dadO dAnAnyanekaSaH#} <ls>Mb. 14. 61. 38</ls>.
@@ -361009,7 +361009,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#yamala#} + .{@{#-laH#}@}¦ The number ‘two’.
 <LEND>
 
-<L>26913<pc>1306-1<k1>yamala<k2>yamala<e>1
+<L>26913.XYZ<pc>1306-1<k1>yamalO<k2>yamalO<e>1
 {#yamala#} + .{@{#-lO#}@}¦ (dual) A pair.
 .{@{#-lam, -lI#}@} A pair, couple.
 <LEND>
@@ -393791,7 +393791,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 A Brāhmaṇa.
 <LEND>
 
-<L>28886<pc>1410-2<k1>vAqaveyaH<k2>vAqaveyaH<e>1
+<L>28886.XYZ<pc>1410-2<k1>vAqaveyO<k2>vAqaveyO<e>1
 {#vAqaveyaH#} + .{@{#-yO#}@}¦ ({%<lex>m.</lex>%} dual) The two Aśvins.
 <LEND>
 
@@ -434074,7 +434074,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²13 A ruby. ∙²14 Time ({#kAla#}).
 <LEND>
 
-<L>32107<pc>1554-1<k1>Siva<k2>Siva<e>1
+<L>32107.XYZ<pc>1554-1<k1>SivO<k2>SivO<e>1
 {#Siva#} + .{@{#-vO#}@}¦ ({%<lex>m.</lex>%} dual) Śiva and Pārvatī; {#kaTayati SivayoH SarIrayogaM#}
  {#vizamapadA padavI vivartanezu#} <ls>Ki. 5. 40</ls>.
 <LEND>
@@ -442797,7 +442797,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 A respectable man.
 <LEND>
 
-<L>32664<pc>1581-1<k1>SvaSuraH<k2>SvaSuraH<e>1
+<L>32664.XYZ<pc>1581-1<k1>SvaSurO<k2>SvaSurO<e>1
 {#SvaSuraH#} + .{@{#-rO#}@}¦ ({%dual%}) The father-in-law and mother-in-law.
 <LEND>
 

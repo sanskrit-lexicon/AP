@@ -2,7 +2,7 @@ import re
 from parseheadline import parseheadline
 
 
-def adjust_hw(basehw, suffix):
+def adjust_hw(basehw, suffix, lid):
     basehw = re.sub('[a][Hm]$', 'a', basehw) # rameSaH -> rameSa
     suffix = suffix.lstrip('[-˚]') # -nI -> nI
     # kamala / -lam = kamalam
@@ -47,11 +47,16 @@ def adjust_hw(basehw, suffix):
     # janman / -hetuH = janmahetuH
     elif basehw == 'janman' and not re.search('^[aAiIuUfFxeEoO]', suffix):
         return 'janma' + suffix
+    # atiruc / -k = atiruk
+    elif basehw.endswith('c') and suffix == 'k':
+        return basehw[:-1] + 'k'
+    # kuSIlava / -vO = kuSIlavO
+    elif re.sub('a$', 'O', basehw).endswith(suffix):
+        return re.sub('a$', 'O', basehw)
     # If no matches, they need to be manually corrected
-    print('No result found for: ' + basehw + ' + ' + suffix)
+    print(lid + ' -> ' + basehw + ' + ' + suffix)
     return None
 
-#print(adjust_hw('ISvaraH', '-rI'))
 
 if __name__=="__main__":
     fout = open('tmp_ap_1.txt', 'w')
@@ -66,19 +71,18 @@ if __name__=="__main__":
             if lin.startswith('<L>'):
                 metaline = lin
                 meta = parseheadline(lin)
+                lid = meta['L']
                 fout.write(lin + '\n')
             elif lin.startswith('.{@{#'):
                 m = re.search('^[.]{@{#\-([^ }]+)#}@}', lin)
                 if m:
                     basehw = meta['k1']
                     suffix = m.group(1)
-                    resol = adjust_hw(basehw, suffix)
-                    if resol:
+                    suggestion =  adjust_hw(basehw, suffix, lid)
+                    if suggestion:
                         correct += 1
                     else:
                         wrong += 1
-                    suggestion =  adjust_hw(basehw, suffix)
-                    print(basehw, suffix, suggestion)
                     fout.write('<LEND>\n\n')
                     if suggestion:
                         metaline1 = metaline.replace('<k1>' + basehw, '<k1>' + suggestion)
