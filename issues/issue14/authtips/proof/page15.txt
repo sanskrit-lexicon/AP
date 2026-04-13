@@ -1,0 +1,75 @@
+Ā. or Ātm	Ātmanepada.
+a.	Adjective.
+abl.	Ablative.
+acc.	Accusative.
+adv.	Adverb.
+alg.	Algebra.
+Arith.	Arithmetic.
+A. S.	Anglo‑Saxon.
+astr.	Astronomy.
+astrol.	Astrology.
+Avyayī	Avyayībhāva.
+Bah.	Bahuvrīhi.
+Caus.	Causal.
+cf.	Compare.
+Com.	Commentary.
+Comp.	Compound.
+dat.	Dative.
+Den.	Denominative.
+desid.	Desiderative.
+du.	Dual.
+e. g.	Exempli gratia, for example.
+Eng.	English.
+Etym., Ety.	Etymology.
+f. or fem.	Feminine.
+fig.	Figurative.
+fr.	From.
+frev.	Frequentative.
+gen.	Genitive.
+Germ.	German.
+Goth.	Gothic.
+Gr.	Greek.
+gram.	Grammar.
+ibid.	The same.
+i. e.	id est, that is.
+ind.	Indeclinable.
+inf.	Infinitive.
+instr.	Instrumental.
+L.	Latin.
+lit.	Literal.
+loc.	Locative.
+m. or mas.	Masculine.
+Mar.	Marathi.
+Math.	Mathematics.
+Medic.	Medicine.
+n.	Neuter.
+N.	Name.
+Nom.	Nominative.
+num. a.	Numeral adjective.
+oft.	Often times.
+opp.	Opposite of.
+P.	Parasmaipada.
+pass.	Passive.
+Pers.	Persian.
+phil.	Philosophy.
+pl.	Plural.
+pot. p.	Potential passive participle.
+P. P.	Past passive participle.
+Pres.	Present tense.
+pres. p.	Present participle.
+pron. a.	Pronominal adjective.
+q. v.	quod vide, which see.
+Rhet.	Rhetoric.
+sing.	Singular.
+Subst.	Substantive.
+s. v.	sub voce, see under the word.
+Tat.	Tatpuruṣa.
+U.	Ubhayapada (Parasmai and Ātmanepada).
+Vārt.	Vārtika.
+Ved.	Vedic.
+v. l.	Various reading.
+Voc.	Vocative.
+=	Equal or equivalent to, same as.
++	Plus.
+&c.	Et cetera.
+0	Denotes that the rest of the word is to be supplied.
