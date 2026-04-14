@@ -1,0 +1,274 @@
+68259	ALL	As of 2026-04-12
+00000	NUMBER
+02000	UNKNOWN
+00021	Ā. L.
+00020	A. R.
+00048	A. Rām.
+00017	Abh. Chin.
+00002	Ait. Ār.
+00079	Ait. Br.
+00011	Ait. Up.
+00187	Ak.
+00002	Aman. Up.
+00259	Amaru.
+00002	Āpast.
+00000	Āry. S.
+00012	Āryā. S.
+00010	Aśvad.
+00019	Āśval.
+00422	Av.
+00000	AVP.
+00007	B. and R.
+00009	B. P.
+00048	B. R.
+00000	Baudhāy.
+01541	Bg.
+01051	Bh.
+02978	Bhāg.
+00003	Bhār. Ch.
+00061	Bhāṣā P.
+00001	Bhav. P.
+00076	Bhāva P.
+00002	Bīj.
+00013	Bil. Ch.
+01633	Bk.
+00062	Bm.
+00004	Bop.
+00019	Bṛ. Ār. Up.
+00002	Bṛ. Kath.
+00154	Bṛ. S.
+00020	Br. Sūt.
+00394	Bṛ. Up.
+00030	Brav. P.
+00177	Bu. Ch.
+00077	Buddh.
+00642	Bv.
+00062	Ch. P.
+00267	Ch. Up.
+00054	Chāṇ.
+00000	Chaṇḍ. K.
+00000	Chaṇḍ. M.
+00041	Chandr.
+00004	Chāt.
+00000	Chola‑Champū
+00000	CP.
+00002	D. Bhāg.
+00004	D. R.
+00007	Dāy.
+00000	Dāy. Bh.
+00002	Dhan. V.
+00019	Dhanur.
+00003	Dharm.
+00000	Dharmabhyudaya Mahākāvya.
+00000	Dhurt.
+00001	Dhyān. Up.
+00759	Dk.
+00002	Dṛ. Ś.
+00000	Dṛi. S.
+00022	EI.
+00030	Enm.
+00000	Ep. Ind.
+00055	G. L.
+00038	G. M.
+00010	Gaut. S.
+00000	Gaut. Sūt.
+00022	Ghaṭ.
+00003	GI.
+00056	Gīrvāṇa.
+00506	Gīt.
+00007	Golādh.
+00688	H.
+00004	H. D.
+00057	H. Pr.
+00006	Halāy.
+00059	Hariv.
+00072	Hch.
+00009	Hem.
+00000	I B.
+00008	Inscr.
+00022	Īśop.
+00008	J. N. V.
+00018	Jag.
+01358	K.
+00362	K. P.
+00007	K. R.
+00035	Kām.
+00004	Karpūr.
+00000	Kaśi
+00089	Kaṭh.
+00036	Kāty.
+00484	Kau. A.
+00005	Kauś.
+00001	Kauṣ. Br.
+00006	Kauṣ. Up.
+00100	Kāv.
+00003	Kāvyāl.
+00012	Ken.
+01871	Ki.
+00008	Kīr. K.
+00299	Ks.
+02612	Ku.
+00085	Kull.
+00002	Kusum.
+00017	Kuval.
+00395	L. D. B.
+00002	L. V.
+00025	Līlā.
+00000	Lm.
+00646	M.
+00000	M. W.
+00004	Mādh. N.
+00006	Mahān.
+00019	Mahānār. Up.
+01471	Māl.
+00135	Malli.
+00075	Māna.
+00006	Māṇḍ.
+00028	Mārk. P.
+00000	Mātanga.
+04102	Mb.
+00244	Mbh.
+01188	Me.
+00056	Med.
+00004	Mīm.
+00000	Mitā.
+00638	Mk.
+00000	Moha. M.
+05192	Ms.
+00731	Mu.
+00005	Mugdha.
+00004	Muktā.
+00000	Muṇḍa.
+00619	Mv.
+00732	N.
+00117	Nāg.
+00005	Naigh.
+00025	Nala.
+00013	Nalod.
+00000	Nigh. Ratn.
+00100	Nir.
+00003	Nīti.
+00000	Nītipra.
+00223	Nm.
+00000	Nṛi. P. Up.
+01338	P.
+00000	P. P.
+00032	P. R.
+00004	Pad. D.
+00000	Panch.
+00000	Pari. Śekh, Pbh.
+00042	Parṇāl.
+00000	Pb.
+00022	Prab.
+00000	Pradip.
+00000	Praśna Up.
+00036	Pratijñā.
+00001	Priy. D.
+00000	Pś.
+00000	PS.
+01653	Pt.
+00000	Pur. Pv.
+07181	R.
+00058	R. G.
+00000	R. S.
+00002	Rāj. P.
+00000	Raj. T.
+00182	Rāj. T.
+02430	Rām.
+00000	Rām. ch.
+00006	Ras. M.
+00202	Ratn.
+00220	Ṛs.
+01492	Rv.
+00006	Rv. Pr.
+02539	Ś.
+00081	Ś. B.
+00430	S. D.
+00000	S. L.
+00032	Ś. Til.
+00000	Śabda. ch.
+00023	Śabdak.
+00000	Śahendra.
+00000	Śalihotra
+00000	Śān. K.
+00000	Sān. S.
+00000	Śānkhya. K.
+00091	Śānti.
+00003	Sar. K.
+00000	Sar. S.
+00000	Sārang. S.
+00028	Sarva. S.
+00099	Śat. Br.
+00046	Sāy.
+00464	ŚB. on MS.
+02857	Śi.
+00001	Sid. Mukt.
+00019	Śik.
+00000	Śik. s.
+00003	Sinhās.
+00000	Sīr. Pv.
+00421	Śiva B.
+00003	Śiva P.
+00395	Sk.
+00012	Skanda P.
+00009	Śrut.
+00000	Śs.
+00002	Subh.
+00008	Subh. Ratn.
+00270	Subhāṣ.
+00115	Śukra.
+00028	Sūkti.
+00012	Sūrya S.
+00180	Suśr.
+00002	Sv.
+00015	Svapna.
+00044	Śvet. Up.
+00000	T. Ar.
+00006	T. Br.
+00045	T. S.
+00058	T. Up.
+00000	Taitt. Sam.
+00000	Tarka. K.
+00000	Tp.
+00013	Trik.
+00020	Ts.
+00304	Tv.
+01604	U.
+00002	Ud. D.
+00006	Ud. S.
+00170	Udb.
+00003	Ujjval.
+00814	Uṇ.
+00000	Un.
+00002	Up.
+00869	V.
+00001	V. May.
+00028	V. P.
+00000	V. Ratna.
+00022	V. Sah.
+00000	Vagb.
+00000	Vai. Bhū.
+00001	Vaiś.
+00000	Vaiś. Sūt.
+00130	Vāj.
+00002	Vāk. P.
+00000	Vall. Subh.
+00025	Vās.
+00001	Vātsy.
+00034	Vb.
+00000	Vbh.
+00470	Ve.
+00003	Vedānta P.
+00006	Vet.
+00000	Vid.
+00120	Vikr.
+00000	Vīr. M.
+00000	Viś. Guṇa.
+00017	Vop.
+00001	Vp.
+00000	Vṛind. S.
+00000	X
+01064	Y.
+00007	Yaj.
+00009	Yoga S.
+00012	Yv.

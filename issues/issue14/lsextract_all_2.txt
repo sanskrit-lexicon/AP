@@ -1,0 +1,271 @@
+68259	ALL	As of 2026-04-02
+00000	NUMBER	ls starts with number
+03314	UNKNOWN	ls is unknown
+07181	R.	Raghuvaṁśa, (R. A. Sagoon, Bombay 1897).
+05192	Ms.	Manusmṛti, (J. M. Gurjar, Bombay, 1894).
+04102	Mb.	Mahābhārata, (चित्रशाळा, पुणे, १९२९–३३).
+02978	Bhāg.	Bhāgawata, (V. Ramaswamy Sastrulu & Sons
+02857	Śi.	Śiśupālavadha, (Nirṇaya Sāgara, 1902).
+02612	Ku.	Kumārasambhava, (Nirṇaya Sāgara, 1916).
+02539	Ś.	Śākuntalam, (Shiralkar & Co., Poona, 190
+02430	Rām.	Rāmāyaṇa, (Nirṇaya Sāgara, 1888).
+01871	Ki.	Kirātārjunīya, (Nirṇaya Sāgara, 1922).
+01653	Pt.	Pañchatantra, Chap. I, IV, V, (आर्यभूषण 
+01633	Bk.	Bhaṭṭikāvya, (Nirṇaya Sāgara, 1928).
+01604	U.	Uttararāmacharita, (P. V. Kane, Bombay, 
+01541	Bg.	Bhagavadgītā (Tilak Edition).
+01492	Rv.	Ṛigveda, (Pandita Satawalekar and V. S. 
+01471	Māl.	Mālatīmādhava (Oriental Publishing, Bomb
+01370	P.	Pāṇini’s Aṣṭādhyāyī.
+01358	K.	Kādambarī, (Bombay).
+01188	Me.	Meghadūta, (R. D. Karmarkar, 1938).
+01064	Y.	Yājñavalkya Smṛti, (Nirṇaya Sāgara, 1926
+01051	Bh.	Bhartṛihari’s three śatakas (the figures
+00869	V.	Vikramorvaśīyam, (R. D. Karmarkar, 1932)
+00814	Uṇ.	Uṇādisūtras.
+00759	Dk.	Daśakumāracharita, (Bombay).
+00732	N.	Naiṣadhacharita, (Nirṇaya Sāgara, 1933).
+00731	Mu.	Mudrārākṣasa, (Royal Book Stall, Poona, 
+00688	H.	Hitopadeśa, (आर्यभूषण प्रेस, पुणे, १९३३)
+00646	M.	Mālavikāgnimitra, (Prin. R. D. Karmarkar
+00642	Bv.	Bhāminīvilāsa, (D. V. Sādhale & Co. Bomb
+00638	Mk.	Mṛcchakaṭika, (R. D. Karmarkar, 1937).
+00619	Mv.	Mahāvīracharita, (Nirṇaya Sāgara, 1926).
+00506	Gīt.	Gītagovinda.
+00484	Kau. A.	Kauṭilīya Arthaśāstra, by Dr. Shama Śast
+00470	Ve.	Veṇīsaṁhāra, (A. B. Gajendragadkar, 1941
+00464	ŚB. on MS.	Śābarabhāṣya on Mīmāṁsā Sūtras.
+00430	S. D.	Sāhityadarpaṇa.
+00422	Av.	Atharava–Veda. (ed. by Pandit Satavaleka
+00421	Śiva B.	Śivabhārata by Paramānanda.
+00395	L. D. B.	List of Prof. Dineshchandra Bhattacharya
+00395	Sk.	Siddhānta‑Kaumudī.
+00362	K. P.	Kāvyaprakāśa.
+00304	Tv.	Tārānātha’s Vācaspatyam.
+00299	Ks.	Kathāsaritsāgara.
+00267	Ch. Up.	Chhāndogyopaniṣad, (सार्थ उपनिषत्संग्रह—
+00259	Amaru.	Amaruśataka, (Nirṇaya Sāgar, 1916).
+00223	Nm.	Nānārthamañjarī of Rāghava.
+00220	Ṛs.	Ṛitusamhāra.
+00202	Ratn.	Ratnāvalī, (Padhye, Yande, Manerikar & C
+00187	Ak.	Amarkoṣa, (Bombay).
+00180	Suśr.	Suśruta.
+00177	Bu. Ch.	Buddhacharitam, (A. C. Bhat & Co. 1911).
+00170	Udb.	Udbhaṭa.
+00135	Malli.	Mallinātha.
+00130	Vāj.	Vājasaneyi Saṁhitā, (मनोहर ग्रंथमाला, पु
+00120	Vikr.	Vikramāṅkadevacarita, (Bombay).
+00117	Nāg.	Nāgānanda.
+00115	Śukra.	Śukranīti, (रा. गो. शास्त्री, अलीबाग छाप
+00100	Kāv.	Kāvyādarśa.
+00100	Nir.	Nirukta.
+00099	Śat. Br.	Śatapatha Brāhmaṇa.
+00091	Śānti.	Śāntiśataka.
+00089	Kaṭh.	Kaṭhopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र.
+00085	Kull.	Kullūka.
+00081	Ś. B.	Śārīrabhāṣya.
+00079	Ait. Br.	Aitareya Brāhmaṇa, (Bombay).
+00077	Buddh.	Buddhist literature.
+00076	Bhāva P.	Bhāvaprakāśa.
+00075	Māna.	Mānasāra, (ed. by Acharya).
+00072	Hch.	Harṣacharita.
+00062	Bm.	Bhāratamañjarī.
+00062	Ch. P.	Chaurapañchāśikā.
+00061	Bhāṣā P.	Bhāṣāparichchheda.
+00059	Hariv.	Harivaṁśa, (चित्रशाळा, पुणे, १९३६).
+00058	R. G.	Rasagaṅgādhara, (Prof. R. B. Athavale).
+00058	T. Up.	Taittirīya Upaniṣad.
+00057	H. Pr.	हितोपदेश-प्रस्ताविका.
+00056	Gīrvāṇa.	गीर्वाण लघुकोश.
+00056	Med.	Medinīkośa.
+00055	G. L.	Gaṅgalaharī.
+00054	Chāṇ.	Chāṇakyāśaṭaka.
+00048	A. Rām.	Adhyātma Rāmāyaṇa.
+00048	B. R.	Bālarāmāyaṇa, (Benaras).
+00046	Sāy.	Sāyaṇa.
+00045	T. S.	Tarkasaṁgraha, (Bombay).
+00044	Śvet. Up.	Śvetāśvataropaniṣad.
+00042	Parṇāl.	Parṇālaparvatagrahaṇākhyāna.
+00041	Chandr.	Chandrāloka.
+00038	G. M.	Gaṇaratnamahodadhi of Vardhamāna.
+00036	Kāty.	Kātyāyana.
+00036	Pratijñā.	Pratijñā Yaugandharāyaṇa.
+00035	Kām.	Kāmandakinītisāra.
+00034	Vb.	Viddhaśālabhañjikā, (Bombay).
+00032	Ś. Til.	Śṛṅgāratilaka.
+00030	Brav. P.	Brahmavaivarta Purāṇa.
+00030	Enm.	Ekārthanāmamālā of Saubhari.
+00028	Mārk. P.	Mārkaṇḍeya Purāṇa.
+00028	Sarva. S.	Sarvadarśanasaṁgraha.
+00028	Sūkti.	Sūktisundara.
+00028	V. P.	Viṣṇu Purāṇa.
+00026	Līlā	Līlāvatī.
+00025	Nala.	Nalopākhyāna, (Bombay).
+00023	Śabdak.	Śabdakalpadruma.
+00022	Ghaṭ.	Ghaṭakarparakāvya.
+00022	Prab.	Prabodhachandrodaya, (Bombay).
+00022	V. Sah.	Viṣṇusahasranāma.
+00022	EI.	Epigraphia Indica.
+00021	Ā. L.	Ānandalaharī.
+00020	A. R.	Anargharāghava (Published in the Kāvyamā
+00020	Br. Sūt.	Brahmasūtrās.
+00020	Ts.	Taittirīya Saṁhitā.
+00019	Āśval.	Āśvalāyana’s Sūtras.
+00019	Dhanur.	Dhanurveda Saṁhitā, (श्रीवेंकटेश्वर प्रे
+00019	Śik.	Śikṣā.
+00019	Mahānār. Up.	Mahānārāyaṇopaniṣad.
+00018	Jag.	Jagannātha Paṇḍit.
+00017	Kuval.	Kuvalayānanda.
+00017	Vop.	Vopadeva.
+00017	Abh. Chin.	Abhidhāna‑Chintāmaṇi‑Kośa.
+00015	Svapna.	Svapnavāsavadatta.
+00013	Bil. Ch.	Bilhaṇacharitam.
+00013	Nalod.	Nalodaya.
+00013	Trik.	Trikāṇḍaśeṣa.
+00012	Āryā. S.	Āryāsaptasatī (Published in the Kāvyamāl
+00012	Ken.	Kenopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. 
+00012	Skanda P.	Skanda Purāṇa.
+00012	Sūrya S.	Sūryasiddhānta.
+00012	Yv.	Yajurveda (Pandit Satevalekar ed.).
+00011	Ait. Up.	Aitareya Upaniṣad.
+00010	Aśvad.	Aśvadhātī (Published in the Subhāṣitarat
+00010	Gaut. S.	Gautamasūtra.
+00009	B. P.	Bhaviṣya Purāṇa.
+00009	Hem.	Hemachandra.
+00009	Śrut.	Śrutabodha.
+00009	Yoga S.	Yogasūtras.
+00008	J. N. V.	Jaiminīyanyāyamalāvistara, (Goldstücker’
+00008	Kīr. K.	Kīrtikaumudī, (Bombay).
+00008	Subh. Ratn.	Subhāṣitaratnabhāṇḍāgāra, (Bombay).
+00008	Inscr.	Inscriptions.
+00007	B. and R.	Bothlingk and Roth.
+00007	Dāy.	Dāyabhāga.
+00007	Golādh.	Golādhyāya.
+00007	Yaj.	Yajurveda (Pandit Satevalekar ed.).
+00007	K. R.	Kavi‑Rahasya.
+00006	Halāy.	Halāyudha.
+00006	Kauṣ. Up.	Kauṣītakyupaniṣad.
+00006	Mahān.	Mahānāṭaka.
+00006	Māṇḍ.	Māṇḍūkyopaniṣad, (सार्थ उपनिषत्संग्रह—ह.
+00006	Ras. M.	Rasamañjarī.
+00006	Rv. Pr.	Ṛigveda Prātiśākhya.
+00006	T. Br.	Taittirīya Brāhmaṇa.
+00006	Ud. S.	Uddhavasandeśa.
+00006	Vet.	Vetālapañcaviṁśati.
+00005	Kauś.	Kauśikasūtra.
+00005	Mugdha.	Mugdhabodha.
+00005	Naigh.	Naighaṇṭuka by Yāska.
+00004	Chāt.	Chāṭakāṣṭaka (In two parts.)
+00004	D. R.	Daśarūpa (Hall’s edition).
+00004	H. D.	Haṁsadūta.
+00004	Karpūr.	Karpūramañjarī (Published in Kāvyamālā).
+00004	Mādh. N.	Mādhavanidāna.
+00004	Mīm.	Mīmāṁsā.
+00004	Pad. D.	Padānkadūta.
+00004	Muktā.	Siddhāntamuktāvalī.
+00004	Bop.	Vopadeva.
+00003	Bhār. Ch.	Bhāratacampū, (Bombay).
+00003	Dharm.	Dharmaviveka.
+00003	Kāvyāl.	Kāvyālaṅkāra (Published in Kāvyamālā).
+00003	Nīti.	Nītisāra.
+00003	Sar. K.	Sarasvatīkaṇṭhabharaṇa.
+00003	Śiva P.	Śiva Purāṇa.
+00003	Ujjval.	Ujjvaladatta.
+00003	Vedānta P.	Vedāntaparibhāṣā.
+00003	GI.	Gupta Inscriptions by Fleet.
+00003	Sinhās.	Sinhāsana‑dvātriṁśikā.
+00002	Āpast.	Āpastamba.
+00002	Bīj.	Bījagaṇita.
+00002	D. Bhāg.	Devībhāgavata.
+00002	Dhan. V.	Dhanan̄jayavijaya.
+00002	Kusum.	Kusumāñjali.
+00002	L. V.	Lalitavistara.
+00002	Rāj. P.	Rājapraśasti.
+00002	Subh.	Subhāṣitaratnākara, (Bombay).
+00002	Sv.	Sāmaveda.
+00002	Ud. D.	Uddhavadūta.
+00002	Up.	Upaniṣad.
+00002	Vāk. P.	Vākyapadīya.
+00002	Ait. Ār.	Aitareya Āraṇyaka.
+00002	Aman. Up.	Amanasopaniṣad.
+00001	Kauṣ. Br.	Kauṣītaki Brāhmaṇa.
+00001	Priy. D.	Priyadarśikā.
+00001	Sid. Mukt.	Siddhāntamuktāvalī.
+00001	Vaiś.	Vaiśeṣika.
+00001	Vātsy.	Vātsyāyana Kāmasūtra.
+00001	V. May.	Vyavahāramayūkha, (Mr. Mandalik’s Editio
+00001	Dhyān. Up.	Dhyānabindu‑Upaniṣad.
+00001	Vp.	Vājasaneyī Prātiśākhya.
+00000	Āry. S.	Āryavidyāsudhākara, (Bombay).
+00000	Baudhāy.	Baudhāyana.
+00000	Bhav.P.	Bhaviṣyottara Purāṇa.
+00000	Bṛi. S.	Varāhamihira’s Bṛhatsaṃhitā, (लक्ष्मीवेङ
+00000	Bri. Kath.	Bṛihatkathā.
+00000	Bṛi. Ār. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्
+00000	Bṛi. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्
+00000	Chaṇḍ. K.	Chaṇḍakauśika.
+00000	Chaṇḍ. M.	Chhandomañjarī.
+00000	Dāy. Bh.	Dāyabhāga.
+00000	Dhurt.	Dhūrtasamāgama.
+00000	Dṛi. S.	Dṛṣṭāntaśataka.
+00000	Gaut. Sūt.	Gautamasūtra.
+00000	Īsop.	Īśopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. 
+00000	Kaśi	Kaśikāvṛtti, (Benares).
+00000	Mātanga.	Mātangalīlā of Nīlakaṇṭha.
+00000	Mbh..	Mahābhāṣya, (Bombay).
+00000	Mitā.	Mitākṣarā, (Bombay).
+00000	Moha. M.	Mohamudgara.
+00000	Muṇḍa.	Muṇḍakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. 
+00000	M. W.	Monier Williams.
+00000	Nītipra.	Nītipradīpa.
+00000	Panch.	Pañcharātra.
+00000	P. P.	Pārvatīpariṇaya.
+00000	Praśna Up.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र
+00000	X	Chap. II and III, (Oriental Publishing C
+00000	Raj. T.	Rājatarangiṇī.
+00000	Rām. ch.	Rāmacharitam by Yuvarāja Kavi.
+00000	R. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 19
+00000	Śabda. ch.	Śabdachintāmaṇi (Sanskrit–Gujarati Dicti
+00000	Śān. K.	Sāṅkhyakārikā.
+00000	Śānkhya. K.	Sāṅkhyakārikā.
+00000	Sān. S.	Sāṅkhyasūtra.
+00000	Sar. S.	Sarvadarśanasaṁgraha.
+00000	S. L.	Sudhalaharī (Published in the Kāvyamālā)
+00000	Subhas.	Subhāṣita.
+00000	Tarka. K.	Tarkakaumudī, (Bombay).
+00000	T. Ar.	Taittirīya Āraṇyaka.
+00000	Vagb.	Vāgbhaṭa.
+00000	Vaiś. Sūt.	Vaiśeṣikasūtras.
+00000	Vall. Subh.	Vallabhadeva’s Subhāṣitāvali, (Bombay).
+00000	Vas.	Vāsavadattā, (Nirṇaya Sāgara, 1940).
+00000	Vid.	Vidagdhamukhamaṇḍana.
+00000	Vīr. M.	Vīramitrodaya.
+00000	Viś. Guṇa.	Viśvaguṇādarśacampū, (Nirṇaya Sāgara, 19
+00000	V. Ratna.	Vṛttaratnākara.
+00000	Vṛind. S.	Vṛndāvanaśataka.
+00000	AVP.	Atharva Veda Prātiśākhya.
+00000	Chola‑Champū	Edited by Dr. Raghavan.
+00000	C P.	Copper‑plates.
+00000	Dharmabhyudaya Mahākāvya.	Edited by Dr. Raghavan.
+00000	Ep. Ind.	Epigraphia Indica.
+00000	I B.	Inscriptions of Bengal, Vol. III by N. G
+00000	Lm.	Laghu‑mañjūsā.
+00000	Nigh. Ratn.	Nighaṇṭa‑Ratnākara.
+00000	Nṛi. P. Up.	Nṛsiṁha‑pūrvatāpinyupaniṣad.
+00000	Pari. Śekh, Pbh.	Paribhāṣenduśekhara.
+00000	Pb.	Paribhāṣā.
+00000	Pradip.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+00000	Pś.	Paṇinīya Śikṣā.
+00000	PS.	Pāṇinīya Sūtra.
+00000	Pur. Pv.	Puruṣottama‑Paribhāṣāvṛtti.
+00000	Śahendra.	Śāhendravilāsa, edited by Dr. Raghavan.
+00000	Śalihotra	Śalihotra of Bhoja, edited by Dr. E. D. 
+00000	Sārang. S.	Śāraṅgadhara Saṁhitā.
+00000	Śik. s.	Śikṣā‑Saṅgraha.
+00000	Sīr. Pv.	Sīrdeva’s Paribhāṣāvṛtti.
+00000	Śs.	Śrauta‑sūtra.
+00000	Taitt. Sam.	Taittirīya Saṁhitā.
+00000	Tp.	Taittirīya Prātiśākhya.
+00000	Un.	Uṇādisūtras (N.B. new references from th
+00000	Vai. Bhū.	(वै. भू.) Vaiyākaraṇa‑bhūṣaṇa‑sāra.
+00000	Vbh.	Vaidikabharaṇa (a commentary on Taittirī

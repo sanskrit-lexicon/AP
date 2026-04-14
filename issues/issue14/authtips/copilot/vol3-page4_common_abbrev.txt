@@ -1,0 +1,7 @@
+
+Circ.	Circa, about (with dates).
+Com., com.	Commentary.
+Geom.	Geometry.
+cl.	Class.
+Ref.	Refer, Reference.
+Scil.	Scilicet, that is to say.
