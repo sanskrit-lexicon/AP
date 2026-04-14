@@ -4,78 +4,178 @@ from parseheadline import parseheadline
 
 
 def adjust_hw(basehw, suffix, lid):
-    basehw = re.sub('[a][Hm]$', 'a', basehw) # rameSaH -> rameSa
-    suffix = suffix.lstrip('[-˚]') # -nI -> nI
-    # kamala / -lam = kamalam
+    basehw = re.sub('[a][Hm]$', 'a', basehw)
+    suffix = suffix.lstrip('[-˚]')
     if (basehw.endswith('a') and suffix.endswith('am')) and ((basehw + 'm').endswith(suffix)):
         return basehw + 'm'
-    # Sveta / -taH = SvetaH
     elif (basehw.endswith('a') and suffix.endswith('aH')) and ((basehw + 'H').endswith(suffix)):
         return basehw + 'H'
-    # kamala / -lA = kamalA
     elif (basehw.endswith('a') and suffix.endswith('A')) and ((basehw[:-1] + 'A').endswith(suffix)):
         return basehw[:-1] + 'A'
-    # ISAna / -nI = ISAnI
     elif (basehw.endswith('a') and suffix.endswith('I')) and ((basehw[:-1] + 'I').endswith(suffix)):
         return basehw[:-1] + 'I'
-    # aguru / -ru = aguru
     elif basehw.endswith(suffix):
         return basehw
-    # akziti / -tiH = akzitiH
     elif basehw.endswith(suffix.rstrip('[mH]')):
         return basehw + suffix[-1]
-    # aNkin / -nI = aNkinI
     elif (basehw+'I').endswith(suffix):
         return basehw + 'I'
-    # anurAgin / -RI = anurAgiRI
     elif (basehw[:-1]+'RI').endswith(suffix):
         return basehw[:-1] + 'RI'
-    # atikaTA / -Ta/TaH/Tam = atikaTa/atikaTaH/atikaTam
     elif re.sub('A$', 'a', basehw).endswith(re.sub('a[Hm]*$', 'a', suffix)):
         return basehw[:-2] + suffix
-    # siMhala[mH]* / -lAH = siMhalAH
     elif re.sub('a$', 'AH', basehw).endswith(suffix):
         return basehw[:-2] + suffix
-    # aditi / -tI = aditI
     elif re.sub('i$', 'I', basehw).endswith(suffix):
         return basehw[:-1] + 'I'
-    # apAYc / -k = apAk
     elif re.sub('Yc$', 'k', basehw).endswith(suffix):
         return basehw[:-2] + 'k'
-    # kanizWaka / -zWikA = kanizWikA
     elif re.sub('aka$', 'ikA', basehw).endswith(suffix):
         return re.sub('aka$', 'ikA', basehw)
-    # janman / -hetuH = janmahetuH
     elif basehw == 'janman' and not re.search('^[aAiIuUfFxeEoO]', suffix):
         return 'janma' + suffix
-    # atiruc / -k = atiruk
     elif basehw.endswith('c') and suffix == 'k':
         return basehw[:-1] + 'k'
-    # kuSIlava / -vO = kuSIlavO
     elif re.sub('a$', 'O', basehw).endswith(suffix):
         return re.sub('a$', 'O', basehw)
-    # tariH / -rI = tarI
     elif re.sub('iH$', 'I', basehw).endswith(suffix):
         return re.sub('iH$', 'I', basehw)
-    # aBisvara + re
     elif re.sub('a$', 'e', basehw).endswith(suffix):
         return re.sub('a$', 'e', basehw)
-    # upastamBaka + tA
     elif suffix == 'tA':
         return basehw + 'tA'
-    # upastamBaka + tvam
     elif suffix == 'tvam':
         return basehw + 'tvam'
-    # aviSeza + ka[HM]*
     elif re.search('^ka[HM]*$', suffix):
         return basehw + suffix
-    # AmuktiH + kti = AmuktiH
     elif basehw.endswith('H') and re.sub('iH$', 'i', basehw).endswith(suffix):
         return basehw[:-1]
     elif basehw.endswith('H') and re.sub('uH$', 'u', basehw).endswith(suffix):
         return basehw[:-1]
-    # If no matches, they need to be manually corrected
     return None
+
+
+def process_entry(metaline, lines, fout, flog, correct, wrong):
+    meta = parseheadline(metaline)
+    lid = meta['L']
+    basehw = meta['k1']
+    
+    pref = ''
+    for l in lines:
+        if '¦' in l:
+            pref = l.split('¦')[0]
+            break
+    
+    output_lines = []
+    i = 0
+    new_entries = []
+    
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith('.{@{#'):
+            m = re.search(r'^[.]{@{#\-([^#]+)#}@}', line)
+            if m:
+                suffix_str = m.group(1)
+                suffixes = [s.strip() for s in suffix_str.split(', -')]
+                
+                def_start = i + 1
+                def_end = def_start
+                while def_end < len(lines):
+                    if lines[def_end].startswith('.{@') or lines[def_end].startswith('<L'):
+                        break
+                    def_end += 1
+                
+                def_lines = lines[def_start:def_end]
+                
+                if len(suffixes) > 1:
+                    num_suffixes = len(suffixes)
+                    lines_per_group = len(def_lines) // num_suffixes
+                    remainder = len(def_lines) % num_suffixes
+                    
+                    start_idx = 0
+                    for sidx, suffix in enumerate(suffixes):
+                        suggestion = adjust_hw(basehw, suffix, lid)
+                        if suggestion:
+                            correct[0] += 1
+                            flog.write(f'{lid}\t{basehw}\t{suffix}\t{suggestion}\n')
+                        else:
+                            wrong[0] += 1
+                            flog.write(f'{lid}\t{basehw}\t{suffix}\tNone\n')
+                        
+                        entry = {}
+                        entry['metaline'] = metaline
+                        entry['suggestion'] = suggestion
+                        entry['suffix'] = suffix
+                        
+                        if sidx == 0:
+                            end_idx = (sidx + 1) * lines_per_group + (1 if remainder > 0 else 0)
+                            entry['def_lines'] = def_lines[start_idx:end_idx]
+                            start_idx = end_idx
+                            if remainder > 0:
+                                remainder -= 1
+                        else:
+                            entry['def_lines'] = def_lines[start_idx:start_idx + lines_per_group]
+                            entry['has_lbody'] = True
+                            start_idx += lines_per_group
+                        
+                        new_entries.append(entry)
+                    
+                    i = def_end
+                else:
+                    suffix = suffixes[0]
+                    suggestion = adjust_hw(basehw, suffix, lid)
+                    if suggestion:
+                        correct[0] += 1
+                        flog.write(f'{lid}\t{basehw}\t{suffix}\t{suggestion}\n')
+                    else:
+                        wrong[0] += 1
+                        flog.write(f'{lid}\t{basehw}\t{suffix}\tNone\n')
+                    
+                    entry = {}
+                    entry['metaline'] = metaline
+                    entry['suggestion'] = suggestion
+                    entry['suffix'] = suffix
+                    entry['def_lines'] = def_lines
+                    entry['orig_line'] = line
+                    new_entries.append(entry)
+                    
+                    i = def_end
+            else:
+                output_lines.append(line)
+                i += 1
+        else:
+            output_lines.append(line)
+            i += 1
+    
+    for entry in new_entries:
+        fout.write('<LEND>\n\n')
+        
+        if entry['suggestion']:
+            metaline1 = entry['metaline'].replace('<k1>' + basehw, '<k1>' + entry['suggestion'])
+            metaline1 = metaline1.replace('<k2>' + basehw, '<k2>' + entry['suggestion'])
+            metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
+        else:
+            metaline1 = entry['metaline'].replace('<k2>', '.ABC<k2>')
+            metaline1 = metaline1.replace('<e>', '.ABC<e>')
+            metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
+        
+        fout.write(metaline1 + '\n')
+        
+        if 'orig_line' in entry:
+            hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦'
+            fout.write(hw_rep + '\n')
+            for dl in entry['def_lines']:
+                fout.write(dl + '\n')
+        else:
+            hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦'
+            fout.write(hw_rep + '\n')
+            if entry.get('has_lbody'):
+                fout.write('{{Lbody=' + lid + '.XYZ}}\n')
+    
+    for ol in output_lines:
+        fout.write(ol + '\n')
+    
+    return correct, wrong
 
 
 if __name__=="__main__":
@@ -86,53 +186,35 @@ if __name__=="__main__":
     fout = open(output_file, 'w')
     flog = open(log_file, 'w')
     flog.write('Lnum\tbasehw\tsuffix\tresolution\n')
-    correct = 0
-    wrong = 0
+    correct = [0]
+    wrong = [0]
 
     with open(input_file, 'r') as fin:
+        lines = []
+        metaline = None
+        
         for lin in fin:
-            lin = lin.rstrip()
-            if '¦' in lin:
-                pref = lin.split('¦')[0]
+            lin = lin.rstrip('\n')
+            
             if lin.startswith('<L>'):
+                if metaline and lines:
+                    process_entry(metaline, lines, fout, flog, correct, wrong)
+                    lines = []
+                
                 metaline = lin
-                meta = parseheadline(lin)
-                lid = meta['L']
                 fout.write(lin + '\n')
-            elif lin.startswith('.{@{#'):
-                m = re.search(r'^[.]{@{#\-([^#]+)#}@}', lin)
-                if m:
-                    basehw = meta['k1']
-                    suffix_str = m.group(1)
-                    suffixes = [s.strip() for s in suffix_str.split(', -')]
-                    for suffix in suffixes:
-                        suggestion =  adjust_hw(basehw, suffix, lid)
-                        if suggestion:
-                            correct += 1
-                            flog.write(f'{lid}\t{basehw}\t{suffix}\t{suggestion}\n')
-                        else:
-                            wrong += 1
-                            flog.write(f'{lid}\t{basehw}\t{suffix}\tNone\n')
-                        fout.write('<LEND>\n\n')
-                        if suggestion:
-                            metaline1 = metaline.replace('<k1>' + basehw, '<k1>' + suggestion)
-                            metaline1 = metaline1.replace('<k2>' + basehw, '<k2>' + suggestion)
-                            metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
-                            fout.write(metaline1 + '\n')
-                        else:
-                            metaline1 = metaline.replace('<k2>', '.ABC<k2>')
-                            metaline1 = metaline1.replace('<e>', '.ABC<e>')
-                            metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
-                            fout.write(metaline1 + '\n')
-                        hw_rep =  pref + ' + .{@{#-' +  suffix + '#}@}¦'
-                        lin_with_pref = lin.replace('.{@{#-' + suffix_str + '#}@}', hw_rep)
-                        fout.write(lin_with_pref + '\n')
-                else:
-                    fout.write(lin + '\n')
+            elif lin == '<LEND>':
+                lines.append(lin)
+                process_entry(metaline, lines, fout, flog, correct, wrong)
+                lines = []
             else:
-                fout.write(lin + '\n')
-    total = correct + wrong
-    print(f'Resolved: {correct}, Unresolved: {wrong}, Total: {total}')
+                lines.append(lin)
+        
+        if metaline and lines:
+            process_entry(metaline, lines, fout, flog, correct, wrong)
+
+    total = correct[0] + wrong[0]
+    print(f'Resolved: {correct[0]}, Unresolved: {wrong[0]}, Total: {total}')
     fin.close()
     fout.close()
     flog.close()
