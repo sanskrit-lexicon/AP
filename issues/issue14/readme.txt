@@ -240,4 +240,7 @@ python lsdump_abbrv.py 'Rv.' ap tempwork/ap_0.txt tooltips_2.txt  tempwork/lsdum
 
 * /c/xampp/htdocs/sanskrit-lexicon-scans/_jimnotes/
 
+* ---------------------------------------
+* BEGIN 04-15-2026  further edits re Andhrabharati comment
+ see ls_andhrabharati/readme.txt
 * THE END

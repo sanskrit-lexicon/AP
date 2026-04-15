@@ -1,0 +1,82 @@
+37 unique in AB_tooltips_b.txt
+=================================================
+A. L.	Ānandalaharī.
+Bhar. Ch.	Bhāratachampū, (Bombay).
+Bṛ. Ar. Up.	Bṛhadāraṇyakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+Chān.	Chāṇakyaśataka.
+Chat.	Chātakāṣṭaka (In two parts.)
+D. Bhag.	Devībhāgavata.
+Day.	Dayabhāga.
+Day. B.	Dayabhāga.
+Ghat.	Ghatakarparakāvya.
+I. B.	Inscriptions of Bengal, Vol. III by N. G. Mujumdar.
+Karpur.	Karpūramañjarī (Published in Kāvyamālā.)
+Kāsī.	Kāśikāvṛtti, (Benares).
+Mātaṅga.	Mātaṅgalīlā of Nīlakaṇṭha.
+Muṇḍa.	Muṇḍakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+Pād. D.	Pādaṅkadūta.
+Panch.	Pañcharātra.
+Pari. Śekh.	Paribhāṣeṇḍūśekhara.
+Pbh.	Paribhāṣeṇḍūśekhara.
+Pradīp.	Mahābhāsya-Pradīpa (Kaiyaṭa).
+Praśna Up.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+Ṛ. S.	Ṛtusamhāra, (V.R. Nerurkar, Bombay, 1916).
+Ṛv.	Ṛgveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+Ṛv. Pr.	Ṛgveda Prātiśākhya.
+Śabda. ch.	Śabdachintāmaṇi (Sanskṛt-Gujrati Dictionary by Ramanabhai Nilkanth, 1899).
+Śahendra.	Śāhendravilāsa, edited by Dr. Raghavan.
+Śalihotra	Śalihotra of Bhoja, edited by Dr. E. D. Kulkarni.
+Sān. K.	Sānkhyakārikā.
+Sān. S.	Sānkhyasūtra.
+Sānkhya. K.	Sānkhyakārikā.
+Śanti.	Śāntiśataka.
+Sid. Mukta.	Siddhāntamuktāvali.
+T. UP.	Taittirīya Upaniṣad.
+Tarka. K.	Tarkakaumudī, (Bombay).
+Vagb.	Vāgbhaṭa.
+Vai. Bhū. ({#वै˚ भू˚#}).	Vaiyākaraṇabhūṣaṇasāra.
+Viś. Guṇa.	Viśvaguṇādarśachampū, (Nirṇaya Sāgara, 1915).
+Vṛnd. Ś.	Vṛndāvanaśataka.
+
+39 unique in tooltips_4.txt
+=================================================
+Ā. L.	Ānandalaharī.
+Bhār. Ch.	Bhāratacampū, (Bombay).
+Bṛ. Ār. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+Chāṇ.	Chāṇakyāśataka.
+Chāt.	Chāṭakāṣṭaka (In two parts.)
+D. Bhāg.	Devībhāgavata.
+Dāy.	Dāyabhāga.
+Dāy. Bh.	Dāyabhāga.
+Ghaṭ.	Ghaṭakarparakāvya.
+I B.	Inscriptions of Bengal, Vol. III by N. G. Mujumdar.
+Karpūr.	Karpūramañjarī (Published in Kāvyamālā).
+Kāśi.	Kāśikāvṛtti, (Benares).
+Mātaṅga. L.	Mātangalīlā of Nīlakaṇṭha.
+Muktā.	Siddhāntamuktāvalī.
+Muṇḍ.	Muṇḍakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+MW.	Monier-Williams Sanskrit-English Dictionary, 1899
+Pad. D.	Padānkadūta.
+Pañch.	Pañcharātra.
+Pari. Śekh, Pbh.	Paribhāṣenduśekhara.
+Pradip.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+Praśna. Up.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+R. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 1916).
+Rv.	Ṛigveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+Rv. Pr.	Ṛigveda Prātiśākhya.
+Śabda Ch.	Śabdachintāmaṇi (Sanskrit–Gujarati Dictionary by Ramanabhai Nilkanth, 1899).
+Śāhendra.	Śāhendravilāsa, edited by Dr. Raghavan.
+Śālihotra	Śālihotra of Bhoja, edited by Dr. E. D. Kulkarni.
+Sāṅ. K.	Sāṅkhyakārikā.
+Sāṅ. S.	Sāṅkhyasūtra.
+Sāṅkhya. K.	Sāṅkhyakārikā.
+Śānti.	Śāntiśataka.
+T. Up.	Taittirīya Upaniṣad.
+Tarka K.	Tarkakaumudī, (Bombay).
+Vāgb.	Vāgbhaṭa.
+Vai. Bhū.	(वै. भू.) Vaiyākaraṇa‑bhūṣaṇa‑sāra.
+Viś. Guṇā.	Viśvaguṇādarśacampū, (Nirṇaya Sāgara, 1915).
+Vṛind. S.	Vṛndāvanaśataka.
+Wilson	Wilson Sanskrit-English Dictionary
+X	Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+
