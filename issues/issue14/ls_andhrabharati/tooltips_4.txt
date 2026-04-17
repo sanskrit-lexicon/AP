@@ -52,7 +52,7 @@ CP.	Copper‑plates.
 D. Bhāg.	Devībhāgavata.
 D. R.	Daśarūpa (Hall’s edition).
 Dāy.	Dāyabhāga.
-Dāy. Bh.	Dāyabhāga.
+Dāy. B.	Dāyabhāga.
 Dhan. V.	Dhanan̄jayavijaya.
 Dhanur.	Dhanurveda Saṁhitā, (श्रीवेंकटेश्वर प्रेस, शके १८२३).
 Dharm.	Dharmaviveka.
@@ -121,7 +121,7 @@ Malli.	Mallinātha.
 Māna.	Mānasāra, (ed. by Acharya).
 Māṇḍ.	Māṇḍūkyopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
 Mārk. P.	Mārkaṇḍeya Purāṇa.
-Mātaṅga. L.	Mātangalīlā of Nīlakaṇṭha.
+Mātaṅga L.	Mātangalīlā of Nīlakaṇṭha.
 Mb.	Mahābhārata, (चित्रशाळा, पुणे, १९२९–३३).
 Mbh.	Mahābhāṣya, (Bombay).
 Me.	Meghadūta, (R. D. Karmarkar, 1938).
@@ -151,13 +151,15 @@ Nṛ. P. Up.	Nṛsiṁha‑pūrvatāpinyupaniṣad.
 P.	Pāṇini’s Aṣṭādhyāyī.
 P. P.	Pārvatīpariṇaya.
 P. R.	Prasannarāghava.
-Pad. D.	Padānkadūta.
+Pad. D.	Padāṅkadūta.
 Pañch.	Pañcharātra.
-Pari. Śekh, Pbh.	Paribhāṣenduśekhara.
+Pari. Śekh.	Paribhāṣeṇḍūśekhara.
+Pbh.	Paribhāṣeṇḍūśekhara.
 Parṇāl.	Parṇālaparvatagrahaṇākhyāna.
 Pb.	Paribhāṣā.
 Prab.	Prabodhachandrodaya, (Bombay).
-Pradip.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+Pradīp.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+Praśna.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
 Praśna. Up.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
 Pratijñā.	Pratijñā Yaugandharāyaṇa.
 Priy. D.	Priyadarśikā.
@@ -167,7 +169,7 @@ Pt.	Pañchatantra, Chap. I, IV, V, (आर्यभूषण प्रेस, �
 Pur. Pv.	Puruṣottama‑Paribhāṣāvṛtti.
 R.	Raghuvaṁśa, (R. A. Sagoon, Bombay 1897).
 R. G.	Rasagaṅgādhara, (Prof. R. B. Athavale).
-R. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 1916).
+Ṛ. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 1916).
 Rāj. P.	Rājapraśasti.
 Rāj. T.	Rājataraṅgiṇī.
 Rām.	Rāmāyaṇa, (Nirṇaya Sāgara, 1888).
@@ -175,14 +177,14 @@ Rām. ch.	Rāmacharitam by Yuvarāja Kavi.
 Ras. M.	Rasamañjarī.
 Ratn.	Ratnāvalī, (Padhye, Yande, Manerikar & Co., Bombay, 1907).
 Ṛs.	Ṛitusamhāra.
-Rv.	Ṛigveda, (Pandita Satawalekar and V. S. Mandala, Poona).
-Rv. Pr.	Ṛigveda Prātiśākhya.
+Rv.	Ṛgveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+Rv. Pr.	Ṛgveda Prātiśākhya.
 Ś.	Śākuntalam, (Shiralkar & Co., Poona, 1902).
 Ś. B.	Śārīrabhāṣya.
 S. D.	Sāhityadarpaṇa.
 S. L.	Sudhalaharī (Published in the Kāvyamālā).
 Ś. Til.	Śṛṅgāratilaka.
-Śabda Ch.	Śabdachintāmaṇi (Sanskrit–Gujarati Dictionary by Ramanabhai Nilkanth, 1899).
+Śabda Ch.	Śabdacintāmaṇi (Sanskṛt-Gujrati Dictionary by Ramanabhai Nilkanth, 1899).
 Śabdak.	Śabdakalpadruma.
 Śāhendra.	Śāhendravilāsa, edited by Dr. Raghavan.
 Śālihotra	Śālihotra of Bhoja, edited by Dr. E. D. Kulkarni.
@@ -242,7 +244,7 @@ V. P.	Viṣṇu Purāṇa.
 V. Ratna.	Vṛttaratnākara.
 V. Sah.	Viṣṇusahasranāma.
 Vāgb.	Vāgbhaṭa.
-Vai. Bhū.	(वै. भू.) Vaiyākaraṇa‑bhūṣaṇa‑sāra.
+Vai. Bhū. ({#वै˚ भू˚#}).	Vaiyākaraṇabhūṣaṇasāra.
 Vaiś.	Vaiśeṣika.
 Vaiś. Sūt.	Vaiśeṣikasūtras.
 Vāj.	Vājasaneyi Saṁhitā, (मनोहर ग्रंथमाला, पुणे, १९४२).
@@ -261,9 +263,8 @@ Vīr. M.	Vīramitrodaya.
 Viś. Guṇā.	Viśvaguṇādarśacampū, (Nirṇaya Sāgara, 1915).
 Vop.	Vopadeva.
 Vp.	Vājasaneyī Prātiśākhya.
-Vṛind. S.	Vṛndāvanaśataka.
+Vṛnd. Ś.	Vṛndāvanaśataka.
 Wilson	Wilson Sanskrit-English Dictionary
-X	Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
 Y.	Yājñavalkya Smṛti, (Nirṇaya Sāgara, 1926).
 Yaj.	Yajurveda (Pandit Satevalekar ed.).
 Yoga S.	Yogasūtras.

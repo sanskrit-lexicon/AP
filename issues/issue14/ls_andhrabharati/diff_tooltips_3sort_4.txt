@@ -1,0 +1,46 @@
+55c55
+< Dāy. Bh.	Dāyabhāga.
+---
+> Dāy. B.	Dāyabhāga.
+124c124
+< Mātaṅga. L.	Mātangalīlā of Nīlakaṇṭha.
+---
+> Mātaṅga L.	Mātangalīlā of Nīlakaṇṭha.
+154c154
+< Pad. D.	Padānkadūta.
+---
+> Pad. D.	Padāṅkadūta.
+156c156,157
+< Pari. Śekh, Pbh.	Paribhāṣenduśekhara.
+---
+> Pari. Śekh.	Paribhāṣeṇḍūśekhara.
+> Pbh.	Paribhāṣeṇḍūśekhara.
+160c161,162
+< Pradip.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+---
+> Pradīp.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+> Praśna.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+170c172
+< R. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 1916).
+---
+> Ṛ. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 1916).
+178,179c180,181
+< Rv.	Ṛigveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+< Rv. Pr.	Ṛigveda Prātiśākhya.
+---
+> Rv.	Ṛgveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+> Rv. Pr.	Ṛgveda Prātiśākhya.
+185c187
+< Śabda Ch.	Śabdachintāmaṇi (Sanskrit–Gujarati Dictionary by Ramanabhai Nilkanth, 1899).
+---
+> Śabda Ch.	Śabdacintāmaṇi (Sanskṛt-Gujrati Dictionary by Ramanabhai Nilkanth, 1899).
+245c247
+< Vai. Bhū.	(वै. भू.) Vaiyākaraṇa‑bhūṣaṇa‑sāra.
+---
+> Vai. Bhū. ({#वै˚ भू˚#}).	Vaiyākaraṇabhūṣaṇasāra.
+264c266
+< Vṛind. S.	Vṛndāvanaśataka.
+---
+> Vṛnd. Ś.	Vṛndāvanaśataka.
+266d267
+< X	Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
