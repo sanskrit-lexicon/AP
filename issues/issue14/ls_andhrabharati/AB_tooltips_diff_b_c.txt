@@ -1,0 +1,56 @@
+1c1
+< A. L.	Ānandalaharī.
+---
+> Ā. L.	Ānandalaharī.
+25c25
+< Bhar. Ch.	Bhāratachampū, (Bombay).
+---
+> Bhār. Ch.	Bhāratachampū, (Bombay).
+34c34
+< Bṛ. Ar. Up.	Bṛhadāraṇyakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+---
+> Bṛ. Ār. Up.	Bṛhadāraṇyakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+45c45
+< Chān.	Chāṇakyaśataka.
+---
+> Chāṇ.	Chāṇakyaśataka.
+49c49
+< Chat.	Chātakāṣṭaka (In two parts.)
+---
+> Chāt.	Chātakāṣṭaka (In two parts.)
+52c52
+< D. Bhag.	Devībhāgavata.
+---
+> D. Bhāg.	Devībhāgavata.
+92,93c92,93
+< Karpur.	Karpūramañjarī (Published in Kāvyamālā.)
+< Kāsī.	Kāśikāvṛtti, (Benares).
+---
+> Karpūr.	Karpūramañjarī (Published in Kāvyamālā.)
+> Kāśi.	Kāśikāvṛtti, (Benares).
+153c153
+< Panch.	Pañcharātra.
+---
+> Pañch.	Pañcharātra.
+186c186
+< Śahendra.	Śāhendravilāsa, edited by Dr. Raghavan.
+---
+> Śāhendra.	Śāhendravilāsa, edited by Dr. Raghavan.
+191c191
+< Śanti.	Śāntiśataka.
+---
+> Śānti.	Śāntiśataka.
+201c201
+< Sid. Mukta.	Siddhāntamuktāvali.
+---
+> Sid. Muktā.	Siddhāntamuktāvali.
+225c225
+< T. UP.	Taittirīya Upaniṣad.
+---
+> T. Up.	Taittirīya Upaniṣad.
+238d237
+< Uṇ.	Uṇādisūtras.
+245c244
+< Vagb.	Vāgbhaṭa.
+---
+> Vāgb.	Vāgbhaṭa.

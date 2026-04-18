@@ -1,0 +1,400 @@
+** x----- Case 1: Abh. Chin.
+AB:   Abh. Chin.	Abhidhāna Chintāmaṇi Kośa.
+cdsl: Abh. Chin.	Abhidhāna‑Chintāmaṇi‑Kośa.
+ TIP: Abhidhāna Cintāmaṇi Kośa.
+** x----- Case 2: Ak.
+AB:   Ak.	Amarakoṣa, (Bombay ).
+cdsl: Ak.	Amarkoṣa, (Bombay).
+ TIP: Amarakoṣa, (Bombay).
+** x----- Case 3: Amaru.
+AB:   Amaru.	Amaruśataka, (Nirṇaya Sāgara, 1916).
+cdsl: Amaru.	Amaruśataka, (Nirṇaya Sāgar, 1916).
+ TIP: Amaruśataka, (Nirṇaya Sāgara, 1916).
+** x----- Case 4: Āryā. S.
+AB:   Āryā. S.	Āryāsaptaśatī (Published in the Kāvyamālā).
+cdsl: Āryā. S.	Āryāsaptasatī (Published in the Kāvyamālā).
+ TIP: Āryāsaptaśatī (Published in the Kāvyamālā).
+** x----- Case 5: Aśvad.
+AB:   Aśvad.	Aśvadhāṭī (Published in the Subhāṣitaratnākara).
+cdsl: Aśvad.	Aśvadhātī (Published in the Subhāṣitaratnākara).
+ TIP: Aśvadhāṭī (Published in the Subhāṣitaratnākara).
+** x----- Case 6: Āśval.
+AB:   Āśval.	Āsvalāyanaʼs Sūtras.
+cdsl: Āśval.	Āśvalāyana’s Sūtras.
+ TIP: Āśvalāyanaʼs Sūtras.
+** x----- Case 7: Av.
+AB:   Av.	Atharva-Veda. (ed. by Pandit Satawalekar).
+cdsl: Av.	Atharava–Veda. (ed. by Pandit Satavalekar).
+ TIP: Atharva-Veda. (ed. by Pandit Satawalekar).
+** x----- Case 8: Bh.
+AB:   Bh.	Bhartṛhariʼs three śatakas (the figures 1. 2. 3. after Bh. denoting Śṝngāra˚, Nīti˚, and Vairagya˚). Nīti and Vairāgya—Oriental Publishing Company (Bombay). Śṛngāra— Nirṇaya Sāgara, 1925.
+cdsl: Bh.	Bhartṛihari’s three śatakas (the figures 1. 2. 3. after Bh. denoting Śṛṅgāra°, Nīti°, and Vairāgya°). Nīti and Vairāgya -- Oriental Publishing Company (Bombay). Śṛṅgāra -- Nirṇaya Sāgara, 1925.
+ TIP: Bhartṛhariʼs three śatakas (the figures 1. 2. 3. after Bh. denoting Śṝngāra˚, Nīti˚, and Vairagya˚). Nīti and Vairāgya—Oriental Publishing Company (Bombay). Śṛngāra— Nirṇaya Sāgara, 1925.
+** x----- Case 9: Bhāg.
+AB:   Bhāg.	Bhāgavata, (V. Ramaswamy Sastrulu & Sons, Madras).
+cdsl: Bhāg.	Bhāgawata, (V. Ramaswamy Sastrulu & Sons, Madras).
+ TIP: Bhāgavata, (V. Ramaswamy Sastrulu & Sons, Madras).
+** x----- Case 10: Bhār. Ch.
+AB:   Bhār. Ch.	Bhāratachampū, (Bombay).
+cdsl: Bhār. Ch.	Bhāratacampū, (Bombay).
+ TIP: Bhāratacampū, (Bombay).
+** x----- Case 11: Bhāṣā P.
+AB:   Bhāṣā P.	Bhāsāparichchheda.
+cdsl: Bhāṣā P.	Bhāṣāparichchheda.
+ TIP: Bhāṣāpariccheda.
+** x----- Case 12: Bīj.
+AB:   Bīj.	Bījaganita.
+cdsl: Bīj.	Bījagaṇita.
+ TIP: Bījagaṇita.
+** x----- Case 13: Bṛ. Ār. Up.
+AB:   Bṛ. Ār. Up.	Bṛhadāraṇyakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+cdsl: Bṛ. Ār. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+ TIP: Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+** x----- Case 14: Bṛ. Kath.
+AB:   Bṛ. Kath.	Bṛhatkathā.
+cdsl: Bṛ. Kath.	Bṛihatkathā.
+ TIP: Bṛhatkathā.
+** x----- Case 15: Bṛ. S.
+AB:   Bṛ. S.	Varāhamihiraʼs Bṛhatsamhitā, ({#लक्ष्मीवेङ्कटेश्वर प्रेस, कल्याण-मुंबई १८९७#}).
+cdsl: Bṛ. S.	Varāhamihira’s Bṛhatsaṃhitā, (लक्ष्मीवेङ्कटेश्वर कल्याण‑मुंबई १८९७).
+ TIP: Varāhamihiraʼs Bṛhatsamhitā, (लक्ष्मीवेङ्कटेश्वर प्रेस, कल्याण-मुंबई १८९७).
+** x----- Case 16: Br. Sūt.
+AB:   Br. Sūt.	Brahmasūtras.
+cdsl: Br. Sūt.	Brahmasūtrās.
+ TIP: Brahmasūtras.
+** x----- Case 17: Bṛ. Up.
+AB:   Bṛ. Up.	Bṛhadāraṇyakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+cdsl: Bṛ. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+ TIP: Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+** x----- Case 18: Bu. Ch.
+AB:   Bu. Ch.	Buddhacharitam, (A.C. Bhat & Co. 1911).
+cdsl: Bu. Ch.	Buddhacharitam, (A. C. Bhat & Co. 1911).
+ TIP: Buddhacaritam, (A.C. Bhat & Co. 1911).
+** x----- Case 19: Bv.
+AB:   Bv.	Bhāminīvilāsa, (D. V. Sadhale & Co. Bombay).
+cdsl: Bv.	Bhāminīvilāsa, (D. V. Sādhale & Co. Bombay).
+ TIP: Bhāminīvilāsa, (D. V. Sadhale & Co. Bombay).
+** x----- Case 20: Ch. Up.
+AB:   Ch. Up.	Chhandogyopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+cdsl: Ch. Up.	Chhāndogyopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४)
+ TIP: Chandogyopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+** x----- Case 21: Chāṇ.
+AB:   Chāṇ.	Chāṇakyaśataka.
+cdsl: Chāṇ.	Chāṇakyāśataka.
+ TIP: Cāṇakyaśataka.
+** x----- Case 22: Chaṇḍ. K.
+AB:   Chaṇḍ. K.	Chaṇḍakauśika.
+cdsl: Chaṇḍ. K.	Chaṇḍakauśika.
+ TIP: Caṇḍakauśika.
+** x----- Case 23: Chāt.
+AB:   Chāt.	Chātakāṣṭaka (In two parts.)
+cdsl: Chāt.	Chāṭakāṣṭaka (In two parts.)
+ TIP: Cātakāṣṭaka (In two parts.)
+** x----- Case 24: CP.
+AB:   CP.	Copper-plates.
+cdsl: CP.	Copper‑plates.
+ TIP: Copper-plates.
+** x----- Case 25: D. R.
+AB:   D. R.	Daśarūpa (Hallʼs edition).
+cdsl: D. R.	Daśarūpa (Hall’s edition).
+ TIP: Daśarūpa (Hallʼs edition).
+** x----- Case 26: Dhan. V.
+AB:   Dhan. V.	Dhanañjayavijaya.
+cdsl: Dhan. V.	Dhanan̄jayavijaya.
+ TIP: Dhanañjayavijaya.
+** x----- Case 27: Dhanur.
+AB:   Dhanur.	Dhanurveda Samhitā, ({#श्रीवेंकटेश्वर प्रेस, शके १८२३#}).
+cdsl: Dhanur.	Dhanurveda Saṁhitā, (श्रीवेंकटेश्वर प्रेस, शके १८२३).
+ TIP: Dhanurveda Saṃhitā, (श्रीवेंकटेश्वर प्रेस, शके १८२३).
+** x----- Case 28: Dhyān. Up.
+AB:   Dhyān. Up.	Dhyānabindūpaniṣad.
+cdsl: Dhyān. Up.	Dhyānabindu‑Upaniṣad.
+ TIP: Dhyānabindūpaniṣad.
+** x----- Case 29: G. L.
+AB:   G. L.	Gaṅgālaharī.
+cdsl: G. L.	Gaṅgalaharī.
+ TIP: Gaṅgālaharī.
+** x----- Case 30: H.
+AB:   H.	Hitopadeśa, (आर्यभूषण प्रेस, पुणें , १९३३).
+cdsl: H.	Hitopadeśa, (आर्यभूषण प्रेस, पुणे, १९३३).
+ TIP: Hitopadeśa, (आर्यभूषण प्रेस, पुणें, १९३३).
+** x----- Case 31: H. D.
+AB:   H. D.	Hamsadūta.
+cdsl: H. D.	Haṁsadūta.
+ TIP: Haṃsadūta.
+** x----- Case 32: Hariv.
+AB:   Hariv.	Harivamśa, ({#चित्रशाळा, पुणें , १९३६#}).
+cdsl: Hariv.	Harivaṁśa, (चित्रशाळा, पुणे, १९३६).
+ TIP: Harivaṃśa, (चित्रशाळा, पुणें, १९३६).
+** x----- Case 33: Īśop.
+AB:   Īśop.	Īśopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+cdsl: Īśop.	Īśopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+ TIP: Īśopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+** x----- Case 34: J. N. V.
+AB:   J. N. V.	Jaiminīyanyāyamālāvistara, (Goldstückerʼs Edition.)
+cdsl: J. N. V.	Jaiminīyanyāyamalāvistara, (Goldstücker’s edition).
+ TIP: Jaiminīyanyāyamālāvistara, (Goldstückerʼs Edition.)
+** x----- Case 35: Jag.
+AB:   Jag.	Jagannātha Pandit.
+cdsl: Jag.	Jagannātha Paṇḍit.
+ TIP: Jagannātha Pandit.
+** x----- Case 36: K. R.
+AB:   K. R.	Kavi-Rahasya.
+cdsl: K. R.	Kavi‑Rahasya.
+ TIP: Kavi-Rahasya.
+** x----- Case 37: Karpūr.
+AB:   Karpūr.	Karpūramañjarī (Published in Kāvyamālā.)
+cdsl: Karpūr.	Karpūramañjarī (Published in Kāvyamālā).
+ TIP: Karpūramañjarī (Published in Kāvyamālā.)
+** x----- Case 38: Kaṭh.
+AB:   Kaṭh.	Kaṭhopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत १९१४#}).
+cdsl: Kaṭh.	Kaṭhopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+ TIP: Kaṭhopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत १९१४).
+** x----- Case 39: Kau. A.
+AB:   Kau. A.	Kauṭiliya Arthaśāstra, by Dr. Shāma Śastry, 1924.
+cdsl: Kau. A.	Kauṭilīya Arthaśāstra, by Dr. Shama Śastry, 1924.
+ TIP: Kauṭiliya Arthaśāstra, by Dr. Shāma Śastry, 1924.
+** x----- Case 40: Kāvyāl.
+AB:   Kāvyāl.	Kāvyālaṅkāra (Publishad in Kāvyamālā).
+cdsl: Kāvyāl.	Kāvyālaṅkāra (Published in Kāvyamālā).
+ TIP: Kāvyālaṅkāra (Published in Kāvyamālā).
+** x----- Case 41: Ken.
+AB:   Ken.	Kenopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+cdsl: Ken.	Kenopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+ TIP: Kenopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+** x----- Case 42: Līlā.
+AB:   Līlā.	Lilāvatī.
+cdsl: Līlā.	Līlāvatī.
+ TIP: Līlāvatī.
+** x----- Case 43: Lm.
+AB:   Lm.	Laghu-mañjūṣā.
+cdsl: Lm.	Laghu‑mañjūsā.
+ TIP: Laghu-mañjūṣā.
+** x----- Case 44: Māl.
+AB:   Māl.	Mālatīmādhava (Oriental Publishing Co. Bombay, 1913).
+cdsl: Māl.	Mālatīmādhava (Oriental Publishing, Bombay, 1913).
+ TIP: Mālatīmādhava (Oriental Publishing Co. Bombay, 1913).
+** x----- Case 45: Māṇḍ.
+AB:   Māṇḍ.	Māṇḍūkyopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+cdsl: Māṇḍ.	Māṇḍūkyopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+ TIP: Māṇḍūkyopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+** x----- Case 46: Mātaṅga L.
+AB:   Mātaṅga L.	Mātaṅgalīlā of Nīlakaṇṭha.
+cdsl: Mātaṅga L.	Mātangalīlā of Nīlakaṇṭha.
+ TIP: Mātaṅgalīlā of Nīlakaṇṭha.
+** x----- Case 47: Mb.
+AB:   Mb.	Mahābhārata, ({#चित्रशाळा, पुणें , १९२९-३३#}).
+cdsl: Mb.	Mahābhārata, (चित्रशाळा, पुणे, १९२९–३३).
+ TIP: Mahābhārata, (चित्रशाळा, पुणें , १९२९-३३).
+** x----- Case 48: Mīm.
+AB:   Mīm.	Mīmāmsā.
+cdsl: Mīm.	Mīmāṁsā.
+ TIP: Mīmāṃsā.
+** x----- Case 49: Mk.
+AB:   Mk.	Mṛchhakaṭika, (R. D. Karmarkar, 1937).
+cdsl: Mk.	Mṛcchakaṭika, (R. D. Karmarkar, 1937).
+ TIP: Mṛcchakaṭikā, (R. D. Karmarkar, 1937).
+** x----- Case 50: Muṇḍ.
+AB:   Muṇḍ.	Muṇḍakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+cdsl: Muṇḍ.	Muṇḍakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+ TIP: Muṇḍakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+** x----- Case 51: Nigh. Ratn.
+AB:   Nigh. Ratn.	Nighaṇṭa-Ratnākara.
+cdsl: Nigh. Ratn.	Nighaṇṭa‑Ratnākara.
+ TIP: Nighaṇṭa-Ratnākara.
+** x----- Case 52: Nṛ. P. Up.
+AB:   Nṛ. P. Up.	Nṛsiṃhapūrvatāpinyupaniṣad.
+cdsl: Nṛ. P. Up.	Nṛsiṁha‑pūrvatāpinyupaniṣad.
+ TIP: Nṛsiṃhapūrvatāpinyupaniṣad.
+** x----- Case 53: P.
+AB:   P.	Pāṇiniʼs Aṣṭādhyāyī.
+cdsl: P.	Pāṇini’s Aṣṭādhyāyī.
+ TIP: Pāṇiniʼs Aṣṭādhyāyī.
+** x----- Case 54: Pad. D.
+AB:   Pad. D.	Padaṅkadūta.
+cdsl: Pad. D.	Padāṅkadūta.
+ TIP: Padāṅkadūta.
+** x----- Case 55: Pradīp.
+AB:   Pradīp.	Mahābhāṣya-Pradīpa (Kaiyaṭa).
+cdsl: Pradīp.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+ TIP: Mahābhāṣya-Pradīpa (Kaiyaṭa).
+** x----- Case 56: Praśna. Up.
+AB:   Praśna. Up.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+cdsl: Praśna. Up.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+ TIP: Praśnopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+** x----- Case 57: Pś.
+AB:   Pś.	Pāṇinīya Śikṣā.
+cdsl: Pś.	Paṇinīya Śikṣā.
+ TIP: Pāṇinīya Śikṣā.
+** x----- Case 58: Pt.
+AB:   Pt.	Pañchatantra. Chap, I, IV, V, ({#आर्यभूषण प्रेस, पुणें  १८९३#}); Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+cdsl: Pt.	Pañchatantra, Chap. I, IV, V, (आर्यभूषण प्रेस, पुणे १८९३); Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+ TIP: Pañchatantra. Chap, I, IV, V, (आर्यभूषण प्रेस, पुणें  १८९३); Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+** x----- Case 59: Pur. Pv.
+AB:   Pur. Pv.	Puruṣottama-Paribhāṣāvṛitti.
+cdsl: Pur. Pv.	Puruṣottama‑Paribhāṣāvṛtti.
+ TIP: Puruṣottama-Paribhāṣāvṛtti.
+** x----- Case 60: R.
+AB:   R.	Raghuvamśa, (R. A. Sagoon, Bombay 1897).
+cdsl: R.	Raghuvaṁśa, (R. A. Sagoon, Bombay 1897).
+ TIP: Raghuvaṃśa, (R. A. Sagoon, Bombay 1897).
+** x----- Case 61: Ṛ. S.
+AB:   Ṛ. S.	Ṛtusamhāra, (V.R. Nerurkar, Bombay, 1916).
+cdsl: Ṛ. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 1916).
+ TIP: Ṛtusaṃhāra, (V.R. Nerurkar, Bombay, 1916).
+** x----- Case 62: Rām. ch.
+AB:   Rām. ch.	Rāmacharitain by Yuvarāja Kavi.
+cdsl: Rām. ch.	Rāmacharitam by Yuvarāja Kavi.
+ TIP: Rāmacaritam by Yuvarāja Kavi.
+** x----- Case 63: Ratn.
+AB:   Ratn.	Ratnāvalī, (Padhye, Yande, Manerikar & Co. Bombay, 1907).
+cdsl: Ratn.	Ratnāvalī, (Padhye, Yande, Manerikar & Co., Bombay, 1907).
+ TIP: Ratnāvalī, (Padhye, Yande, Manerikar & Co. Bombay, 1907).
+** x----- Case 64: Ṛs.
+AB:   Ṛs.	Ṛitusaṃhāra.
+cdsl: Ṛs.	Ṛitusamhāra.
+ TIP: Ṛtusaṃhāra.
+** x----- Case 65: Ś.
+AB:   Ś.	Śakuntalam, (Shiralkar & Co. Poona, 1902).
+cdsl: Ś.	Śākuntalam, (Shiralkar & Co., Poona, 1902).
+ TIP: Śakuntalam, (Shiralkar & Co. Poona, 1902).
+** x----- Case 66: S. L.
+AB:   S. L.	Sudhālaharī (Published in the Kavyamālā).
+cdsl: S. L.	Sudhalaharī (Published in the Kāvyamālā).
+ TIP: Sudhālaharī (Published in the Kavyamālā).
+** x----- Case 67: Ś. Til.
+AB:   Ś. Til.	Śṛngāratilaka.
+cdsl: Ś. Til.	Śṛṅgāratilaka.
+ TIP: Śṛṅgāratilaka.
+** x----- Case 68: Sar. K.
+AB:   Sar. K.	Sarasvatīkaṇṭhābharaṇa.
+cdsl: Sar. K.	Sarasvatīkaṇṭhabharaṇa.
+ TIP: Sarasvatīkaṇṭhābharaṇa.
+** x----- Case 69: Sar. S.
+AB:   Sar. S.	Sarvadarśanasaṃgraha.
+cdsl: Sar. S.	Sarvadarśanasaṁgraha.
+ TIP: Sarvadarśanasaṃgraha.
+** x----- Case 70: Śāraṅg. S.
+AB:   Śāraṅg. S.	Śāraṅgdhara Samhitā
+cdsl: Śāraṅg. S.	Śāraṅgadhara Saṁhitā.
+ TIP: Śāraṅgadhara Saṃhitā
+** x----- Case 71: Sarva. S.
+AB:   Sarva. S.	Sarvadarśanasaṃgraha.
+cdsl: Sarva. S.	Sarvadarśanasaṁgraha.
+ TIP: Sarvadarśanasaṃgraha.
+** x----- Case 72: ŚB. on MS.
+AB:   ŚB. on MS.	Śābarabhāṣya on Mīmānsā Sūtras.
+cdsl: ŚB. on MS.	Śābarabhāṣya on Mīmāṁsā Sūtras.
+ TIP: Śābarabhāṣya on Mīmāṃsā Sūtras.
+** x----- Case 73: Śi.
+AB:   Śi.	Śisupālavadha, (Nirṇaya Sāgara, 1902).
+cdsl: Śi.	Śiśupālavadha, (Nirṇaya Sāgara, 1902).
+ TIP: Śiśupālavadha, (Nirṇaya Sāgara, 1902).
+** x----- Case 74: Sid. Mukt.
+AB:   Sid. Mukt.	Siddhāntamuktāvali.
+cdsl: Sid. Mukt.	Siddhāntamuktāvalī.
+ TIP: Siddhāntamuktāvalī.
+** x----- Case 75: Muktā.
+AB:   Muktā.	Siddhāntamuktāvali.
+cdsl: Muktā.	Siddhāntamuktāvalī.
+ TIP: Siddhāntamuktāvalī.
+** x----- Case 76: Śik. s.
+AB:   Śik. s.	Śikṣā-Saṅgraha.
+cdsl: Śik. s.	Śikṣā‑Saṅgraha.
+ TIP: Śikṣā-Saṅgraha.
+** x----- Case 77: Sinhās.
+AB:   Sinhās.	Sinhāsana-dvātrinśikā.
+cdsl: Sinhās.	Sinhāsana‑dvātriṁśikā.
+ TIP: Siṃhāsana-dvātriṃśikā.
+** x----- Case 78: Sīr. Pv.
+AB:   Sīr. Pv.	Sīrdevaʼs Paribhāsāvṛtti.
+cdsl: Sīr. Pv.	Sīrdeva’s Paribhāṣāvṛtti.
+ TIP: Sīrdevaʼs Paribhāṣāvṛtti.
+** x----- Case 79: Sk.
+AB:   Sk.	Siddhānta-Kaumudī.
+cdsl: Sk.	Siddhānta‑Kaumudī.
+ TIP: Siddhānta-Kaumudī.
+** x----- Case 80: Śs.
+AB:   Śs.	Śrauta-sūtra.
+cdsl: Śs.	Śrauta‑sūtra.
+ TIP: Śrauta-sūtra.
+** x----- Case 81: Subh. Ratn.
+AB:   Subh. Ratn.	Subhāṣitaratnabhāṇdāgāra, (Bombay).
+cdsl: Subh. Ratn.	Subhāṣitaratnabhāṇḍāgāra, (Bombay).
+ TIP: Subhāṣitaratnabhāṇḍāgāra, (Bombay).
+** x----- Case 82: Śukra.
+AB:   Śukra.	Śukranīti, ({#रा. गो. शास्त्री, अलीबाग छापखाना#}).
+cdsl: Śukra.	Śukranīti, (रा. गो. शास्त्री, अलीबाग छापखाना).
+ TIP: Śukranīti, (रा. गो. शास्त्री, अलीबाग छापखाना).
+** x----- Case 83: T. S.
+AB:   T. S.	Tarkasaṃgraha, (Bombay).
+cdsl: T. S.	Tarkasaṁgraha, (Bombay).
+ TIP: Tarkasaṃgraha, (Bombay).
+** x----- Case 84: Taitt. Sam.
+AB:   Taitt. Sam.	Taittirīya Samhitā.
+cdsl: Taitt. Sam.	Taittirīya Saṁhitā.
+ TIP: Taittirīya Saṃhitā.
+** x----- Case 85: Ts.
+AB:   Ts.	Taittirīya Samhitā.
+cdsl: Ts.	Taittirīya Saṁhitā.
+ TIP: Taittirīya Saṃhitā.
+** x----- Case 86: Tv.
+AB:   Tv.	Tārānāthaʼs Vāchaspatyam.
+cdsl: Tv.	Tārānātha’s Vācaspatyam.
+ TIP: Tārānāthaʼs Vācaspatyam.
+** x----- Case 87: Uṇ.
+AB:   Uṇ.	Uṇādisūtras (N. B. New references from the letter प in this edition are taken from the work edited by T. R. Chintamani, University of Madras Publication, 1933.)
+cdsl: Uṇ.	Uṇādisūtras. (N.B. new references from the letter प् taken from the work edited by T. R. Chintamani, University of Madras Publication, 1933.)
+ TIP: Uṇādisūtras (N. B. New references from the letter प in this edition are taken from the work edited by T. R. Chintamani, University of Madras Publication, 1933.)
+** x----- Case 88: V. May.
+AB:   V. May.	Vyavahāramayūkha, (Mr. Mandalikʼs Edition).
+cdsl: V. May.	Vyavahāramayūkha, (Mr. Mandalik’s Edition).
+ TIP: Vyavahāramayūkha, (Mr. Mandalikʼs Edition).
+** x----- Case 89: Vāj.
+AB:   Vāj.	Vājasaneyi Samhitā, ({#मनोहर ग्रंथमाला, पुणें , १९४२#}).
+cdsl: Vāj.	Vājasaneyi Saṁhitā, (मनोहर ग्रंथमाला, पुणे, १९४२).
+ TIP: Vājasaneyi Saṃhitā, (मनोहर ग्रंथमाला, पुणें , १९४२).
+** x----- Case 90: Vāk. P.
+AB:   Vāk. P.	Vākyapadiya.
+cdsl: Vāk. P.	Vākyapadīya.
+ TIP: Vākyapadīya.
+** x----- Case 91: Vall. Subh.
+AB:   Vall. Subh.	Vallabhadevaʼs Subhāṣitāvali, (Bombay).
+cdsl: Vall. Subh.	Vallabhadeva’s Subhāṣitāvali, (Bombay).
+ TIP: Vallabhadevaʼs Subhāṣitāvali, (Bombay).
+** x----- Case 92: Vb.
+AB:   Vb.	Viddhaśalabhañjikā, (Bombay).
+cdsl: Vb.	Viddhaśālabhañjikā, (Bombay).
+ TIP: Viddhaśālabhañjikā, (Bombay).
+** x----- Case 93: Vbh.
+AB:   Vbh.	Vaidikābharaṇa (a commentary on {#तै˚ प्रातिशाख्य#}).
+cdsl: Vbh.	Vaidikabharaṇa (a commentary on Taittirīya Prātiśākhya).
+ TIP: Vaidikābharaṇa (a commentary on तै˚ प्रातिशाख्य).
+** x----- Case 94: Ve.
+AB:   Ve.	Venīsaṃhāra, (A. B. Gajendragadkar. 1941).
+cdsl: Ve.	Veṇīsaṁhāra, (A. B. Gajendragadkar, 1941).
+ TIP: Veṇīsaṃhāra, (A. B. Gajendragadkar. 1941).
+** x----- Case 95: Vet.
+AB:   Vet.	Vetālapañchavimsati.
+cdsl: Vet.	Vetālapañcaviṁśati.
+ TIP: Vetālapañcaviṃśati.
+** x----- Case 96: Vikr.
+AB:   Vikr.	Vikramāṅkadevacharita, (Bombay).
+cdsl: Vikr.	Vikramāṅkadevacarita, (Bombay).
+ TIP: Vikramāṅkadevacarita, (Bombay).
+** x----- Case 97: Viś. Guṇā.
+AB:   Viś. Guṇā.	Viśvaguṇādarśachampū, (Nirṇaya Sāgara, 1915).
+cdsl: Viś. Guṇā.	Viśvaguṇādarśacampū, (Nirṇaya Sāgara, 1915).
+ TIP: Viśvaguṇādarśacampū, (Nirṇaya Sāgara, 1915).
+** x----- Case 98: Vp.
+AB:   Vp.	Vājasaneyi Prātiśākhya.
+cdsl: Vp.	Vājasaneyī Prātiśākhya.
+ TIP: Vājasaneyi Prātiśākhya.
+** x----- Case 99: Yaj.
+AB:   Yaj.	Yajurveda (Pandit Satawalekar ed.)
+cdsl: Yaj.	Yajurveda (Pandit Satevalekar ed.).
+ TIP: Yajurveda (Pandit Satawalekar ed.)
+** ----- Case 100: Yv.
+AB:   Yv.	Yajurveda (Pandit Satawalekar ed.)
+cdsl: Yv.	Yajurveda (Pandit Satevalekar ed.).
+ TIP: Yajurveda (Pandit Satawalekar ed.)

@@ -1,0 +1,321 @@
+4c4
+< Abh. Chin.	Abhidhāna‑Chintāmaṇi‑Kośa.
+---
+> Abh. Chin.	Abhidhāna Cintāmaṇi Kośa.
+8c8
+< Ak.	Amarkoṣa, (Bombay).
+---
+> Ak.	Amarakoṣa, (Bombay).
+10c10
+< Amaru.	Amaruśataka, (Nirṇaya Sāgar, 1916).
+---
+> Amaru.	Amaruśataka, (Nirṇaya Sāgara, 1916).
+13,16c13,16
+< Āryā. S.	Āryāsaptasatī (Published in the Kāvyamālā).
+< Aśvad.	Aśvadhātī (Published in the Subhāṣitaratnākara).
+< Āśval.	Āśvalāyana’s Sūtras.
+< Av.	Atharava–Veda. (ed. by Pandit Satavalekar).
+---
+> Āryā. S.	Āryāsaptaśatī (Published in the Kāvyamālā).
+> Aśvad.	Aśvadhāṭī (Published in the Subhāṣitaratnākara).
+> Āśval.	Āśvalāyanaʼs Sūtras.
+> Av.	Atharva-Veda. (ed. by Pandit Satawalekar).
+18c18
+< B. and R.	Bothlingk and Roth.
+---
+> B. and R.	Böhtlingk and Roth.
+23,24c23,24
+< Bh.	Bhartṛihari’s three śatakas (the figures 1. 2. 3. after Bh. denoting Śṛṅgāra°, Nīti°, and Vairāgya°). Nīti and Vairāgya -- Oriental Publishing Company (Bombay). Śṛṅgāra -- Nirṇaya Sāgara, 1925.
+< Bhāg.	Bhāgawata, (V. Ramaswamy Sastrulu & Sons, Madras).
+---
+> Bh.	Bhartṛhariʼs three śatakas (the figures 1. 2. 3. after Bh. denoting Śṛṅgāra˚, Nīti˚, and Vairāgya˚). Nīti and Vairāgya—Oriental Publishing Company (Bombay). Śṛṅgāra— Nirṇaya Sāgara, 1925.
+> Bhāg.	Bhāgavata, (V. Ramaswamy Sastrulu & Sons, Madras).
+26c26
+< Bhāṣā P.	Bhāṣāparichchheda.
+---
+> Bhāṣā P.	Bhāṣāpariccheda.
+30c30
+< Bil. Ch.	Bilhaṇacharitam.
+---
+> Bil. Ch.	Bilhaṇacaritam.
+34,38c34,38
+< Bṛ. Ār. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+< Bṛ. Kath.	Bṛihatkathā.
+< Bṛ. S.	Varāhamihira’s Bṛhatsaṃhitā, (लक्ष्मीवेङ्कटेश्वर कल्याण‑मुंबई १८९७).
+< Br. Sūt.	Brahmasūtrās.
+< Bṛ. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+---
+> Bṛ. Ār. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+> Bṛ. Kath.	Bṛhatkathā.
+> Bṛ. S.	Varāhamihiraʼs Bṛhatsamhitā, (लक्ष्मीवेङ्कटेश्वर प्रेस, कल्याण-मुंबई १८९७).
+> Br. Sūt.	Brahmasūtras.
+> Bṛ. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+40c40
+< Bu. Ch.	Buddhacharitam, (A. C. Bhat & Co. 1911).
+---
+> Bu. Ch.	Buddhacaritam, (A.C. Bhat & Co. 1911).
+42,49c42,49
+< Bv.	Bhāminīvilāsa, (D. V. Sādhale & Co. Bombay).
+< Ch. P.	Chaurapañchāśikā.
+< Ch. Up.	Chhāndogyopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४)
+< Chāṇ.	Chāṇakyāśataka.
+< Chaṇḍ. K.	Chaṇḍakauśika.
+< Chand. M.	Chhandomañjarī.
+< Chandr.	Chandrāloka.
+< Chāt.	Chāṭakāṣṭaka (In two parts.)
+---
+> Bv.	Bhāminīvilāsa, (D. V. Sadhale & Co. Bombay).
+> Ch. P.	Caurapañcāśikā.
+> Ch. Up.	Chāndogyopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+> Chāṇ.	Cāṇakyaśataka.
+> Chaṇḍ. K.	Caṇḍakauśika.
+> Chand. M.	Chandomañjarī.
+> Chandr.	Candrāloka.
+> Chāt.	Cātakāṣṭaka (In two parts.)
+51c51
+< CP.	Copper‑plates.
+---
+> CP.	Copper-plates.
+53c53
+< D. R.	Daśarūpa (Hall’s edition).
+---
+> D. R.	Daśarūpa (Hallʼs edition).
+56,57c56,57
+< Dhan. V.	Dhanan̄jayavijaya.
+< Dhanur.	Dhanurveda Saṁhitā, (श्रीवेंकटेश्वर प्रेस, शके १८२३).
+---
+> Dhan. V.	Dhanañjayavijaya.
+> Dhanur.	Dhanurveda Saṃhitā, (श्रीवेंकटेश्वर प्रेस, शके १८२३).
+61,63c61,63
+< Dhyān. Up.	Dhyānabindu‑Upaniṣad.
+< Dk.	Daśakumāracharita, (Bombay).
+< Dṛ. Ś.	Dṛstāntaśataka.
+---
+> Dhyān. Up.	Dhyānabindūpaniṣad.
+> Dk.	Daśakumāracarita, (Bombay).
+> Dṛ. Ś.	Dṛṣṭāntaśataka.
+67c67
+< G. L.	Gaṅgalaharī.
+---
+> G. L.	Gaṅgālaharī.
+76,77c76,77
+< H.	Hitopadeśa, (आर्यभूषण प्रेस, पुणे, १९३३).
+< H. D.	Haṁsadūta.
+---
+> H.	Hitopadeśa, (आर्यभूषण प्रेस, पुणें, १९३३).
+> H. D.	Haṃsadūta.
+80,82c80,82
+< Hariv.	Harivaṁśa, (चित्रशाळा, पुणे, १९३६).
+< Hch.	Harṣacharita.
+< Hem.	Hemachandra.
+---
+> Hariv.	Harivaṃśa, (चित्रशाळा, पुणें, १९३६).
+> Hch.	Harṣacarita.
+> Hem.	Hemacandra.
+86,87c86,87
+< J. N. V.	Jaiminīyanyāyamalāvistara, (Goldstücker’s edition).
+< Jag.	Jagannātha Paṇḍit.
+---
+> J. N. V.	Jaiminīyanyāyamālāvistara, (Goldstückerʼs Edition.)
+> Jag.	Jagannātha Pandit.
+90c90
+< K. R.	Kavi‑Rahasya.
+---
+> K. R.	Kavi-Rahasya.
+92c92
+< Karpūr.	Karpūramañjarī (Published in Kāvyamālā).
+---
+> Karpūr.	Karpūramañjarī (Published in Kāvyamālā.)
+94c94
+< Kaṭh.	Kaṭhopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+---
+> Kaṭh.	Kaṭhopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत १९१४).
+96c96
+< Kau. A.	Kauṭilīya Arthaśāstra, by Dr. Shama Śastry, 1924.
+---
+> Kau. A.	Kauṭilīya Arthaśāstra, by Dr. Shāma Śastry, 1924.
+102c102
+< Ken.	Kenopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+---
+> Ken.	Kenopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+113c113
+< Lm.	Laghu‑mañjūsā.
+---
+> Lm.	Laghu-mañjūṣā.
+115c115
+< M. W.	Monier Williams.
+---
+> MW.	Monier Williams.
+119c119
+< Māl.	Mālatīmādhava (Oriental Publishing, Bombay, 1913).
+---
+> Māl.	Mālatīmādhava (Oriental Publishing Co. Bombay, 1913).
+122c122
+< Māṇḍ.	Māṇḍūkyopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+---
+> Māṇḍ.	Māṇḍūkyopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+124,125c124,125
+< Mātaṅga L.	Mātangalīlā of Nīlakaṇṭha.
+< Mb.	Mahābhārata, (चित्रशाळा, पुणे, १९२९–३३).
+---
+> Mātaṅga L.	Mātaṅgalīlā of Nīlakaṇṭha.
+> Mb.	Mahābhārata, (चित्रशाळा, पुणें , १९२९-३३).
+129c129
+< Mīm.	Mīmāṁsā.
+---
+> Mīm.	Mīmāṃsā.
+131c131
+< Mk.	Mṛcchakaṭika, (R. D. Karmarkar, 1937).
+---
+> Mk.	Mṛcchakaṭikā, (R. D. Karmarkar, 1937).
+137,140c137,139
+< Muṇḍ.	Muṇḍakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+< Mv.	Mahāvīracharita, (Nirṇaya Sāgara, 1926).
+< MW.	Monier-Williams Sanskrit-English Dictionary, 1899
+< N.	Naiṣadhacharita, (Nirṇaya Sāgara, 1933).
+---
+> Muṇḍ.	Muṇḍakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+> Mv.	Mahāvīracarita, (Nirṇaya Sāgara, 1926).
+> N.	Naiṣadhacarita, (Nirṇaya Sāgara, 1933).
+145c144
+< Nigh. Ratn.	Nighaṇṭa‑Ratnākara.
+---
+> Nigh. Ratn.	Nighaṇṭa-Ratnākara.
+150,151c149,150
+< Nṛ. P. Up.	Nṛsiṁha‑pūrvatāpinyupaniṣad.
+< P.	Pāṇini’s Aṣṭādhyāyī.
+---
+> Nṛ. P. Up.	Nṛsiṃhapūrvatāpinyupaniṣad.
+> P.	Pāṇiniʼs Aṣṭādhyāyī.
+155c154
+< Pañch.	Pañcharātra.
+---
+> Pañch.	Pañcarātra.
+160,163c159,162
+< Prab.	Prabodhachandrodaya, (Bombay).
+< Pradīp.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+< Praśna.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+< Praśna. Up.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+---
+> Prab.	Prabodhacandrodaya, (Bombay).
+> Pradīp.	Mahābhāṣya-Pradīpa (Kaiyaṭa).
+> Praśna.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+> Praśna. Up.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+166c165
+< Pś.	Paṇinīya Śikṣā.
+---
+> Pś.	Pāṇinīya Śikṣā.
+168,170c167,169
+< Pt.	Pañchatantra, Chap. I, IV, V, (आर्यभूषण प्रेस, पुणे १८९३); Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+< Pur. Pv.	Puruṣottama‑Paribhāṣāvṛtti.
+< R.	Raghuvaṁśa, (R. A. Sagoon, Bombay 1897).
+---
+> Pt.	Pañcatantra. Chap, I, IV, V, (आर्यभूषण प्रेस, पुणें  १८९३); Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+> Pur. Pv.	Puruṣottama-Paribhāṣāvṛtti.
+> R.	Raghuvaṃśa, (R. A. Sagoon, Bombay 1897).
+172c171
+< Ṛ. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 1916).
+---
+> Ṛ. S.	Ṛtusaṃhāra, (V.R. Nerurkar, Bombay, 1916).
+176c175
+< Rām. ch.	Rāmacharitam by Yuvarāja Kavi.
+---
+> Rām. ch.	Rāmacaritam by Yuvarāja Kavi.
+178,179c177,178
+< Ratn.	Ratnāvalī, (Padhye, Yande, Manerikar & Co., Bombay, 1907).
+< Ṛs.	Ṛitusamhāra.
+---
+> Ratn.	Ratnāvalī, (Padhye, Yande, Manerikar & Co. Bombay, 1907).
+> Ṛs.	Ṛtusaṃhāra.
+182c181
+< Ś.	Śākuntalam, (Shiralkar & Co., Poona, 1902).
+---
+> Ś.	Śakuntalam, (Shiralkar & Co. Poona, 1902).
+185c184
+< S. L.	Sudhalaharī (Published in the Kāvyamālā).
+---
+> S. L.	Sudhālaharī (Published in the Kāvyamālā).
+195,198c194,197
+< Sar. K.	Sarasvatīkaṇṭhabharaṇa.
+< Sar. S.	Sarvadarśanasaṁgraha.
+< Śāraṅg. S.	Śāraṅgadhara Saṁhitā.
+< Sarva. S.	Sarvadarśanasaṁgraha.
+---
+> Sar. K.	Sarasvatīkaṇṭhābharaṇa.
+> Sar. S.	Sarvadarśanasaṃgraha.
+> Śāraṅg. S.	Śāraṅgadhara Saṃhitā
+> Sarva. S.	Sarvadarśanasaṃgraha.
+201c200
+< ŚB. on MS.	Śābarabhāṣya on Mīmāṁsā Sūtras.
+---
+> ŚB. on MS.	Śābarabhāṣya on Mīmāṃsā Sūtras.
+205,207c204,206
+< Śik. s.	Śikṣā‑Saṅgraha.
+< Sinhās.	Sinhāsana‑dvātriṁśikā.
+< Sīr. Pv.	Sīrdeva’s Paribhāṣāvṛtti.
+---
+> Śik. s.	Śikṣā-Saṃgraha.
+> Sinhās.	Siṃhāsana-dvātriṃśikā.
+> Sīr. Pv.	Sīrdevaʼs Paribhāṣāvṛtti.
+210c209
+< Sk.	Siddhānta‑Kaumudī.
+---
+> Sk.	Siddhānta-Kaumudī.
+213c212
+< Śs.	Śrauta‑sūtra.
+---
+> Śs.	Śrauta-sūtra.
+226c225
+< T. S.	Tarkasaṁgraha, (Bombay).
+---
+> T. S.	Tarkasaṃgraha, (Bombay).
+228c227
+< Taitt. Sam.	Taittirīya Saṁhitā.
+---
+> Taitt. Sam.	Taittirīya Saṃhitā.
+232,234c231,233
+< Ts.	Taittirīya Saṁhitā.
+< Tv.	Tārānātha’s Vācaspatyam.
+< U.	Uttararāmacharita, (P. V. Kane, Bombay, 1915).
+---
+> Ts.	Taittirīya Saṃhitā.
+> Tv.	Tārānāthaʼs Vācaspatyam.
+> U.	Uttararāmacarita, (P. V. Kane, Bombay, 1915).
+239c238
+< Uṇ.	Uṇādisūtras. (N.B. new references from the letter प् taken from the work edited by T. R. Chintamani, University of Madras Publication, 1933.)
+---
+> Uṇ.	Uṇādisūtras (N. B. New references from the letter प in this edition are taken from the work edited by T. R. Chintamani, University of Madras Publication, 1933.)
+242c241
+< V. May.	Vyavahāramayūkha, (Mr. Mandalik’s Edition).
+---
+> V. May.	Vyavahāramayūkha, (Mr. Mandalikʼs Edition).
+247c246
+< Vai. Bhū. ({#वै˚ भू˚#}).	Vaiyākaraṇabhūṣaṇasāra.
+---
+> Vai. Bhū. (वै˚ भू˚).	Vaiyākaraṇabhūṣaṇasāra.
+250c249
+< Vāj.	Vājasaneyi Saṁhitā, (मनोहर ग्रंथमाला, पुणे, १९४२).
+---
+> Vāj.	Vājasaneyi Saṃhitā, (मनोहर ग्रंथमाला, पुणें , १९४२).
+252c251
+< Vall. Subh.	Vallabhadeva’s Subhāṣitāvali, (Bombay).
+---
+> Vall. Subh.	Vallabhadevaʼs Subhāṣitāvali, (Bombay).
+256,257c255,256
+< Vbh.	Vaidikabharaṇa (a commentary on Taittirīya Prātiśākhya).
+< Ve.	Veṇīsaṁhāra, (A. B. Gajendragadkar, 1941).
+---
+> Vbh.	Vaidikābharaṇa (a commentary on तै˚ प्रातिशाख्य).
+> Ve.	Veṇīsaṃhāra, (A. B. Gajendragadkar. 1941).
+265c264
+< Vp.	Vājasaneyī Prātiśākhya.
+---
+> Vp.	Vājasaneyi Prātiśākhya.
+269c268
+< Yaj.	Yajurveda (Pandit Satevalekar ed.).
+---
+> Yaj.	Yajurveda (Pandit Satawalekar ed.)
+271c270
+< Yv.	Yajurveda (Pandit Satevalekar ed.).
+---
+> Yv.	Yajurveda (Pandit Satawalekar ed.)

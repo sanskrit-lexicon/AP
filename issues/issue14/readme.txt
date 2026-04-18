@@ -240,4 +240,72 @@ python lsdump_abbrv.py 'Rv.' ap tempwork/ap_0.txt tooltips_2.txt  tempwork/lsdum
 
 * /c/xampp/htdocs/sanskrit-lexicon-scans/_jimnotes/
 
+* ---------------------------------------
+* csl-orig git_pull  04-17-2026
+ v02/ae/ae.txt   |  2 +-
+ v02/ap/ap.txt   | 42 ++++++++++++++++++++++++++++++------------
+ v02/lrv/lrv.txt |  2 +-
+ v02/pw/pw.txt   |  2 +-
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+sh generate_dict.sh ae  ../../ae
+sh xmlchk_xampp.sh ae
+sh generate_dict.sh ap  ../../ap
+sh xmlchk_xampp.sh ap
+sh generate_dict.sh lrv  ../../lrv
+sh xmlchk_xampp.sh lrv
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+
+# check by local install
+cd csl-py
+* tooltips_5.txt and change to ap.txt
+
+BEGIN 04-15-2026  further edits re Andhrabharati comment
+see ls_andhrabharati/readme.txt 
+tooltips_5.txt copied from ls_andhrabharati/tooltips_5.txt
+
+** 1 change to tempwork/ap_1.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt tempwork/ap_1.txt
+
+ <L>16848.308<pc>0791-1<k1>trimaDu<k2
+old: 
+three verses of the Ṛgveda (<ls n="Ṛv.">1. 90. 6-8</ls>
+new:
+three verses of the Ṛgveda (<ls n="Rv.">1. 90. 6-8</ls>
+
+* install tooltips_5.txt and tempwork/ap_1.txt at githib
+** DONE local install
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue14 #home
+
+cp tooltips_5.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/ap/pywork/apauth/tooltip.txt 
+cp tempwork/ap_1.txt  /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+sh generate_dict.sh ap  ../../ap
+sh xmlchk_xampp.sh ap
+# ok
+** DONE push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig/
+git add .
+git commit -m "AP: change one 'Ṛv.' to 'Rv.'
+Ref: https://github.com/sanskrit-lexicon/AP/issues/14"
+git push
+
+** DONE push csl-pywork to github
+cd /c/xampp/htdocs/cologne/csl-pywork/
+git add .
+git commit -m "AP: Edits of ap ls tooltips. tooltips_5.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/14"
+git push
+* DONE  Install at Cologne
+* push this repo, and make comment
+
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue14 #home
+git pull
+# Already up to date
+git add .
+git commit -m "Revise ls abbrev-tooltips by comparison with Andhrabharati version. #14"
+git push
+
 * THE END
+* csl-orig
+

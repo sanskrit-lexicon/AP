@@ -1,0 +1,69 @@
+54,55c54,55
+< Day.	Dayabhāga.
+< Day. B.	Dayabhāga.
+---
+> Dāy.	Dāyabhāga.
+> Dāy. B.	Dāyabhāga.
+71c71
+< Ghat.	Ghatakarparakāvya.
+---
+> Ghaṭ.	Ghaṭakarparakāvya.
+83c83
+< I. B.	Inscriptions of Bengal, Vol. III by N. G. Mujumdar.
+---
+> I B.	Inscriptions of Bengal, Vol. III by N. G. Mujumdar.
+124c124
+< Mātaṅga.	Mātaṅgalīlā of Nīlakaṇṭha.
+---
+> Mātaṅga L.	Mātaṅgalīlā of Nīlakaṇṭha.
+136c136
+< Muṇḍa.	Muṇḍakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+---
+> Muṇḍ.	Muṇḍakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+137a138
+> MW.	Monier-Williams Sanskrit-English Dictionary, 1899
+152c153
+< Pād. D.	Pādaṅkadūta.
+---
+> Pad. D.	Padaṅkadūta.
+159,160c160,162
+< Pradīp.	Mahābhāsya-Pradīpa (Kaiyaṭa).
+< Praśna Up.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+---
+> Pradīp.	Mahābhāṣya-Pradīpa (Kaiyaṭa).
+> Praśna.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+> Praśna. Up.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+177,178c179,180
+< Ṛv.	Ṛgveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+< Ṛv. Pr.	Ṛgveda Prātiśākhya.
+---
+> Rv.	Ṛgveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+> Rv. Pr.	Ṛgveda Prātiśākhya.
+184c186
+< Śabda. ch.	Śabdachintāmaṇi (Sanskṛt-Gujrati Dictionary by Ramanabhai Nilkanth, 1899).
+---
+> Śabda Ch.	Śabdacintāmaṇi (Sanskṛt-Gujrati Dictionary by Ramanabhai Nilkanth, 1899).
+187,190c189,192
+< Śalihotra	Śalihotra of Bhoja, edited by Dr. E. D. Kulkarni.
+< Sān. K.	Sānkhyakārikā.
+< Sān. S.	Sānkhyasūtra.
+< Sānkhya. K.	Sānkhyakārikā.
+---
+> Śālihotra	Śālihotra of Bhoja, edited by Dr. E. D. Kulkarni.
+> Sāṅ. K.	Sāṅkhyakārikā.
+> Sāṅ. S.	Sāṅkhyasūtra.
+> Sāṅkhya. K.	Sāṅkhyakārikā.
+201c203
+< Sid. Muktā.	Siddhāntamuktāvali.
+---
+> Muktā.	Siddhāntamuktāvali.
+227c229
+< Tarka. K.	Tarkakaumudī, (Bombay).
+---
+> Tarka K.	Tarkakaumudī, (Bombay).
+261c263
+< Viś. Guṇa.	Viśvaguṇādarśachampū, (Nirṇaya Sāgara, 1915).
+---
+> Viś. Guṇā.	Viśvaguṇādarśachampū, (Nirṇaya Sāgara, 1915).
+268a271
+> Wilson	Wilson Sanskrit-English Dictionary

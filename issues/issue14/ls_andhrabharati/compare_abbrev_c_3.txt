@@ -1,0 +1,60 @@
+-----------------------------------------------
+0 duplicate abbrevs in AB_tooltips_c.txt
+24 unique in AB_tooltips_c.txt
+=================================================
+Day.	Dayabhāga.
+Day. B.	Dayabhāga.
+Ghat.	Ghatakarparakāvya.
+I. B.	Inscriptions of Bengal, Vol. III by N. G. Mujumdar.
+Mātaṅga.	Mātaṅgalīlā of Nīlakaṇṭha.
+Muṇḍa.	Muṇḍakopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+Pād. D.	Pādaṅkadūta.
+Pari. Śekh.	Paribhāṣeṇḍūśekhara.
+Pbh.	Paribhāṣeṇḍūśekhara.
+Pradīp.	Mahābhāsya-Pradīpa (Kaiyaṭa).
+Praśna Up.	Praśnopaniṣad, ({#सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४#}).
+Ṛ. S.	Ṛtusamhāra, (V.R. Nerurkar, Bombay, 1916).
+Ṛv.	Ṛgveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+Ṛv. Pr.	Ṛgveda Prātiśākhya.
+Śabda. ch.	Śabdachintāmaṇi (Sanskṛt-Gujrati Dictionary by Ramanabhai Nilkanth, 1899).
+Śalihotra	Śalihotra of Bhoja, edited by Dr. E. D. Kulkarni.
+Sān. K.	Sānkhyakārikā.
+Sān. S.	Sānkhyasūtra.
+Sānkhya. K.	Sānkhyakārikā.
+Sid. Muktā.	Siddhāntamuktāvali.
+Tarka. K.	Tarkakaumudī, (Bombay).
+Vai. Bhū. ({#वै˚ भू˚#}).	Vaiyākaraṇabhūṣaṇasāra.
+Viś. Guṇa.	Viśvaguṇādarśachampū, (Nirṇaya Sāgara, 1915).
+Vṛnd. Ś.	Vṛndāvanaśataka.
+
+-----------------------------------------------
+0 duplicate abbrevs in tooltips_3_sort.txt
+26 unique in tooltips_3_sort.txt
+=================================================
+Dāy.	Dāyabhāga.
+Dāy. Bh.	Dāyabhāga.
+Ghaṭ.	Ghaṭakarparakāvya.
+I B.	Inscriptions of Bengal, Vol. III by N. G. Mujumdar.
+Mātaṅga. L.	Mātangalīlā of Nīlakaṇṭha.
+Muktā.	Siddhāntamuktāvalī.
+Muṇḍ.	Muṇḍakopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+MW.	Monier-Williams Sanskrit-English Dictionary, 1899
+Pad. D.	Padānkadūta.
+Pari. Śekh, Pbh.	Paribhāṣenduśekhara.
+Pradip.	Mahābhāṣya‑Pradīpa (Kaiyaṭa).
+Praśna. Up.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह—ह. र. भागवत, १९१४).
+R. S.	Ṛitusamhāra, (V. R. Nerurkar, Bombay, 1916).
+Rv.	Ṛigveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+Rv. Pr.	Ṛigveda Prātiśākhya.
+Śabda Ch.	Śabdachintāmaṇi (Sanskrit–Gujarati Dictionary by Ramanabhai Nilkanth, 1899).
+Śālihotra	Śālihotra of Bhoja, edited by Dr. E. D. Kulkarni.
+Sāṅ. K.	Sāṅkhyakārikā.
+Sāṅ. S.	Sāṅkhyasūtra.
+Sāṅkhya. K.	Sāṅkhyakārikā.
+Tarka K.	Tarkakaumudī, (Bombay).
+Vai. Bhū.	(वै. भू.) Vaiyākaraṇa‑bhūṣaṇa‑sāra.
+Viś. Guṇā.	Viśvaguṇādarśacampū, (Nirṇaya Sāgara, 1915).
+Vṛind. S.	Vṛndāvanaśataka.
+Wilson	Wilson Sanskrit-English Dictionary
+X	Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+

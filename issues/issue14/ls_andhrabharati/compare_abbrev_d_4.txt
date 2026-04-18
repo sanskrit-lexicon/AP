@@ -1,0 +1,10 @@
+-----------------------------------------------
+0 duplicate abbrevs in AB_tooltips_d.txt
+0 unique in AB_tooltips_d.txt
+=================================================
+
+-----------------------------------------------
+0 duplicate abbrevs in tooltips_4.txt
+0 unique in tooltips_4.txt
+=================================================
+
