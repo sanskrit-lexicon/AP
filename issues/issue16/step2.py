@@ -3,7 +3,16 @@ import sys
 from parseheadline import parseheadline
 
 
-def adjust_hw(basehw, suffix, lid):
+def adjust_hw(basehw, suffix, lid, manually_mapped=None):
+    result = _adjust_hw_internal(basehw, suffix, lid)
+    if result is None and manually_mapped is not None:
+        key = (lid, basehw, suffix)
+        if key in manually_mapped:
+            return manually_mapped[key]
+    return result
+
+
+def _adjust_hw_internal(basehw, suffix, lid):
     basehw = re.sub('[a][Hm]$', 'a', basehw)
     suffix = suffix.lstrip('[-˚]')
     if (basehw.endswith('a') and suffix.endswith('am')) and ((basehw + 'm').endswith(suffix)):
@@ -55,7 +64,7 @@ def adjust_hw(basehw, suffix, lid):
     return None
 
 
-def process_entry(metaline, lines, fout, flog, correct, wrong):
+def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
     meta = parseheadline(metaline)
     lid = meta['L']
     basehw = meta['k1']
@@ -94,7 +103,7 @@ def process_entry(metaline, lines, fout, flog, correct, wrong):
                     
                     start_idx = 0
                     for sidx, suffix in enumerate(suffixes):
-                        suggestion = adjust_hw(basehw, suffix, lid)
+                        suggestion = adjust_hw(basehw, suffix, lid, manually_mapped)
                         if suggestion:
                             correct[0] += 1
                             flog.write(f'{lid}\t{basehw}\t{suffix}\t{suggestion}\n')
@@ -123,7 +132,7 @@ def process_entry(metaline, lines, fout, flog, correct, wrong):
                     i = def_end
                 else:
                     suffix = suffixes[0]
-                    suggestion = adjust_hw(basehw, suffix, lid)
+                    suggestion = adjust_hw(basehw, suffix, lid, manually_mapped)
                     if suggestion:
                         correct[0] += 1
                         flog.write(f'{lid}\t{basehw}\t{suffix}\t{suggestion}\n')
@@ -178,10 +187,31 @@ def process_entry(metaline, lines, fout, flog, correct, wrong):
     return correct, wrong
 
 
+def load_manually_mapped(filepath):
+    mapping = {}
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            parts = line.split('\t')
+            lid = parts[0]
+            basehw = parts[1]
+            suffix = parts[2]
+            resolution = parts[3]
+            key = (lid, basehw, suffix)
+            mapping[key] = resolution
+    return mapping
+
+
 if __name__=="__main__":
     input_file = sys.argv[1]
     output_file = sys.argv[2]
     log_file = sys.argv[3]
+
+    MANUALLY_MAPPED_PATH = "manually_mapped.tsv"
+    manually_mapped = load_manually_mapped(MANUALLY_MAPPED_PATH)
+    print(f"Loaded {len(manually_mapped)} manual mappings")
 
     fout = open(output_file, 'w')
     flog = open(log_file, 'w')
@@ -198,20 +228,20 @@ if __name__=="__main__":
             
             if lin.startswith('<L>'):
                 if metaline and lines:
-                    process_entry(metaline, lines, fout, flog, correct, wrong)
+                    process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped)
                     lines = []
                 
                 metaline = lin
                 fout.write(lin + '\n')
             elif lin == '<LEND>':
                 lines.append(lin)
-                process_entry(metaline, lines, fout, flog, correct, wrong)
+                process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped)
                 lines = []
             else:
                 lines.append(lin)
         
         if metaline and lines:
-            process_entry(metaline, lines, fout, flog, correct, wrong)
+            process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped)
 
     total = correct[0] + wrong[0]
     print(f'Resolved: {correct[0]}, Unresolved: {wrong[0]}, Total: {total}')

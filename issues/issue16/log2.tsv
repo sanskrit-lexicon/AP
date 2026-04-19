@@ -4,8 +4,8 @@ Lnum	basehw	suffix	resolution
 15	aMSula	laH	aMSulaH
 22	aMhUraRa	Ram	aMhUraRam
 29	aMhu	hu	aMhu
-29	aMhu	Beda	None
-29	aMhu	dI	None
+29	aMhu	Beda	aMhuBeda
+29	aMhu	dI	aMhuBedI
 34	akaca	caH	akacaH
 39	akanizWa	zWaH	akanizWaH
 41	akampana	naH	akampanaH
@@ -16,12 +16,12 @@ Lnum	basehw	suffix	resolution
 55	akalaNka	kaH	akalaNkaH
 56	akalka	lkA	akalkA
 59	akalpa	lpaH	akalpaH
-63	akalya	SarIra	None
+63	akalya	SarIra	akalyaSarIra
 64	akalyARa	Ram	akalyARam
 73	akAya	yaH	akAyaH
 74	akAra	raH	akAraH
 75	akAraRa	Ram	akAraRam
-75	akAraRa	akAraRAd	None
+75	akAraRa	akAraRAd	akArarAd
 75	akAraRa	raRam	akAraRam
 75	akAraRa	Re	akAraRe
 78	akArya	ryam	akAryam
@@ -57,7 +57,7 @@ Lnum	basehw	suffix	resolution
 153	akzara	rA	akzarA
 153	akzara	ram	akzaram
 160	akzAra	raH	akzAraH
-164	akzita	tama	None
+164	akzita	tama	akzitam
 166	akziti	tiH	akzitiH
 168	akzivaH	vam	akzivam
 170	akzIva	vaH	akzIvaH
@@ -75,7 +75,7 @@ Lnum	basehw	suffix	resolution
 206	aga	gaH	agaH
 207	agacCa	cCaH	agacCaH
 212	agada	daH	agadaH
-212	agada	rAjaH	None
+212	agada	rAjaH	agadarAjaH
 226	agADa	DaH	agADaH
 226	agADa	Dam	agADam
 226	agADa	DaH	agADaH
@@ -83,7 +83,7 @@ Lnum	basehw	suffix	resolution
 230	aguRa	RaH	aguRaH
 230	aguRa	Ram	aguRam
 231	aguru	ru	aguru
-236	agocara	rama	None
+236	agocara	rama	agocaram
 255	agra	graH	agraH
 255	agra	gram	agram
 257	agrima	maH	agrimaH
@@ -97,7 +97,7 @@ Lnum	basehw	suffix	resolution
 268	aGa	Gam	aGam
 268	aGa	GaH	aGaH
 268	aGa	GA	aGA
-269	aGana	mAnam	None
+269	aGana	mAnam	aGanamAnam
 275	aGora	raH	aGoraH
 275	aGora	rA	aGorA
 276	aGoza	zaH	aGozaH
@@ -124,9 +124,9 @@ Lnum	basehw	suffix	resolution
 360	acala	lA	acalA
 360	acala	lam	acalam
 361	acApala	lam	acApalam
-361	acApala	lyam	None
+361	acApala	lyam	acApalyam
 366	acintya	ntyaH	acintyaH
-369	acira	rama	None
+369	acira	rama	aciram
 379	acCa	cCaH	acCaH
 382	acCAvAkIya	yam	acCAvAkIyam
 385	acCidra	dram	acCidram
@@ -142,7 +142,7 @@ Lnum	basehw	suffix	resolution
 417	ajaya	yaH	ajayaH
 417	ajaya	yA	ajayA
 419	ajara	raH	ajaraH
-421	ajarya	ryama	None
+421	ajarya	ryama	ajaryam
 425	ajasra	sram	ajasram
 430	ajAgara	raH	ajAgaraH
 433	ajAti	tiH	ajAtiH
@@ -155,18 +155,18 @@ Lnum	basehw	suffix	resolution
 443	ajiraH	raH	ajiraH
 445	ajihma	hmaH	ajihmaH
 451	ajIrRa	rRam	ajIrRam
-451	ajIrRa	rRiH	None
+451	ajIrRa	rRiH	ajIrRiH
 452	ajIva	vaH	ajIvaH
 453	ajIvana	nam	ajIvanam
 457	ajeya	yam	ajeyam
 467	ajYAna	nam	ajYAnam
-467	ajYAna	parIkzA	None
+467	ajYAna	parIkzA	ajYAnaparIkzA
 472	ajra	jraH	ajraH
 472	ajra	jra	ajra
 479	aYjanaH	nam	aYjanam
 481	aYjanakaH	kI	aYjanakI
 488	aYjalikA	kaH	aYjalikaH
-488	aYjalikA	veDa	None
+488	aYjalikA	veDa	aYjalikAveDa
 493	aYji	YjiH	aYjiH
 493	aYji	YjiH	aYjiH
 493	aYji	YjI	aYjI
@@ -200,14 +200,14 @@ Lnum	basehw	suffix	resolution
 601	atiguRa	RaH	atiguRaH
 602	atiguru	ruH	atiguruH
 606	atigraha	haH	atigrahaH
-606	atigraha	grAhaH	None
+606	atigraha	grAhaH	atigrAhaH
 607	atigrAhya	hyaH	atigrAhyaH
 609	atiGna	GnI	atiGnI
 612	aticara	rA	aticarA
-619	aticCandaH	s	None
+619	aticCandaH	s	aticCandas
 622	atijAgara	raH	atijAgaraH
-629	atitIvra	kzRaH	None
-629	atitIvra	kzRA	None
+629	atitIvra	kzRaH	atitIkzRaH
+629	atitIvra	kzRA	atitIkzRA
 629	atitIvra	vrA	atitIvrA
 630	atitfzRA	zRa	atitfzzRa
 637	atidagDa	gDam	atidagDam
@@ -222,11 +222,11 @@ Lnum	basehw	suffix	resolution
 685	atibrahmacaryam	ryaH	atibrahmacaryaH
 695	atimaNgalya	lyaH	atimaNgalyaH
 702	atimAtra	tram	atimAtram
-702	atimAtra	mAtraSaH	None
+702	atimAtra	mAtraSaH	atimAtraSaH
 704	atimAruta	taH	atimArutaH
-704	atimAruta	vAtaH	None
+704	atimAruta	vAtaH	ativAtaH
 707	atimukta	ktaH	atimuktaH
-707	atimukta	ktakaH	None
+707	atimukta	ktakaH	atimuktakaH
 709	atimftyu	tyuH	atimftyuH
 716	atirakta	ktA	atiraktA
 722	atirAtra	traH	atirAtraH
@@ -251,7 +251,7 @@ Lnum	basehw	suffix	resolution
 783	atiSAyin	nI	atiSAyinI
 786	atiSva	SvA	atiSvA
 786	atiSva	SvaH	atiSvaH
-789	atizWA	zwA	None
+789	atizWA	zwA	atizWA
 795	atisarva	rvaH	atisarvaH
 800	atisara	raH	atisaraH
 807	atisOraBa	Bam	atisOraBam
@@ -267,24 +267,24 @@ Lnum	basehw	suffix	resolution
 845	atyanta	tam	atyantam
 847	atyantika	kam	atyantikam
 849	atyamla	mlaH	atyamlaH
-849	atyamla	mlA, ˚parRI	None
+849	atyamla	mlA, ˚parRI	atyamlaparRI
 851	atyarTa	rTam	atyarTam
 858	atyAcAra	raH	atyAcAraH
 862	atyAya	yaH	atyAyaH
 864	atyArUQa	Qam	atyArUQam
-864	atyArUQa	QiH	None
+864	atyArUQa	QiH	atyArUQiH
 872	atyugra	gram	atyugram
 876	atyUhaH	hA	atyUhA
 879	atra	traH	atraH
 879	atra	tram	atram
 884	atri	triH	atriH
 884	atri	atrI	atrI
-896	aTarvan	rvA	None
-896	aTarvan	rva	None
+896	aTarvan	rvA	aTarvA
+896	aTarvan	rva	aTarva
 899	aTarvANgirasa	sam	aTarvANgirasam
 899	aTarvANgirasa	sAH	aTarvANgirasAH
 900	aTarvARam	RaH	aTarvARaH
-900	aTarvARam	˚vid	None
+900	aTarvARam	˚vid	aTarvARaMvid
 907	adaMzwra	zwraH	adaMzwraH
 914	adatta	ttA	adattA
 914	adatta	ttam	adattam
@@ -305,7 +305,7 @@ Lnum	basehw	suffix	resolution
 969	adoza	zaH	adozaH
 973	adButa	tam	adButam
 973	adButa	taH	adButaH
-974	adman	sad	None
+974	adman	sad	admasad
 977	adya	dyam	adyam
 979	adyatana	naH	adyatanaH
 979	adyatana	nI	adyatanI
@@ -332,7 +332,7 @@ Lnum	basehw	suffix	resolution
 1045	aDikfta	taH	aDikftaH
 1059	aDiguRa	RaH	aDiguRaH
 1063	aDijihvaH	hvA	aDijihvA
-1063	aDijihvaH	jihvikA	None
+1063	aDijihvaH	jihvikA	aDijihvikA
 1087	aDipraja	jam	aDiprajam
 1088	aDiprazwiyugam	gaH	aDiprazwiyugaH
 1100	aDimAtra	tram	aDimAtram
@@ -348,7 +348,7 @@ Lnum	basehw	suffix	resolution
 1168	aDyAya	yaH	aDyAyaH
 1174	aDIra	rA	aDIrA
 1178	aDIzwa	zwaH	aDIzwaH
-1181	aDura	DUH	None
+1181	aDura	DUH	aDUH
 1183	aDfta	taH	aDftaH
 1189	aDErya	ryam	aDEryam
 1191	aDyakza	kzaH	aDyakzaH
@@ -356,14 +356,14 @@ Lnum	basehw	suffix	resolution
 1200	aDyarDa	rDaH	aDyarDaH
 1217	aDyAtma	tmam	aDyAtmam
 1217	aDyAtma	tmam	aDyAtmam
-1217	aDyAtma	tman	None
+1217	aDyAtma	tman	aDyAtman
 1230	aDyAsita	tam	aDyAsitam
 1238	aDyUQa	QaH	aDyUQaH
 1238	aDyUQa	QA	aDyUQA
 1242	aDyezaRam	RA	aDyezaRA
 1245	aDruva	vam	aDruvam
 1248	aDvanIna	naH	aDvanInaH
-1248	aDvanIna	nyaH	None
+1248	aDvanIna	nyaH	aDvanyaH
 1249	aDvara	raH	aDvaraH
 1249	aDvara	raH	aDvaraH
 1249	aDvara	ram	aDvaram
@@ -378,7 +378,7 @@ Lnum	basehw	suffix	resolution
 1283	anaRu	RuH	anaRuH
 1287	anadyatana	naH	anadyatanaH
 1292	anaDIna	naH	anaDInaH
-1292	anaDIna	nakaH	None
+1292	anaDIna	nakaH	anaDInakaH
 1297	ananta	ntaH	anantaH
 1297	ananta	ntA	anantA
 1297	ananta	ntI	anantI
@@ -388,7 +388,7 @@ Lnum	basehw	suffix	resolution
 1301	anantara	ram	anantaram
 1301	anantara	ram	anantaram
 1306	ananda	ndaH	anandaH
-1315	anapakAraH	kArin	None
+1315	anapakAraH	kArin	anapakArakArin
 1324	anaparADa	DaH	anaparADaH
 1328	anapasara	raH	anapasaraH
 1331	anapAya	yaH	anapAyaH
@@ -401,13 +401,13 @@ Lnum	basehw	suffix	resolution
 1359	anambara	raH	anambaraH
 1366	anarGa	rGaH	anarGaH
 1370	anarTa	rTaH	anarTaH
-1371	anarTya	kam	None
+1371	anarTya	kam	anarTyakam
 1381	anavakASa	SaH	anavakASaH
 1387	anavadya	dyA	anavadyA
 1389	anavaDAna	nam	anavaDAnam
 1398	anavarata	tam	anavaratam
 1400	anavalamba	mbaH	anavalambaH
-1400	anavalamba	mbanam	None
+1400	anavalamba	mbanam	anavalambanam
 1403	anavasara	raH	anavasaraH
 1405	anavasita	tA	anavasitA
 1407	anavasTa	sTA	anavasTA
@@ -425,7 +425,7 @@ Lnum	basehw	suffix	resolution
 1440	anAgata	tam	anAgatam
 1442	anAgama	maH	anAgamaH
 1448	anAcAra	raH	anAcAraH
-1448	anAcAra	anAcaraRam	None
+1448	anAcAra	anAcaraRam	anAcaraRam
 1450	anAtapa	paH	anAtapaH
 1456	anAtmya	tmyam	anAtmyam
 1458	anATa	Tam	anATam
@@ -433,7 +433,7 @@ Lnum	basehw	suffix	resolution
 1466	anAdfta	tam	anAdftam
 1480	anApta	ptaH	anAptaH
 1486	anAmaka	kaH	anAmakaH
-1486	anAmaka	kama	None
+1486	anAmaka	kama	anAmakam
 1488	anAmaya	yaH	anAmayaH
 1488	anAmaya	yam	anAmayam
 1488	anAmaya	yaH	anAmayaH
@@ -482,11 +482,11 @@ Lnum	basehw	suffix	resolution
 1669	anukUla	lam	anukUlam
 1674	anukara	raH	anukaraH
 1680	anukArya	ryam	anukAryam
-1680	anukArya	anukriyA	None
+1680	anukArya	anukriyA	anukriyA
 1683	anukfta	tam	anukftam
 1697	anukrama	maH	anukramaH
 1698	anukramaRam	RI	anukramaRI
-1698	anukramaRam	RikA	None
+1698	anukramaRam	RikA	anukramaRikA
 1709	anuga	gaH	anugaH
 1710	anugata	tam	anugatam
 1716	anugarjita	tam	anugarjitam
@@ -496,45 +496,45 @@ Lnum	basehw	suffix	resolution
 1739	anucaraH	rI	anucarI
 1740	anucarita	tam	anucaritam
 1741	anucArakaH	rikA	anucArikA
-1743	anucita	arTaH	None
+1743	anucita	arTaH	anucitArTaH
 1750	anuja	jaH	anujaH
-1750	anuja	jAtaH	None
+1750	anuja	jAtaH	anujAtaH
 1750	anuja	jA	anujA
-1750	anuja	jAtA	None
+1750	anuja	jAtA	anujAtA
 1750	anuja	jam	anujam
 1761	anujyezWa	zWam	anujyezWam
 1770	anutila	lam	anutilam
 1779	anuttama	maH	anuttamaH
 1780	anuttara	ram	anuttaram
 1780	anuttara	rAH	anuttarAH
-1780	anuttara	upapAtikadaSAH	None
+1780	anuttara	upapAtikadaSAH	anuttaropapAtikadaSAH
 1780	anuttara	rA	anuttarA
-1784	anutpattiH	ttika	None
+1784	anutpattiH	ttika	anutoattuja
 1787	anutsAha	haH	anutsAhaH
 1798	anudAtta	ttaH	anudAttaH
-1803	anudiS	anudiSam	None
+1803	anudiS	anudiSam	anudiSam
 1808	anudfzwi	zwiH	anudfzwiH
 1820	anudyoga	gaH	anudyogaH
 1822	anudruta	tam	anudrutam
 1825	anudvega	gaH	anudvegaH
-1831	anuDyAna	tam	None
+1831	anuDyAna	tam	anuDyAtam
 1831	anuDyAna	nam	anuDyAnam
 1839	anunAsika	kam	anunAsikam
 1845	anunaya	yaH	anunayaH
 1845	anunaya	yam	anunayam
 1849	anunAyika	kA	anunAyikA
 1856	anupagIta	tam	anupagItam
-1863	anupatanam	tam	None
+1863	anupatanam	tam	anupatatam
 1865	anupaTa	TaH	anupaTaH
 1865	anupaTa	Tam	anupaTam
 1868	anupada	daH	anupadaH
 1868	anupada	dam	anupadam
-1879	anupama	matiH	None
+1879	anupama	matiH	anupamamatiH
 1879	anupama	mA	anupamA
 1883	anupayoga	gaH	anupayogaH
 1901	anupasTita	tam	anupasTitam
 1906	anupAnIya	yam	anupAnIyam
-1924	anupUrvya	rvI	None
+1924	anupUrvya	rvI	anupUrvI
 1957	anubanDaH	DI	anubanDI
 1983	anuBU	BUH	anuBUH
 1992	anumata	taH	anumataH
@@ -556,8 +556,8 @@ Lnum	basehw	suffix	resolution
 2075	anuloma	mAH	anulomAH
 2079	anuvaMSaH	Sam	anuvaMSam
 2089	anUkta	ktam	anUktam
-2089	anUkta	ktiH	None
-2094	anuvAdaka	n	None
+2089	anUkta	ktiH	anUktiH
+2094	anuvAdaka	n	anuvAdin
 2098	anuvaSa	SaH	anuvaSaH
 2130	anuvftta	ttam	anuvfttam
 2134	anuvellita	tam	anuvellitam
@@ -572,8 +572,8 @@ Lnum	basehw	suffix	resolution
 2201	anuzvaDa	Dam	anuzvaDam
 2211	anusaMhita	tam	anusaMhitam
 2243	anustaraRam	RI	anustaraRI
-2248	anusPura	sPur	None
-2255	anusvAraH	vyavAyaH	None
+2248	anusPura	sPur	anusPur
+2255	anusvAraH	vyavAyaH	anusvAravyavAyaH
 2261	anuhArya	ryaH	anuhAryaH
 2263	anUkaH	kam	anUkam
 2263	anUkaH	kA	anUkA
@@ -609,7 +609,7 @@ Lnum	basehw	suffix	resolution
 2488	anviti	tiH	anvitiH
 2503	apakAmaH	mam	apakAmam
 2511	apakAraka	kaH	apakArakaH
-2511	apakAraka	rI	None
+2511	apakAraka	rI	apakArI
 2512	apakfta	tam	apakftam
 2518	apakarzaRa	Ram	apakarzaRam
 2519	apakfzwa	zwaH	apakfzwaH
@@ -622,7 +622,7 @@ Lnum	basehw	suffix	resolution
 2601	apattra	ttraH	apattraH
 2601	apattra	ttrA	apattrA
 2603	apatrapa	pA	apatrapA
-2603	apatrapa	paRam	None
+2603	apatrapa	paRam	apatrapaRam
 2607	apaTa	Tam	apaTam
 2607	apaTa	TaH	apaTaH
 2607	apaTa	TA	apaTA
@@ -635,7 +635,7 @@ Lnum	basehw	suffix	resolution
 2655	apapUta	tO	apapUtO
 2671	apama	maH	apamaH
 2679	apamitya	tyam	apamityam
-2679	apamitya	tyakam	None
+2679	apamitya	tyakam	apamityakam
 2680	apamuKa	Kam	apamuKam
 2690	apara	raH	aparaH
 2690	apara	rA	aparA
@@ -659,8 +659,8 @@ Lnum	basehw	suffix	resolution
 2776	apavana	nam	apavanam
 2790	apaviza	zA	apavizA
 2791	apavIRa	RA	apavIRA
-2797	apavArita	tam, apavAritakam	None
-2797	apavArita	tam, apavAritakena, apavArya	None
+2797	apavArita	tam, apavAritakam	apavAritam
+2797	apavArita	tam, apavAritakena, apavArya	apavAritam
 2809	apavftta	ttam	apavfttam
 2812	apavidDa	dDaH	apavidDaH
 2818	apaSaNka	Nkam	apaSaNkam
@@ -673,7 +673,7 @@ Lnum	basehw	suffix	resolution
 2901	apahAraka	kaH	apahArakaH
 2908	apAka	kaH	apAkaH
 2918	apANga	NgaH	apANgaH
-2918	apANga	NgakaH	None
+2918	apANga	NgakaH	apANgakaH
 2919	apAc	k	apAk
 2923	apAwava	vam	apAwavam
 2934	apAnaH	naH	apAnaH
@@ -692,20 +692,20 @@ Lnum	basehw	suffix	resolution
 2986	apihita	tam	apihitam
 2992	apiSarvara	ram	apiSarvaram
 3008	apucCa	cCA	apucCA
-3010	aputraH	putrakaH	None
+3010	aputraH	putrakaH	aputrakaH
 3011	aputrikA	kaH	aputrikaH
 3017	apuzpa	zpaH	apuzpaH
-3021	apUpaH	SAlA	None
-3022	apUpIya	pyam	None
+3021	apUpaH	SAlA	apUpaSAlA
+3022	apUpIya	pyam	apUpyam
 3025	apUrRa	rRam	apUrRam
 3027	apUrva	rvam	apUrvam
 3027	apUrva	rvaH	apUrvaH
 3034	apfkta	ktaH	apfktaH
 3045	apekzita	tam	apekzitam
 3051	apodaka	kam	apodakam
-3052	apodikA	kI	None
+3052	apodikA	kI	apodikI
 3058	apOruza	zam	apOruzam
-3058	apOruza	zeyam	None
+3058	apOruza	zeyam	apOruzeyam
 3061	aptu	ptuH	aptuH
 3067	apnavAna	naH	apnavAnaH
 3080	aprakARqa	RqaH	aprakARqaH
@@ -735,14 +735,14 @@ Lnum	basehw	suffix	resolution
 3157	apramAda	daH	apramAdaH
 3157	apramAda	dam	apramAdam
 3157	apramAda	tA	apramAdatA
-3157	apramAda	din	None
+3157	apramAda	din	apramAdin
 3160	apramARa	Ram	apramARam
 3165	aprameya	yam	aprameyam
 3167	aprayatna	tnaH	aprayatnaH
 3179	apravIta	tA	apravItA
 3185	aprasanna	nnam	aprasannam
 3187	aprasava	vaH	aprasavaH
-3202	aprAjYa	jYatA	None
+3202	aprAjYa	jYatA	aprAjYatA
 3205	aprARa	RaH	aprARaH
 3213	apriya	yaH	apriyaH
 3213	apriya	yA	apriyA
@@ -750,13 +750,13 @@ Lnum	basehw	suffix	resolution
 3219	aprOQa	QA	aprOQA
 3222	apva	pvA	apvA
 3223	apsaH	psam	apsam
-3229	apsu	kzit	None
-3229	apsu	cara	None
-3229	apsu	ja	None
-3229	apsu	jA	None
-3229	apsu	jit	None
-3229	apsu	mat	None
-3229	apsu	yoni	None
+3229	apsu	kzit	apsukzit
+3229	apsu	cara	apsucara
+3229	apsu	ja	apsuja
+3229	apsu	jA	apsujA
+3229	apsu	jit	apsujit
+3229	apsu	mat	apsumat
+3229	apsu	yoni	apsuyoni
 3230	aPala	laH	aPalaH
 3230	aPala	lA	aPalA
 3232	aPena	nam	aPenam
@@ -778,7 +778,7 @@ Lnum	basehw	suffix	resolution
 3264	abda	bdaH	abdaH
 3271	abBakza	kzaH	abBakzaH
 3274	abrahmacarya	ryam	abrahmacaryam
-3274	abrahmacarya	ryakam	None
+3274	abrahmacarya	ryakam	abrahmacaryakam
 3275	abrahmaRya	Ryam	abrahmaRyam
 3278	abrAhmaRa	RaH	abrAhmaRaH
 3282	aBakta	ktam	aBaktam
@@ -793,10 +793,10 @@ Lnum	basehw	suffix	resolution
 3311	aBikAma	ma	aBikAma
 3311	aBikAma	mam	aBikAmam
 3338	aBiKyA	KyA	aBiKyA
-3367	aBigfhIta	pARi	None
+3367	aBigfhIta	pARi	aBigfhItapARi
 3376	aBicakzaRam	RA	aBicakzaRA
 3383	aBicAraka	kaH	aBicArakaH
-3383	aBicAraka	rI	None
+3383	aBicAraka	rI	aBicArI
 3384	aBicCAya	yam	aBicCAyam
 3391	aBijAta	tam	aBijAtam
 3401	aBijYa	jYaH	aBijYaH
@@ -810,7 +810,7 @@ Lnum	basehw	suffix	resolution
 3457	aBinava	vaH	aBinavaH
 3460	aBiniDana	nam	aBiniDanam
 3469	aBinivizwa	zwam	aBinivizwam
-3487	aBinetf	trI	None
+3487	aBinetf	trI	aBinetrI
 3501	aBipuzpa	zpam	aBipuzpam
 3525	aBiprAya	yaH	aBiprAyaH
 3526	aBipreta	tam	aBipretam
@@ -818,7 +818,7 @@ Lnum	basehw	suffix	resolution
 3554	aBimata	tam	aBimatam
 3554	aBimata	taH	aBimataH
 3560	aBimAnaH	nam	aBimAnam
-3568	aBimanyuH	puram	None
+3568	aBimanyuH	puram	aBimanyupuram
 3570	aBimAti	tiH	aBimAtiH
 3574	aBimuKa	KaH	aBimuKaH
 3574	aBimuKa	KI	aBimuKI
@@ -834,8 +834,8 @@ Lnum	basehw	suffix	resolution
 3627	aBirUpa	paH	aBirUpaH
 3631	aBilakzya	kzyam	aBilakzyam
 3639	aBilazita	tam	aBilazitam
-3643	aBiliKita	tam, aBileKitam	None
-3643	aBiliKita	nam	None
+3643	aBiliKita	tam, aBileKitam	aBiliKitam
+3643	aBiliKita	nam	aBilikitam
 3655	aBivAdya	dyaH	aBivAdyaH
 3663	aBivAhya	hyam	aBivAhyam
 3687	aBivyakta	ktam	aBivyaktam
@@ -847,7 +847,7 @@ Lnum	basehw	suffix	resolution
 3755	aBizuta	tam	aBizutam
 3761	aBizwi	zwiH	aBizwiH
 3775	aBisaMsAraH	ram	aBisaMsAram
-3814	aBisAyaH	arkam	None
+3814	aBisAyaH	arkam	aBisAyArkam
 3821	aBisAraH	rI	aBisArI
 3824	aBisArin	RI	aBisAriRI
 3829	aBiskandaH	ndam	aBiskandam
@@ -860,10 +860,10 @@ Lnum	basehw	suffix	resolution
 3864	aBIka	kam	aBIkam
 3865	aBIkzRa	kzRam	aBIkzRam
 3868	aBIjya	jyaH	aBIjyaH
-3869	aBIta	tiH	None
+3869	aBIta	tiH	aBItiH
 3872	aBIpsita	tam	aBIpsitam
 3874	aBIma	maH	aBImaH
-3876	aBImodaH	mud	None
+3876	aBImodaH	mud	aBimud
 3877	aBIraH	rI	aBIrI
 3877	aBIraH	ram	aBIram
 3880	aBIru	ruH	aBIruH
@@ -880,11 +880,11 @@ Lnum	basehw	suffix	resolution
 3929	aByaDvam	Dve	aByaDve
 3934	aByantara	ram	aByantaram
 3934	aByantara	ram	aByantaram
-3934	aByantara	rataH	None
+3934	aByantara	rataH	aByantarataH
 3947	aByarRa	rRam	aByarRam
 3952	aByarTita	tam	aByarTitam
 3955	aByarDa	rDam	aByarDam
-3973	aByavahAraH	maRqapaH	None
+3973	aByavahAraH	maRqapaH	aByavahAramaRqapaH
 3974	aByavahArya	ryam	aByavahAryam
 3979	aByASa	SaH	aByASaH
 3983	aByasta	stam	aByastam
@@ -906,14 +906,14 @@ Lnum	basehw	suffix	resolution
 4112	aBva	Bvam	aBvam
 4115	ama	maH	amaH
 4115	ama	mA	amA
-4118	amatiH	amatIvan	None
+4118	amatiH	amatIvan	amatIvan
 4119	amaNgala	laH	amaNgalaH
 4119	amaNgala	lam	amaNgalam
 4120	amaRqa	RqaH	amaRqaH
 4123	amati	tiH	amatiH
 4123	amati	tiH	amatiH
-4124	amatra	trama	None
-4124	amatra	trakam	None
+4124	amatra	trama	amatram
+4124	amatra	trakam	amatrakam
 4135	amanuzya	zyaH	amanuzyaH
 4135	amanuzya	tA	amanuzyatA
 4138	amanda	ndaH	amandaH
@@ -928,7 +928,7 @@ Lnum	basehw	suffix	resolution
 4157	amala	lA	amalA
 4157	amala	lam	amalam
 4167	amAMsa	sam	amAMsam
-4171	amAtyaH	amAtyikA	None
+4171	amAtyaH	amAtyikA	amAtyikA
 4172	amAtra	tram	amAtram
 4172	amAtra	traH	amAtraH
 4179	amAnuza	zaH	amAnuzaH
@@ -960,7 +960,7 @@ Lnum	basehw	suffix	resolution
 4265	ambazWaH	zWA	ambazWA
 4265	ambazWaH	zWA	ambazWA
 4265	ambazWaH	zWI	ambazWI
-4276	ambujinI	kuwumbin	None
+4276	ambujinI	kuwumbin	ambujinIkuwumbin
 4277	ambumat	tI	ambumatI
 4279	ambUkfta	tam	ambUkftam
 4284	amBfRa	RaH	amBfRaH
@@ -984,7 +984,7 @@ Lnum	basehw	suffix	resolution
 4332	ayAtu	tuH	ayAtuH
 4337	ayAnayam	yaH	ayAnayaH
 4339	ayAnvita	taH	ayAnvitaH
-4343	ayAs	yAH	None
+4343	ayAs	yAH	ayAH
 4344	ayAsya	syaH	ayAsyaH
 4349	ayuga	gam	ayugam
 4356	ayuta	tam	ayutam
@@ -1030,7 +1030,7 @@ Lnum	basehw	suffix	resolution
 4505	aroga	gaH	arogaH
 4509	arocaka	kaH	arocakaH
 4516	arka	rkaH	arkaH
-4526	arGaH	tantram	None
+4526	arGaH	tantram	aGatantram
 4528	arGya	rGyam	arGyam
 4532	arcaka	kaH	arcakaH
 4535	arcana	nam	arcanam
@@ -1047,7 +1047,7 @@ Lnum	basehw	suffix	resolution
 4554	arRa	rRam	arRam
 4555	arRava	vaH	arRavaH
 4559	artana	nam	artanam
-4569	arTAt	kftam	None
+4569	arTAt	kftam	arTAtkftam
 4572	arTita	tam	arTitam
 4576	arTya	rTyam	arTyam
 4578	ardana	naH	ardanaH
@@ -1058,14 +1058,14 @@ Lnum	basehw	suffix	resolution
 4582	arDa	rDam	arDam
 4582	arDa	rDaH	arDaH
 4585	arDika	kaH	arDikaH
-4594	arbudaH	AkAraH	None
+4594	arbudaH	AkAraH	arbudAkAraH
 4597	arBa	rBaH	arBaH
 4598	arBaka	kaH	arBakaH
 4601	armaka	kam	armakam
 4604	arya	ryaH	aryaH
 4604	arya	ryA	aryA
 4604	arya	ryI	aryI
-4611	arvan	tI	None
+4611	arvan	tI	arvatI
 4613	arvAc	k	arvAk
 4615	arvAcIna	nam	arvAcInam
 4619	arSa	rSaH	arSaH
@@ -1074,7 +1074,7 @@ Lnum	basehw	suffix	resolution
 4624	arzaRa	RI	arzaRI
 4626	arha	rhaH	arhaH
 4626	arha	rhA	arhA
-4630	arhat	ttama	None
+4630	arhat	ttama	arhattama
 4631	arhanta	ntaH	arhantaH
 4637	alakaH	kA	alakA
 4640	alakzaRa	Ram	alakzaRam
@@ -1104,8 +1104,8 @@ Lnum	basehw	suffix	resolution
 4742	alpa	lpaH	alpaH
 4742	alpa	lpam	alpam
 4742	alpa	lpam	alpam
-4742	alpa	lpena	None
-4742	alpa	lpAt	None
+4742	alpa	lpena	alpena
+4742	alpa	lpAt	alpAt
 4743	alpaka	kam	alpakam
 4743	alpaka	kaH	alpakaH
 4745	alpaMpaca	caH	alpaMpacaH
@@ -1122,7 +1122,7 @@ Lnum	basehw	suffix	resolution
 4829	avakzepaRam	RI	avakzepaRI
 4867	avagIta	tam	avagItam
 4870	avagfhya	hyam	avagfhyam
-4881	avaGozaH	RA	None
+4881	avaGozaH	RA	avaGozaRA
 4894	avacakzaRa	Ram	avacakzaRam
 4895	avacana	nam	avacanam
 4901	avacAra	raH	avacAraH
@@ -1133,7 +1133,7 @@ Lnum	basehw	suffix	resolution
 4936	avawa	waH	avawaH
 4939	avawuH	wuH	avawuH
 4939	avawuH	wu	avawu
-4965	avataraRam	maNgalam	None
+4965	avataraRam	maNgalam	avataraRamaNgalam
 4972	avatIrRa	rRam	avatIrRam
 4984	avadAta	taH	avadAtaH
 4999	avadya	dyam	avadyam
@@ -1160,7 +1160,7 @@ Lnum	basehw	suffix	resolution
 5170	avara	raH	avaraH
 5170	avara	rA	avarA
 5170	avara	ram	avaram
-5186	avarudDiH	kA	None
+5186	avarudDiH	kA	avarudDikA
 5188	avaroDaka	kaH	avaroDakaH
 5188	avaroDaka	kam	avaroDakam
 5190	avaroDika	kaH	avaroDikaH
@@ -1176,7 +1176,7 @@ Lnum	basehw	suffix	resolution
 5255	avalokita	tam	avalokitam
 5259	avalguja	jaH	avalgujaH
 5285	avaSizwa	zwam	avaSizwam
-5285	avaSizwa	zwakam	None
+5285	avaSizwa	zwakam	avaSizwakam
 5289	avaSIrza	rzaH	avaSIrzaH
 5306	avasaH	sam	avasam
 5309	avasakta	ktam	avasaktam
@@ -1191,7 +1191,7 @@ Lnum	basehw	suffix	resolution
 5414	avahelita	tam	avahelitam
 5415	avahvara	raH	avahvaraH
 5426	avAYc	cI	avAYcI
-5433	avAta	tama	None
+5433	avAta	tama	avAtam
 5453	avAraRa	Ram	avAraRam
 5455	avArita	tam	avAritam
 5465	avi	viH	aviH
@@ -1226,8 +1226,8 @@ Lnum	basehw	suffix	resolution
 5549	avinIta	tA	avinItA
 5551	avinaSvara	raH	avinaSvaraH
 5558	avinDyaH	nDyA	avinDyA
-5559	avipakva	karaRa	None
-5559	avipakva	budDi	None
+5559	avipakva	karaRa	avipakvakaraRa
+5559	avipakva	budDi	avipakvabudDi
 5560	avipAka	kaH	avipAkaH
 5564	avipra	praH	avipraH
 5570	avibuDa	DaH	avibuDaH
@@ -1244,14 +1244,14 @@ Lnum	basehw	suffix	resolution
 5585	avirala	lam	aviralam
 5597	avilamba	mbaH	avilambaH
 5597	avilamba	mbam	avilambam
-5597	avilamba	avilambena	None
+5597	avilamba	avilambena	avilambena
 5598	avilambita	tam	avilambitam
 5600	avilAsa	saH	avilAsaH
-5603	avivakzita	vacanatA	None
+5603	avivakzita	vacanatA	avivakzitavacanatA
 5608	aviveka	kaH	avivekaH
-5612	avivenat	nam	None
+5612	avivenat	nam	avivenam
 5613	aviSaNka	kA	aviSaNkA
-5613	aviSaNka	Nkam, aviSaNkena	None
+5613	aviSaNka	Nkam, aviSaNkena	aviSaNkam
 5618	aviSeza	zaH	aviSezaH
 5618	aviSeza	zam	aviSezam
 5618	aviSeza	ka	aviSezaka
@@ -1264,7 +1264,7 @@ Lnum	basehw	suffix	resolution
 5627	avizaya	yaH	avizayaH
 5643	avispazwa	zwam	avispazwam
 5652	avIci	ciH	avIciH
-5652	avIci	saMSozaRaH	None
+5652	avIci	saMSozaRaH	avIcisaMSozaRaH
 5653	avIja	jaH	avIjaH
 5653	avIja	jA	avIjA
 5653	avIja	jam	avIjam
@@ -1321,8 +1321,8 @@ Lnum	basehw	suffix	resolution
 5806	aSiva	vA	aSivA
 5806	aSiva	vam	aSivam
 5809	aSiSu	SuH	aSiSuH
-5809	aSiSu	SvIH	None
-5809	aSiSu	aSiSvikA	None
+5809	aSiSu	SvIH	aSiSvIH
+5809	aSiSu	aSiSvikA	aSiSvikA
 5812	aSizWa	zWaH	aSizWaH
 5819	aSIla	lam	aSIlam
 5820	aSuci	ciH	aSuciH
@@ -1333,7 +1333,7 @@ Lnum	basehw	suffix	resolution
 5824	aSuBa	Bam	aSuBam
 5827	aSUnya	nyam	aSUnyam
 5832	aSeza	zaH	aSezaH
-5832	aSeza	zam, aSezeRa, aSezataH	None
+5832	aSeza	zam, aSezeRa, aSezataH	aSezam
 5838	aSoka	kaH	aSokaH
 5838	aSoka	kA	aSokA
 5838	aSoka	kam	aSokam
@@ -1361,7 +1361,7 @@ Lnum	basehw	suffix	resolution
 5896	aSvatTaH	tTA	aSvatTA
 5896	aSvatTaH	tTI	aSvatTI
 5897	aSvatTaka	kaH	aSvatTakaH
-5908	aSvin	nO	None
+5908	aSvin	nO	aSvinO
 5911	aSviya	yA	aSviyA
 5913	aSvIya	yam	aSvIyam
 5914	aSvya	Svyam	aSvyam
@@ -1378,7 +1378,7 @@ Lnum	basehw	suffix	resolution
 5929	azwama	maH	azwamaH
 5929	azwama	mI	azwamI
 5933	azwAtaya	yaH	azwAtayaH
-5939	azwrA	vin	None
+5939	azwrA	vin	azwrAvin
 5945	asta	stA	astA
 5947	astaH	stam	astam
 5947	astaH	stam	astam
@@ -1398,7 +1398,7 @@ Lnum	basehw	suffix	resolution
 6004	asaMKyeya	yaH	asaMKyeyaH
 6004	asaMKyeya	yam	asaMKyeyam
 6005	asaMga	gaH	asaMgaH
-6005	asaMga	cArin	None
+6005	asaMga	cArin	asaMgacArin
 6008	asaMgama	maH	asaMgamaH
 6013	asaMjYa	jYA	asaMjYA
 6014	asat	tI	asatI
@@ -1409,7 +1409,7 @@ Lnum	basehw	suffix	resolution
 6026	asanam	naH	asanaH
 6026	asanam	nA	asanA
 6028	asantati	tiH	asantatiH
-6028	asantati	naH	None
+6028	asantati	naH	asantatinaH
 6031	asaMdigDa	gDam	asaMdigDam
 6035	asaMDi	DiH	asaMDiH
 6042	asapatna	tnam	asapatnam
@@ -1422,7 +1422,7 @@ Lnum	basehw	suffix	resolution
 6069	asaMpatti	ttiH	asaMpattiH
 6070	asaMpAta	taH	asaMpAtaH
 6073	asaMbadDa	dDam	asaMbadDam
-6073	asaMbadDa	arTavyavaDAna	None
+6073	asaMbadDa	arTavyavaDAna	asaMbadDArTavyavaDAna
 6074	asaMbanDa	nDaH	asaMbanDaH
 6075	asaMbADa	DA	asaMbADA
 6075	asaMbADa	Dam	asaMbADam
@@ -1430,10 +1430,10 @@ Lnum	basehw	suffix	resolution
 6077	asaMBava	vA	asaMBavA
 6077	asaMBava	vam	asaMBavam
 6079	asaMBavya	vyam	asaMBavyam
-6081	asaMBAvanIya	vyam	None
-6082	asaMBAvita	upamA	None
+6081	asaMBAvanIya	vyam	asaMBAvyam
+6082	asaMBAvita	upamA	asaMBAVitopamA
 6088	asaMBrama	maH	asaMBramaH
-6088	asaMBrama	mam, asaMBrAntam	None
+6088	asaMBrama	mam, asaMBrAntam	asaMBramam
 6089	asaMmata	taH	asaMmataH
 6105	asaha	ham	asaham
 6106	asahana	naH	asahanaH
@@ -1441,7 +1441,7 @@ Lnum	basehw	suffix	resolution
 6117	asADana	nam	asADanam
 6119	asADAraRa	RaH	asADAraRaH
 6119	asADAraRa	Ram	asADAraRam
-6120	asADu	DvI	None
+6120	asADu	DvI	asADvI
 6124	asAmAnya	nyam	asAmAnyam
 6125	asAmi	mi	asAmi
 6126	asAMprata	tam	asAMpratam
@@ -1464,7 +1464,7 @@ Lnum	basehw	suffix	resolution
 6184	asUryaMpaSya	SyA	asUryaMpaSyA
 6191	asevana	nam	asevanam
 6197	asOzWava	vam	asOzWavam
-6217	asTan	vat	None
+6217	asTan	vat	aSTivat
 6220	asTAna	nam	asTAnam
 6228	asTiti	tiH	asTitiH
 6230	asTErya	ryam	asTEryam
@@ -1486,7 +1486,7 @@ Lnum	basehw	suffix	resolution
 6298	ahan	nI	ahanI
 6301	ahaMyu	yuH	ahaMyuH
 6302	ahara	raH	aharaH
-6303	aharaRIya	ryaH	None
+6303	aharaRIya	ryaH	ahAryaH
 6305	ahalya	lyaH	ahalyaH
 6305	ahalya	lyA	ahalyA
 6310	ahi	hiH	ahiH
@@ -1501,7 +1501,7 @@ Lnum	basehw	suffix	resolution
 6324	ahuta	taH	ahutaH
 6330	ahetu	tuH	ahetuH
 6331	ahetuka	kam	ahetukam
-6335	ahnaH	ahnyam	None
+6335	ahnaH	ahnyam	ahnyam
 6340	ahrI	ka	ahrIka
 6340	ahrI	kaH	ahrIkaH
 6354	Akampana	nam	Akampanam
@@ -1537,7 +1537,7 @@ Lnum	basehw	suffix	resolution
 6527	Agastya	styaH	AgastyaH
 6527	Agastya	styI	AgastyI
 6534	AgUrRa	rRam	AgUrRam
-6534	AgUrRa	rtam	None
+6534	AgUrRa	rtam	AgUrtam
 6549	AgnIDra	Dram	AgnIDram
 6549	AgnIDra	DrA	AgnIDrA
 6549	AgnIDra	DraH	AgnIDraH
@@ -1546,7 +1546,7 @@ Lnum	basehw	suffix	resolution
 6553	Agneya	yaH	AgneyaH
 6553	Agneya	yI	AgneyI
 6553	Agneya	yam	Agneyam
-6556	AgrayaRaH	Rakam	None
+6556	AgrayaRaH	Rakam	AgrayaRakam
 6556	AgrayaRaH	RI	AgrayaRI
 6556	AgrayaRaH	Ram	AgrayaRam
 6560	AgrahAyaRaH	RI	AgrahAyaRI
@@ -1563,8 +1563,8 @@ Lnum	basehw	suffix	resolution
 6586	ANgika	kaH	ANgikaH
 6589	ANgirasa	saH	ANgirasaH
 6601	AcamanIya	yam	AcamanIyam
-6601	AcamanIya	AcamanIyakam	None
-6602	AcAnta	tiH	None
+6601	AcamanIya	AcamanIyakam	AcamanIyakam
+6602	AcAnta	tiH	AcAntiH
 6606	AcAmya	myam	AcAmyam
 6612	Acarita	tam	Acaritam
 6615	AcArika	kam	AcArikam
@@ -1602,7 +1602,7 @@ Lnum	basehw	suffix	resolution
 6768	Atura	raH	AturaH
 6772	AtfRRa	Ram	AtfRRam
 6775	AtfpyaH	pyam	Atfpyam
-6784	AtmanA	˚saptamaH	None
+6784	AtmanA	˚saptamaH	AtmanAsaptamaH
 6785	AtmanIna	naH	AtmanInaH
 6787	AtmaMBari	˚tvam	AtmaMBaritvam
 6796	Atyayika	kam	Atyayikam
@@ -1610,7 +1610,7 @@ Lnum	basehw	suffix	resolution
 6797	Atreya	yI	AtreyI
 6799	ATarvaRa	RaH	ATarvaRaH
 6799	ATarvaRa	Ram	ATarvaRam
-6799	ATarvaRa	Siras	None
+6799	ATarvaRa	Siras	ATarvaRASiras
 6800	ATarvaRika	kaH	ATarvaRikaH
 6812	AdAnam	nI	AdAnI
 6821	Adi	diH	AdiH
@@ -1640,22 +1640,22 @@ Lnum	basehw	suffix	resolution
 6963	AnadDa	dDaH	AnadDaH
 6967	Anirhata	taH	AnirhataH
 6968	Anila	laH	AnilaH
-6968	Anila	AniliH	None
+6968	Anila	AniliH	AniliH
 6973	AnAyya	yyaH	AnAyyaH
 6979	AnIla	laH	AnIlaH
-6992	AnupUrvam	vat	None
+6992	AnupUrvam	vat	AnpUrvavat
 6994	AnumAnika	kam	AnumAnikam
 7001	Anulomya	myam	Anulomyam
 7008	AnuSravika	kaH	AnuSravikaH
 7013	AnuzwuBa	Bam	AnuzwuBam
 7016	AnUpa	paH	AnUpaH
 7021	AnfSaMsa	sam	AnfSaMsam
-7021	AnfSaMsa	syam	None
+7021	AnfSaMsa	syam	AnfSaMsyam
 7024	Anta	ntam	Antam
 7026	AntaHpurika	kam	AntaHpurikam
 7027	Antara	ram	Antaram
 7028	Antaratamyam	kaH	AntaratamyakaH
-7028	Antaratamyam	kam	None
+7028	Antaratamyam	kam	Antaratamyakam
 7030	Antarikza	kzam	Antarikzam
 7035	Antra	tram	Antram
 7043	AnDra	DraH	AnDraH
@@ -1673,8 +1673,8 @@ Lnum	basehw	suffix	resolution
 7069	Apatika	kaH	ApatikaH
 7071	ApAta	taH	ApAtaH
 7076	ApaTi	TiH	ApaTiH
-7076	ApaTi	TIH	None
-7076	ApaTi	TyaH	None
+7076	ApaTi	TIH	ApaTIH
+7076	ApaTi	TyaH	ApaTyaH
 7087	Apamityaka	kam	Apamityakam
 7103	ApiYjara	ram	ApiYjaram
 7106	ApiSala	laH	ApiSalaH
@@ -1696,7 +1696,7 @@ Lnum	basehw	suffix	resolution
 7156	Apluta	tam	Aplutam
 7164	AbadDa	dDam	AbadDam
 7168	Abarha	rhaH	AbarhaH
-7168	Abarha	rhaRam	None
+7168	Abarha	rhaRam	AbarhaRam
 7172	AbADaH	DA	AbADA
 7195	ABAzya	zyam	ABAzyam
 7200	ABAsura	raH	ABAsuraH
@@ -1710,7 +1710,7 @@ Lnum	basehw	suffix	resolution
 7221	ABIla	lam	ABIlam
 7235	ABogaya	yam	ABogayam
 7237	AByantara	raH	AByantaraH
-7237	AByantara	rikaH	None
+7237	AByantara	rikaH	AByantarikaH
 7243	AByudayika	kam	AByudayikam
 7247	Ama	m	Amam
 7247	Ama	maH	AmaH
@@ -1731,8 +1731,8 @@ Lnum	basehw	suffix	resolution
 7325	AmrAtaH	tam	AmrAtam
 7331	Amreqita	tam	Amreqitam
 7332	AmlaH	mlam	Amlam
-7332	AmlaH	paYcakam	None
-7332	AmlaH	vetasaH	None
+7332	AmlaH	paYcakam	AmlapaYcakam
+7332	AmlaH	vetasaH	AmlavetasaH
 7340	AyaHSUlika	kaH	AyaHSUlikaH
 7356	Ayata	taH	AyataH
 7356	Ayata	tam	Ayatam
@@ -1745,8 +1745,8 @@ Lnum	basehw	suffix	resolution
 7387	Ayuta	tam	Ayutam
 7389	AyuDaH	Dam	AyuDam
 7390	AyuDika	kaH	AyuDikaH
-7391	AyuDin	DI	None
-7391	AyuDin	DIyaH	None
+7391	AyuDin	DI	AyuDI
+7391	AyuDin	DIyaH	AyuDIyaH
 7397	Ayuzya	zyam	Ayuzyam
 7399	AyogavaH	vI	AyogavI
 7402	AraH	raH	AraH
@@ -1754,7 +1754,7 @@ Lnum	basehw	suffix	resolution
 7404	Arakza	kzaH	ArakzaH
 7404	Arakza	kzA	ArakzA
 7407	AragvaDaH	Dam	AragvaDam
-7411	AraRam	jAH	None
+7411	AraRam	jAH	AraRajAH
 7413	AraReya	yaH	AraReyaH
 7413	AraReya	yam	AraReyam
 7414	AraRya	RyaH	AraRyaH
@@ -1815,10 +1815,10 @@ Lnum	basehw	suffix	resolution
 7597	AliNgita	taH	AliNgitaH
 7597	AliNgita	tam	AliNgitam
 7606	Alepa	paH	AlepaH
-7606	Alepa	panam	None
+7606	Alepa	panam	Alepanam
 7610	AlayaH	yam	Alayam
 7611	AlIna	nam	AlInam
-7611	AlIna	nakam	None
+7611	AlIna	nakam	AlInakam
 7612	AlIQa	Qam	AlIQam
 7615	AluH	luH	AluH
 7615	AluH	lu	Alu
@@ -1867,7 +1867,7 @@ Lnum	basehw	suffix	resolution
 7758	AvidDa	dDam	AvidDam
 7760	AvyADin	nI	AvyADinI
 7765	ASa	SaH	ASaH
-7769	ASita	tama	None
+7769	ASita	tama	ASitam
 7771	ASitaMBava	vam	ASitaMBavam
 7788	ASaNkita	tam	ASaNkitam
 7790	ASana	naH	ASanaH
@@ -1876,7 +1876,7 @@ Lnum	basehw	suffix	resolution
 7812	ASu	SuH	ASuH
 7812	ASu	Su	ASu
 7816	ASuSukzaRi	RiH	ASuSukzaRiH
-7821	ASOcam	nirRayaH	None
+7821	ASOcam	nirRayaH	ASocanirRayaH
 7823	AScarya	ryam	AScaryam
 7825	AScotana	nam	AScotanam
 7826	ASma	SmaH	ASmaH
@@ -1900,10 +1900,10 @@ Lnum	basehw	suffix	resolution
 7863	ASvina	naH	ASvinaH
 7863	ASvina	nI	ASvinI
 7863	ASvina	nam	ASvinam
-7863	ASvina	cihnitam	None
+7863	ASvina	cihnitam	ASvinacihnitam
 7865	ASvIna	naH	ASvInaH
 7865	ASvIna	nam	ASvInam
-7867	ASvalAyanaH	SAKA	None
+7867	ASvalAyanaH	SAKA	ASvalAyanaSAKA
 7870	ASvAsaka	kaH	ASvAsakaH
 7874	AzAQaH	QA	AzAQA
 7874	AzAQaH	QI	AzAQI
@@ -1913,7 +1913,7 @@ Lnum	basehw	suffix	resolution
 7884	Asanam	nI	AsanI
 7885	Asita	tam	Asitam
 7889	AsaMsAra	ram	AsaMsAram
-7889	AsaMsAra	ti	None
+7889	AsaMsAra	ti	AsaMsArati
 7894	Asakta	ktam	Asaktam
 7895	AsaktiH	kti	Asakti
 7896	AsaNga	gaH	AsaNgaH
@@ -1926,7 +1926,7 @@ Lnum	basehw	suffix	resolution
 7937	Asura	raH	AsuraH
 7937	Asura	rI	AsurI
 7937	Asura	ram	Asuram
-7938	AsuriH	kalpaH	None
+7938	AsuriH	kalpaH	AsurikalpaH
 7944	Asevita	tam	Asevitam
 7952	Astika	kaH	AstikaH
 7954	AstIka	kaH	AstIkaH
@@ -1937,15 +1937,15 @@ Lnum	basehw	suffix	resolution
 7986	AsPowaka	kaH	AsPowakaH
 7987	AsPowanam	nI	AsPowanI
 7989	AsPotaH	tA	AsPotA
-7989	AsPotaH	takA	None
+7989	AsPotaH	takA	AsPotakA
 7991	Asya	syam	Asyam
 7998	AsrAva	vaH	AsrAvaH
-8000	Asru	payas	None
+8000	Asru	payas	Asrupayas
 8002	AsvAda	daH	AsvAdaH
 8012	Ahata	taH	AhataH
 8012	Ahata	tam	Ahatam
-8014	Ahatya	vacanam	None
-8014	Ahatya	vAdaH	None
+8014	Ahatya	vacanam	Ahatyavacanam
+8014	Ahatya	vAdaH	AhatyavAdaH
 8030	AhavanIya	yaH	AhavanIyaH
 8031	AhavanIyaka	kaH	AhavanIyakaH
 8033	Ahuta	tam	Ahutam
@@ -1955,16 +1955,16 @@ Lnum	basehw	suffix	resolution
 8042	AhAra	raH	AhAraH
 8045	AhArya	ryaH	AhAryaH
 8045	AhArya	ryam	AhAryam
-8045	AhArya	SoBA	None
+8045	AhArya	SoBA	AhAryaSoBA
 8049	Ahna	hnam	Ahnam
-8049	Ahna	AhnInEbukam	None
+8049	Ahna	AhnInEbukam	AhnInEbukam
 8050	Ahnika	kam	Ahnikam
-8050	Ahnika	candrikA	None
-8050	Ahnika	dIpikA	None
-8050	Ahnika	pradIpa	None
-8050	Ahnika	maYjarI	None
+8050	Ahnika	candrikA	AhnikacandrikA
+8050	Ahnika	dIpikA	AhnikadIptikA
+8050	Ahnika	pradIpa	AhnikapradIpa
+8050	Ahnika	maYjarI	AhnikamaYjarI
 8052	AhlAdana	nam	AhlAdanam
-8061	AhavaH	BUmiH	None
+8061	AhavaH	BUmiH	AhavaBUmiH
 8065	AhUta	tam	AhUtam
 8067	Ahva	hvA	AhvA
 8069	Ahvayana	nam	Ahvayanam
@@ -2007,15 +2007,15 @@ Lnum	basehw	suffix	resolution
 8260	izwa	zwam	izwam
 8265	izma	zmaH	izmaH
 8271	izuka	kA	izukA
-8292	IkzaRam	Sravas	None
+8292	IkzaRam	Sravas	IkzaRaSravas
 8293	IkzaRikaH	kA	IkzaRikA
 8297	Ikzita	tam	Ikzitam
 8311	Iti	tiH	ItiH
-8312	Idfkza	k	None
+8312	Idfkza	k	Idfk
 8316	Ipsita	tam	Ipsitam
-8316	Ipsita	Palam	None
-8321	IraH	jaH	None
-8321	IraH	putraH	None
+8316	Ipsita	Palam	IpsitaPalam
+8321	IraH	jaH	IrajaH
+8321	IraH	putraH	IraputraH
 8322	IraRa	RaH	IraRaH
 8322	IraRa	Ram	IraRam
 8325	Irya	ryA	IryA
@@ -2036,7 +2036,7 @@ Lnum	basehw	suffix	resolution
 8350	ISvara	rI	ISvarI
 8350	ISvara	rI	ISvarI
 8354	IzaRa	RA	IzaRA
-8356	IzA	ze	None
+8356	IzA	ze	Ize
 8365	Ihita	tam	Ihitam
 8373	ukTam	kTaH	ukTaH
 8373	ukTam	kTA	ukTA
@@ -2048,7 +2048,7 @@ Lnum	basehw	suffix	resolution
 8390	ugra	grA	ugrA
 8390	ugra	grI	ugrI
 8390	ugra	gram	ugram
-8396	ucita	jYa	None
+8396	ucita	jYa	ucitajYa
 8399	ucca	ccaH	uccaH
 8414	uccAwanam	naH	uccAwanaH
 8421	uccarita	tam	uccaritam
@@ -2070,11 +2070,11 @@ Lnum	basehw	suffix	resolution
 8510	ujjvala	lam	ujjvalam
 8521	uYCaH	YCam	uYCam
 8527	uqumbaraH	ram	uqumbaram
-8528	uqUpaH	priyA	None
-8529	uqqAmara	tantra	None
+8528	uqUpaH	priyA	uqUpapriyA
+8529	uqqAmara	tantra	uqqAmaratantra
 8534	uqqIna	nam	uqqInam
-8545	uta	Aho	None
-8545	uta	Ahosvit	None
+8545	uta	Aho	utAho
+8545	uta	Ahosvit	utAhosvit
 8549	utka	tkaH	utkaH
 8558	utkawa	waH	utkawaH
 8558	utkawa	wAH	utkawAH
@@ -2084,7 +2084,7 @@ Lnum	basehw	suffix	resolution
 8564	utkaRWita	tA	utkaRWitA
 8565	utkanDara	ram	utkanDaram
 8567	utkampa	mpaH	utkampaH
-8567	utkampa	mpanam	None
+8567	utkampa	mpanam	utkampanam
 8571	utkarRa	rRaH	utkarRaH
 8572	utkala	laH	utkalaH
 8591	utkUla	lam	utkUlam
@@ -2105,7 +2105,7 @@ Lnum	basehw	suffix	resolution
 8677	uttara	rA	uttarA
 8677	uttara	ram	uttaram
 8677	uttara	ram	uttaram
-8687	uttaraNga	raH	None
+8687	uttaraNga	raH	UttaraNgaraH
 8692	uttAla	laH	uttAlaH
 8692	uttAla	lam	uttAlam
 8697	uttejita	tam	uttejitam
@@ -2131,7 +2131,7 @@ Lnum	basehw	suffix	resolution
 8773	utpIqa	qaH	utpIqaH
 8779	utpulaka	kam	utpulakam
 8785	utpraBa	BaH	utpraBaH
-8792	utprekzA	avayavaH	None
+8792	utprekzA	avayavaH	utprekzAvyayaH
 8795	utplavaH	vA	utplavA
 8801	utPulla	llam	utPullam
 8807	utsaNgaH	gam	utsaNgam
@@ -2156,7 +2156,7 @@ Lnum	basehw	suffix	resolution
 8944	udAraTi	TiH	udAraTiH
 8946	udAvartaH	rtA	udAvartA
 8949	udAsa	saH	udAsaH
-8949	udAsa	sin	None
+8949	udAsa	sin	udAsibn
 8951	udAsIna	naH	udAsInaH
 8952	udAsTita	taH	udAsTitaH
 8960	udaya	yaH	udayaH
@@ -2170,7 +2170,7 @@ Lnum	basehw	suffix	resolution
 8988	udgata	tA	udgatA
 8992	udgamanIya	yam	udgamanIyam
 8994	udgAQa	Qam	udgAQam
-9001	udgArin	riH	None
+9001	udgArin	riH	udgAriH
 9012	udgranTa	TaH	udgranTaH
 9029	udGAwana	nam	udGAwanam
 9038	udGuzwa	zwam	udGuzwam
@@ -2198,8 +2198,8 @@ Lnum	basehw	suffix	resolution
 9112	udDAraH	ram	udDAram
 9118	udDama	maH	udDamaH
 9124	udbanDa	nDaH	udbanDaH
-9124	udbanDa	nDanam	None
-9124	udbanDa	nDanI	None
+9124	udbanDa	nDanam	udbanDanam
+9124	udbanDa	nDanI	udbanDanI
 9134	udboDaka	kaH	udboDakaH
 9137	udBawa	waH	udBawaH
 9137	udBawa	tvam	udBawatvam
@@ -2215,7 +2215,7 @@ Lnum	basehw	suffix	resolution
 9219	udvAhana	nI	udvAhanI
 9222	udvAhin	nI	udvAhinI
 9226	udvAna	nam	udvAnam
-9231	udvigna	dfS	None
+9231	udvigna	dfS	udvignadfS
 9232	udvega	gaH	udvegaH
 9232	udvega	gam	udvegam
 9234	udvejana	nam	udvejanam
@@ -2273,7 +2273,7 @@ Lnum	basehw	suffix	resolution
 9486	upacArya	ryaH	upacAryaH
 9486	upacArya	ryam	upacAryam
 9508	upajanaH	nam	upajanam
-9510	upajAta	˚Keda	None
+9510	upajAta	˚Keda	upajAtaKeda
 9522	upajIka	kaH	upajIkaH
 9524	upajIva	vA	upajIvA
 9525	upajIvaka	kam	upajIvakam
@@ -2281,7 +2281,7 @@ Lnum	basehw	suffix	resolution
 9527	upajIvya	vyam	upajIvyam
 9529	upajozaH	zam	upajozam
 9538	upatawaH	wam	upatawam
-9557	upadaMSaH	nam	None
+9557	upadaMSaH	nam	upadaMSanam
 9564	upadA	dA	upadA
 9574	upadizwa	zwam	upadizwam
 9576	upadeSaka	kaH	upadeSakaH
@@ -2293,7 +2293,7 @@ Lnum	basehw	suffix	resolution
 9604	upaDAnIya	yam	upaDAnIyam
 9612	upaDAvanaH	nam	upaDAvanam
 9614	upaDUpita	taH	upaDUpitaH
-9614	upaDUpita	tA, upaDUmitA	None
+9614	upaDUpita	tA, upaDUmitA	upaDUpitA
 9620	upaDmAnaH	nam	upaDmAnam
 9673	upanAyaka	kaH	upanAyakaH
 9675	upanIta	taH	upanItaH
@@ -2302,7 +2302,7 @@ Lnum	basehw	suffix	resolution
 9700	upaparcana	nam	upaparcanam
 9712	upapuram	rI	upapurI
 9728	upapluta	tA	upaplutA
-9736	upabdaH	upadbiH	None
+9736	upabdaH	upadbiH	upadbiH
 9744	upaBogya	gyam	upaBogyam
 9765	upameya	yam	upameyam
 9766	upamAtiH	tiH	upamAtiH
@@ -2329,7 +2329,7 @@ Lnum	basehw	suffix	resolution
 9944	upaSAlam	lam	upaSAlam
 9950	upaSaya	yaH	upaSayaH
 9950	upaSaya	yA	upaSayA
-9950	upaSaya	sTa	None
+9950	upaSaya	sTa	upaSayasTa
 9969	upaSvasa	saH	upaSvasaH
 10001	upasada	daH	upasadaH
 10017	upasaMpanna	nnam	upasaMpannam
@@ -2337,7 +2337,7 @@ Lnum	basehw	suffix	resolution
 10028	upasara	raH	upasaraH
 10035	upasfzwa	zwaH	upasfzwaH
 10035	upasfzwa	zwam	upasfzwam
-10041	upasecana	nam, upasekaH	None
+10041	upasecana	nam, upasekaH	upasecanam
 10041	upasecana	nI	upasecanI
 10056	upastamBaka	tA	upastamBakatA
 10068	upasTa	sTaH	upasTaH
@@ -2377,7 +2377,7 @@ Lnum	basehw	suffix	resolution
 10240	upodaka	kam	upodakam
 10240	upodaka	kI	upodakI
 10240	upodaka	dikA	upodikA
-10240	upodaka	dIkA	None
+10240	upodaka	dIkA	upodIkA
 10270	ura	raH	uraH
 10271	uragaH	gA	uragA
 10271	uragaH	gI	uragI
@@ -2385,8 +2385,8 @@ Lnum	basehw	suffix	resolution
 10286	urasya	syaH	urasyaH
 10327	ulapya	pyaH	ulapyaH
 10333	ulUkaH	kam	ulUkam
-10333	ulUkaH	jit	None
-10333	ulUkaH	yAtuH	None
+10333	ulUkaH	jit	ulUkajit
+10333	ulUkaH	yAtuH	ulUkayAtuH
 10334	ulUKalaH	lam	ulUKalam
 10347	ulbaRa	RaH	ulbaRaH
 10347	ulbaRa	Ram	ulbaRam
@@ -2463,8 +2463,8 @@ Lnum	basehw	suffix	resolution
 10624	fzva	zvaH	fzvaH
 10632	eka	kaH	ekaH
 10632	eka	kA	ekA
-10634	ekaka	Satam	None
-10637	ekatas	dat	None
+10634	ekaka	Satam	ekakaSatam
+10637	ekatas	dat	ekatadat
 10646	ekAdaSa	SI	ekAdaSI
 10646	ekAdaSa	Sam	ekAdaSam
 10666	eqa	qaH	eqaH
@@ -2474,7 +2474,7 @@ Lnum	basehw	suffix	resolution
 10673	etagva	gvaH	etagvaH
 10674	etaSa	SaH	etaSaH
 10689	eDatu	tuH	eDatuH
-10698	ema	maH, eman	None
+10698	ema	maH, eman	emaH
 10699	erakA	kam	erakam
 10701	eraRqaH	RqA	eraRqA
 10713	eva	vaH	evaH
@@ -2491,7 +2491,7 @@ Lnum	basehw	suffix	resolution
 10764	Ekzava	vam	Ekzavam
 10766	Ekzuka	kaH	EkzukaH
 10768	EkzvAka	kaH	EkzvAkaH
-10768	EkzvAka	kuH	None
+10768	EkzvAka	kuH	EkzvAkuH
 10769	ENguda	dam	ENgudam
 10771	Eqa	qaH	EqaH
 10772	Eqaka	kaH	EqakaH
@@ -2526,7 +2526,7 @@ Lnum	basehw	suffix	resolution
 10855	oqraH	qram	oqram
 10857	oRi	RI	oRRI
 10861	odanaH	nI	odanI
-10869	oman	nA	None
+10869	oman	nA	omanA
 10875	ola	laH	olaH
 10878	olla	llaH	ollaH
 10880	ozaRaH	RI	ozaRI
@@ -2557,7 +2557,7 @@ Lnum	basehw	suffix	resolution
 10992	OpapAtika	kam	OpapAtikam
 10998	Opayika	kaH	OpayikaH
 10998	Opayika	kam	Opayikam
-11001	Oparizwa	kam	None
+11001	Oparizwa	kam	Oparizwakam
 11003	OparoDika	kaH	OparoDikaH
 11010	OpavAhya	hyaH	OpavAhyaH
 11019	Opasargika	kaH	OpasargikaH
@@ -2571,13 +2571,13 @@ Lnum	basehw	suffix	resolution
 11047	OrDvadehika	kam	OrDvadehikam
 11049	Orva	rvaH	OrvaH
 11049	Orva	rvam	Orvam
-11058	OSana	sam	None
-11058	OSana	sAH	None
-11058	OSana	sI	None
+11058	OSana	sam	OSanasam
+11058	OSana	sAH	OSanasAH
+11058	OSana	sI	OSanasI
 11060	OSInaraH	rI	OSInarI
 11064	OzaDa	Dam	OzaDam
-11065	OzaDiH	paYcaprakArAH	None
-11065	OzaDiH	pratiniDiH	None
+11065	OzaDiH	paYcaprakArAH	OzaDipaYcaprakArAH
+11065	OzaDiH	pratiniDiH	OzaDipratiniDiH
 11069	Ozasa	sI	OzasI
 11072	Ozwra	zwram	Ozwram
 11073	Ozwraka	kam	Ozwrakam
@@ -2592,14 +2592,14 @@ Lnum	basehw	suffix	resolution
 11107	kakuBa	Bam	kakuBam
 11108	kakuha	haH	kakuhaH
 11113	kakkolaH	lam	kakkolam
-11113	kakkolaH	lakam	None
+11113	kakkolaH	lakam	kakkolakam
 11117	kakzaH	kzA	kakzA
 11117	kakzaH	kzam	kakzam
 11121	kakzya	kzyA	kakzyA
 11121	kakzya	kzyam	kakzyam
 11126	kaNkaH	NkA	kaNkA
 11129	kaNkaRaH	RaH	kaNkaRaH
-11129	kaNkaRaH	RI, kaNkaRIkA	None
+11129	kaNkaRaH	RI, kaNkaRIkA	kaNkaRI
 11131	kaNkataH	taH	kaNkataH
 11132	kaNkara	ram	kaNkaram
 11135	kaNkAlaH	laH	kaNkAlaH
@@ -2607,7 +2607,7 @@ Lnum	basehw	suffix	resolution
 11153	kacAku	kuH	kacAkuH
 11158	kaccara	ram	kaccaram
 11166	kacCura	rA	kacCurA
-11172	kajjalam	lA(lI)	None
+11172	kajjalam	lA(lI)	kajjalA
 11172	kajjalam	lI	kajjalI
 11188	kaYjaH	Yjam	kaYjam
 11197	kawaH	wI	kawI
@@ -2638,10 +2638,10 @@ Lnum	basehw	suffix	resolution
 11281	kaRaH	RI	kaRI
 11283	kaRikaH	kA	kaRikA
 11293	kaReraH	rA	kaRerA
-11293	kaReraH	ruH	None
+11293	kaReraH	ruH	kaReruH
 11296	kaRwakaH	kaH	kaRwakaH
 11296	kaRwakaH	kI	kaRwakI
-11296	kaRwakaH	PalaH	None
+11296	kaRwakaH	PalaH	kaRwakaPalaH
 11297	kaRwakAraH	rI	kaRwakArI
 11318	kaRWAlaH	lA	kaRWAlA
 11319	kaRWIlaH	laH	kaRWIlaH
@@ -2656,7 +2656,7 @@ Lnum	basehw	suffix	resolution
 11342	kaRva	RvaH	kaRvaH
 11342	kaRva	Rvam	kaRvam
 11345	kataH	tam	katam
-11345	kataH	takam	None
+11345	kataH	takam	katakam
 11360	katTana	nam	katTanam
 11360	katTana	nA	katTanA
 11361	katpaya	yam	katpayam
@@ -2667,7 +2667,7 @@ Lnum	basehw	suffix	resolution
 11383	kada	daH	kadaH
 11386	kadambaH	mbI	kadambI
 11386	kadambaH	mbam	kadambam
-11386	kadambaH	kam	None
+11386	kadambaH	kam	kadambakam
 11388	kadaraH	raH	kadaraH
 11388	kadaraH	ram	kadaram
 11388	kadaraH	ram	kadaram
@@ -2675,7 +2675,7 @@ Lnum	basehw	suffix	resolution
 11389	kadalaH	lI	kadalI
 11394	kadru	druH	kadruH
 11394	kadru	druH	kadruH
-11394	kadru	drUH	None
+11394	kadru	drUH	kadrUH
 11399	kanakam	kaH	kanakaH
 11409	kanizWa	zWaH	kanizWaH
 11409	kanizWa	zWA	kanizWA
@@ -2684,13 +2684,13 @@ Lnum	basehw	suffix	resolution
 11413	kanIna	nI	kanInI
 11414	kanInakaH	kA	kanInakA
 11414	kanInakaH	nikA	kanInikA
-11414	kanInakaH	nikam	None
+11414	kanInakaH	nikam	kanInikam
 11416	kanIyasa	sam	kanIyasam
 11421	kantu	tuH	kantuH
 11424	kandaH	daH	kandaH
 11428	kandaraH	raH	kandaraH
 11428	kandaraH	rA	kandarA
-11428	kandaraH	rIM	None
+11428	kandaraH	rIM	kandarIM
 11428	kandaraH	ram	kandaram
 11431	kandalaH	laH	kandalaH
 11431	kandalaH	lam	kandalam
@@ -2741,14 +2741,14 @@ Lnum	basehw	suffix	resolution
 11538	karakaH	kam	karakam
 11542	karawaH	wam	karawam
 11542	karawaH	wA	karawA
-11542	karawaH	muKam	None
+11542	karawaH	muKam	karawamuKam
 11546	karaRa	RaH	karaRaH
 11546	karaRa	Ram	karaRam
 11546	karaRa	RI	karaRI
-11546	karaRa	sutA	None
+11546	karaRa	sutA	karaRasutA
 11552	karaBaH	BI	karaBI
 11560	karamBaH	mBA	karamBA
-11560	karamBaH	vAlukA	None
+11560	karamBaH	vAlukA	karamBavAlukA
 11562	karahAwaH	kaH	karahAwakaH
 11565	karAla	laH	karAlaH
 11565	karAla	lA	karAlA
@@ -2760,7 +2760,7 @@ Lnum	basehw	suffix	resolution
 11579	karuRa	RaH	karuRaH
 11579	karuRa	Ram	karuRam
 11585	kareRuH	RuH	kareRuH
-11585	kareRuH	RUH	None
+11585	kareRuH	RUH	kareRUH
 11586	kareRukam	kA	kareRukA
 11591	karka	rkaH	karkaH
 11591	karka	rkA	karkA
@@ -2777,7 +2777,7 @@ Lnum	basehw	suffix	resolution
 11626	karRikAraH	ram	karRikAram
 11632	karta	rtaH	kartaH
 11634	kartana	nam	kartanam
-11640	kartavya	vyam, kartavyatA	None
+11640	kartavya	vyam, kartavyatA	kartavyam
 11645	kartva	tvam	kartvam
 11647	kardanam	nI	kardanI
 11649	kardamaH	mam	kardamam
@@ -2865,7 +2865,7 @@ Lnum	basehw	suffix	resolution
 11858	kAMsya	syam	kAMsyam
 11858	kAMsya	syaH	kAMsyaH
 11858	kAMsya	syam	kAMsyam
-11859	kAMsyakam	koSI	None
+11859	kAMsyakam	koSI	kAMsyakakoSI
 11860	kAkaH	kA	kAkA
 11860	kAkaH	kI	kAkI
 11860	kAkaH	kAkI	kAkI
@@ -2900,7 +2900,7 @@ Lnum	basehw	suffix	resolution
 11969	kApawa	kaH	kApawakaH
 11971	kApaTaH	Tam	kApaTam
 11972	kApAla	laH	kApAlaH
-11972	kApAla	likaH	None
+11972	kApAla	likaH	kapAlikaH
 11972	kApAla	lam	kApAlam
 11972	kApAla	lI	kApAlI
 11976	kApila	laH	kApilaH
@@ -2929,7 +2929,7 @@ Lnum	basehw	suffix	resolution
 12043	kArita	tA	kAritA
 12043	kArita	tam	kAritam
 12061	kAru	ruH	kAruH
-12066	kArUzAH	zam	None
+12066	kArUzAH	zam	kArUzam
 12074	kArRa	rRam	kArRam
 12074	kArRa	rRaH	kArRaH
 12080	kArtika	kaH	kArtikaH
@@ -2938,7 +2938,7 @@ Lnum	basehw	suffix	resolution
 12090	kArpAsa	sam	kArpAsam
 12090	kArpAsa	sI	kArpAsI
 12094	kArmaRa	Ram	kArmaRam
-12094	kArmaRa	karman	None
+12094	kArmaRa	karman	kArmaRakarman
 12096	kArmAntikaH	kam	kArmAntikam
 12102	kArmuka	kam	kArmukam
 12103	kArya	ryam	kAryam
@@ -3002,11 +3002,11 @@ Lnum	basehw	suffix	resolution
 12260	kirmIra	raH	kirmIraH
 12266	kilakilaH	laH	kilakilaH
 12272	kilAsa	sam	kilAsam
-12272	kilAsa	sin	None
+12272	kilAsa	sin	kIlAsin
 12277	kilbizam	zaH	kilbizaH
 12280	kiSoraH	rI	kiSorI
 12281	kizkinDaH	nDA	kizkinDA
-12281	kizkinDaH	nDyA	None
+12281	kizkinDaH	nDyA	kizkinDyA
 12282	kizku	zkuH	kizkuH
 12284	kIkawa	wAH	kIkawAH
 12284	kIkawa	waH	kIkawaH
@@ -3038,7 +3038,7 @@ Lnum	basehw	suffix	resolution
 12376	kuwIraH	ram	kuwIram
 12380	kuwumbam	baH	kuwumbaH
 12380	kuwumbam	bam	kuwumbam
-12381	kuwumbikaH	nI	None
+12381	kuwumbikaH	nI	kuwumbinI
 12384	kuwwa	wwaH	kuwwaH
 12389	kuwwita	tA	kuwwitA
 12391	kuwwAraH	ram	kuwwAram
@@ -3061,7 +3061,7 @@ Lnum	basehw	suffix	resolution
 12454	kutUhala	lam	kutUhalam
 12461	kutsanam	nA	kutsanA
 12462	kutsita	tam	kutsitam
-12469	kuddAraH	lakam	None
+12469	kuddAraH	lakam	kuddAlakam
 12477	kuntalaH	lAH	kuntalAH
 12484	kundaH	ndam	kundam
 12484	kundaH	ndaH	kundaH
@@ -3080,8 +3080,8 @@ Lnum	basehw	suffix	resolution
 12530	kumBaH	BA	kumBA
 12530	kumBaH	Bam	kumBam
 12537	kumBIkaH	kA	kumBIkA
-12553	kuravaH	vam(bam)	None
-12553	kuravaH	va(ba)kam	None
+12553	kuravaH	vam(bam)	kuravam
+12553	kuravaH	va(ba)kam	kuravakam
 12557	kuruH	ruH	kuruH
 12560	kuruRwaH	RwI	kuruRwI
 12567	kuruvindaH	ndam	kuruvindam
@@ -3096,7 +3096,7 @@ Lnum	basehw	suffix	resolution
 12587	kulya	lyam	kulyam
 12587	kulya	lyA	kulyA
 12589	kulawaH	wA	kulawA
-12590	kulatTaH	tTikA	None
+12590	kulatTaH	tTikA	kulatTikA
 12598	kulAlaH	lI	kulAlI
 12609	kulInaka	kaH	kulInakaH
 12616	kulPaH	lPaH	kulPaH
@@ -3154,8 +3154,8 @@ Lnum	basehw	suffix	resolution
 12779	kfcCra	cCram	kfcCram
 12779	kfcCra	cCraH	kfcCraH
 12779	kfcCra	cCram	kfcCram
-12779	kfcCra	cCram, kfcCret, kfcCrat	None
-12790	kftrima	maH, ˚putraH	None
+12779	kfcCra	cCram, kfcCret, kfcCrat	kfcCram
+12790	kftrima	maH, ˚putraH	kftrimaH
 12790	kftrima	mam	kftrimam
 12795	kftsam	tsaH	kftsaH
 12796	kftsna	tsnam	kftsnam
@@ -3195,10 +3195,10 @@ Lnum	basehw	suffix	resolution
 12917	kEtavam	vaH	kEtavaH
 12919	kEdAra	raH	kEdAraH
 12919	kEdAra	ram	kEdAram
-12919	kEdAra	kEdArakam	None
-12919	kEdAra	kEdArikam	None
-12919	kEdAra	kEdArikA	None
-12919	kEdAra	kEdAryam	None
+12919	kEdAra	kEdArakam	kEdArakam
+12919	kEdAra	kEdArikam	kEdArikam
+12919	kEdAra	kEdArikA	kEdArikA
+12919	kEdAra	kEdAryam	kEdAryam
 12925	kEravaH	vam	kEravam
 12925	kEravaH	vI	kEravI
 12929	kErAta	taH	kErAtaH
@@ -3206,8 +3206,8 @@ Lnum	basehw	suffix	resolution
 12938	kESika	kaH	kESikaH
 12938	kESika	kam	kESikam
 12938	kESika	kI	kESikI
-12945	kokanadam	dinI	None
-12950	koNkaH	Ram	None
+12945	kokanadam	dinI	kokamadinI
+12950	koNkaH	Ram	koNkaRam
 12953	koca	caH	kocaH
 12956	kowaka	kaH	kowakaH
 12975	koTa	TaH	koTaH
@@ -3221,11 +3221,11 @@ Lnum	basehw	suffix	resolution
 13011	kozWakaH	kam	kozWakam
 13015	kozRa	zRam	kozRam
 13018	kohala	laH	kohalaH
-13019	kOkftyam	kOkkuwa	None
+13019	kOkftyam	kOkkuwa	kOkkuwa
 13029	kOYjara	ram	kOYjaram
 13030	kOwa	waH	kOwaH
 13037	kOwilyam	lyaH	kOwilyaH
-13037	kOwilyam	SAstram	None
+13037	kOwilyam	SAstram	kOwilyaSAstram
 13040	kOwumba	bam	kOwumbam
 13041	kOwumbika	kaH	kOwumbikaH
 13049	kOtukita	tA	kOtukitA
@@ -3269,7 +3269,7 @@ Lnum	basehw	suffix	resolution
 13166	krIta	tam	krItam
 13167	krItaka	kaH	krItakaH
 13172	krIqa	qaH	krIqaH
-13175	krIqanakaH	krIqanakatayA	None
+13175	krIqanakaH	krIqanakatayA	krIqanakatayA
 13188	krudDa	dDam	krudDam
 13190	kroDaH	DA	kroDA
 13191	kroDana	naH	kroDanaH
@@ -3288,12 +3288,12 @@ Lnum	basehw	suffix	resolution
 13227	kledaka	kaH	kledakaH
 13229	kledana	naH	kledanaH
 13229	kledana	nam	kledanam
-13236	kliSita	zwam	None
+13236	kliSita	zwam	klizwam
 13246	klIba	baH	klIbaH
 13246	klIba	bam	klIbam
-13257	kvaRaH	naH	None
+13257	kvaRaH	naH	kvaRanaH
 13263	kvaTita	tam	kvaTitam
-13270	kzaRaH	kzaRekzaRe	None
+13270	kzaRaH	kzaRekzaRe	kzaRekzaRe
 13273	kzaRika	kA	kzaRikA
 13274	kzaRin	nI	kzaRinI
 13277	kzata	tam	kzatam
@@ -3327,7 +3327,7 @@ Lnum	basehw	suffix	resolution
 13372	kzipra	pram	kzipram
 13372	kzipra	pram	kzipram
 13374	kzepaka	kaH	kzepakaH
-13375	kzepaRam	RiH	None
+13375	kzepaRam	RiH	kzepaRiH
 13375	kzepaRam	RI	kzepaRI
 13377	kzepaRIya	yam	kzepaRIyam
 13388	kzIraH	raH	kzIraH
@@ -3335,12 +3335,12 @@ Lnum	basehw	suffix	resolution
 13388	kzIraH	rI	kzIrI
 13388	kzIraH	rI	kzIrI
 13401	kzavakam	vikA	kzavikA
-13403	kzut	janikA	None
+13403	kzut	janikA	kzujjanikA
 13412	kzudra	draH	kzudraH
 13412	kzudra	drA	kzudrA
 13412	kzudra	dram	kzudram
 13420	kzodita	tam	kzoditam
-13422	kzodIyas	kzodya	None
+13422	kzodIyas	kzodya	kzodya
 13434	kzubDa	bDaH	kzubDaH
 13436	kzoBaRam	RaH	kzoBaRaH
 13445	kzullaka	kaH	kzullakaH
@@ -3434,7 +3434,7 @@ Lnum	basehw	suffix	resolution
 13764	gaRaka	kaH	gaRakaH
 13764	gaRaka	kI	gaRakI
 13766	gaRanam	nA	gaRanA
-13795	gaRqUzaH	gaRqUzIkf	None
+13795	gaRqUzaH	gaRqUzIkf	gaRqUzIkf
 13799	gadaH	dam	gadam
 13800	gadayitnu	tnuH	gadayitnuH
 13805	gadgada	dam	gadgadam
@@ -3491,7 +3491,7 @@ Lnum	basehw	suffix	resolution
 13964	gANgeya	yaH	gANgeyaH
 13964	gANgeya	yam	gANgeyam
 13976	gARapatyaH	tyam	gARapatyam
-13982	gARqI	gARqImaya	None
+13982	gARqI	gARqImaya	gARqImaya
 13986	gAtram	trA	gAtrA
 13991	gADa	Dam	gADam
 13998	gAnDarva	rvaH	gAnDarvaH
@@ -3500,7 +3500,7 @@ Lnum	basehw	suffix	resolution
 14000	gAnDAraH	ram	gAnDAram
 14004	gAnDikaH	kam	gAnDikam
 14011	gAyatra	tram	gAyatram
-14012	gAyatrI	tram	None
+14012	gAyatrI	tram	gAyatram
 14014	gAyanaH	nam	gAyanam
 14016	gAruqa	qaH	gAruqaH
 14016	gAruqa	qam	gAruqam
@@ -3532,9 +3532,9 @@ Lnum	basehw	suffix	resolution
 14149	gopya	pyaH	gopyaH
 14158	guru	ruH	guruH
 14160	gurutama	maH	gurutamaH
-14162	gurumatI	ttA	None
+14162	gurumatI	ttA	gurumattA
 14163	gurjaraH	rI	gurjarI
-14164	gurviRI	rvI	None
+14164	gurviRI	rvI	gurvI
 14167	gulaH	lI	gulI
 14174	gulmaH	lmI	gulmI
 14184	guhya	hyaH	guhyaH
@@ -3597,7 +3597,7 @@ Lnum	basehw	suffix	resolution
 14393	grIzma	zmaH	grIzmaH
 14393	grIzma	zmI	grIzmI
 14395	grEva	vam	grEvam
-14395	grEva	yam	None
+14395	grEva	yam	grEvyam
 14411	glAna	nam	glAnam
 14416	Ga	GaH	GaH
 14416	Ga	Gam	Gam
@@ -3648,22 +3648,22 @@ Lnum	basehw	suffix	resolution
 14606	caYcala	lA	caYcalA
 14607	caYcu	YcuH	caYcuH
 14607	caYcu	YcuH	caYcuH
-14607	caYcu	YcUH	None
+14607	caYcu	YcUH	caYcUH
 14615	cawuH	wuH	cawuH
 14616	cawula	lA	cawulA
 14623	caRa	RaH	caRaH
 14626	caRqa	RqaH	caRqaH
 14626	caRqa	Rqam	caRqam
 14627	caRqavat	tI	caRqavatI
-14628	caRqA	RqI	None
+14628	caRqA	RqI	caRqI
 14635	caRqAla	laH	caRqAlaH
 14640	cAtana	nam	cAtanam
 14642	caturTa	rTaH	caturTaH
 14642	caturTa	rTam	caturTam
-14642	caturTa	aMSa	None
-14642	caturTa	ASramaH	None
-14642	caturTa	Palam	None
-14642	caturTa	Bakta	None
+14642	caturTa	aMSa	caturTAMSa
+14642	caturTa	ASramaH	caturTASramaH
+14642	caturTa	Palam	caturTaPalam
+14642	caturTa	Bakta	caturTaBakta
 14643	caturTaka	kaH	caturTakaH
 14643	caturTaka	rTikA	caturTikA
 14646	catuzka	zkam	catuzkam
@@ -3773,14 +3773,14 @@ Lnum	basehw	suffix	resolution
 15073	culukaH	ka	culuka
 15080	culla	llaH	cullaH
 15081	cullakaH	kI	cullakI
-15090	cUqAra	lam	None
+15090	cUqAra	lam	cUqAlam
 15094	cUtaH	tam	cUtam
 15100	cUrRaH	rRaH	cUrRaH
 15101	cUrRakaH	kam	cUrRakam
 15110	cUlaH	lA	cUlA
 15136	cezwaka	kaH	cezwakaH
-15138	cezwA	nASaH	None
-15138	cezwA	nirUpaRam	None
+15138	cezwA	nASaH	cezwAnASaH
+15138	cezwA	nirUpaRam	cezwAnirUpaRam
 15139	cezwita	tam	cezwitam
 15142	cEtta	ttam	cEttam
 15144	cEtya	tyaH	cEtyaH
@@ -3793,7 +3793,7 @@ Lnum	basehw	suffix	resolution
 15159	colaH	lam	colam
 15160	colakaH	kam	colakam
 15165	cOqa	qam	cOqam
-15165	cOqa	lam	None
+15165	cOqa	lam	cOlam
 15173	cyAvana	nam	cyAvanam
 15181	cyOtna	tnam	cyOtnam
 15182	Ca	CaH	CaH
@@ -3847,20 +3847,20 @@ Lnum	basehw	suffix	resolution
 15358	jaqa	qaH	jaqaH
 15358	jaqa	qam	jaqam
 15366	jatu	tuH	jatuH
-15366	jatu	tUH	None
+15366	jatu	tUH	jatUH
 15374	janaH	nA	janA
 15376	janaka	kaH	janakaH
 15378	janana	naH	jananaH
 15378	janana	nam	jananam
 15393	janitvaH	tvA	janitvA
 15393	janitvaH	tvO	janitvO
-15403	janman	aDipaH	None
-15403	janman	antaram	None
-15403	janman	antarIya	None
-15403	janman	anDaH	None
-15403	janman	azwamI	None
-15403	janman	Aspadam	None
-15403	janman	ISaH	None
+15403	janman	aDipaH	janmADipaH
+15403	janman	antaram	janmAntaram
+15403	janman	antarIya	janmAntarIya
+15403	janman	anDaH	janmAnDaH
+15403	janman	azwamI	janmAzwamI
+15403	janman	Aspadam	janmAspadam
+15403	janman	ISaH	janmeSaH
 15403	janman	kIlaH	janmakIlaH
 15403	janman	kuRqalI	janmakuRqalI
 15403	janman	kft	janmakft
@@ -3922,7 +3922,7 @@ Lnum	basehw	suffix	resolution
 15494	jasuri	riH	jasuriH
 15496	jahaka	kaH	jahakaH
 15496	jahaka	kA	jahakA
-15501	jahnuH	saptamI	None
+15501	jahnuH	saptamI	jahnusaptamI
 15505	jAguqam	qaH	jAguqaH
 15508	jAgara	raH	jAgaraH
 15511	jAgarita	tam	jAgaritam
@@ -3943,7 +3943,7 @@ Lnum	basehw	suffix	resolution
 15552	jApaka	kam	jApakam
 15553	jApya	pyam	jApyam
 15562	jAmi	miH	jAmiH
-15567	jAmbIram	lam	None
+15567	jAmbIram	lam	jambIlam
 15576	jAyu	yuH	jAyuH
 15577	jAraH	rI	jArI
 15581	jAlam	laH	jAlaH
@@ -4001,12 +4001,12 @@ Lnum	basehw	suffix	resolution
 15801	jyEzWaH	zWI	jyEzWI
 15812	jyotiza	zaH	jyotizaH
 15812	jyotiza	zam	jyotizam
-15814	jyotizI	zkam	None
-15814	jyotizI	zkaH	None
+15814	jyotizI	zkam	jyotizkam
+15814	jyotizI	zkaH	jyotizkaH
 15815	jyotizmat	tI	jyotizmatI
 15818	jyOtsna	tsnaH	jyOtsnaH
 15818	jyOtsna	tsnI	jyOtsnI
-15818	jyOtsna	tsnikA	None
+15818	jyOtsna	tsnikA	tyOtsnikA
 15823	jvara	raH	jvaraH
 15823	jvara	rA	jvarA
 15826	jvala	laH	jvalaH
@@ -4041,7 +4041,7 @@ Lnum	basehw	suffix	resolution
 16023	taH	tA	tA
 16030	takila	lA	takilA
 16037	takzaRam	RI	takzaRI
-16039	tagaraH	ram, tagarakam	None
+16039	tagaraH	ram, tagarakam	tagaram
 16047	tawaH	waH	tawaH
 16047	tawaH	wA	tawA
 16047	tawaH	wI	tawI
@@ -4058,8 +4058,8 @@ Lnum	basehw	suffix	resolution
 16069	taRqakaH	kam	taRqakam
 16081	taturi	riH	taturiH
 16089	taTya	Tyam	taTyam
-16089	taTya	taTyena	None
-16089	taTya	taTyataH	None
+16089	taTya	taTyena	taTyena
+16089	taTya	taTyataH	taTyataH
 16101	tata	taH	tataH
 16101	tata	tam	tatam
 16105	tanaH	nA	tanA
@@ -4067,7 +4067,7 @@ Lnum	basehw	suffix	resolution
 16106	tanayaH	yA	tanayA
 16106	tanayaH	yO	tanayO
 16106	tanayaH	yam	tanayam
-16106	tanayaH	tanayIkfta	None
+16106	tanayaH	tanayIkfta	tanayIkfta
 16124	tantukaH	kI	tantukI
 16138	tandra	ndram	tandram
 16148	tapa	paH	tapaH
@@ -4115,9 +4115,9 @@ Lnum	basehw	suffix	resolution
 16265	talaH	lam	talam
 16266	talakam	kaH	talakaH
 16270	talita	tam	talitam
-16271	talavaH	kAraH	None
+16271	talavaH	kAraH	talavakAraH
 16274	talina	nam	talinam
-16274	talina	udarI	None
+16274	talina	udarI	talinodarI
 16276	taluna	naH	talunaH
 16276	taluna	nI	talunI
 16278	talpaH	lpA	talpA
@@ -4155,7 +4155,7 @@ Lnum	basehw	suffix	resolution
 16426	tiktaka	kaH	tiktakaH
 16428	tigma	gmam	tigmam
 16433	tejanam	nI	tejanI
-16447	tintiqaH	kam	None
+16447	tintiqaH	kam	tintiqakam
 16450	tindukam	kam	tindukam
 16457	timira	raH	timiraH
 16457	timira	ram	timiram
@@ -4191,7 +4191,7 @@ Lnum	basehw	suffix	resolution
 16551	tutTaH	tTA	tutTA
 16560	tundam	ndaH	tundaH
 16560	tundam	ndI	tundI
-16563	tundika	kzundilaH	None
+16563	tundika	kzundilaH	tundikakzundilaH
 16570	tumula	laH	tumulaH
 16570	tumula	lam	tumulam
 16572	tumbaH	tumbA	tumbA
@@ -4268,7 +4268,7 @@ Lnum	basehw	suffix	resolution
 16800	tOtikaH	kam	tOtikam
 16809	tOzAra	ram	tOzAram
 16821	tyAjya	jyam	tyAjyam
-16830	trapulam	zam	None
+16830	trapulam	zam	trapuzam
 16834	traya	yam	trayam
 16838	trasa	saH	trasaH
 16838	trasa	sam	trasam
@@ -4331,8 +4331,8 @@ Lnum	basehw	suffix	resolution
 17062	dara	raH	daraH
 17062	dara	rA	darA
 17062	dara	ram	daram
-17068	daradAH	daH	None
-17068	daradAH	dam	None
+17068	daradAH	daH	daradaH
+17068	daradAH	dam	daradam
 17076	darodara	ram	darodaram
 17077	dardara	raH	dardaraH
 17078	dardarIkaH	kam	dardarIkam
@@ -4387,7 +4387,7 @@ Lnum	basehw	suffix	resolution
 17230	dAruRa	RaH	dAruRaH
 17230	dAruRa	Ram	dAruRam
 17255	dASeyaH	yI	dASeyI
-17261	dASArhAH	rhaH	None
+17261	dASArhAH	rhaH	dASArhaH
 17263	dASerakaH	kAH	dASerakAH
 17285	diDizAyya	yyam	diDizAyyam
 17305	divya	vyaH	divyaH
@@ -4437,7 +4437,7 @@ Lnum	basehw	suffix	resolution
 17432	dohya	hyam	dohyam
 17432	dohya	hyA	dohyA
 17445	dUra	ram	dUram
-17445	dUra	dUrAt	None
+17445	dUra	dUrAt	dUrAt
 17455	dfta	tA	dftA
 17463	dfQa	Qam	dfQam
 17463	dfQa	Qam	dfQam
@@ -4486,7 +4486,7 @@ Lnum	basehw	suffix	resolution
 17591	dEhya	hyaH	dEhyaH
 17621	dOkUlaH	lam	dOkUlam
 17652	dOzkula	lam	dOzkulam
-17652	dOzkula	lyam	None
+17652	dOzkula	lyam	dOzkulyam
 17657	dOhitraH	tram	dOhitram
 17665	dyukzaH	kzaH	dyukzaH
 17672	dyotana	naH	dyotanaH
@@ -4557,7 +4557,7 @@ Lnum	basehw	suffix	resolution
 17906	Dara	raH	DaraH
 17906	Dara	ram	Daram
 17907	DaraRa	RaH	DaraRaH
-17907	DaraRa	Rama	None
+17907	DaraRa	Rama	DaraRam
 17913	DaruRa	RaH	DaruRaH
 17913	DaruRa	Ram	DaruRam
 17918	DarmaH	rmam	Darmam
@@ -4592,9 +4592,9 @@ Lnum	basehw	suffix	resolution
 18028	DIra	ram	DIram
 18033	DIvaraH	ram	DIvaram
 18033	DIvaraH	rI	DIvarI
-18037	Duta	ti	None
+18037	Duta	ti	Duti
 18049	DurIRa	RaH	DurIRaH
-18049	DurIRa	yaH	None
+18049	DurIRa	yaH	DuryaH
 18050	Durya	ryaH	DuryaH
 18050	Durya	ryam	Duryam
 18061	DUta	tA	DUtA
@@ -4617,8 +4617,8 @@ Lnum	basehw	suffix	resolution
 18136	DOta	tam	DOtam
 18144	DOreya	yaH	DOreyaH
 18156	DyAma	mam	DyAmam
-18165	DyAnin	budDaH	None
-18165	DyAnin	boDisattvaH	None
+18165	DyAnin	budDaH	DyAnibudDaH
+18165	DyAnin	boDisattvaH	DyAniboDisattvaH
 18181	Druva	vaH	DruvaH
 18181	Druva	vam	Druvam
 18181	Druva	vA	DruvA
@@ -4723,10 +4723,10 @@ Lnum	basehw	suffix	resolution
 18517	nAra	ram	nAram
 18518	nAraka	kaH	nArakaH
 18520	nAraNgaH	Ngam	nAraNgam
-18520	nAraNgaH	Ngakam	None
+18520	nAraNgaH	Ngakam	nAgaraNgakam
 18522	nArasiMha	haH	nArasiMhaH
 18525	nArAyaRaH	RI	nArAyaRI
-18527	nArikeraH	lI	None
+18527	nArikeraH	lI	NarikelI
 18534	nAla	lam	nAlam
 18534	nAla	laH	nAlaH
 18538	nAlikaH	kA	nAlikA
@@ -4740,7 +4740,7 @@ Lnum	basehw	suffix	resolution
 18571	nAsiram	raH	nAsiraH
 18585	niHSaNka	Nkam	niHSaNkam
 18590	niHSeza	zam	niHSezam
-18590	niHSeza	zeRa	None
+18590	niHSeza	zeRa	niHSezeRa
 18595	niHSvasita	tam	niHSvasitam
 18598	niHsaMga	gaH	niHsaMgaH
 18614	niHsvanaH	naH	niHsvanaH
@@ -4755,7 +4755,7 @@ Lnum	basehw	suffix	resolution
 18650	nikfzwa	zwam	nikfzwam
 18653	niketanaH	nam	niketanam
 18671	niKarva	rvam	niKarvam
-18672	niKila	lena	None
+18672	niKila	lena	niKilena
 18673	nigaqa	qaH	nigaqaH
 18673	nigaqa	qam	nigaqam
 18680	nigadita	tam	nigaditam
@@ -4791,7 +4791,7 @@ Lnum	basehw	suffix	resolution
 18830	nipuRa	Ram	nipuRam
 18830	nipuRa	Ram	nipuRam
 18837	nibanDaH	Dam	nibanDam
-18841	nibarhaRa	nam	None
+18841	nibarhaRa	nam	nibarhanam
 18848	niBa	BaH	niBaH
 18848	niBa	Bam	niBam
 18853	niBfta	tA	niBftA
@@ -4811,7 +4811,7 @@ Lnum	basehw	suffix	resolution
 18953	nirukta	ktam	niruktam
 18959	nirUQa	QaH	nirUQaH
 18986	nirGarzaRaka	kam	nirGarzaRakam
-18995	nirjita	indriyaH	None
+18995	nirjita	indriyaH	nirjitendriyaH
 18996	nirJaraH	raH	nirJaraH
 19019	nirdara	raH	nirdaraH
 19019	nirdara	ram	nirdaram
@@ -4831,7 +4831,7 @@ Lnum	basehw	suffix	resolution
 19190	nivAta	taH	nivAtaH
 19190	nivAta	tam	nivAtam
 19198	nivedanam	naH	nivedanaH
-19201	nivirISa	sA	None
+19201	nivirISa	sA	nivirIsA
 19206	niveSanam	nI	niveSanI
 19207	niviSeza	zaH	niviSezaH
 19208	nivItam	taH	nivItaH
@@ -4923,7 +4923,7 @@ Lnum	basehw	suffix	resolution
 19667	pa	paH	paH
 19687	pakzya	kzyaH	pakzyaH
 19693	paNkila	laH	paNkilaH
-19695	paNkeruh	haH	None
+19695	paNkeruh	haH	paNkeruhaH
 19701	paNgu	guH	paNguH
 19704	paNgula	laH	paNgulaH
 19710	pakva	kvam	pakvam
@@ -4940,14 +4940,14 @@ Lnum	basehw	suffix	resolution
 19733	paYcaka	kaH	paYcakaH
 19733	paYcaka	kam	paYcakam
 19733	paYcaka	kam	paYcakam
-19736	paYcatA	paYcatAM	None
-19736	paYcatA	tvam gam	None
-19736	paYcatA	yA	None
+19736	paYcatA	paYcatAM	paYcatAM
+19736	paYcatA	tvam gam	paYcatvam
+19736	paYcatA	yA	paYcatAyA
 19740	paYcama	maH	paYcamaH
 19740	paYcama	mam	paYcamam
 19740	paYcama	mam	paYcamam
 19740	paYcama	mI	paYcamI
-19748	paYcAlAH	laH	None
+19748	paYcAlAH	laH	paYcAlaH
 19754	paYjaram	raH	paYjaraH
 19754	paYjaram	ram	paYjaram
 19754	paYjaram	raH	paYjaraH
@@ -5016,10 +5016,10 @@ Lnum	basehw	suffix	resolution
 19969	parAka	kaH	parAkaH
 19986	parAcIna	nam	parAcInam
 20032	parAsaH	sam	parAsam
-20036	parAsu	parAsutA	None
-20036	parAsu	parAsutvam	None
+20036	parAsu	parAsutA	parAsutA
+20036	parAsu	parAsutvam	parAsutvam
 20040	parAhata	tam	parAhatam
-20040	parAhata	tiH	None
+20040	parAhata	tiH	parAhatiH
 20075	parikrAnta	tam	parikrAntam
 20082	pariklizwa	zwam	pariklizwam
 20085	parikvaRana	naH	parikvaRanaH
@@ -5037,7 +5037,7 @@ Lnum	basehw	suffix	resolution
 20337	pariplava	vaH	pariplavaH
 20338	paripluta	tam	pariplutam
 20338	paripluta	tA	pariplutA
-20338	paripluta	ti	None
+20338	paripluta	ti	paripluti
 20349	paribfMhita	tam	paribfMhitam
 20386	parimaRqala	lam	parimaRqalam
 20386	parimaRqala	laH	parimaRqalaH
@@ -5119,7 +5119,7 @@ Lnum	basehw	suffix	resolution
 20984	pARqara	ram	pARqaram
 20991	pARqu	RquH	pARquH
 20994	pARqura	ram	pARquram
-20997	pARqyAH	RqyaH	None
+20997	pARqyAH	RqyaH	pARqyaH
 21003	pAtana	nam	pAtanam
 21007	pAtuka	kaH	pAtukaH
 21013	pAtaYjala	lam	pAtaYjalam
@@ -5164,7 +5164,7 @@ Lnum	basehw	suffix	resolution
 21114	pAramahaMsya	syam	pAramahaMsyam
 21117	pAramita	tA	pAramitA
 21120	pAraMpara	rI	pAraMparI
-21123	pAraMparyam	pAraMparyeRa	None
+21123	pAraMparyam	pAraMparyeRa	pAraMparyeRa
 21126	pAralOkika	kam	pAralOkikam
 21130	pAraSava	vaH	pAraSavaH
 21130	pAraSava	vI	pAraSavI
@@ -5176,7 +5176,7 @@ Lnum	basehw	suffix	resolution
 21174	pAriplava	vaH	pAriplavaH
 21174	pAriplava	vam	pAriplavam
 21175	pAriplAvyaH	vyam	pAriplAvyam
-21192	pAriSezyam	zyAt	None
+21192	pAriSezyam	zyAt	pAriSezyAt
 21193	pArizada	daH	pArizadaH
 21193	pArizada	dAH	pArizadAH
 21193	pArizada	dam	pArizadam
@@ -5255,8 +5255,8 @@ Lnum	basehw	suffix	resolution
 21376	piRqila	laH	piRqilaH
 21379	piRqIra	raH	piRqIraH
 21382	pitAmahaH	hAH	pitAmahAH
-21385	pitf	rO	None
-21385	pitf	raH	None
+21385	pitf	rO	pitrO
+21385	pitf	raH	pitraH
 21392	pittala	lam	pittalam
 21393	pitrya	tryaH	pitryaH
 21393	pitrya	tryA	pitryA
@@ -5287,10 +5287,10 @@ Lnum	basehw	suffix	resolution
 21492	pIvara	raH	pIvaraH
 21492	pIvara	rI	pIvarI
 21499	pukkaSa	SaH	pukkaSaH
-21499	pukkaSa	zaH	None
-21499	pukkaSa	saH	None
+21499	pukkaSa	zaH	pukkazaH
+21499	pukkaSa	saH	pukkasaH
 21499	pukkaSa	SI	pukkaSI
-21499	pukkaSa	sI	None
+21499	pukkaSa	sI	pukkasI
 21500	pukkaSaka	kaH	pukkaSakaH
 21517	puwaH	waH	puwaH
 21517	puwaH	wam	puwam
@@ -5310,7 +5310,7 @@ Lnum	basehw	suffix	resolution
 21592	purAtana	naH	purAtanaH
 21594	purARa	Ram	purARam
 21594	purARa	RaH	purARaH
-21600	purIzam	zyam	None
+21600	purIzam	zyam	purIzyam
 21601	purIzaRaH	Ram	purIzaRam
 21605	puru	ruH	puruH
 21607	puruzaH	zI	puruzI
@@ -5330,10 +5330,10 @@ Lnum	basehw	suffix	resolution
 21660	puzpita	tA	puzpitA
 21663	puzyaH	zyam	puzyam
 21663	puzyaH	zyA	puzyA
-21668	pustakaH	AgAram	None
-21668	pustakaH	AstaraRam	None
-21668	pustakaH	mudrA	None
-21668	pustakaH	pustikApUlikaH	None
+21668	pustakaH	AgAram	pustakAgAram
+21668	pustakaH	AstaraRam	pustakAstraRam
+21668	pustakaH	mudrA	pustakamudrA
+21668	pustakaH	pustikApUlikaH	pustikApUlikaH
 21672	pUta	taH	pUtaH
 21672	pUta	tam	pUtam
 21672	pUta	tA	pUtA
@@ -5378,7 +5378,7 @@ Lnum	basehw	suffix	resolution
 21800	peya	yam	peyam
 21800	peya	yA	peyA
 21807	pelaH	lam	pelam
-21807	pelaH	pelakaH	None
+21807	pelaH	pelakaH	pelakaH
 21815	peSala	lam	peSalam
 21815	peSala	laH	peSalaH
 21829	pENgalaH	lam	pENgalam
@@ -5392,7 +5392,7 @@ Lnum	basehw	suffix	resolution
 21860	pEzwika	kam	pEzwikam
 21863	pogaRqa	RqaH	pogaRqaH
 21901	pOMsna	snam	pOMsnam
-21903	pOgaRqa	Rqam, pOgaRqakam	None
+21903	pOgaRqa	Rqam, pOgaRqakam	pOgaRqam
 21904	pORqarIka	kaH	pORqarIkaH
 21913	pOtra	traH	pOtraH
 21913	pOtra	trI	pOtrI
@@ -5425,7 +5425,7 @@ Lnum	basehw	suffix	resolution
 21999	prakARqaH	RqaH	prakARqaH
 22002	prakAma	maH	prakAmaH
 22002	prakAma	mam	prakAmam
-22002	prakAma	Buj	None
+22002	prakAma	Buj	prakAmaBuj
 22005	prakASa	SaH	prakASaH
 22005	prakASa	Sam	prakASam
 22005	prakASa	Sam	prakASam
@@ -5437,7 +5437,7 @@ Lnum	basehw	suffix	resolution
 22009	prakASita	tam	prakASitam
 22010	prakASya	Syam	prakASyam
 22016	prakopana	nam	prakopanam
-22016	prakopana	Ram	None
+22016	prakopana	Ram	prakopaRam
 22021	prakaraH	ram	prakaram
 22028	prakfta	tam	prakftam
 22035	prakarzaRa	Ram	prakarzaRam
@@ -5493,7 +5493,7 @@ Lnum	basehw	suffix	resolution
 22333	pratApana	nam	pratApanam
 22333	pratApana	naH	pratApanaH
 22344	pratalam	laH	pratalaH
-22353	pratikartavya	ryam	None
+22353	pratikartavya	ryam	pratikAryam
 22358	pratikfta	tam	pratikftam
 22368	pratikzipta	ptam	pratikziptam
 22390	pratiGa	GaH	pratiGaH
@@ -5524,7 +5524,7 @@ Lnum	basehw	suffix	resolution
 22783	pratna	tnam	pratnam
 22785	pratyakza	kzam	pratyakzam
 22812	pratyarTa	rTam	pratyarTam
-22812	pratyarTa	vedanaH	None
+22812	pratyarTa	vedanaH	pratyarTavedanaH
 22836	pratyAkalita	tam	pratyAkalitam
 22861	pratyAyanam	nam	pratyAyanam
 22861	pratyAyanam	nA	pratyAyanA
@@ -5629,7 +5629,7 @@ Lnum	basehw	suffix	resolution
 23511	pravrajita	taH	pravrajitaH
 23511	pravrajita	tA	pravrajitA
 23511	pravrajita	tam	pravrajitam
-23514	pravrAj	jikA	None
+23514	pravrAj	jikA	pravrAjikA
 23530	praSamana	nam	praSamanam
 23535	praSAKa	KA	praSAKA
 23557	praSlizwa	zwaH	praSlizwaH
@@ -5728,7 +5728,7 @@ Lnum	basehw	suffix	resolution
 24071	priya	yA	priyA
 24071	priya	yam	priyam
 24071	priya	yam	priyam
-24071	priya	priyeRa	None
+24071	priya	priyeRa	priyeTa
 24073	priyaMvada	daH	priyaMvadaH
 24074	priyakaH	kI	priyakI
 24074	priyakaH	kam	priyakam
@@ -5751,7 +5751,7 @@ Lnum	basehw	suffix	resolution
 24144	prezWa	zWA	prezWA
 24151	prEzyaH	zyA	prEzyA
 24151	prEzyaH	zyam	prEzyam
-24153	prokzaRam	RI, prokzaRiH	None
+24153	prokzaRam	RI, prokzaRiH	prokzaRI
 24173	prota	tam	protam
 24193	proTa	TaH	proTaH
 24193	proTa	Tam	proTam
@@ -5802,7 +5802,7 @@ Lnum	basehw	suffix	resolution
 24429	banDUkaH	kam	banDUkam
 24431	banDUra	ram	banDUram
 24440	baBru	BruH	baBruH
-24440	baBru	BrUH	None
+24440	baBru	BrUH	baBrUH
 24451	barbaraH	rA	barbarA
 24451	barbaraH	ram	barbaram
 24453	barburaH	raH	barburaH
@@ -5853,17 +5853,17 @@ Lnum	basehw	suffix	resolution
 24614	bAzpakaH	kA	bAzpakA
 24621	bAhIka	kAH	bAhIkAH
 24621	bAhIka	kaH	bAhIkaH
-24622	bAhuH	hU	None
+24622	bAhuH	hU	bAhU
 24623	bAhuka	kaH	bAhukaH
 24632	bAhula	laH	bAhulaH
 24632	bAhula	lam	bAhulam
 24632	bAhula	lI	bAhulI
 24638	bAhya	hyaH	bAhyaH
 24638	bAhya	hyam	bAhyam
-24638	bAhya	bAhyena	None
+24638	bAhya	bAhyena	bAhyena
 24638	bAhya	bAhye	bAhye
 24639	bAhlakAH	kaH	bAhlakAHkaH
-24639	bAhlakAH	kam	None
+24639	bAhlakAH	kam	bAhlakam
 24648	biqAlaH	lI	biqAlI
 24649	biqAlakaH	kam	biqAlakam
 24663	biBIzaRa	Ram	biBIzaRam
@@ -5969,14 +5969,14 @@ Lnum	basehw	suffix	resolution
 25026	BAgavata	tam	BAgavatam
 25027	BAgineyaH	yI	BAgineyI
 25030	BAgyam	gyam	BAgyam
-25039	BAjanam	leKitam	None
-25039	BAjanam	lokaH	None
+25039	BAjanam	leKitam	BAjanaleKitam
+25039	BAjanam	lokaH	BAjanalokaH
 25040	BAjita	tam	BAjitam
 25043	BAjya	jyam	BAjyam
 25049	BARqam	RqAH	BARRqAH
 25050	BARqakaH	kam	BARqakam
 25059	BAta	taH	BAtaH
-25062	BAdraH	dAH	None
+25062	BAdraH	dAH	BAdAH
 25067	BAnava	vI	BAnavI
 25070	BAnumat	tI	BAnumatI
 25072	BAmaH	mA	BAmA
@@ -6065,7 +6065,7 @@ Lnum	basehw	suffix	resolution
 25320	Bela	laH	BelaH
 25324	Bezaja	jam	Bezajam
 25326	BEkza	kzam	BEkzam
-25330	BEkzyam	ASramaH	None
+25330	BEkzyam	ASramaH	BEkzyASramaH
 25331	BEma	mI	BEmI
 25333	BErava	vaH	BEravaH
 25333	BErava	vI	BEravI
@@ -6087,7 +6087,7 @@ Lnum	basehw	suffix	resolution
 25366	BOtika	kam	BOtikam
 25368	BOma	maH	BOmaH
 25368	BOma	mam	BOmam
-25371	BOmika	BOmya	None
+25371	BOmika	BOmya	BOmya
 25381	BraMSana	nam	BraMSanam
 25394	BramaRam	RI	BramaRI
 25396	Bramara	rI	BramarI
@@ -6221,7 +6221,7 @@ Lnum	basehw	suffix	resolution
 25795	marAla	laH	marAlaH
 25798	maricaH	cam	maricam
 25799	marIciH	ciH	marIciH
-25812	marul	lokaH	None
+25812	marul	lokaH	marullokaH
 25813	marulaH	lam	marulam
 25815	marUvaka	kaH	marUvakaH
 25818	marka	rkaH	markaH
@@ -6431,7 +6431,7 @@ Lnum	basehw	suffix	resolution
 26628	meGaH	Gam	meGam
 26631	mecaka	kaH	mecakaH
 26631	mecaka	kam	mecakam
-26640	meQraH	dram	None
+26640	meQraH	dram	medram
 26648	medaH	dA	medA
 26661	meDAvin	nI	meDAvinI
 26664	meDya	DyaH	meDyaH
@@ -6849,7 +6849,7 @@ Lnum	basehw	suffix	resolution
 28242	vaktavya	vyam	vaktavyam
 28248	vakra	kraH	vakraH
 28248	vakra	kram	vakram
-28256	vakrIBU	vakrIBAvaH	None
+28256	vakrIBU	vakrIBAvaH	vakrIBAvaH
 28266	vaNkaH	NkA	vaNkA
 28277	vaNgaH	Ngam	vaNgam
 28283	vagnu	gnuH	vagnuH
@@ -6918,7 +6918,7 @@ Lnum	basehw	suffix	resolution
 28512	varAlaH	lA	varAlA
 28528	varizWa	zWaH	varizWaH
 28528	varizWa	zWam	varizWam
-28542	varUtf	trI	None
+28542	varUtf	trI	varUtrI
 28543	varUTam	TaH	varUTaH
 28545	varUTin	nI	varUTinI
 28546	vareRya	RyaH	vareRyaH
@@ -7010,7 +7010,7 @@ Lnum	basehw	suffix	resolution
 28859	vAcoyukti	ktiH	vAcoyuktiH
 28860	vAcya	cyam	vAcyam
 28862	vAjaH	jam	vAjam
-28864	vAjasaneyin	saMhitA	None
+28864	vAjasaneyin	saMhitA	vAjasaneyisaMhitA
 28866	vAjin	nI	vAjinI
 28874	vAYCita	tam	vAYCitam
 28875	vAYCin	nI	vAYCinI
@@ -7040,7 +7040,7 @@ Lnum	basehw	suffix	resolution
 28972	vAmaka	kam	vAmakam
 28975	vAmana	naH	vAmanaH
 28989	vAyava	vI	vAyavI
-28990	vAyavIya	vAyavyA	None
+28990	vAyavIya	vAyavyA	vAyavyA
 28991	vAyasaH	sam	vAyasam
 28995	vAraH	ram	vAram
 28996	vAraka	kaH	vArakaH
@@ -7071,7 +7071,7 @@ Lnum	basehw	suffix	resolution
 29053	vArzika	kI	vArzikI
 29060	vAlaKilyaH	lyam	vAlaKilyam
 29063	vAlukA	kA	vAlukA
-29063	vAlukA	kI	None
+29063	vAlukA	kI	vAlukI
 29065	vAlka	lkam	vAlkam
 29066	vAlkala	lam	vAlkalam
 29066	vAlkala	lI	vAlkalI
@@ -7176,7 +7176,7 @@ Lnum	basehw	suffix	resolution
 29568	vidagDa	gDA	vidagDA
 29571	vidaTaH	Tam	vidaTam
 29572	vidaraH	ram	vidaram
-29573	vidarBAH	rBaH	None
+29573	vidarBAH	rBaH	vidarBaH
 29575	vidala	laH	vidalaH
 29575	vidala	lam	vidalam
 29589	vidura	raH	viduraH
@@ -7252,7 +7252,7 @@ Lnum	basehw	suffix	resolution
 30114	virAja	jaH	virAjaH
 30133	virAvin	RI	virAviRI
 30134	viruta	tam	virutam
-30134	viruta	tiH	None
+30134	viruta	tiH	virutiH
 30143	virudDa	dDam	virudDam
 30154	virUpa	paH	virUpaH
 30154	virUpa	pA	virUpA
@@ -7276,7 +7276,7 @@ Lnum	basehw	suffix	resolution
 30255	vivakzita	tam	vivakzitam
 30266	vivaram	raH	vivaraH
 30267	vivarRa	rRaH	vivarRaH
-30272	vivAsaH	vivAsakAle	None
+30272	vivAsaH	vivAsakAle	vivAsakAle
 30274	vivasana	naH	vivasanaH
 30275	vivasvat	tI	vivasvatI
 30285	vivikta	ktam	viviktam
@@ -7304,7 +7304,7 @@ Lnum	basehw	suffix	resolution
 30351	viSezaRa	Ram	viSezaRam
 30354	viSezya	zyam	viSezyam
 30357	viSudDa	dDam	viSudDam
-30359	viSoDanam	nI, viSoDinI	None
+30359	viSoDanam	nI, viSoDinI	viSoDanI
 30360	viSoDya	Dyam	viSoDyam
 30366	viSoka	kaH	viSokaH
 30366	viSoka	kA	viSokA
@@ -7380,7 +7380,7 @@ Lnum	basehw	suffix	resolution
 30762	vfzalaH	lam	vfzalam
 30776	vegin	nI	veginI
 30790	veRukam	kaH	veRukaH
-30796	vetasaH	amlaH	None
+30796	vetasaH	amlaH	vetasAmlaH
 30818	vediH	diH	vediH
 30818	vediH	dI	vedI
 30821	veDakaH	kam	veDakam
@@ -7449,7 +7449,7 @@ Lnum	basehw	suffix	resolution
 31081	vESvAnara	raH	vESvAnaraH
 31081	vESvAnara	rI	vESvAnarI
 31087	vEzayika	kaH	vEzayikaH
-31088	vEzuvat	tam	None
+31088	vEzuvat	tam	vEzuvatam
 31091	vEzwraH	zwram	vEzwram
 31092	vEzRava	vaH	vEzRavaH
 31092	vEzRava	vI	vEzRavI
@@ -7540,7 +7540,7 @@ Lnum	basehw	suffix	resolution
 31748	SarSarIka	kaH	SarSarIkaH
 31750	SalaH	lam	Salam
 31754	Salalam	lI	SalalI
-31757	SalAwu	duH	None
+31757	SalAwu	duH	SalAduH
 31765	Salyam	lyaH	SalyaH
 31765	Salyam	lyA	SalyA
 31770	SallaH	llam	Sallam
@@ -7621,7 +7621,7 @@ Lnum	basehw	suffix	resolution
 31992	SASvata	tam	SASvatam
 32001	SAsana	nam	SAsanam
 32022	Sikzita	taH	SikzitaH
-32025	SiKaRqaH	KaRqikA	None
+32025	SiKaRqaH	KaRqikA	SiKaRqikA
 32032	SiKaraH	rA	SiKarA
 32042	SiNGARaH	Ram	SiNGARam
 32043	SiNGARakaH	kaH	SiNGARakaH
@@ -7708,7 +7708,7 @@ Lnum	basehw	suffix	resolution
 32354	Seza	zA	SezA
 32354	Seza	zam	Sezam
 32356	SEkya	kyaH	SEkyaH
-32356	SEkya	ayasam	None
+32356	SEkya	ayasam	SEkyAyasam
 32372	SEla	laH	SElaH
 32372	SEla	lam	SElam
 32379	SElUzaH	zI	SElUzI
@@ -7724,7 +7724,7 @@ Lnum	basehw	suffix	resolution
 32404	SoWa	WaH	SoWaH
 32406	SoRa	RaH	SoRaH
 32406	SoRa	Ram	SoRam
-32407	SoRita	Ram	None
+32407	SoRita	Ram	SoRam
 32411	SoDaka	kaH	SoDakaH
 32411	SoDaka	kam	SoDakam
 32412	SoDana	nam	SoDanam
@@ -7738,7 +7738,7 @@ Lnum	basehw	suffix	resolution
 32445	SOwIra	raH	SOwIraH
 32445	SOwIra	ram	SOwIram
 32450	SORqikaH	kI	SORqikI
-32450	SORqikaH	nI	None
+32450	SORqikaH	nI	SORqikanI
 32453	SORqira	ram	SORqiram
 32456	SOdra	draH	SOdraH
 32460	SOBaH	Bam	SOBam
@@ -7805,7 +7805,7 @@ Lnum	basehw	suffix	resolution
 32756	saMyamita	tam	saMyamitam
 32760	saMyAnaH	nam	saMyAnam
 32764	saMyukta	tam	saMyuktam
-32766	saMyuj	jA	None
+32766	saMyuj	jA	saMyujA
 32832	saMvalgita	tam	saMvalgitam
 32855	saMvidita	tam	saMviditam
 32877	saMvaraH	ram	saMvaram
@@ -7838,7 +7838,7 @@ Lnum	basehw	suffix	resolution
 33091	saganDa	nDaH	saganDaH
 33092	sagara	raH	sagaraH
 33095	sagotra	traH	sagotraH
-33095	sagotra	tam	None
+33095	sagotra	tam	sagotram
 33099	saMkawa	wam	saMkawam
 33108	saMkalita	tA	saMkalitA
 33108	saMkalita	tam	saMkalitam
@@ -7853,7 +7853,7 @@ Lnum	basehw	suffix	resolution
 33146	saMkrandanaH	nam	saMkrandanam
 33148	saMkramaH	maH	saMkramaH
 33148	saMkramaH	mam	saMkramam
-33149	saMkramaRam	kA	None
+33149	saMkramaRam	kA	saMkramaRikA
 33150	saMkrAnta	tam	saMkrAntam
 33174	saMKyAta	tam	saMKyAtam
 33174	saMKyAta	tA	saMKyAtA
@@ -7889,7 +7889,7 @@ Lnum	basehw	suffix	resolution
 33400	sadaya	yam	sadayam
 33405	sadAtana	naH	sadAtanaH
 33427	sanaH	nam	sanam
-33435	sanAtana	taH	None
+33435	sanAtana	taH	sanAtanataH
 33435	sanAtana	nI	sanAtanI
 33436	sanATa	TA	sanATA
 33439	sanABi	BiH	sanABiH
@@ -7954,8 +7954,8 @@ Lnum	basehw	suffix	resolution
 33976	samIhita	tam	samIhitam
 33994	samujJita	tam	samujJitam
 34014	samutpiYja	jaH	samutpiYjaH
-34014	samutpiYja	laH	None
-34014	samutpiYja	lakaH	None
+34014	samutpiYja	laH	samutpiYjalaH
+34014	samutpiYja	lakaH	samutpiYjalakaH
 34024	samudayaH	yam	samudayam
 34037	samudga	dgaH	samudgaH
 34054	samudra	draH	samudraH
@@ -7969,7 +7969,7 @@ Lnum	basehw	suffix	resolution
 34237	saMbanDa	nDaH	saMbanDaH
 34238	saMbanDaka	kaH	saMbanDakaH
 34238	saMbanDaka	kam	saMbanDakam
-34239	saMbanDin	SabdaH	None
+34239	saMbanDin	SabdaH	saMbanDiSabdaH
 34240	saMbaraH	ram	saMbaram
 34241	saMbalaH	lam	saMbalam
 34243	saMbADa	DaH	saMbADaH
@@ -8000,14 +8000,14 @@ Lnum	basehw	suffix	resolution
 34369	saraTa	TaH	saraTaH
 34371	saraBasa	sam	saraBasam
 34373	sarayuH	yuH	sarayuH
-34373	sarayuH	yUH	None
+34373	sarayuH	yUH	sarayUH
 34374	sarala	laH	saralaH
 34378	sarasa	sam	sarasam
 34386	sarAva	vaH	sarAvaH
 34395	saru	ruH	saruH
 34403	sarjakaH	kam	sarjakam
 34404	sarjanam	nI	sarjanI
-34419	sarmaH	sarman	None
+34419	sarmaH	sarman	sarman
 34421	sarva	rvaH	sarvaH
 34421	sarva	rvam	sarvam
 34422	sarvaka	ke	sarvake
@@ -8017,7 +8017,7 @@ Lnum	basehw	suffix	resolution
 34448	savaH	vam	savam
 34453	savarRa	rRaH	savarRaH
 34460	savitarka	rkam	savitarkam
-34460	savitarka	rSam	None
+34460	savitarka	rSam	savitarkarSam
 34466	saviDa	Dam	saviDam
 34466	saviDa	Dam	saviDam
 34467	savinaya	yam	savinayam
@@ -8053,8 +8053,8 @@ Lnum	basehw	suffix	resolution
 34558	sAMyAtrikaH	kam	sAMyAtrikam
 34559	sAMyugIna	naH	sAMyugInaH
 34561	sAMvatsara	raH	sAMvatsaraH
-34561	sAMvatsara	rakaH	None
-34561	sAMvatsara	rikaH	None
+34561	sAMvatsara	rakaH	sAMvatasrakaH
+34561	sAMvatsara	rikaH	sAmvatsarikaH
 34562	sAMvartaka	kaH	sAMvartakaH
 34563	sAMvAdika	kaH	sAMvAdikaH
 34568	sAMSayika	kam	sAMSayikam
@@ -8097,9 +8097,9 @@ Lnum	basehw	suffix	resolution
 34734	sApatya	tyaH	sApatyaH
 34737	sApavAda	dam	sApavAdam
 34743	sAptapada	dam	sAptapadam
-34743	sAptapada	dInam	None
+34743	sAptapada	dInam	sAptapadInam
 34755	sAmakam	kaH	sAmakaH
-34759	sAman	sAmnA	None
+34759	sAman	sAmnA	sAmnA
 34765	sAmanta	taH	sAmantaH
 34765	sAmanta	tam	sAmantam
 34767	sAmayika	kaH	sAmayikaH
@@ -8135,7 +8135,7 @@ Lnum	basehw	suffix	resolution
 34844	sArasa	saH	sArasaH
 34844	sArasa	sam	sArasam
 34844	sArasa	sI	sArasI
-34845	sArasa	sArasyam	None
+34845	sArasa	sArasyam	sArasyam
 34849	sArasvata	taH	sArasvataH
 34849	sArasvata	tAH	sArasvatAH
 34849	sArasvata	tam	sArasvatam
@@ -8166,8 +8166,8 @@ Lnum	basehw	suffix	resolution
 34965	sAhasra	sraH	sAhasraH
 34965	sAhasra	sram	sAhasram
 34978	siMhalam	lAH	siMhalAH
-34978	siMhalam	dvIpaH	None
-34978	siMhalam	sTA	None
+34978	siMhalam	dvIpaH	siMhaladvIpaH
+34978	siMhalam	sTA	siMhalasTA
 34985	sikatAmaya	yam	sikatAmayam
 34987	sikTaH	kTam	sikTam
 35004	sita	taH	sitaH
@@ -8205,7 +8205,7 @@ Lnum	basehw	suffix	resolution
 35156	suzima	maH	suzimaH
 35157	suzira	ram	suziram
 35160	suzumRaH	mRA	suzumRA
-35160	suzumRaH	mnA	None
+35160	suzumRaH	mnA	suzumnA
 35171	sUkaraH	rI	sUkarI
 35172	sUkzma	kzmaH	sUkzmaH
 35172	sUkzma	kzmA	sUkzmA
@@ -8250,14 +8250,14 @@ Lnum	basehw	suffix	resolution
 35349	sEnDavaka	kaH	sEnDavakaH
 35351	sEnyaH	nyam	sEnyam
 35356	sErika	kaH	sErikaH
-35365	sotka	RWam	None
+35365	sotka	RWam	sotkaRWam
 35368	sotprAsa	saH	sotprAsaH
 35368	sotprAsa	saH	sotprAsaH
 35368	sotprAsa	sam	sotprAsam
 35368	sotprAsa	sam	sotprAsam
 35372	sotsAha	ham	sotsAham
 35377	sodara	raH	sodaraH
-35377	sodara	rIyaH	None
+35377	sodara	rIyaH	sodarIyaH
 35377	sodara	rA	sodarA
 35380	sodvega	gam	sodvegam
 35395	soparoDa	Dam	soparoDam
@@ -8265,7 +8265,7 @@ Lnum	basehw	suffix	resolution
 35404	somaH	mA	somA
 35404	somaH	mam	somam
 35414	solluRWaH	RWam	solluRWam
-35414	solluRWaH	nam	None
+35414	solluRWaH	nam	solluRWanam
 35432	sOgatikaH	kam	sOgatikam
 35433	sOganDa	nDam	sOganDam
 35433	sOganDa	nDaH	sOganDaH
@@ -8280,7 +8280,7 @@ Lnum	basehw	suffix	resolution
 35475	sOBAgyavat	tI	sOBAgyavatI
 35483	sOmanasa	sam	sOmanasam
 35495	sOmerava	ravam	sOmeravam
-35495	sOmerava	rukam	None
+35495	sOmerava	rukam	sOmerukam
 35496	sOmya	myaH	sOmyaH
 35496	sOmya	myam	sOmyam
 35496	sOmya	myA	sOmyA
@@ -8292,7 +8292,7 @@ Lnum	basehw	suffix	resolution
 35501	sOraBa	Bam	sOraBam
 35502	sOraBeya	yaH	sOraBeyaH
 35506	sOrasaH	sA	sOrasA
-35507	sOrasenAH	nI	None
+35507	sOrasenAH	nI	sOrasenI
 35509	sOrasEnDava	vaH	sOrasEnDavaH
 35513	sOrAzwra	zwraH	sOrAzwraH
 35513	sOrAzwra	zwram	sOrAzwram
@@ -8512,7 +8512,7 @@ Lnum	basehw	suffix	resolution
 36601	hEhaya	yaH	hEhayaH
 36614	hotrIya	yaH	hotrIyaH
 36614	hotrIya	yam	hotrIyam
-36620	homIya	myam	None
+36620	homIya	myam	homyam
 36652	hrasva	svaH	hrasvaH
 36652	hrasva	svam	hrasvam
 36667	hrIkA	kaH	hrIkaH
