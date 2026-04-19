@@ -21,7 +21,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 73	akAya	yaH	akAyaH	True
 74	akAra	raH	akAraH	True
 75	akAraRa	Ram	akAraRam	True
-75	akAraRa	akAraRAd	akArarAd	False
+75	akAraRa	akAraRAd	akAraRAd	False
 75	akAraRa	raRam	akAraRam	True
 75	akAraRa	Re	akAraRe	True
 78	akArya	ryam	akAryam	True
@@ -284,7 +284,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 899	aTarvANgirasa	sam	aTarvANgirasam	True
 899	aTarvANgirasa	sAH	aTarvANgirasAH	True
 900	aTarvARam	RaH	aTarvARaH	True
-900	aTarvARam	˚vid	aTarvARaMvid	False
+900	aTarvARam	˚vid	aTarvARavid	True
 907	adaMzwra	zwraH	adaMzwraH	True
 914	adatta	ttA	adattA	True
 914	adatta	ttam	adattam	True
@@ -509,7 +509,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 1780	anuttara	rAH	anuttarAH	True
 1780	anuttara	upapAtikadaSAH	anuttaropapAtikadaSAH	True
 1780	anuttara	rA	anuttarA	True
-1784	anutpattiH	ttika	anutoattuja	False
+1784	anutpattiH	ttika	anutpattika	True
 1787	anutsAha	haH	anutsAhaH	True
 1798	anudAtta	ttaH	anudAttaH	True
 1803	anudiS	anudiSam	anudiSam	True
@@ -524,7 +524,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 1845	anunaya	yam	anunayam	True
 1849	anunAyika	kA	anunAyikA	True
 1856	anupagIta	tam	anupagItam	True
-1863	anupatanam	tam	anupatatam	False
+1863	anupatanam	tam	anupAtam	True
 1865	anupaTa	TaH	anupaTaH	True
 1865	anupaTa	Tam	anupaTam	True
 1868	anupada	daH	anupadaH	True
@@ -1030,7 +1030,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 4505	aroga	gaH	arogaH	True
 4509	arocaka	kaH	arocakaH	True
 4516	arka	rkaH	arkaH	True
-4526	arGaH	tantram	aGatantram	False
+4526	arGaH	tantram	arGatantram	False
 4528	arGya	rGyam	arGyam	True
 4532	arcaka	kaH	arcakaH	True
 4535	arcana	nam	arcanam	True
@@ -1409,7 +1409,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 6026	asanam	naH	asanaH	True
 6026	asanam	nA	asanA	True
 6028	asantati	tiH	asantatiH	True
-6028	asantati	naH	asantatinaH	False
+6028	asantati	naH	asantAnaH	True
 6031	asaMdigDa	gDam	asaMdigDam	True
 6035	asaMDi	DiH	asaMDiH	True
 6042	asapatna	tnam	asapatnam	True
@@ -1464,7 +1464,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 6184	asUryaMpaSya	SyA	asUryaMpaSyA	True
 6191	asevana	nam	asevanam	True
 6197	asOzWava	vam	asOzWavam	True
-6217	asTan	vat	aSTivat	False
+6217	asTan	vat	aSTavat	False
 6220	asTAna	nam	asTAnam	True
 6228	asTiti	tiH	asTitiH	True
 6230	asTErya	ryam	asTEryam	True
@@ -1610,7 +1610,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 6797	Atreya	yI	AtreyI	True
 6799	ATarvaRa	RaH	ATarvaRaH	True
 6799	ATarvaRa	Ram	ATarvaRam	True
-6799	ATarvaRa	Siras	ATarvaRASiras	False
+6799	ATarvaRa	Siras	ATarvaRaSiras	True
 6800	ATarvaRika	kaH	ATarvaRikaH	True
 6812	AdAnam	nI	AdAnI	True
 6821	Adi	diH	AdiH	True
@@ -1643,7 +1643,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 6968	Anila	AniliH	AniliH	True
 6973	AnAyya	yyaH	AnAyyaH	True
 6979	AnIla	laH	AnIlaH	True
-6992	AnupUrvam	vat	AnpUrvavat	False
+6992	AnupUrvam	vat	AnupUrvyavat	False
 6994	AnumAnika	kam	AnumAnikam	True
 7001	Anulomya	myam	Anulomyam	True
 7008	AnuSravika	kaH	AnuSravikaH	True
@@ -1655,7 +1655,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 7026	AntaHpurika	kam	AntaHpurikam	True
 7027	Antara	ram	Antaram	True
 7028	Antaratamyam	kaH	AntaratamyakaH	False
-7028	Antaratamyam	kam	Antaratamyakam	False
+7028	Antaratamyam	kam	AntarAgArikam	True
 7030	Antarikza	kzam	Antarikzam	True
 7035	Antra	tram	Antram	True
 7043	AnDra	DraH	AnDraH	True
@@ -1876,7 +1876,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 7812	ASu	SuH	ASuH	True
 7812	ASu	Su	ASu	True
 7816	ASuSukzaRi	RiH	ASuSukzaRiH	True
-7821	ASOcam	nirRayaH	ASocanirRayaH	False
+7821	ASOcam	nirRayaH	ASOcanirRayaH	True
 7823	AScarya	ryam	AScaryam	True
 7825	AScotana	nam	AScotanam	True
 7826	ASma	SmaH	ASmaH	True
@@ -1913,7 +1913,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 7884	Asanam	nI	AsanI	True
 7885	Asita	tam	Asitam	True
 7889	AsaMsAra	ram	AsaMsAram	True
-7889	AsaMsAra	ti	AsaMsArati	False
+7889	AsaMsAra	ti	AsaMsfti	True
 7894	Asakta	ktam	Asaktam	True
 7895	AsaktiH	kti	Asakti	True
 7896	AsaNga	gaH	AsaNgaH	True
@@ -1960,7 +1960,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 8049	Ahna	AhnInEbukam	AhnInEbukam	True
 8050	Ahnika	kam	Ahnikam	True
 8050	Ahnika	candrikA	AhnikacandrikA	True
-8050	Ahnika	dIpikA	AhnikadIptikA	False
+8050	Ahnika	dIpikA	AhnikadIpikA	False
 8050	Ahnika	pradIpa	AhnikapradIpa	True
 8050	Ahnika	maYjarI	AhnikamaYjarI	True
 8052	AhlAdana	nam	AhlAdanam	True
@@ -2131,7 +2131,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 8773	utpIqa	qaH	utpIqaH	True
 8779	utpulaka	kam	utpulakam	True
 8785	utpraBa	BaH	utpraBaH	True
-8792	utprekzA	avayavaH	utprekzAvyayaH	False
+8792	utprekzA	avayavaH	utprekzAvayayaH	False
 8795	utplavaH	vA	utplavA	True
 8801	utPulla	llam	utPullam	True
 8807	utsaNgaH	gam	utsaNgam	True
@@ -2156,7 +2156,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 8944	udAraTi	TiH	udAraTiH	True
 8946	udAvartaH	rtA	udAvartA	True
 8949	udAsa	saH	udAsaH	True
-8949	udAsa	sin	udAsibn	False
+8949	udAsa	sin	udAsin	True
 8951	udAsIna	naH	udAsInaH	True
 8952	udAsTita	taH	udAsTitaH	True
 8960	udaya	yaH	udayaH	True
@@ -2464,7 +2464,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 10632	eka	kaH	ekaH	True
 10632	eka	kA	ekA	True
 10634	ekaka	Satam	ekakaSatam	True
-10637	ekatas	dat	ekatadat	False
+10637	ekatas	dat	ekatodat	True
 10646	ekAdaSa	SI	ekAdaSI	True
 10646	ekAdaSa	Sam	ekAdaSam	True
 10666	eqa	qaH	eqaH	True
@@ -3002,7 +3002,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 12260	kirmIra	raH	kirmIraH	True
 12266	kilakilaH	laH	kilakilaH	True
 12272	kilAsa	sam	kilAsam	True
-12272	kilAsa	sin	kIlAsin	False
+12272	kilAsa	sin	kilAsin	True
 12277	kilbizam	zaH	kilbizaH	True
 12280	kiSoraH	rI	kiSorI	True
 12281	kizkinDaH	nDA	kizkinDA	True
@@ -3206,7 +3206,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 12938	kESika	kaH	kESikaH	True
 12938	kESika	kam	kESikam	True
 12938	kESika	kI	kESikI	True
-12945	kokanadam	dinI	kokamadinI	False
+12945	kokanadam	dinI	kokanadinI	True
 12950	koNkaH	Ram	koNkaRam	True
 12953	koca	caH	kocaH	True
 12956	kowaka	kaH	kowakaH	True
@@ -3943,7 +3943,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 15552	jApaka	kam	jApakam	True
 15553	jApya	pyam	jApyam	True
 15562	jAmi	miH	jAmiH	True
-15567	jAmbIram	lam	jambIlam	False
+15567	jAmbIram	lam	jAmbIlam	True
 15576	jAyu	yuH	jAyuH	True
 15577	jAraH	rI	jArI	True
 15581	jAlam	laH	jAlaH	True
@@ -4006,7 +4006,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 15815	jyotizmat	tI	jyotizmatI	True
 15818	jyOtsna	tsnaH	jyOtsnaH	True
 15818	jyOtsna	tsnI	jyOtsnI	True
-15818	jyOtsna	tsnikA	tyOtsnikA	False
+15818	jyOtsna	tsnikA	jyOtsnikA	True
 15823	jvara	raH	jvaraH	True
 15823	jvara	rA	jvarA	False
 15826	jvala	laH	jvalaH	True
@@ -4155,7 +4155,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 16426	tiktaka	kaH	tiktakaH	True
 16428	tigma	gmam	tigmam	True
 16433	tejanam	nI	tejanI	True
-16447	tintiqaH	kam	tintiqakam	False
+16447	tintiqaH	kam	tintiqIkam	True
 16450	tindukam	kam	tindukam	True
 16457	timira	raH	timiraH	True
 16457	timira	ram	timiram	True
@@ -4191,7 +4191,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 16551	tutTaH	tTA	tutTA	True
 16560	tundam	ndaH	tundaH	True
 16560	tundam	ndI	tundI	True
-16563	tundika	kzundilaH	tundikakzundilaH	False
+16563	tundika	kzundilaH	tundilaH	True
 16570	tumula	laH	tumulaH	True
 16570	tumula	lam	tumulam	True
 16572	tumbaH	tumbA	tumbA	True
@@ -4791,7 +4791,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 18830	nipuRa	Ram	nipuRam	True
 18830	nipuRa	Ram	nipuRam	True
 18837	nibanDaH	Dam	nibanDam	True
-18841	nibarhaRa	nam	nibarhanam	False
+18841	nibarhaRa	nam	nibarhaRam	True
 18848	niBa	BaH	niBaH	True
 18848	niBa	Bam	niBam	True
 18853	niBfta	tA	niBftA	True
@@ -5728,7 +5728,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 24071	priya	yA	priyA	True
 24071	priya	yam	priyam	True
 24071	priya	yam	priyam	True
-24071	priya	priyeRa	priyeTa	False
+24071	priya	priyeRa	priyeRa	True
 24073	priyaMvada	daH	priyaMvadaH	True
 24074	priyakaH	kI	priyakI	True
 24074	priyakaH	kam	priyakam	True
@@ -5976,7 +5976,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 25049	BARqam	RqAH	BARRqAH	False
 25050	BARqakaH	kam	BARqakam	True
 25059	BAta	taH	BAtaH	True
-25062	BAdraH	dAH	BAdAH	False
+25062	BAdraH	dAH	BAdrAH	False
 25067	BAnava	vI	BAnavI	True
 25070	BAnumat	tI	BAnumatI	True
 25072	BAmaH	mA	BAmA	True
@@ -7540,7 +7540,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 31748	SarSarIka	kaH	SarSarIkaH	True
 31750	SalaH	lam	Salam	True
 31754	Salalam	lI	SalalI	True
-31757	SalAwu	duH	SalAduH	False
+31757	SalAwu	duH	SalAquH	False
 31765	Salyam	lyaH	SalyaH	True
 31765	Salyam	lyA	SalyA	True
 31770	SallaH	llam	Sallam	True
@@ -7738,7 +7738,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 32445	SOwIra	raH	SOwIraH	True
 32445	SOwIra	ram	SOwIram	True
 32450	SORqikaH	kI	SORqikI	True
-32450	SORqikaH	nI	SORqikanI	False
+32450	SORqikaH	nI	SORqinI	True
 32453	SORqira	ram	SORqiram	True
 32456	SOdra	draH	SOdraH	True
 32460	SOBaH	Bam	SOBam	True
@@ -7889,7 +7889,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 33400	sadaya	yam	sadayam	True
 33405	sadAtana	naH	sadAtanaH	True
 33427	sanaH	nam	sanam	True
-33435	sanAtana	taH	sanAtanataH	False
+33435	sanAtana	taH	sanAtanaH	True
 33435	sanAtana	nI	sanAtanI	True
 33436	sanATa	TA	sanATA	True
 33439	sanABi	BiH	sanABiH	True
@@ -8017,7 +8017,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 34448	savaH	vam	savam	True
 34453	savarRa	rRaH	savarRaH	True
 34460	savitarka	rkam	savitarkam	True
-34460	savitarka	rSam	savitarkarSam	False
+34460	savitarka	rSam	savimarSam	True
 34466	saviDa	Dam	saviDam	True
 34466	saviDa	Dam	saviDam	True
 34467	savinaya	yam	savinayam	True
@@ -8053,8 +8053,8 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 34558	sAMyAtrikaH	kam	sAMyAtrikam	True
 34559	sAMyugIna	naH	sAMyugInaH	True
 34561	sAMvatsara	raH	sAMvatsaraH	True
-34561	sAMvatsara	rakaH	sAMvatasrakaH	False
-34561	sAMvatsara	rikaH	sAmvatsarikaH	False
+34561	sAMvatsara	rakaH	sAMvatsrakaH	False
+34561	sAMvatsara	rikaH	sAMvatsarikaH	True
 34562	sAMvartaka	kaH	sAMvartakaH	True
 34563	sAMvAdika	kaH	sAMvAdikaH	True
 34568	sAMSayika	kam	sAMSayikam	True
