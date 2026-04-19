@@ -85,7 +85,10 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
             m = re.search(r'^[.]{@{#\-([^#]+)#}@}', line)
             if m:
                 suffix_str = m.group(1)
+                suffix_str = suffix_str.replace('- ', '-') if '- ' in suffix_str else suffix_str
+                suffix_str = re.sub(r'([a-zA-Z])-([a-zA-Z])', r'\1 -\2', suffix_str)
                 suffixes = [s.strip() for s in suffix_str.split(', -')]
+                suffixes = [s for s in suffixes if s]
                 
                 def_start = i + 1
                 def_end = def_start

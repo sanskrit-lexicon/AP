@@ -45,3 +45,7 @@ Check whether resolution column of log2.tsv exists in sanhw1.txt (a list of vali
 `python3 step3.py`
 This reads log2.tsv and produces log3.tsv as output with an additional column 'in_sanhw1' which is True or False.
 Additionally, if the resolution ends with 'H' or 'm', it strips that character and checks again in sanhw1.txt for a match.
+
+## manually_mapped.tsv
+
+A total of 383 mappings were manually added to resolve cases where automatic resolution failed. This file was found by cases where log2.tsv was showing 'None' in the resolution column. Then the resolution was manually provided. This file is now also made into a fallback mechanism to step2.py. Thus, step2.py now generates resolution for all entries.
