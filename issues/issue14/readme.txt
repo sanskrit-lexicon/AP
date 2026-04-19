@@ -200,12 +200,13 @@ cp tempwork/ap_0.txt tempwork/ap_1.txt
 See readme_tooltips_3.txt for notes on changes
 
 * lsextract_all_3.txt for ap using tooltips_3.txt and ap_1
+# write_tips Output in  lsextract_all_3.txt  sorted reverse order by counts.
 python lsextract_all.py ap tempwork/ap_1.txt tooltips_3.txt lsextract_all_3.txt tempwork/lsunknowns_3.txt
 
 270 tooltips from tooltips_3.txt
 1478 unknown ls written to tempwork/lsunknowns_3.txt
 
-# write_tips Output in  lsextract_all_3.txt  sorted reverse order by counts.
+# write_tips Output in  lsextract_all_3.txt sorted by tooltip
 python lextract_all_sort_iast.py lsextract_all_3.txt lsextract_all_3_sort_iast.txt
 * install tooltips_3.txt and ap_1.txt
 ** DONE local install
@@ -304,6 +305,22 @@ git pull
 # Already up to date
 git add .
 git commit -m "Revise ls abbrev-tooltips by comparison with Andhrabharati version. #14"
+git push
+
+* lsextract_all_5.txt for ap using tooltips_5.txt and current ap.txt
+# write_tips Output in  lsextract_all_5.txt  sorted reverse order by counts.
+cp /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt tempwork/ap_2.txt
+python lsextract_all.py ap tempwork/ap_2.txt tooltips_5.txt lsextract_all_5.txt lsunknowns_5.txt
+
+270 tooltips from tooltips_5.txt
+1360 unknown ls written to lsunknowns_5.txt
+
+# write_tips Output in  lsextract_all_5.txt sorted by tooltip
+python lextract_all_sort_iast.py lsextract_all_5.txt lsextract_all_5_sort_iast.txt
+* push this repo
+git pull
+git add .
+git commit -m "lsextract files using tooltips_5 #14"
 git push
 
 * THE END
