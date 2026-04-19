@@ -25,6 +25,9 @@ def main():
     with open(INPUT_PATH, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
+    found_in_sanhw1 = 0
+    not_found_in_sanhw1 = 0
+
     with open(OUTPUT_PATH, "w", encoding="utf-8") as out:
         header = lines[0].strip() + "\tin_sanhw1\n"
         out.write(header)
@@ -44,8 +47,16 @@ def main():
                         in_sanhw1 = resolution[:-1] in sanhw1_words
                     elif resolution.endswith("m"):
                         in_sanhw1 = resolution[:-1] in sanhw1_words
+            if in_sanhw1:
+                found_in_sanhw1 += 1
+            else:
+                not_found_in_sanhw1 += 1
             out.write(line + f"\t{in_sanhw1}\n")
 
+    total = found_in_sanhw1 + not_found_in_sanhw1
+    print(f"Found in sanhw1: {found_in_sanhw1}")
+    print(f"Not found in sanhw1: {not_found_in_sanhw1}")
+    print(f"Total: {total}")
     print(f"Written to {OUTPUT_PATH}")
 
 
