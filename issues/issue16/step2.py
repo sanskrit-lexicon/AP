@@ -82,13 +82,16 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
     while i < len(lines):
         line = lines[i]
         if line.startswith('.{@{#'):
-            m = re.search(r'^[.]{@{#\-([^#]+)#}@}', line)
+            m = re.search(r'^[.]{@{#\-([^#]+)#}@}(.*)$', line)
             if m:
                 suffix_str = m.group(1)
                 suffix_str = suffix_str.replace('- ', '-') if '- ' in suffix_str else suffix_str
                 suffix_str = re.sub(r'([a-zA-Z])-([a-zA-Z])', r'\1 -\2', suffix_str)
                 suffixes = [s.strip() for s in suffix_str.split(', -')]
                 suffixes = [s for s in suffixes if s]
+                
+                # Check for inline definition (text after @})
+                inline_def = m.group(2).strip() if m.group(2) else ''
                 
                 def_start = i + 1
                 def_end = def_start
@@ -149,6 +152,7 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
                     entry['suffix'] = suffix
                     entry['def_lines'] = def_lines
                     entry['orig_line'] = line
+                    entry['inline_def'] = inline_def
                     new_entries.append(entry)
                     
                     i = def_end
@@ -159,33 +163,42 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
             output_lines.append(line)
             i += 1
     
-    for entry in new_entries:
-        fout.write('<LEND>\n\n')
-        
-        if entry['suggestion']:
-            metaline1 = entry['metaline'].replace('<k1>' + basehw, '<k1>' + entry['suggestion'])
-            metaline1 = metaline1.replace('<k2>' + basehw, '<k2>' + entry['suggestion'])
-            metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
-        else:
-            metaline1 = entry['metaline'].replace('<k2>', '.ABC<k2>')
-            metaline1 = metaline1.replace('<e>', '.ABC<e>')
-            metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
-        
-        fout.write(metaline1 + '\n')
-        
-        if 'orig_line' in entry:
-            hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦'
-            fout.write(hw_rep + '\n')
-            for dl in entry['def_lines']:
-                fout.write(dl + '\n')
-        else:
-            hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦'
-            fout.write(hw_rep + '\n')
-            if entry.get('has_lbody'):
-                fout.write('{{Lbody=' + lid + '.XYZ}}\n')
-    
+    # Write parent entry first
     for ol in output_lines:
         fout.write(ol + '\n')
+    
+    # Then write derived entries (no <LEND>, they end when next <L> arrives)
+    if new_entries:
+        fout.write('\n')
+        
+        for eidx, entry in enumerate(new_entries):
+            if eidx > 0:
+                fout.write('\n')
+            
+            if entry['suggestion']:
+                metaline1 = entry['metaline'].replace('<k1>' + basehw, '<k1>' + entry['suggestion'])
+                metaline1 = metaline1.replace('<k2>' + basehw, '<k2>' + entry['suggestion'])
+                metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
+            else:
+                metaline1 = entry['metaline'].replace('<k2>', '.ABC<k2>')
+                metaline1 = metaline1.replace('<e>', '.ABC<e>')
+                metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
+            
+            fout.write(metaline1 + '\n')
+            
+            if 'orig_line' in entry:
+                if entry.get('inline_def'):
+                    hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦ ' + entry['inline_def']
+                else:
+                    hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦'
+                fout.write(hw_rep + '\n')
+                for dl in entry['def_lines']:
+                    fout.write(dl + '\n')
+            else:
+                hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦'
+                fout.write(hw_rep + '\n')
+                if entry.get('has_lbody'):
+                    fout.write('{{Lbody=' + lid + '.XYZ}}\n')
     
     return correct, wrong
 
