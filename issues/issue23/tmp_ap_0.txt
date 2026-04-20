@@ -3379,7 +3379,7 @@
 
 <L>243.038<pc>0015-1<k1>agnyADeyaH<k2>agnyADeyaH<e>2
 {#agniH#} + {#-ADeyaH#}¦ [{#agnirADeyo yena#}] a Brāhmana who maintains the sacred fire.
-.({@{#-yama#}@}) = {#˚ADAnam#}. {@{#-AhitaH#}@} [{#agnirAhito yena, vA#}
+.({@{#-yam#}@}) = {#˚ADAnam#}. {@{#-AhitaH#}@} [{#agnirAhito yena, vA#}
  {#paranipAtaH#} <ls>P. II. 2. 37</ls>.] one who maintains the sacred fire; see {#AhitAgni#}.
 <LEND>
 
@@ -3582,7 +3582,7 @@
 .({@{#-jaH, -jAtaH#}@})
 ∙²1 <ab>N.</ab> of the plant {#agnijAra#} ({#agnaye agnyuddIpanAya jAyate sevanAt praBavati#}).
 ∙²2 <ab>N.</ab> of Kārttikeya {#parABinatkrOYcamivAdrimagnijaH#} <ls>Mb. 8. 90. 68</ls>. ∙²3 Viṣṇu.
-.({@{#-jam, -jAtama#}@}) gold; so {#˚janman#}.
+.({@{#-jam, -jAtam#}@}) gold; so {#˚janman#}.
 <LEND>
 
 <L>243.110<pc>0015-2<k1>agnijAta<k2>agnijAta<e>2
@@ -5012,7 +5012,7 @@
 
 <L>268.006<pc>0021-1<k1>aGA<k2>aGA<e>1
 {#aGa#} + .{@{#-GA#}@}¦ The Goddess of sin; (<ab>pl.</ab>) the constellation usually called Maghā.
-.━{@<ab>Comp.</ab>@}: {#aGAsuraH, aGAhaH, aGAyus, aGakft, aGaGnaH, aGanASA, aGanASAna, aGaBojin, aGamarzaRa, aGamAra, aGarud, aGavizaH, aGaSaMsaH, aGaSaMsin, aGahAraH#}
+.━{@<ab>Comp.</ab>@}: {#aGAsuraH, aGAhaH, aGAyus, aGakft, aGaGnaH, aGanASa, aGanASana, aGaBojin, aGamarzaRa, aGamAra, aGarud, aGavizaH, aGaSaMsaH, aGaSaMsin, aGahAraH#}
 <LEND>
 <L>268.020<pc>0021-1<k1>aGAsuraH<k2>aGAsuraH<e>2
 {#aGa#} + {#-asuraH#}¦ See {#aGa#} above.
@@ -5034,13 +5034,13 @@
 {#aGa#} + {#-GnaH#}¦ = {#˚nASana#}.
 <LEND>
 
-<L>268.030<pc>0021-1<k1>aGanASA<k2>aGanASA<e>2
-{#aGa#} + {#-nASA, -nASAna#}¦ {%<lex>a.</lex>%} [{#aGaM nASayati#}] expiatory, destroying
+<L>268.030<pc>0021-1<k1>aGanASa<k2>aGanASa<e>2
+{#aGa#} + {#-nASa, -nASana#}¦ {%<lex>a.</lex>%} [{#aGaM nASayati#}] expiatory, destroying
  sin (such as gifts, muttering holy prayers <ab>&c.</ab>).
 .({@{#-naH#}@}) destroyer of the demon {#aGa#}; <ab>N.</ab> of Kṛṣṇa.
 <LEND>
 
-<L>268.032<pc>0021-1<k1>aGanASAna<k2>aGanASAna<e>2
+<L>268.032<pc>0021-1<k1>aGanASana<k2>aGanASana<e>2
 {{Lbody=268.030}}
 <LEND>
 
@@ -5240,7 +5240,7 @@
 ∙²14 The body.
 ∙²15 A mountain. {#aNkaH sTAnAntikakroqaBUzaRotsaMgalakzmasu . manto nAwakavicCede#}
  {#citrayudDe ca rUpake ..#} <ls>Nm.</ls> [<ab>cf.</ab> <lang>L.</lang> {%uncus%}; <lang>Gr.</lang> {%ogkos%}]
-.━{@<ab>Comp.</ab>@}: {#aNkANkam, aNkAvatAraH, aNkAgata, aNkagata, aNkakaraRam, aNkatantram, aNkaDAraRam, aNkaDaraRA, aNkaparivartaH, aNkapAdavratam, aNkapAliH, aNkapAlI, aNkapASaH, aNkapUraRam, aNkaBAj, aNkamuKam, aNkaloqyaH, aNkalopaH, aNkaviDyA#}
+.━{@<ab>Comp.</ab>@}: {#aNkANkam, aNkAvatAraH, aNkAgata, aNkagata, aNkakaraRam, aNkatantram, aNkaDAraRam, aNkaDaraRA, aNkaparivartaH, aNkapAdavratam, aNkapAliH, aNkapAlI, aNkapASaH, aNkapUraRam, aNkabanDaH, aNkaBAj, aNkamuKam, aNkaloqyaH, aNkalopaH, aNkaviDyA#}
 <LEND>
 <L>281.020<pc>0022-1<k1>aNkANkam<k2>aNkANkam<e>2
 {#aNkaH#} + {#-aNkam#}¦ [{#aNke maDye aNkAH SatapatrAdicihnAni yasya#} <ls>Tv.</ls>] water.
@@ -5324,7 +5324,10 @@
 
 <L>281.046<pc>0022-2<k1>aNkapUraRam<k2>aNkapUraRam<e>2
 {#aNkaH#} + {#-pUraRam#}¦ multiplication of numbers of figures.
-.({@{#-banDaH#}@}) forming the lap, bending the thighs into a curve and
+<LEND>
+
+<L>281.047<pc>0022-2<k1>aNkabanDaH<k2>aNkabanDaH<e>2
+{#aNkaH#} + {#-banDaH#}¦ forming the lap, bending the thighs into a curve and
  squatting down.
 ∙²2 branding with a mark that resembles a headless trunk ({#aSiraHpuruzAkAro'NkaH#}).
 <LEND>
@@ -13839,7 +13842,7 @@
 <L>1010.022<pc>0059-1<k1>aDarOzWaH<k2>aDarOzWaH<e>2
 {#aDara#} + {#-ozWaH, -OzWaH#}¦ <ls>P.</ls> {#vArttika otvozwadoHsamAse vA#}. the lower
  lip; {#aNgulisaMvfta˚#} <ls>Ś. 3. 24</ls>; <ls>Me. 84</ls>
-.({@{#-zwam#}@}) the lower and upper lip.
+.({@{#-zWam#}@}) the lower and upper lip.
 <LEND>
 
 <L>1010.024<pc>0059-1<k1>aDarOzWaH<k2>aDarOzWaH<e>2
@@ -43311,7 +43314,7 @@
 {#aByantara#} + {#-karaRa#}¦ {%<lex>a.</lex>%} having the organs (concealed) inside, internally
  possessed of the powers of perception <ab>&c.</ab>; {#˚RayA mayA pratyakzIkftavfttAnto#}
  {#mahArAjaH#} <ls>V. 4</ls>
-.({@{#-nam#}@}) the internal organ {%<ab>i. e.</ab>%} {#antaHkaraRa#}.
+.({@{#-Ram#}@}) the internal organ {%<ab>i. e.</ab>%} {#antaHkaraRa#}.
 <LEND>
 
 <L>3934.026<pc>0193-1<k1>aByantarakalA<k2>aByantarakalA<e>2
@@ -46458,7 +46461,7 @@
 
 <L>4229.060<pc>0205-1<k1>amftopastaraRam<k2>amftopastaraRam<e>2
 {#amfta#} + {#-upastaraRam#}¦ Water sipped as a substratum for the nectar-like food.
-.({@{#-vaH#}@}) <ab>N.</ab> of the Bilva tree.
+.({@{#-RaH#}@}) <ab>N.</ab> of the Bilva tree.
 <LEND>
 
 <L>4229.062<pc>0205-1<k1>amftOdanaH<k2>amftOdanaH<e>2
@@ -58651,7 +58654,7 @@
 <L>5160<pc>0252-1<k1>avayAj<k2>avayAj<e>1
 {#avayAj#}¦ {%<lex>f.</lex>%} [{#ava-yaj-Rvi#}] A particular portion of a sacrifice.
  {#SuzminnavayAH#} <ls>Rv. 1. 173. 12</ls>; <ls>Av. 2. 35. 1</ls>. ━{%<lex>m.</lex>%}
-.({@{#-yAH, -yAjO#}@}) A kind of priest.
+.({@{#-yAjaH, -yAjO#}@}) A kind of priest.
 <LEND>
 
 <L>5161<pc>0252-1<k1>avayavaH<k2>avayavaH<e>1
@@ -208211,8 +208214,8 @@
 .({@{#-Ram#}@}) the Pradhāna (in <ab>Sāṅ. phil.</ab>); ━({%<lex>ind.</lex>%}) three times; in three ways.
 <LEND>
 
-<L>16848.128<pc>0789-2<k1>triRAH<k2>triRAH<e>2
-{#tri#} + {#-RAH#}¦ {%<lex>m.</lex>%} (<ab>pl.</ab>) the three qualities or constituents of nature;
+<L>16848.128<pc>0789-2<k1>triguRAH<k2>triguRAH<e>2
+{#tri#} + {#-guRa#} + {#-RAH#}¦ {%<lex>m.</lex>%} (<ab>pl.</ab>) the three qualities or constituents of nature;
  {#trayImayAya triguRAtmane namaH#} <ls>K. 1</ls>.
 .({@{#-RA#}@})
 ∙²1 Māyā or illusion (in Vedānta <ab>phil.</ab>).
@@ -252369,7 +252372,7 @@
 
 <L>19449.072<pc>0935-2<k1>nIlapatraH<k2>nIlapatraH<e>2
 {#nIla#} + {#-patraH#}¦ the pomegranate tree.
-.({@{#-vam#}@}), {@{#-padmam#}@}
+.({@{#-tram#}@}), {@{#-padmam#}@}
  the blue water-lily.
 <LEND>
 
@@ -330275,7 +330278,7 @@
 ∙²1 a kind of birch tree.
 ∙²2 a camel.
 ∙²3 garlic.
-.({@{#-DnI#}@}) the holy basil.
+.({@{#-GnI#}@}) the holy basil.
 <LEND>
 
 <L>25237.096<pc>1205-1<k1>BUtacaturdaSI<k2>BUtacaturdaSI<e>2
@@ -339869,7 +339872,7 @@
 {#manas#} + {#-jYa#}¦ {%<lex>a.</lex>%} pleasing, lovely, agreeable, beautiful, charming;
  {#iyamaDikamanojYA valkalenApi tanvI#} <ls>Ś. 1. 20</ls>; <ls>R. 3. 7</ls>, <ls n="R.">6. 1</ls>. ({@{#-JaH#}@})
  <ab>N.</ab> of a Gandharva.
-.({@{#-JA#}@})
+.({@{#-jYA#}@})
 ∙²1 red arsenic.
 ∙²2 an intoxicating drink.
 ∙²3 a princess.
@@ -367993,7 +367996,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 
 <L>27187.084<pc>1321-a2<k1>raktaGnaH<k2>raktaGnaH<e>2
 {#rakta#} + {#-GnaH#}¦ the Rohitaka tree.
-.({@{#-DnI#}@}) the Dūrvā grass.
+.({@{#-GnI#}@}) the Dūrvā grass.
 <LEND>
 
 <L>27187.086<pc>1321-a2<k1>raktacandanam<k2>raktacandanam<e>2
