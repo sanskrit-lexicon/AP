@@ -69,12 +69,6 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
     lid = meta['L']
     basehw = meta['k1']
     
-    pref = ''
-    for l in lines:
-        if '¦' in l:
-            pref = l.split('¦')[0]
-            break
-    
     output_lines = []
     i = 0
     new_entries = []
@@ -85,13 +79,10 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
             m = re.search(r'^[.]{@{#\-([^#]+)#}@}(.*)$', line)
             if m:
                 suffix_str = m.group(1)
-                suffix_str = suffix_str.replace('- ', '-') if '- ' in suffix_str else suffix_str
-                suffix_str = re.sub(r'([a-zA-Z])-([a-zA-Z])', r'\1 -\2', suffix_str)
-                suffixes = [s.strip() for s in suffix_str.split(', -')]
+                suffix_str_clean = suffix_str.replace('- ', '-') if '- ' in suffix_str else suffix_str
+                suffix_str_clean = re.sub(r'([a-zA-Z])-([a-zA-Z])', r'\1 -\2', suffix_str_clean)
+                suffixes = [s.strip() for s in suffix_str_clean.split(', -')]
                 suffixes = [s for s in suffixes if s]
-                
-                # Check for inline definition (text after @})
-                inline_def = m.group(2).strip() if m.group(2) else ''
                 
                 def_start = i + 1
                 def_end = def_start
@@ -102,42 +93,7 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
                 
                 def_lines = lines[def_start:def_end]
                 
-                if len(suffixes) > 1:
-                    num_suffixes = len(suffixes)
-                    lines_per_group = len(def_lines) // num_suffixes
-                    remainder = len(def_lines) % num_suffixes
-                    
-                    start_idx = 0
-                    for sidx, suffix in enumerate(suffixes):
-                        suggestion = adjust_hw(basehw, suffix, lid, manually_mapped)
-                        if suggestion:
-                            correct[0] += 1
-                            flog.write(f'{lid}\t{basehw}\t{suffix}\t{suggestion}\n')
-                        else:
-                            wrong[0] += 1
-                            flog.write(f'{lid}\t{basehw}\t{suffix}\tNone\n')
-                        
-                        entry = {}
-                        entry['metaline'] = metaline
-                        entry['suggestion'] = suggestion
-                        entry['suffix'] = suffix
-                        
-                        if sidx == 0:
-                            end_idx = (sidx + 1) * lines_per_group + (1 if remainder > 0 else 0)
-                            entry['def_lines'] = def_lines[start_idx:end_idx]
-                            start_idx = end_idx
-                            if remainder > 0:
-                                remainder -= 1
-                        else:
-                            entry['def_lines'] = def_lines[start_idx:start_idx + lines_per_group]
-                            entry['has_lbody'] = True
-                            start_idx += lines_per_group
-                        
-                        new_entries.append(entry)
-                    
-                    i = def_end
-                else:
-                    suffix = suffixes[0]
+                for suffix in suffixes:
                     suggestion = adjust_hw(basehw, suffix, lid, manually_mapped)
                     if suggestion:
                         correct[0] += 1
@@ -146,16 +102,15 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
                         wrong[0] += 1
                         flog.write(f'{lid}\t{basehw}\t{suffix}\tNone\n')
                     
-                    entry = {}
-                    entry['metaline'] = metaline
-                    entry['suggestion'] = suggestion
-                    entry['suffix'] = suffix
-                    entry['def_lines'] = def_lines
-                    entry['orig_line'] = line
-                    entry['inline_def'] = inline_def
+                    entry = {
+                        'metaline': metaline,
+                        'suggestion': suggestion,
+                        'orig_line': line,
+                        'def_lines': def_lines
+                    }
                     new_entries.append(entry)
-                    
-                    i = def_end
+                
+                i = def_end
             else:
                 output_lines.append(line)
                 i += 1
@@ -167,38 +122,26 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
     for ol in output_lines:
         fout.write(ol + '\n')
     
-    # Then write derived entries (no <LEND>, they end when next <L> arrives)
+    # Then write derived entries
     if new_entries:
-        fout.write('\n')
-        
-        for eidx, entry in enumerate(new_entries):
-            if eidx > 0:
-                fout.write('\n')
-            
+        for entry in new_entries:
+            fout.write('\n')
             if entry['suggestion']:
                 metaline1 = entry['metaline'].replace('<k1>' + basehw, '<k1>' + entry['suggestion'])
                 metaline1 = metaline1.replace('<k2>' + basehw, '<k2>' + entry['suggestion'])
                 metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
+                metaline1 = re.sub(r'<e>\d+', '<e>2', metaline1)
             else:
                 metaline1 = entry['metaline'].replace('<k2>', '.ABC<k2>')
                 metaline1 = metaline1.replace('<e>', '.ABC<e>')
                 metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
+                metaline1 = re.sub(r'<e>\d+', '<e>2', metaline1)
             
             fout.write(metaline1 + '\n')
-            
-            if 'orig_line' in entry:
-                if entry.get('inline_def'):
-                    hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦ ' + entry['inline_def']
-                else:
-                    hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦'
-                fout.write(hw_rep + '\n')
-                for dl in entry['def_lines']:
-                    fout.write(dl + '\n')
-            else:
-                hw_rep = pref + ' + .{@{#-' + entry['suffix'] + '#}@}¦'
-                fout.write(hw_rep + '\n')
-                if entry.get('has_lbody'):
-                    fout.write('{{Lbody=' + lid + '.XYZ}}\n')
+            fout.write(entry['orig_line'] + '\n')
+            for dl in entry['def_lines']:
+                fout.write(dl + '\n')
+            fout.write('<LEND>\n')
     
     return correct, wrong
 
