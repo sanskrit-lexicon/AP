@@ -69,6 +69,12 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
     lid = meta['L']
     basehw = meta['k1']
     
+    pref = ''
+    for l in lines:
+        if '¦' in l:
+            pref = l.split('¦')[0].strip()
+            break
+    
     output_lines = []
     i = 0
     new_entries = []
@@ -138,7 +144,15 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
                 metaline1 = re.sub(r'<e>\d+', '<e>2', metaline1)
             
             fout.write(metaline1 + '\n')
-            fout.write(entry['orig_line'] + '\n')
+            
+            orig_line = entry['orig_line']
+            m = re.search(r'^([.]{@\s*{#.*?#}\s*@})(.*)$', orig_line)
+            if m:
+                orig_line_modified = f"{pref} + {m.group(1)}¦{m.group(2)}"
+            else:
+                orig_line_modified = f"{pref} + {orig_line}¦"
+            
+            fout.write(orig_line_modified + '\n')
             for dl in entry['def_lines']:
                 fout.write(dl + '\n')
             fout.write('<LEND>\n')
