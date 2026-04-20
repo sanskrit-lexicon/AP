@@ -138,12 +138,10 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
                 metaline1 = entry['metaline'].replace('<k1>' + basehw, '<k1>' + entry['suggestion'])
                 metaline1 = metaline1.replace('<k2>' + basehw, '<k2>' + entry['suggestion'])
                 metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
-                metaline1 = re.sub(r'<e>\d+', '<e>2', metaline1)
             else:
                 metaline1 = entry['metaline'].replace('<k2>', '.ABC<k2>')
                 metaline1 = metaline1.replace('<e>', '.ABC<e>')
                 metaline1 = metaline1.replace('<pc>', '.XYZ<pc>')
-                metaline1 = re.sub(r'<e>\d+', '<e>2', metaline1)
             
             fout.write(metaline1 + '\n')
             
