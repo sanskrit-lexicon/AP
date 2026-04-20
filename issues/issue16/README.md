@@ -147,10 +147,13 @@ In `tmp_ap_4.txt`, many of the new entries use the `{{Lbody=...}}` tag to refer 
 
 # Merger
 
-Once the suffixes are resolved and we have tmp_ap_4.txt file, there were also changes which happenned in csl-orig/v02/ap/ap.txt file.
+Once the suffixes are resolved and we have `tmp_ap_4.txt file`, there were also changes which happenned in `csl-orig/v02/ap/ap.txt` file.
 To merge those changes the following was done
 
-cd sanskrit-lexicon/csl-orig/
-git merge-file v02/ap/ap.txt ../AP/issues/issue16/tmp_ap_0.txt ../AP/issues/issue16/tmp_ap_4.txt
+`cd sanskrit-lexicon/csl-orig/`
 
-This generated a file v02/ap/ap.txt.txt which has changes of both v02/ap/ap.txt and tmp_ap_4.txt merged. There were three cases where both the changes happenned in the same lines. They can be identified by searching for >>>>>. These three cases were manually resolved and the final file was saved as v02/ap/ap.txt.
+`git merge-file v02/ap/ap.txt ../AP/issues/issue16/tmp_ap_0.txt ../AP/issues/issue16/tmp_ap_4.txt`
+
+This generated a file `v02/ap/ap.txt.txt` which has changes of both `v02/ap/ap.txt` and `tmp_ap_4.txt` merged.
+
+There were three cases where both the changes happenned in the same lines. They can be identified by searching for `>>>>>`. These three cases were manually resolved and the final file was saved as `v02/ap/ap.txt`.
