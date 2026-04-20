@@ -99,7 +99,7 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
                 
                 def_lines = lines[def_start:def_end]
                 
-                for suffix in suffixes:
+                for sidx, suffix in enumerate(suffixes):
                     suggestion = adjust_hw(basehw, suffix, lid, manually_mapped)
                     if suggestion:
                         correct[0] += 1
@@ -112,7 +112,9 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
                         'metaline': metaline,
                         'suggestion': suggestion,
                         'orig_line': line,
-                        'def_lines': def_lines
+                        'def_lines': def_lines,
+                        'sidx': sidx,
+                        'lid': lid
                     }
                     new_entries.append(entry)
                 
@@ -145,16 +147,20 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
             
             fout.write(metaline1 + '\n')
             
-            orig_line = entry['orig_line']
-            m = re.search(r'^([.]{@\s*{#.*?#}\s*@})(.*)$', orig_line)
-            if m:
-                orig_line_modified = f"{pref} + {m.group(1)}¦{m.group(2)}"
+            if entry.get('sidx', 0) > 0:
+                fout.write(f"{{{{Lbody={entry['lid']}.XYZ}}}}\n")
             else:
-                orig_line_modified = f"{pref} + {orig_line}¦"
+                orig_line = entry['orig_line']
+                m = re.search(r'^([.]{@\s*{#.*?#}\s*@})(.*)$', orig_line)
+                if m:
+                    orig_line_modified = f"{pref} + {m.group(1)}¦{m.group(2)}"
+                else:
+                    orig_line_modified = f"{pref} + {orig_line}¦"
+                
+                fout.write(orig_line_modified + '\n')
+                for dl in entry['def_lines']:
+                    fout.write(dl + '\n')
             
-            fout.write(orig_line_modified + '\n')
-            for dl in entry['def_lines']:
-                fout.write(dl + '\n')
             fout.write('<LEND>\n')
     
     return correct, wrong
