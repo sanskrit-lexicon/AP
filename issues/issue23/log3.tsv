@@ -682,7 +682,7 @@ Lnum	basehw	suffix	resolution	in_sanhw1
 16848.102	trikAlam	lam	trikAlam	True
 16848.108	trikoRa	RaH	trikoRaH	True
 16848.126	triguRa	Ram	triguRam	True
-16848.128	triguRAH	RA	None	False
+16848.128	triguRAH	RA	triguRA	True
 16848.172	tridaRqam	RqaH	tridaRqaH	True
 16848.176	tridaSAH	SaH	tridaSaH	True
 16848.180	tridivam	vA	tridivA	True

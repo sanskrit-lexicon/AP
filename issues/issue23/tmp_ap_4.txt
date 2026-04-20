@@ -210316,7 +210316,7 @@
  {#trayImayAya triguRAtmane namaH#} <ls>K. 1</ls>.
 <LEND>
 
-<L>16848.016<pc>0789-2<k1>triguRAH.ABC<k2>triguRAH.ABC<e>2
+<L>16848.016<pc>0789-2<k1>triguRA<k2>triguRA<e>2
 {#tri#} + {#-guRa#} + {#-RAH#} + .({@{#-RA#}@})¦
 ∙²1 Māyā or illusion (in Vedānta <ab>phil.</ab>).
 ∙²2 an epithet of Durgā.
