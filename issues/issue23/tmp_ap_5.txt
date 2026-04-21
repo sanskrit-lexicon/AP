@@ -64000,16 +64000,16 @@
 {#avyakta#} + {#-liNga#} + .({@{#-NgaH#}@})¦ an ascetic ({#saMnyAsI#}).
 <LEND>
 
-<L>5698.040.XYZ<pc>0271-1<k1>avyaktaliNgam<k2>avyaktaliNgam<e>2
+<L>5698.042<pc>0271-1<k1>avyaktaliNgam<k2>avyaktaliNgam<e>2
 {#avyakta#} + {#-liNga#} + .({@{#-Ngam#}@})¦ the great principle ({#mahat#}) (in <ab>Sāṅ. Phil.</ab>).
 <LEND>
 
-<L>5698.042<pc>0271-1<k1>avyaktavartman<k2>avyaktavartman<e>2
+<L>5698.043<pc>0271-1<k1>avyaktavartman<k2>avyaktavartman<e>2
 {#avyakta#} + {#-vartman, -mArga#}¦ {%<lex>a.</lex>%} whose ways are mysterious or inscrutable.
 <LEND>
 
 <L>5698.044<pc>0271-1<k1>avyaktamArga<k2>avyaktamArga<e>2
-{{Lbody=5698.042}}
+{{Lbody=5698.043}}
 <LEND>
 
 <L>5698.046<pc>0271-1<k1>avyaktavAc<k2>avyaktavAc<e>2
@@ -65510,20 +65510,20 @@
 ∙²2 broken by a stone.
 <LEND>
 
-<L>5850.027<pc>0277-1<k1>aSmakuwwaH<k2>aSmakuwwaH<e>2
-{#aSman#} + {#-kuwwa, -kuwwaka#} + .({@{#-wwaH, -wwakaH#}@})¦ a class of devotees; a {#vAnaprasTa#} <ls>Rām. 3. 6. 2</ls>;
- <ls>Y. 3. 49</ls>; <ls>Ms. 6. 17</ls>.
-<LEND>
-
-<L>5850.026.XYZ<pc>0277-1<k1>aSmakuwwakaH<k2>aSmakuwwakaH<e>2
-{{Lbody=5850.027}}
-<LEND>
-
 <L>5850.028<pc>0277-1<k1>aSmakuwwaka<k2>aSmakuwwaka<e>2
 {{Lbody=5850.026}}
 <LEND>
 
-<L>5850.030<pc>0277-1<k1>aSmaketuH<k2>aSmaketuH<e>2
+<L>5850.029<pc>0277-1<k1>aSmakuwwaH<k2>aSmakuwwaH<e>2
+{#aSman#} + {#-kuwwa, -kuwwaka#} + .({@{#-wwaH, -wwakaH#}@})¦ a class of devotees; a {#vAnaprasTa#} <ls>Rām. 3. 6. 2</ls>;
+ <ls>Y. 3. 49</ls>; <ls>Ms. 6. 17</ls>.
+<LEND>
+
+<L>5850.030<pc>0277-1<k1>aSmakuwwakaH<k2>aSmakuwwakaH<e>2
+{{Lbody=5850.029}}
+<LEND>
+
+<L>5850.031<pc>0277-1<k1>aSmaketuH<k2>aSmaketuH<e>2
 {#aSman#} + {#-ketuH#}¦ [{#aSmeva keturyasya#}] <ab>N.</ab> of a plant.
 <LEND>
 
@@ -65660,11 +65660,11 @@
  {#˚maya#} {%<lex>a.</lex>%} made of iron <ab>cf.</ab> <ls>Śiva B. 14. 25</ls>.
 <LEND>
 
-<L>5850.086.XYZ<pc>0277-1<k1>aSmasAram<k2>aSmasAram<e>2
+<L>5850.088<pc>0277-1<k1>aSmasAram<k2>aSmasAram<e>2
 {{Lbody=5850.087}}
 <LEND>
 
-<L>5850.088<pc>0277-2<k1>aSmahanman<k2>aSmahanman<e>2
+<L>5850.089<pc>0277-2<k1>aSmahanman<k2>aSmahanman<e>2
 {#aSman#} + {#-hanman#}¦ {%<lex>n.</lex>%}
 ∙²1 a weapon of iron; <ls>Rv. 7. 104. 5</ls>.
 ∙²2 a stroke of the thunderbolt.
@@ -66146,12 +66146,12 @@
 ∙²3 a ride.
 <LEND>
 
-<L>5890.038.XYZ<pc>0279-1<k1>aSvArohA<k2>aSvArohA<e>2
+<L>5890.040<pc>0279-1<k1>aSvArohA<k2>aSvArohA<e>2
 {#aSvaH#} + {#-Aroha#} + .({@{#-hA#}@})¦, {@{#-ArohakaH#}@}
  <ab>N.</ab> of the plant {#aSvaganDA#}.
 <LEND>
 
-<L>5890.040<pc>0279-1<k1>aSvArohaRIyam<k2>aSvArohaRIyam<e>2
+<L>5890.041<pc>0279-1<k1>aSvArohaRIyam<k2>aSvArohaRIyam<e>2
 {#aSvaH#} + {#-ArohaRIyam#}¦ Horsemen, cavalry. {#idAnImaSvArohaRIyaM kva gatam#} <ls>Pratijñā. 1</ls>.
 <LEND>
 
@@ -66479,11 +66479,11 @@
  (according to others) a kind of demigod distinct from the preceding.
 <LEND>
 
-<L>5890.174.XYZ<pc>0279-2<k1>aSvamuKI<k2>aSvamuKI<e>2
+<L>5890.176<pc>0279-2<k1>aSvamuKI<k2>aSvamuKI<e>2
 {#aSvaH#} + {#-muKa#} + .({@{#-KI#}@})¦ a Kinnara woman; {#Bindanti mandAM gatimaSvamuKyaH#} <ls>Ku. 1. 11</ls>.
 <LEND>
 
-<L>5890.176<pc>0279-2<k1>aSvamuk<k2>aSvamuk<e>2
+<L>5890.177<pc>0279-2<k1>aSvamuk<k2>aSvamuk<e>2
 {#aSvaH#} + {#-muk#}¦ {%<lex>m.</lex>%} a horse-stealer.
 <LEND>
 
@@ -66511,24 +66511,24 @@
 {#aSvaH#} + {#-meDika, -meDIya#}¦ {%<lex>a.</lex>%} fit for a horse-sacrifice, or relating to it.
 <LEND>
 
-<L>5890.181<pc>0280-1<k1>aSvameDikaH<k2>aSvameDikaH<e>2
-{#aSvaH#} + {#-meDika, -meDIya#} + .({@{#-kaH, -yaH#}@})¦ a horse fit for the {%Aśvamedha%} sacrifice.
-<LEND>
-
-<L>5890.180.XYZ<pc>0280-1<k1>aSvameDIyaH<k2>aSvameDIyaH<e>2
-{{Lbody=5890.181}}
-<LEND>
-
-<L>5890.180.XYZ<pc>0280-1<k1>aSvameDikam<k2>aSvameDikam<e>2
-{#aSvaH#} + {#-meDika, -meDIya#} + .({@{#-kam#}@})¦ the fourteenth parvan in the Mahābhārata; {#tato'SvameDikaM#}
- {#parva proktaM tacca caturdaSam#} <ls>Mb.</ls>
-<LEND>
-
 <L>5890.182<pc>0280-1<k1>aSvameDIya<k2>aSvameDIya<e>2
 {{Lbody=5890.180}}
 <LEND>
 
-<L>5890.184<pc>0280-1<k1>aSvayuj<k2>aSvayuj<e>2
+<L>5890.183<pc>0280-1<k1>aSvameDikaH<k2>aSvameDikaH<e>2
+{#aSvaH#} + {#-meDika, -meDIya#} + .({@{#-kaH, -yaH#}@})¦ a horse fit for the {%Aśvamedha%} sacrifice.
+<LEND>
+
+<L>5890.184<pc>0280-1<k1>aSvameDIyaH<k2>aSvameDIyaH<e>2
+{{Lbody=5890.183}}
+<LEND>
+
+<L>5890.185<pc>0280-1<k1>aSvameDikam<k2>aSvameDikam<e>2
+{#aSvaH#} + {#-meDika, -meDIya#} + .({@{#-kam#}@})¦ the fourteenth parvan in the Mahābhārata; {#tato'SvameDikaM#}
+ {#parva proktaM tacca caturdaSam#} <ls>Mb.</ls>
+<LEND>
+
+<L>5890.186<pc>0280-1<k1>aSvayuj<k2>aSvayuj<e>2
 {#aSvaH#} + {#-yuj#}¦ {%<lex>a.</lex>%}
 ∙²1 yoking the horses; {#vayovfDo aSvayujaH parijrayaH#} <ls>Rv. 5. 54. 2</ls>.
 ∙²2 having horses yoked to it (as a carriage); {#raTenASvayujA#} <ls>Rām.</ls>
@@ -66539,7 +66539,7 @@
 ∙²4 a chariot having horses.
 <LEND>
 
-<L>5890.186<pc>0280-1<k1>aSvayUpaH<k2>aSvayUpaH<e>2
+<L>5890.187<pc>0280-1<k1>aSvayUpaH<k2>aSvayUpaH<e>2
 {#aSvaH#} + {#-yUpaH#}¦ the post to which the sacrificial horse was bound; {#ye#}
  {#aSvayUpAya takzati#} <ls>Rv. 1. 162. 6</ls>.
 <LEND>
@@ -67265,14 +67265,14 @@
 {#azwan#} + {#-karRa#} + .({@{#-rRaH#}@})¦ eight-eared, an epithet of Brahmā.
 <LEND>
 
-<L>5923.050.XYZ<pc>0282-2<k1>azwakarman<k2>azwakarman<e>2
+<L>5923.052<pc>0282-2<k1>azwakarman<k2>azwakarman<e>2
 {#azwan#} + {#-karRa#} + .({@{#-karman#}@}¦ {%<lex>m.</lex>%}), {@{#-gatikaH#}@}
  a king who has 8 duties to perform; (they are:− {#AdAne#}
  {#ca visarge ca taTA prEzanizeDayoH . paYcame cArTavacane vyavahArasya cekzaRe#}
  {#.. daRqaSudDayoH sadA raktastenAzwagatiko nfpaH .#})
 <LEND>
 
-<L>5923.052<pc>0282-2<k1>azwakulam<k2>azwakulam<e>2
+<L>5923.053<pc>0282-2<k1>azwakulam<k2>azwakulam<e>2
 {#azwan#} + {#-kulam#}¦ (Probably) Village jury. (<ls>Bh. List No. 1267</ls>).
 <LEND>
 
@@ -67442,11 +67442,11 @@
  {#˚paricayacaturABiH#} <ls>K. 196</ls>. {#˚patram#} a sheet of gold.
 <LEND>
 
-<L>5923.106.XYZ<pc>0283-1<k1>azwapadam<k2>azwapadam<e>2
+<L>5923.108<pc>0283-1<k1>azwapadam<k2>azwapadam<e>2
 {{Lbody=5923.107}}
 <LEND>
 
-<L>5923.108<pc>0283-1<k1>azwapadikA<k2>azwapadikA<e>2
+<L>5923.109<pc>0283-1<k1>azwapadikA<k2>azwapadikA<e>2
 {#azwan#} + {#-padikA, -pAdikA#}¦ <ab>N.</ab> of a plant.
 <LEND>
 
