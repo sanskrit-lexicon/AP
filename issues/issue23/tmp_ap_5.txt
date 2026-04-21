@@ -70064,7 +70064,7 @@
 ∙²3 a hell paved with swords.
 <LEND>
 
-<L>6135.046.XYZ<pc>0293-2<k1>asipatram<k2>asipatram<e>2
+<L>6135.048<pc>0293-2<k1>asipatram<k2>asipatram<e>2
 {#asiH#} + {#-patra#} + .({@{#-tram#}@})¦
 ∙²1 the blade of a sword.
 ∙²2 a sheath, a scabbard. {#˚vanam#} a hell where the trees have leaves
@@ -70072,7 +70072,7 @@
  <ls>Mb. 18. 2. 23</ls>; {#asipatravanaM cEva lohadArakameva ca .#} <ls>Ms. 4. 90</ls>;
 <LEND>
 
-<L>6135.048<pc>0293-2<k1>asipatrakaH<k2>asipatrakaH<e>2
+<L>6135.049<pc>0293-2<k1>asipatrakaH<k2>asipatrakaH<e>2
 {#asiH#} + {#-patrakaH#}¦
 ∙²1 a sugar-cane.
 ∙²2 white {#darBa#} grass, <ls>Bhāg. 5. 26. 7</ls>.
@@ -73670,11 +73670,11 @@
 {#AkASaH#} + {#-gaH#} + .({@{#-gaH#}@})¦ a bird.
 <LEND>
 
-<L>6382.030.XYZ<pc>0306-1<k1>AkASagA<k2>AkASagA<e>2
+<L>6382.032<pc>0306-1<k1>AkASagA<k2>AkASagA<e>2
 {#AkASaH#} + {#-gaH#} + .({@{#-gA#}@})¦ the heavenly Ganges.
 <LEND>
 
-<L>6382.032<pc>0306-1<k1>AkASagaNgA<k2>AkASagaNgA<e>2
+<L>6382.033<pc>0306-1<k1>AkASagaNgA<k2>AkASagaNgA<e>2
 {#AkASaH#} + {#-gaNgA#}¦ [{#AkASapaTavAhinI gaNgA#}] the celestial Ganges; {#nadatyAkASagaNgAyAH#}
  {#srotasyuddAmadiggaje#} <ls>R. 1. 78</ls>; <ab>cf.</ab> also {#uBO yadi vyomni pfTak pravAhAvAkASagaNgApayasaH#}
  {#patetAm#} <ls>Śi. 3. 8</ls>.
@@ -75767,16 +75767,17 @@
  To be paid on the full moon day in {#mArgaSIrza#} (as debt.).
 <LEND>
 
-<L>6561.004<pc>0315-1<k1>AgrahAyaRakaH<k2>AgrahAyaRa(Ri)ka<e>1
+<L>6561.002<pc>0315-1<k1>AgrahAyaRika<k2>AgrahAyaRika<e>1
+{{Lbody=6561}}
+<LEND>
+
+<L>6561.004<pc>0315-1<k1>AgrahAyaRakaH<k2>AgrahAyaRa(Ri)kaH<e>1
 {#AgrahAyaRa(Ri)ka#} + .{@{#-kaH#}@}¦,
 <LEND>
 
-<L>6561.004.XYZ<pc>0315-1<k1>AgrahAyaRikaH<k2>AgrahAyaRa(Ri)ka<e>1
+<L>6561.006<pc>0315-1<k1>AgrahAyaRikaH<k2>AgrahAyaRa(Ri)kaH<e>1
 {#AgrahAyaRa(Ri)ka#} + .{@{#-kaH#}@} + .({@{#-RikaH#}@})¦ [{#AgrahAyaRI pOrRimAsyasmin mAse Wak#} <ls>P. IV. 2. 22</ls>]
  The month of {#mArgaSIrza#}.
-<LEND>
-<L>6561.002<pc>0315-1<k1>AgrahAyaRika<k2>AgrahAyaRika<e>1
-{{Lbody=6561}}
 <LEND>
 
 <L>6562<pc>0315-1<k1>AgrahArika<k2>AgrahArika<e>1
@@ -78015,14 +78016,14 @@
 ∙²3 sorrow, pain.
 <LEND>
 
-<L>6780.044.XYZ<pc>0324-1<k1>AtmodBavA<k2>AtmodBavA<e>2
+<L>6780.046<pc>0324-1<k1>AtmodBavA<k2>AtmodBavA<e>2
 {#Atman#} + {#-udBava#} + .({@{#-vA#}@})¦
 ∙²1 daughter.
 ∙²2 intellect.
 ∙²3 <ab>N.</ab> of a plant ({#mAzaparRI#}; <lang>Mar.</lang> <ns>{#rAnOqIda#}</ns>).
 <LEND>
 
-<L>6780.046<pc>0324-1<k1>AtmopajIvin<k2>AtmopajIvin<e>2
+<L>6780.047<pc>0324-1<k1>AtmopajIvin<k2>AtmopajIvin<e>2
 {#Atman#} + {#-upajIvin#}¦ {%<lex>m.</lex>%}
 ∙²1 one who lives by his own labour; <ls>Ms. 7. 138</ls>.
 ∙²2 a day-labourer.
@@ -78363,13 +78364,13 @@
 ∙²2 Cupid.
 <LEND>
 
-<L>6780.156.XYZ<pc>0325-1<k1>AtmaBUtA<k2>AtmaBUtA<e>2
+<L>6780.158<pc>0325-1<k1>AtmaBUtA<k2>AtmaBUtA<e>2
 {#Atman#} + {#-BUta#} + .({@{#-tA#}@})¦
 ∙²1 a daughter.
 ∙²2 talent.
 <LEND>
 
-<L>6780.158<pc>0325-1<k1>AtmaBUyam<k2>AtmaBUyam<e>2
+<L>6780.159<pc>0325-1<k1>AtmaBUyam<k2>AtmaBUyam<e>2
 {#Atman#} + {#-BUyam#}¦
 ∙²1 peculiarity, own nature. ∙²2 Brahman.
 <LEND>
@@ -79103,32 +79104,32 @@
 ∙²1 having beginning and end. ∙²2 first and last.
 <LEND>
 
-<L>6821.020.XYZ<pc>0327-2<k1>Adyantam<k2>Adyantam<e>2
+<L>6821.021<pc>0327-2<k1>Adyantam<k2>Adyantam<e>2
 {#Adi#} + {#-anta#} + .({@{#-tam#}@})¦ beginning and end. 
 <LEND>
 
-<L>6821.021<pc>0327-2<k1>Adyantayamakam<k2>Adyantayamakam<e>3
+<L>6821.022<pc>0327-2<k1>Adyantayamakam<k2>Adyantayamakam<e>3
 {#Adi#} + {#-anta#} + {#˚yamakam#}¦ <ab>N.</ab> of a figure in poetry.
  <ab>cf.</ab> <ls>Bk. 10. 21</ls>. 
 <LEND>
 
-<L>6821.022<pc>0327-2<k1>Adyantavat<k2>Adyantavat<e>3
+<L>6821.023<pc>0327-2<k1>Adyantavat<k2>Adyantavat<e>3
 {#Adi#} + {#-anta#} + {#˚vat#}¦ having beginning and end, finite.
 <LEND>
 
-<L>6821.023<pc>0327-2<k1>AdyantAntaravartin<k2>AdyantAntaravartin<e>3
+<L>6821.024<pc>0327-2<k1>AdyantAntaravartin<k2>AdyantAntaravartin<e>3
 {#Adi#} + {#-anta#} + {#˚antaravartin#}¦ {%<lex>a.</lex>%} having a beginning, end and middle; being all-in-all.
 <LEND>
 
-<L>6821.024<pc>0327-2<k1>AdyudAtta<k2>AdyudAtta<e>2
+<L>6821.025<pc>0327-2<k1>AdyudAtta<k2>AdyudAtta<e>2
 {#Adi#} + {#-udAtta#}¦ {%<lex>a.</lex>%} having the acute accent on the first syllable.
 <LEND>
 
-<L>6821.025<pc>0327-2<k1>AdyupAntam<k2>AdyupAntam<e>2
+<L>6821.026<pc>0327-2<k1>AdyupAntam<k2>AdyupAntam<e>2
 {#Adi#} + {#-upAntam#}¦ {%<lex>ind.</lex>%} from first to last.
 <LEND>
 
-<L>6821.026<pc>0327-2<k1>AdikaraH<k2>AdikaraH<e>2
+<L>6821.027<pc>0327-2<k1>AdikaraH<k2>AdikaraH<e>2
 {#Adi#} + {#-karaH, -kartf, -kft#}¦ {%<lex>m.</lex>%} the creator, an epithet of Brahmā
  or Viṣṇu; {#garIyase brahmaRo'pyAdikartre#} <ls>Bg. 11. 37</ls>; {#viSezaRe dve#}
  {#ya ihAdikarturvadedaDItI sa hi kEyawIyaH#} <ls>Śab. Kau.</ls>
@@ -79248,7 +79249,11 @@
 {#Adi#} + {#-Bava, -BUta#}¦ {%<lex>a.</lex>%} produced at first.
 <LEND>
 
-<L>6821.069<pc>0328-1<k1>AdiBavaH<k2>AdiBavaH<e>2
+<L>6821.070<pc>0328-1<k1>AdiBUta<k2>AdiBUta<e>2
+{{Lbody=6821.068}}
+<LEND>
+
+<L>6821.071<pc>0328-1<k1>AdiBavaH<k2>AdiBavaH<e>2
 {#Adi#} + {#-Bava, -BUta#} + .({@{#-vaH, -taH#}@})¦
 ∙²1 ‘the first-born’, primeval being, an epithet of Brahmā; {#ityuktvAdiBavo#}
  {#devaH#} <ls>Bhāg. 7. 3. 22</ls>.
@@ -79256,24 +79261,20 @@
 ∙²3 an elder brother.
 <LEND>
 
-<L>6821.068.XYZ<pc>0328-1<k1>AdiBUtaH<k2>AdiBUtaH<e>2
-{{Lbody=6821.069}}
+<L>6821.072<pc>0328-1<k1>AdiBUtaH<k2>AdiBUtaH<e>2
+{{Lbody=6821.071}}
 <LEND>
 
-<L>6821.068.XYZ<pc>0328-1<k1>AdiBUtam<k2>AdiBUtam<e>2
+<L>6821.073<pc>0328-1<k1>AdiBUtam<k2>AdiBUtam<e>2
 {#Adi#} + {#-Bava, -BUta#} + .({@{#-tam#}@})¦ minute five elements ({#paYcamahABUtAni#}); {#nazwe loke#}
  {#dviparArDAvasAne mahABUtezvAdiBUtaM gatezu#} <ls>Bhāg. 10. 3. 25</ls>.
 <LEND>
 
-<L>6821.070<pc>0328-1<k1>AdiBUta<k2>AdiBUta<e>2
-{{Lbody=6821.068}}
-<LEND>
-
-<L>6821.072<pc>0328-1<k1>AdimUlam<k2>AdimUlam<e>2
+<L>6821.074<pc>0328-1<k1>AdimUlam<k2>AdimUlam<e>2
 {#Adi#} + {#-mUlam#}¦ first foundation, primeval cause.
 <LEND>
 
-<L>6821.074<pc>0328-1<k1>AdiyogAcAryaH<k2>AdiyogAcAryaH<e>2
+<L>6821.075<pc>0328-1<k1>AdiyogAcAryaH<k2>AdiyogAcAryaH<e>2
 {#Adi#} + {#-yogAcAryaH#}¦ ‘the first teacher of devotion’, an epithet of Śiva.
 <LEND>
 
@@ -80424,11 +80425,11 @@
 {#AnakaH#} + {#-dunduBiH#} + .({@{#-BiH, -BI#}@}¦ {%<lex>f.</lex>%}) a large drum or {%dhol%}, kettle-drum (beaten at one end).
 <LEND>
 
-<L>6934.020.XYZ<pc>0333-1<k1>AnakadunduBI<k2>AnakadunduBI<e>2
+<L>6934.022<pc>0333-1<k1>AnakadunduBI<k2>AnakadunduBI<e>2
 {{Lbody=6934.021}}
 <LEND>
 
-<L>6934.022<pc>0333-1<k1>AnakasTalI<k2>AnakasTalI<e>2
+<L>6934.024<pc>0333-1<k1>AnakasTalI<k2>AnakasTalI<e>2
 {#AnakaH#} + {#-sTalI#}¦ <ab>N.</ab> of a country.
 <LEND>
 
@@ -89329,18 +89330,18 @@
 <LEND>
 
 <L>7838.025<pc>0369-1<k1>ASrayASaH<k2>ASrayASaH<e>2
-{#ASrayaH#} + {#-ASaH, -Buj#} + .({@{#-ASaH, -ka#}@})¦
+{#ASrayaH#} + {#-ASaH, -Buj#} + .({@{#-ASaH, -k#}@})¦
 ∙²1 fire; {#durvfttaH kriyate DUrtEH SrImAnAtmavivfdDaye . kiM nAma KalasaMsargaH#}
  {#kurute nASrayASavat ..#} <ls>Udb.</ls>
 ∙²2 {%<lex>a.</lex>%} forfeiter of asylum.
 ∙²3 the constellation {#kfttikA#}.
 <LEND>
 
-<L>7838.024.XYZ<pc>0369-1<k1>ASrayASaka<k2>ASrayASaka<e>2
+<L>7838.026<pc>0369-1<k1>ASrayASak<k2>ASrayASak<e>2
 {{Lbody=7838.025}}
 <LEND>
 
-<L>7838.026<pc>0369-1<k1>ASrayaBuj<k2>ASrayaBuj<e>2
+<L>7838.027<pc>0369-1<k1>ASrayaBuj<k2>ASrayaBuj<e>2
 {{Lbody=7838.024}}
 <LEND>
 
@@ -89735,18 +89736,17 @@
 {#AzAQaH#} + {#-Bava, -BU#}¦ {%<lex>a.</lex>%} produced in the month of Āṣāḍha.
 <LEND>
 
-<L>7874.021<pc>0370-2<k1>AzAQaBavaH<k2>AzAQaBavaH<e>2
-{#AzAQaH#} + {#-Bava, -BU#} + .({@{#-vaH, -BUH#}@})¦ the planet Mars.
-<LEND>
-
-<L>7874.020.XYZ<pc>0370-2<k1>AzAQABUH<k2>AzAQABUH<e>2
-{{Lbody=7874.021}}
-<LEND>
-
 <L>7874.022<pc>0370-2<k1>AzAQaBU<k2>AzAQaBU<e>2
 {{Lbody=7874.020}}
 <LEND>
 
+<L>7874.024<pc>0370-2<k1>AzAQaBavaH<k2>AzAQaBavaH<e>2
+{#AzAQaH#} + {#-Bava, -BU#} + .({@{#-vaH, -BUH#}@})¦ the planet Mars.
+<LEND>
+
+<L>7874.026<pc>0370-2<k1>AzAQABUH<k2>AzAQABUH<e>2
+{{Lbody=7874.024}}
+<LEND>
 
 <L>7875<pc>0370-2<k1>AzAQakaH<k2>AzAQakaH<e>1
 {#AzAQakaH#}¦ The month {#AzAQa#}.
@@ -93264,11 +93264,11 @@
 ∙²3 a diamond.
 <LEND>
 
-<L>8176.032.XYZ<pc>0385-1<k1>indrAyuDA<k2>indrAyuDA<e>2
+<L>8176.034<pc>0385-1<k1>indrAyuDA<k2>indrAyuDA<e>2
 {#indraH#} + {#-AyuDam#} + .({@{#-DA#}@})¦ a kind of leech.
 <LEND>
 
-<L>8176.034<pc>0385-1<k1>indrAsanam<k2>indrAsanam<e>2
+<L>8176.035<pc>0385-1<k1>indrAsanam<k2>indrAsanam<e>2
 {#indraH#} + {#-Asanam#}¦
 ∙²1 the throne of Indra.
 ∙²2 a throne in general.
@@ -94875,11 +94875,11 @@
 {#izwa#} + {#-ganDa#} + .({@{#-DaH#}@})¦ any fragrant substance.
 <LEND>
 
-<L>8260.030.XYZ<pc>0390-1<k1>izwaganDam<k2>izwaganDam<e>2
+<L>8260.032<pc>0390-1<k1>izwaganDam<k2>izwaganDam<e>2
 {#izwa#} + {#-ganDa#} + .({@{#-Dam#}@})¦ sand.
 <LEND>
 
-<L>8260.032<pc>0390-1<k1>izwajanaH<k2>izwajanaH<e>2
+<L>8260.033<pc>0390-1<k1>izwajanaH<k2>izwajanaH<e>2
 {#izwa#} + {#-janaH#}¦ a beloved person (whether man or woman); <ls>U. 3</ls>.
 <LEND>
 
@@ -96649,22 +96649,22 @@
 ∙²3 garlic.
 <LEND>
 
-<L>8390.028.XYZ<pc>0396-2<k1>ugraganDA<k2>ugraganDA<e>2
+<L>8390.030<pc>0396-2<k1>ugraganDA<k2>ugraganDA<e>2
 {#ugra#} + {#-ganDa#} + .({@{#-nDA#}@})¦
 ∙²1 Orris root.
 ∙²2 a medicinal plant.
 ∙²3 <ab>N.</ab> of various plants; {#yavAnI, vacA, ajamodA#}.
 <LEND>
 
-<L>8390.028.XYZ<pc>0396-2<k1>ugraganDam<k2>ugraganDam<e>2
+<L>8390.031<pc>0396-2<k1>ugraganDam<k2>ugraganDam<e>2
 {#ugra#} + {#-ganDa#} + .({@{#-nDam#}@})¦ Asafoetida.
 <LEND>
 
-<L>8390.030<pc>0396-2<k1>ugraganDin<k2>ugraganDin<e>2
+<L>8390.032<pc>0396-2<k1>ugraganDin<k2>ugraganDin<e>2
 {#ugra#} + {#-ganDin#}¦ {%<lex>a.</lex>%} strong-smelling.
 <LEND>
 
-<L>8390.032<pc>0396-2<k1>ugracayaH<k2>ugracayaH<e>2
+<L>8390.033<pc>0396-2<k1>ugracayaH<k2>ugracayaH<e>2
 {#ugra#} + {#-cayaH#}¦ a strong desire.
 <LEND>
 
@@ -99264,11 +99264,11 @@
 {#uttAna#} + {#-Saya#} + .({@{#-yaH, -yA#}@})¦ a little child, suckling, infant.
 <LEND>
 
-<L>8659.032.XYZ<pc>0406-2<k1>uttAnaSayA<k2>uttAnaSayA<e>2
+<L>8659.034<pc>0406-2<k1>uttAnaSayA<k2>uttAnaSayA<e>2
 {{Lbody=8659.033}}
 <LEND>
 
-<L>8659.034<pc>0406-2<k1>uttAnaSIvan<k2>uttAnaSIvan<e>2
+<L>8659.035<pc>0406-2<k1>uttAnaSIvan<k2>uttAnaSIvan<e>2
 {#uttAna#} + {#-SIvan#}¦ {%<lex>a.</lex>%} lying extended; stagnant. {#Apa uttAnaSIvarIH#} <ls>Av. 3. 21. 10</ls>.
 <LEND>
 
@@ -99756,12 +99756,12 @@
 ∙²5 descending.
 <LEND>
 
-<L>8677.060.XYZ<pc>0408-2<k1>uttarottaram<k2>uttarottaram<e>2
+<L>8677.062<pc>0408-2<k1>uttarottaram<k2>uttarottaram<e>2
 {#uttara#} + {#-uttara#} + .({@{#-ram#}@})¦ {%<lex>ind.</lex>%} higher and higher, in constant continuation, more
  and more {#uttarottaramutkarzaH#} <ls>K. P. 10</ls>; {#uttarottaraM varDate#} <ls>H. 1</ls>.
 <LEND>
 
-<L>8677.062<pc>0408-2<k1>uttarottarin<k2>uttarottarin<e>2
+<L>8677.063<pc>0408-2<k1>uttarottarin<k2>uttarottarin<e>2
 {#uttara#} + {#-uttarin#}¦ {%<lex>a.</lex>%}
 ∙²1 ever-increasing.
 ∙²2 one following the other.
@@ -99936,12 +99936,12 @@
 {#uttara#} + {#-paScima#} + .({@{#-maH#}@})¦ the northwestern country.
 <LEND>
 
-<L>8677.130.XYZ<pc>0409-1<k1>uttarapaScimA<k2>uttarapaScimA<e>2
+<L>8677.132<pc>0409-1<k1>uttarapaScimA<k2>uttarapaScimA<e>2
 {#uttara#} + {#-paScima#} + .({@{#-mA#}@})¦ [{#uttarasyAH paScimAyASca diSontarAlam#}] the northwest;
  {#AlokayannuttarapaScimena#} <ls>Mb. 12. 335. 8</ls>.
 <LEND>
 
-<L>8677.132<pc>0409-1<k1>uttarapAdaH<k2>uttarapAdaH<e>2
+<L>8677.133<pc>0409-1<k1>uttarapAdaH<k2>uttarapAdaH<e>2
 {#uttara#} + {#-pAdaH#}¦ the second division of a legal plaint, that part which
  relates to the reply or defence; {#pUrvapakzaH smftaH pAdo dvitIyaScottaraH#}
  {#smftaH . kriyApAdastftIyaH syAccaturTo nirRayaH smftaH ..#}
