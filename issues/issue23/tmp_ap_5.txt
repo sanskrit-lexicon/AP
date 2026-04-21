@@ -3955,7 +3955,7 @@
 ∙²6 ‘fire-mouthed’, sharp-biting, an epithet of a bug. <ls>Pt. 1</ls>.
 <LEND>
 
-<L>243.221<pc>0016-2<k1>agnimuKI<k2>agnimuKI<e>2
+<L>243.222<pc>0016-2<k1>agnimuKI<k2>agnimuKI<e>2
 {#agniH#} + {#-muKaH#} + .({@{#-KI#}@})¦ [{#agniriva muKamagraM yasyAH#}; {#gOrAdi-NIz#}]
 ∙²1 <ab>N.</ab> of a plant {#BallAtaka#} (<lang>Mar.</lang> <ns>{#bibavA, BilAvA#}</ns>) and {#lANgalikA#}
  ({#vizalANgalA#}).
@@ -3966,7 +3966,7 @@
 ∙²3 a kitchen [{#pAkaSAlA agniriva uttaptaM muKaM yasyAH sA#}].
 <LEND>
 
-<L>243.222<pc>0017-1<k1>agnimUQa<k2>agnimUQa<e>2
+<L>243.223<pc>0017-1<k1>agnimUQa<k2>agnimUQa<e>2
 {#agniH#} + {#-mUQa#}¦ {%<lex>a.</lex>%} [<sab>{#tf˚ ta˚#}</sab>] <ab>Ved.</ab> made insane or stupefied by
  lightning or fire.
 <LEND>
@@ -13640,14 +13640,14 @@
 {#adriH#} + {#-jAta#}¦ {%<lex>a.</lex>%} mountain-born.
 <LEND>
 
-<L>986.037<pc>0057-2<k1>adrijAtaH<k2>adrijAtaH<e>2
+<L>986.038<pc>0057-2<k1>adrijAtaH<k2>adrijAtaH<e>2
 {#adriH#} + {#-jAta#} + .({@{#-taH#}@})¦
 ∙²1 forest conflagration.
 ∙²2 the ‘Sun-born’, Haṃsa or Swan.
 ∙²3 the Supreme Being.
 <LEND>
 
-<L>986.038<pc>0057-2<k1>adrijUta<k2>adrijUta<e>2
+<L>986.039<pc>0057-2<k1>adrijUta<k2>adrijUta<e>2
 {#adriH#} + {#-jUta, -dugDa#}¦ <ab>Ved.</ab> [<sab>{#tf˚ ta˚#}</sab>] expressed or extracted by
  means of stones. {#raTo ha vAmftajA adrijUtaH#} <ls>Rv. 3. 58. 8</ls>.
 <LEND>
@@ -29128,7 +29128,7 @@
 <LEND>
 
 <L>2385.026<pc>0128-1<k1>anDAhikaH<k2>anDAhikaH<e>2
-{{Lbody=2385.023}}
+{{Lbody=2385.025}}
 <LEND>
 
 <L>2385.027<pc>0128-1<k1>anDakAraH<k2>anDakAraH<e>2
@@ -41079,22 +41079,23 @@
 {#aBiyAtiH, -yAyin, -tf#}¦ {%<lex>m.</lex>%}
 <LEND>
 
-<L>3592.001<pc>0181-1<k1>aBiyAyI<k2>aBiyAyI,<e>1
-{#aBiyAtiH, -yAyin, -tf#} + .({@{#-yI, -tA#}@})¦ Approaching with hostile intentions, an assailant, enemy, a foe.
-<LEND>
-
-<L>3592.002<pc>0181-1<k1>aBiyAtiHtA<k2>aBiyAtiHtA,<e>1
-{{Lbody=3592.001}}
-<LEND>
-
-<L>3592.006<pc>0181-1<k1>aBiyAtiH<k2>aBiyAtiH,<e>1
-{#aBiyAtiH, -yAyin, -tf#} + .{@{#-tiH#}@}¦ {%<lex>f.</lex>%} Assailing.
-<LEND>
 <L>3592.002<pc>0181-1<k1>aBiyAyin<k2>aBiyAyin<e>1
 {{Lbody=3592}}
 <LEND>
 <L>3592.004<pc>0181-1<k1>aBiyAyitf<k2>aBiyAyitf<e>1
 {{Lbody=3592}}
+<LEND>
+
+<L>3592.005<pc>0181-1<k1>aBiyAyI<k2>aBiyAyI,<e>1
+{#aBiyAtiH, -yAyin, -tf#} + .({@{#-yI, -tA#}@})¦ Approaching with hostile intentions, an assailant, enemy, a foe.
+<LEND>
+
+<L>3592.006<pc>0181-1<k1>aBiyAtiHtA<k2>aBiyAtiHtA,<e>1
+{{Lbody=3592.005}}
+<LEND>
+
+<L>3592.007<pc>0181-1<k1>aBiyAtiH<k2>aBiyAtiH,<e>1
+{#aBiyAtiH, -yAyin, -tf#} + .{@{#-tiH#}@}¦ {%<lex>f.</lex>%} Assailing.
 <LEND>
 
 <L>3593<pc>0181-1<k1>aBiyAnam<k2>aBiyAnam<e>1
@@ -47782,10 +47783,6 @@
 <L>4275.050<pc>0207-2<k1>ambuja<k2>ambuja<e>2
 {#ambu#} + {#-ja#}¦ {%<lex>a.</lex>%} produced in water, aquatic (<ab>opp.</ab> {#sTalaja#}); {#suganDIni#}
  {#ca mAlyAni sTalajAnyambujAni ca#} <ls>Rām.</ls>
-<LEND>
-
-<L>4371.022<pc>0213-1<k1>ayonijanman<k2>ayonijanman<e>2
-{{Lbody=4371.020}}
 <LEND>
 
 <L>4275.051<pc>0207-2<k1>ambujaH<k2>ambujaH<e>2
@@ -95482,21 +95479,22 @@
 {#Idfkza, -Sa#}¦ {%<lex>a.</lex>%}
 <LEND>
 
-<L>8312.001<pc>0392-2<k1>IdfkzI<k2>IdfkzI<e>1
+<L>8312.002<pc>0392-2<k1>IdfkSa<k2>IdfkSa<e>1
+{{Lbody=8312}}
+<LEND>
+
+<L>8312.004<pc>0392-2<k1>IdfkzI<k2>IdfkzI<e>1
 {#Idfkza, -Sa#} + .({@{#-kzI, -SI#}@}¦ {%<lex>f.</lex>%}), also {#IdfS#} Such, of this kind, of this aspect,
  endowed with such qualities.
 <LEND>
 
-<L>8312.002<pc>0392-2<k1>IdfsI<k2>IdfsI<e>1
-{{Lbody=8312.001}}
+<L>8312.005<pc>0392-2<k1>IdfsI<k2>IdfsI<e>1
+{{Lbody=8312.004}}
 <LEND>
 
-<L>8312.004<pc>0392-2<k1>Idfk<k2>Idfk<e>1
+<L>8312.006<pc>0392-2<k1>Idfk<k2>Idfk<e>1
 {#Idfkza, -Sa#} + .{@{#-k#}@}¦ {%<lex>n.</lex>%} Such a condition; such occasion; {#laBante yudDamIdfSam#}
  <ls>Bg. 2. 32</ls>, <ls n="Bg.">6. 42</ls>, <ls n="Bg.">11. 49</ls>.
-<LEND>
-<L>8312.002<pc>0392-2<k1>IdfkSa<k2>IdfkSa<e>1
-{{Lbody=8312}}
 <LEND>
 
 <L>8313<pc>0392-2<k1>IdfktA<k2>IdfktA<e>1
@@ -136907,28 +136905,40 @@
 {#kava(ba)ra#}¦ {%<lex>a.</lex>%} [<ls>Uṇ. 4. 154</ls>.]
 <LEND>
 
-<L>11789.001<pc>0549-2<k1>kavarA<k2>kava(ba)ra<e>1
+<L>11789.002<pc>0549-2<k1>kabara<k2>kabara<e>1
+{{Lbody=11789}}
+<LEND>
+
+<L>11789.003<pc>0549-2<k1>kavarA<k2>kava(ba)ra<e>1
 {#kava(ba)ra#} + .({@{#-rA, -rI#}@}¦ {%<lex>f.</lex>%})
 ∙²1 mixed, intermingled; {#vyAkIrRamAnyakabarAM kabarIM taruRyAH#} <ls>Śi. 5. 19</ls>.
 ∙²2 Set, inlaid.
 ∙²3 Variegated. {#‘kabaraH kaburaH SAraH’ iti halAyuDaH .#}
 <LEND>
 
-<L>11789.002<pc>0549-2<k1>kavarI<k2>kava(ba)ra<e>1
-{{Lbody=11789.001}}
+<L>11789.004<pc>0549-2<k1>kabarA<k2>kava(ba)ra<e>1
+{{Lbody=11789.003}
 <LEND>
 
-<L>11789.004<pc>0549-2<k1>kavaraH<k2>kava(ba)ra<e>1
+<L>11789.005<pc>0549-2<k1>kavarI<k2>kava(ba)rI<e>1
+{{Lbody=11789.003}
+<LEND>
+
+<L>11789.006<pc>0549-2<k1>kabarI<k2>kava(ba)rI<e>1
+{{Lbody=11789.003}
+<LEND>
+
+<L>11789.007<pc>0549-2<k1>kavaraH<k2>kava(ba)ra<e>1
 {#kava(ba)ra#} + .{@{#-raH, -ram#}@}¦
 ∙²1 Salt.
 ∙²2 Sourness or acidity.
 <LEND>
 
-<L>11789.006<pc>0549-2<k1>kavaram<k2>kava(ba)ra<e>1
-{{Lbody=11789.004}}
+<L>11789.008<pc>0549-2<k1>kavaram<k2>kava(ba)ra<e>1
+{{Lbody=11789.007}}
 <LEND>
 
-<L>11789.008<pc>0549-2<k1>kavaraH<k2>kava(ba)ra<e>1
+<L>11789.009<pc>0549-2<k1>kavaraH<k2>kava(ba)ra<e>1
 {#kava(ba)ra#} + .{@{#-raH#}@}¦
 ∙²1 A braid or fillet of hair.
 ∙²2 A lecturer ({#pAWaka#}).
@@ -136940,9 +136950,6 @@
 
 <L>11789.012<pc>0549-2<k1>kavarI<k2>kava(ba)ra<e>1
 {{Lbody=11789.010}}
-<LEND>
-<L>11789.002<pc>0549-2<k1>kabara<k2>kabara<e>1
-{{Lbody=11789}}
 <LEND>
 
 <L>11790<pc>0549-2<k1>kavarI<k2>kava(ba)rI<e>1
@@ -487616,23 +487623,24 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#sOmerava, -ruka#}¦ {%<lex>a.</lex>%}
 <LEND>
 
-<L>35495.001<pc>1709-1<k1>sOmeravI<k2>sOmeravI,<e>1
+<L>35495.002<pc>1709-1<k1>sOmeruka<k2>sOmeruka<e>1
+{{Lbody=35495}}
+<LEND>
+
+<L>35495.003<pc>1709-1<k1>sOmeravI<k2>sOmeravI,<e>1
 {#sOmerava, -ruka#} + .({@{#-ravI, -rukI#}@}¦ {%<lex>f.</lex>%}) Relating to or coming from Sumeru.
 <LEND>
 
-<L>35495.002<pc>1709-1<k1>sOmerukI<k2>sOmerukI,<e>1
-{{Lbody=35495.001}}
+<L>35495.004<pc>1709-1<k1>sOmerukI<k2>sOmerukI,<e>1
+{{Lbody=35495.003}}
 <LEND>
 
-<L>35495.004<pc>1709-1<k1>sOmeravam<k2>sOmeravam,<e>1
+<L>35495.005<pc>1709-1<k1>sOmeravam<k2>sOmeravam,<e>1
 {#sOmerava, -ruka#} + .{@{#-ravam, -rukam#}@}¦ Gold; {#sOmeravImaDigatena nitambaSoBAm#} <ls>Śi. 4. 31</ls>.
 <LEND>
 
 <L>35495.006<pc>1709-1<k1>sOmerukam<k2>sOmerukam,<e>1
-{{Lbody=35495.004}}
-<LEND>
-<L>35495.002<pc>1709-1<k1>sOmeruka<k2>sOmeruka<e>1
-{{Lbody=35495}}
+{{Lbody=35495.005}}
 <LEND>
 
 [Page1709-2]
