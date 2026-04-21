@@ -417440,11 +417440,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 <ab>N.</ab> of an ancient authority on the science of <ab>Govt.</ab> referred to by Kauṭilya; <ls>Kau. A. 1. 15</ls>.
 <LEND>
 
-<L>30340.020.XYZ<pc>1471-2<k1>viSAlAkzI<k2>viSAlAkzI<e>2
+<L>30340.022<pc>1471-2<k1>viSAlAkzI<k2>viSAlAkzI<e>2
 {#viSAla#} + {#-akza#} + .({@{#-kzI#}@})¦ an epithet of Pārvatī.
 <LEND>
 
-<L>30340.022<pc>1471-2<k1>viSAlakulam<k2>viSAlakulam<e>2
+<L>30340.023<pc>1471-2<k1>viSAlakulam<k2>viSAlakulam<e>2
 {#viSAla#} + {#-kulam#}¦ a noble or eminent family; {#rupayOvanasaMpannA viSAlakulasaMBavAH .#}
  {#vidyAhInA na SoBante nirganDA iva kiMSukAH ..#} <ls>H.</ls>
 <LEND>
@@ -418506,11 +418506,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#viSva#} + {#-rUpa#} + .({@{#-paH#}@})¦ an epithet of Viṣṇu.
 <LEND>
 
-<L>30396.118.XYZ<pc>1475-1<k1>viSvarUpam<k2>viSvarUpam<e>2
+<L>30396.120<pc>1475-1<k1>viSvarUpam<k2>viSvarUpam<e>2
 {#viSva#} + {#-rUpa#} + .({@{#-pam#}@})¦ agallochum.
 <LEND>
 
-<L>30396.120<pc>1475-1<k1>viSvaretas<k2>viSvaretas<e>2
+<L>30396.121<pc>1475-1<k1>viSvaretas<k2>viSvaretas<e>2
 {#viSva#} + {#-retas#}¦ {%<lex>m.</lex>%}
 ∙²1 an epithet of Brahman.
 ∙²2 of Viṣṇu.
@@ -418975,13 +418975,13 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 the {#SirIza#} and {#campaka#} trees.
 <LEND>
 
-<L>30423.058.XYZ<pc>1476-2<k1>vizaGnI<k2>vizaGnI<e>2
+<L>30423.060<pc>1476-2<k1>vizaGnI<k2>vizaGnI<e>2
 {#vizam#} + {#-Gna#} + .({@{#-GnI#}@})¦
 ∙²1 turmeric.
 ∙²2 colocynth.
 <LEND>
 
-<L>30423.060<pc>1476-2<k1>vizajuzwa<k2>vizajuzwa<e>2
+<L>30423.061<pc>1476-2<k1>vizajuzwa<k2>vizajuzwa<e>2
 {#vizam#} + {#-juzwa#}¦ {%<lex>a.</lex>%}
 ∙²1 poisonous.
 ∙²2 poisoned, affected by poison.
@@ -433735,13 +433735,13 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#Satam#} + {#-patraH#} + .({@{#-trA#}@})¦ a woman.
 <LEND>
 
-<L>31610.100.XYZ<pc>1530-1<k1>Satapatram<k2>Satapatram<e>2
+<L>31610.102<pc>1530-1<k1>Satapatram<k2>Satapatram<e>2
 {#Satam#} + {#-patraH#} + .({@{#-tram#}@})¦ a lotus; {#AvfttavfntaSatapatraniBam#} ({#AnanaM#}) {#vahantyA#}
  <ls>Māl. 1. 22</ls>. {#˚yoni#} an epithet of Brahman; {#kampena mUrDnaH SatapatrayoniM#}
  ({#saMBAvayAmAsa#}) <ls>Ku. 7. 46</ls>.
 <LEND>
 
-<L>31610.102<pc>1530-1<k1>SatapatrakaH<k2>SatapatrakaH<e>2
+<L>31610.103<pc>1530-1<k1>SatapatrakaH<k2>SatapatrakaH<e>2
 {#Satam#} + {#-patrakaH#}¦ the wood-pecker.
 <LEND>
 
@@ -433890,11 +433890,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#Satam#} + {#-muKa#} + .({@{#-Kam#}@})¦ a hundred ways or openings.
 <LEND>
 
-<L>31610.162.XYZ<pc>1530-1<k1>SatamuKI<k2>SatamuKI<e>2
+<L>31610.164<pc>1530-1<k1>SatamuKI<k2>SatamuKI<e>2
 {#Satam#} + {#-muKa#} + .({@{#-KI#}@})¦ a brush, broom.
 <LEND>
 
-<L>31610.164<pc>1530-1<k1>SatamUrDan<k2>SatamUrDan<e>2
+<L>31610.165<pc>1530-1<k1>SatamUrDan<k2>SatamUrDan<e>2
 {#Satam#} + {#-mUrDan#}¦ {%<lex>m.</lex>%} an ant-hill.
 <LEND>
 
@@ -435161,11 +435161,15 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 Poor, unfortunate.
 <LEND>
 
+<L>31675.002<pc>1534-2<k1>SamBa<k2>SamBa<e>1
+{{Lbody=31675}}
+<LEND>
+
 <L>31675.004<pc>1534-2<k1>SambaH<k2>SambaH<e>1
 {#Samba(mBa)#} + .{@{#-mbaH#}@}¦,
 <LEND>
 
-<L>31675.004.XYZ<pc>1534-2<k1>SamBaH<k2>SamBaH<e>1
+<L>31675.005<pc>1534-2<k1>SamBaH<k2>SamBaH<e>1
 {#Samba(mBa)#} + .{@{#-mbaH#}@} + .({@{#-mBaH#}@})¦
 ∙²1 The thunderbolt of Indra.
 ∙²2 The iron head of a pestle.
@@ -435176,9 +435180,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  {#tvayA SambAkftaM kzatam#} <ls>N. 20. 83</ls>, doubly pierced).
 .━{@<ab>Comp.</ab>@}: {#SambapARiH#}
 <LEND>
-<L>31675.002<pc>1534-2<k1>SamBa<k2>SamBa<e>1
-{{Lbody=31675}}
-<LEND>
+
 <L>31675.020<pc>1534-2<k1>SambapARiH<k2>SambapARiH<e>2
 {#Samba#} + {#-pARiH#}¦ <ab>N.</ab> of Indra (having a thunderbolt in his hand); {#kaRWekAlena#}
  {#kElAsaH sa meruH SambapARinA#} <ls>Śiva B. 16. 60</ls>.
@@ -441819,16 +441821,16 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#Siva#} + {#-priyaH#} + .({@{#-yam#}@})¦ = {#rudrAkza#} <ab>q. v.</ab>
 <LEND>
 
-<L>32107.076.XYZ<pc>1554-2<k1>SivapriyA<k2>SivapriyA<e>2
+<L>32107.078<pc>1554-2<k1>SivapriyA<k2>SivapriyA<e>2
 {#Siva#} + {#-priyaH#} + .({@{#-yA#}@})¦ the goddess Durgā.
 <LEND>
 
-<L>32107.078<pc>1554-2<k1>SivabIjam<k2>SivabIjam<e>2
+<L>32107.079<pc>1554-2<k1>SivabIjam<k2>SivabIjam<e>2
 {#Siva#} + {#-bIjam, -vIjam#}¦ quick-silver.
 <LEND>
 
 <L>32107.080<pc>1554-2<k1>SivavIjam<k2>SivavIjam<e>2
-{{Lbody=32107.078}}
+{{Lbody=32107.079}}
 <LEND>
 
 <L>32107.082<pc>1554-2<k1>SivaBAratam<k2>SivaBAratam<e>2
@@ -451525,13 +451527,13 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#zaz#} + {#-Buja#} + .({@{#-jaH#}@})¦ a hexagon.
 <LEND>
 
-<L>32708.112.XYZ<pc>1584-1<k1>zaqBujA<k2>zaqBujA<e>2
+<L>32708.114<pc>1584-1<k1>zaqBujA<k2>zaqBujA<e>2
 {#zaz#} + {#-Buja#} + .({@{#-jA#}@})¦
 ∙²1 an epithet of Durgā.
 ∙²2 the water-melon.
 <LEND>
 
-<L>32708.114<pc>1584-1<k1>zaRmatasTApakaH<k2>zaRmatasTApakaH<e>2
+<L>32708.115<pc>1584-1<k1>zaRmatasTApakaH<k2>zaRmatasTApakaH<e>2
 {#zaz#} + {#-matasTApakaH#}¦ ({#zaRmatasTApakaH#}) <ab>N.</ab> of Śaṃkarācārya.
 <LEND>
 
@@ -458236,14 +458238,14 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#sat#} + {#-kfta#} + .({@{#-taH#}@})¦ an epithet of Śiva.
 <LEND>
 
-<L>33350.050.XYZ<pc>1611-2<k1>satkftam<k2>satkftam<e>2
+<L>33350.052<pc>1611-2<k1>satkftam<k2>satkftam<e>2
 {#sat#} + {#-kfta#} + .({@{#-tam#}@})¦
 ∙²1 hospitality.
 ∙²2 respect.
 ∙²3 virtue, piety.
 <LEND>
 
-<L>33350.052<pc>1611-2<k1>satkftiH<k2>satkftiH<e>2
+<L>33350.053<pc>1611-2<k1>satkftiH<k2>satkftiH<e>2
 {#sat#} + {#-kftiH#}¦ {%<lex>f.</lex>%}
 ∙²1 treating with respect, hospitality, hospitable reception.
 ∙²2 virtue, morality.
@@ -458946,11 +458948,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  {#vA na SvavfttyA kadAcana#} <ls>Ms. 4. 4</ls> and 6.
 <LEND>
 
-<L>33378.024.XYZ<pc>1614-1<k1>satyAnfte<k2>satyAnfte<e>2
+<L>33378.026<pc>1614-1<k1>satyAnfte<k2>satyAnfte<e>2
 {{Lbody=33378.025}}
 <LEND>
 
-<L>33378.026<pc>1614-1<k1>satyABisaMDa<k2>satyABisaMDa<e>2
+<L>33378.027<pc>1614-1<k1>satyABisaMDa<k2>satyABisaMDa<e>2
 {#satya#} + {#-aBisaMDa#}¦ {%<lex>a.</lex>%} true to oneʼs promise, sincere.
 <LEND>
 
@@ -466391,11 +466393,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 a seaman, a sea-farer; so {#samudragAmin-yAyin#} <ab>&c.</ab>
 <LEND>
 
-<L>34054.044.XYZ<pc>1642-1<k1>samudragA<k2>samudragA<e>2
+<L>34054.046<pc>1642-1<k1>samudragA<k2>samudragA<e>2
 {#samudra#} + {#-ga#} + .({@{#-gA#}@})¦ a river.
 <LEND>
 
-<L>34054.046<pc>1642-1<k1>samudragfham<k2>samudragfham<e>2
+<L>34054.047<pc>1642-1<k1>samudragfham<k2>samudragfham<e>2
 {#samudra#} + {#-gfham#}¦
 ∙²1 a summer-house built in the midst of water; <ls>Pratimā 2</ls>.
 ∙²2 a bath-room.
@@ -470238,11 +470240,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 the spirit, soul.
 <LEND>
 
-<L>34421.102.XYZ<pc>1656-1<k1>sarvagam<k2>sarvagam<e>2
+<L>34421.104<pc>1656-1<k1>sarvagam<k2>sarvagam<e>2
 {#sarva#} + {#-ga#} + .({@{#-gam#}@})¦ water.
 <LEND>
 
-<L>34421.104<pc>1656-1<k1>sarvagA<k2>sarvagA<e>2
+<L>34421.105<pc>1656-1<k1>sarvagA<k2>sarvagA<e>2
 {#sarva#} + {#-gA#}¦ the plant called {#priyaNgu#}.
 <LEND>
 
@@ -470624,11 +470626,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#sarva#} + {#-saha#} + .({@{#-haH#}@})¦ bdellium.
 <LEND>
 
-<L>34421.268.XYZ<pc>1656-2<k1>sarvasahA<k2>sarvasahA<e>2
+<L>34421.270<pc>1656-2<k1>sarvasahA<k2>sarvasahA<e>2
 {#sarva#} + {#-saha#} + .({@{#-hA#}@}¦, also {#sarvaMsahA#}) the earth.
 <LEND>
 
-<L>34421.270<pc>1656-2<k1>sarvasAkzin<k2>sarvasAkzin<e>2
+<L>34421.271<pc>1656-2<k1>sarvasAkzin<k2>sarvasAkzin<e>2
 {#sarva#} + {#-sAkzin#}¦ {%<lex>a.</lex>%} all-witnessing. ━({%<lex>m.</lex>%})
 ∙²1 <ab>N.</ab> of the Supreme Being.
 ∙²2 <ab>N.</ab> of wind.
@@ -470761,13 +470763,13 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²7 heaven or Svarga (of Indra).
 <LEND>
 
-<L>34424.026.XYZ<pc>1657-1<k1>sarvatomuKam<k2>sarvatomuKam<e>2
+<L>34424.028<pc>1657-1<k1>sarvatomuKam<k2>sarvatomuKam<e>2
 {#sarvatas#} + {#-muKa#} + .({@{#-Kam#}@})¦
 ∙²1 water; {#pipAsataH kAScana sarvatomuKaM tavArpayantAmapi kAmamodanam#} <ls>N. 16. 49</ls>.
 ∙²2 sky.
 <LEND>
 
-<L>34424.028<pc>1657-1<k1>sarvatovftta<k2>sarvatovftta<e>2
+<L>34424.029<pc>1657-1<k1>sarvatovftta<k2>sarvatovftta<e>2
 {#sarvatas#} + {#-vftta#}¦ {%<lex>a.</lex>%} omnipresent.
 <LEND>
 
@@ -471833,13 +471835,13 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 a surety.
 <LEND>
 
-<L>34522.070.XYZ<pc>1660-2<k1>sahacarI<k2>sahacarI<e>2
+<L>34522.072<pc>1660-2<k1>sahacarI<k2>sahacarI<e>2
 {#saha#} + {#-cara#} + .({@{#-rI#}@}¦ {%<lex>f.</lex>%})
 ∙²1 a female companion.
 ∙²2 a wife, mate; {#prekzya sTitAM sahacarIM vyavaDAya deham#} <ls>R. 9. 57</ls>.
 <LEND>
 
-<L>34522.072<pc>1660-2<k1>sahacarita<k2>sahacarita<e>2
+<L>34522.073<pc>1660-2<k1>sahacarita<k2>sahacarita<e>2
 {#saha#} + {#-carita#}¦ {%<lex>a.</lex>%}
 ∙²1 accompanying, attending, associating with.
 ∙²2 Congruent, homogeneous.
@@ -474619,20 +474621,20 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 produced by conciliatory means.
 <LEND>
 
-<L>34759.035<pc>1670-1<k1>sAmajaH<k2>sAmajaH<e>2
-{#sAman#} + {#-ja, -jAta#} + .({@{#-jaH, -taH#}@})¦ an elephant; {#nAnAviDAvizkftasAmajasvaraH#} <ls>Śi. 12. 11</ls>;
- {#dantA dantErAhatAH sAmajAnAM BaNgaM jagmurna svayaM sAmajAtAH#} <ls n="Śi.">18. 33</ls>.
-<LEND>
-
-<L>34759.034.XYZ<pc>1670-1<k1>sAmajAtaH<k2>sAmajAtaH<e>2
-{{Lbody=34759.035}}
-<LEND>
-
 <L>34759.036<pc>1670-1<k1>sAmajAta<k2>sAmajAta<e>2
 {{Lbody=34759.034}}
 <LEND>
 
-<L>34759.038<pc>1670-2<k1>sAmapraDAna<k2>sAmapraDAna<e>2
+<L>34759.037<pc>1670-1<k1>sAmajaH<k2>sAmajaH<e>2
+{#sAman#} + {#-ja, -jAta#} + .({@{#-jaH, -taH#}@})¦ an elephant; {#nAnAviDAvizkftasAmajasvaraH#} <ls>Śi. 12. 11</ls>;
+ {#dantA dantErAhatAH sAmajAnAM BaNgaM jagmurna svayaM sAmajAtAH#} <ls n="Śi.">18. 33</ls>.
+<LEND>
+
+<L>34759.038<pc>1670-1<k1>sAmajAtaH<k2>sAmajAtaH<e>2
+{{Lbody=34759.037}}
+<LEND>
+
+<L>34759.039<pc>1670-2<k1>sAmapraDAna<k2>sAmapraDAna<e>2
 {#sAman#} + {#-praDAna#}¦ {%<lex>a.</lex>%} perfectly kind or friendly.
 <LEND>
 
@@ -478154,19 +478156,19 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 sea-born, born in the {%Sindha%} country.
 <LEND>
 
-<L>35029.031<pc>1682-2<k1>sinDujaH<k2>sinDujaH<e>2
-{#sinDuH#} + {#-ja, -janman#} + .({@{#-jaH#}@})¦ the moon.
-<LEND>
-
-<L>35029.030.XYZ<pc>1682-2<k1>sinDujam<k2>sinDujam<e>2
-{#sinDuH#} + {#-ja, -janman#} + .({@{#-jam#}@})¦ rock-salt.
-<LEND>
-
 <L>35029.032<pc>1682-2<k1>sinDujanman<k2>sinDujanman<e>2
 {{Lbody=35029.030}}
 <LEND>
 
-<L>35029.034<pc>1682-2<k1>sinDujA<k2>sinDujA<e>2
+<L>35029.033<pc>1682-2<k1>sinDujaH<k2>sinDujaH<e>2
+{#sinDuH#} + {#-ja, -janman#} + .({@{#-jaH#}@})¦ the moon.
+<LEND>
+
+<L>35029.034<pc>1682-2<k1>sinDujam<k2>sinDujam<e>2
+{#sinDuH#} + {#-ja, -janman#} + .({@{#-jam#}@})¦ rock-salt.
+<LEND>
+
+<L>35029.035<pc>1682-2<k1>sinDujA<k2>sinDujA<e>2
 {#sinDuH#} + {#-jA#}¦ {%<lex>f.</lex>%} <ab>N.</ab> of Lakṣmī.
 <LEND>
 
@@ -478923,7 +478925,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-ukta#} + .({@{#-ktA#}@})¦ a kind of bird ({#sArikA#}).
 <LEND>
 
-<L>35088.048.XYZ<pc>1685-1<k1>sUktam<k2>sUktam<e>2
+<L>35088.050<pc>1685-1<k1>sUktam<k2>sUktam<e>2
 {#su#} + {#-ukta#} + .({@{#-ktam#}@})¦
 ∙²1 a good or wise saying; {#netuM vAYCati yaH KalAn paTi satAM sUktEH#}
  {#suDAsyandiBiH#} <ls>Bh. 2. 6</ls>; <ls>R. 15. 97</ls>.
@@ -478937,7 +478939,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 praise, a word of praise.
 <LEND>
 
-<L>35088.050<pc>1685-1<k1>sUktiH<k2>sUktiH<e>2
+<L>35088.051<pc>1685-1<k1>sUktiH<k2>sUktiH<e>2
 {#su#} + {#-uktiH#}¦ {%<lex>f.</lex>%}
 ∙²1 a good or friendly speech.
 ∙²2 a good or clever saying.
@@ -479012,21 +479014,21 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-kara#} + .({@{#-raH#}@})¦ a good-natured horse.
 <LEND>
 
-<L>35088.074.XYZ<pc>1685-1<k1>sukarA<k2>sukarA<e>2
+<L>35088.076<pc>1685-1<k1>sukarA<k2>sukarA<e>2
 {#su#} + {#-kara#} + .({@{#-rA#}@})¦ a tractable cow.
 <LEND>
 
-<L>35088.074.XYZ<pc>1685-1<k1>sukaram<k2>sukaram<e>2
+<L>35088.077<pc>1685-1<k1>sukaram<k2>sukaram<e>2
 {#su#} + {#-kara#} + .({@{#-ram#}@})¦ charity, benevolence.
 <LEND>
 
-<L>35088.076<pc>1685-1<k1>sukarman<k2>sukarman<e>2
+<L>35088.078<pc>1685-1<k1>sukarman<k2>sukarman<e>2
 {#su#} + {#-karman#}¦ {%<lex>a.</lex>%}
 ∙²1 one whose deeds are righteous, virtuous, good.
 ∙²2 active, diligent. ━({%<lex>m.</lex>%}) <ab>N.</ab> of Visvakarman.
 <LEND>
 
-<L>35088.078<pc>1685-1<k1>sukala<k2>sukala<e>2
+<L>35088.079<pc>1685-1<k1>sukala<k2>sukala<e>2
 {#su#} + {#-kala#}¦ {%<lex>a.</lex>%} one who has acquired a great reputation for liberality
  in giving and using (money <ab>&c.</ab>)
 <LEND>
@@ -479087,26 +479089,26 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²5 the wild Champaka.
 <LEND>
 
-<L>35088.098.XYZ<pc>1685-2<k1>sukumArA<k2>sukumArA<e>2
+<L>35088.100<pc>1685-2<k1>sukumArA<k2>sukumArA<e>2
 {#su#} + {#-kumAra#} + .({@{#-rA#}@})¦
 ∙²1 the double jasmine.
 ∙²2 the plantain.
 ∙²3 the great-flowered jasmine.
 <LEND>
 
-<L>35088.100<pc>1685-2<k1>sukumArakaH<k2>sukumArakaH<e>2
+<L>35088.101<pc>1685-2<k1>sukumArakaH<k2>sukumArakaH<e>2
 {#su#} + {#-kumArakaH#}¦
 ∙²1 a beautiful youth.
 ∙²2 rice ({#SAli#}).
 <LEND>
 
-<L>35088.101<pc>1685-2<k1>sukumArakam<k2>sukumArakam<e>2
+<L>35088.102<pc>1685-2<k1>sukumArakam<k2>sukumArakam<e>2
 {#su#} + {#-kumArakaH#} + .({@{#-kam#}@})¦
 ∙²1 the Tamālapatra.
 ∙²2 a particular part of the ear.
 <LEND>
 
-<L>35088.102<pc>1685-2<k1>sukumArI<k2>sukumArI<e>2
+<L>35088.103<pc>1685-2<k1>sukumArI<k2>sukumArI<e>2
 {#su#} + {#-kumArI#}¦ the Navamallikā jasmine.
 <LEND>
 
