@@ -479211,13 +479211,13 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-ga#} + .({@{#-gaH#}@})¦ a Gandharva; {#gItEH sugA vAdyaDarASca vAdyakEH#} <ls>Bhāg. 10. 12. 34</ls>.
 <LEND>
 
-<L>35088.126.XYZ<pc>1685-2<k1>sugam<k2>sugam<e>2
+<L>35088.128<pc>1685-2<k1>sugam<k2>sugam<e>2
 {#su#} + {#-ga#} + .({@{#-gam#}@})¦
 ∙²1 ordure, feces.
 ∙²2 happiness.
 <LEND>
 
-<L>35088.128<pc>1685-2<k1>sugaR<k2>sugaR<e>2
+<L>35088.129<pc>1685-2<k1>sugaR<k2>sugaR<e>2
 {#su#} + {#-gaR#}¦ {%<lex>m.</lex>%} a good calculator; <ls>L. D. B.</ls> ━{%<lex>a.</lex>%} counting well.
 <LEND>
 
@@ -479256,11 +479256,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 a kind of fragrant grass.
 <LEND>
 
-<L>35088.136.XYZ<pc>1685-2<k1>suganDA<k2>suganDA<e>2
+<L>35088.138<pc>1685-2<k1>suganDA<k2>suganDA<e>2
 {#su#} + {#-ganDaH#} + .({@{#-nDA#}@})¦ sacred basil.
 <LEND>
 
-<L>35088.138<pc>1685-2<k1>suganDakaH<k2>suganDakaH<e>2
+<L>35088.139<pc>1685-2<k1>suganDakaH<k2>suganDakaH<e>2
 {#su#} + {#-ganDakaH#}¦
 ∙²1 sulphur.
 ∙²2 the red {%Tulasee%}.
@@ -479290,7 +479290,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 a kind of sweet-smelling mango.
 <LEND>
 
-<L>35088.144.XYZ<pc>1686-1<k1>suganDi<k2>suganDi<e>2
+<L>35088.146<pc>1686-1<k1>suganDi<k2>suganDi<e>2
 {#su#} + {#-ganDi#} + .({@{#-nDi#}@}¦ {%<lex>n.</lex>%})
 ∙²1 the root of long pepper.
 ∙²2 a kind of fragrant grass.
@@ -479300,18 +479300,18 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 cloves. {#˚mUlam#} the root Uśīra. {#˚mUzikA#} the musk-rat.
 <LEND>
 
-<L>35088.146<pc>1686-1<k1>suganDikaH<k2>suganDikaH<e>2
+<L>35088.147<pc>1686-1<k1>suganDikaH<k2>suganDikaH<e>2
 {#su#} + {#-ganDikaH#}¦
 ∙²1 incense.
 ∙²2 sulphur.
 ∙²3 a kind of rice.
 <LEND>
 
-<L>35088.147<pc>1686-1<k1>suganDikam<k2>suganDikam<e>2
+<L>35088.148<pc>1686-1<k1>suganDikam<k2>suganDikam<e>2
 {#su#} + {#-ganDikaH#} + .({@{#-kam#}@})¦ the white lotus.
 <LEND>
 
-<L>35088.148<pc>1686-1<k1>sugama<k2>sugama<e>2
+<L>35088.149<pc>1686-1<k1>sugama<k2>sugama<e>2
 {#su#} + {#-gama#}¦ {%<lex>a.</lex>%}
 ∙²1 easy of access, accessible.
 ∙²2 easy.
@@ -479399,39 +479399,39 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 moral, virtuous; {#tAn viditvA sucaritErgUQEstatkarmakAriBiH#} <ls>Ms. 9. 261</ls>.
 <LEND>
 
-<L>35088.173<pc>1686-1<k1>sucaritam<k2>sucaritam<e>2
+<L>35088.174<pc>1686-1<k1>sucaritra<k2>sucaritra<e>2
+{{Lbody=35088.172}}
+<LEND>
+
+<L>35088.175<pc>1686-1<k1>sucaritam<k2>sucaritam<e>2
 {#su#} + {#-carita, -caritra#} + .({@{#-tam, -tram#}@})¦
 ∙²1 good conduct, virtuous deeds.
 ∙²2 merit; {#tava sucaritamaNgulIya nUnaM pratanu#} <ls>Ś. 6. 10</ls>.
 <LEND>
 
-<L>35088.172.XYZ<pc>1686-1<k1>sucaritram<k2>sucaritram<e>2
-{{Lbody=35088.173}}
+<L>35088.176<pc>1686-1<k1>sucaritram<k2>sucaritram<e>2
+{{Lbody=35088.175}}
 <LEND>
 
-<L>35088.172.XYZ<pc>1686-1<k1>sucaritA<k2>sucaritA<e>2
+<L>35088.177<pc>1686-1<k1>sucaritA<k2>sucaritA<e>2
 {#su#} + {#-carita, -caritra#} + .({@{#-tA, -trA#}@})¦ a well-conducted, devoted, and virtuous wife.
 <LEND>
 
-<L>35088.172.XYZ<pc>1686-1<k1>sucaritrA<k2>sucaritrA<e>2
-{{Lbody=35088.173}}
+<L>35088.178<pc>1686-1<k1>sucaritrA<k2>sucaritrA<e>2
+{{Lbody=35088.177}}
 <LEND>
 
-<L>35088.174<pc>1686-1<k1>sucaritra<k2>sucaritra<e>2
-{{Lbody=35088.172}}
-<LEND>
-
-<L>35088.176<pc>1686-1<k1>sucarman<k2>sucarman<e>2
+<L>35088.179<pc>1686-1<k1>sucarman<k2>sucarman<e>2
 {#su#} + {#-carman#}¦ {%<lex>m.</lex>%} the Bhūrja tree.
 <LEND>
 
-<L>35088.178<pc>1686-1<k1>sucitrakaH<k2>sucitrakaH<e>2
+<L>35088.180<pc>1686-1<k1>sucitrakaH<k2>sucitrakaH<e>2
 {#su#} + {#-citrakaH#}¦
 ∙²1 a king-fisher.
 ∙²2 a kind of speckled snake.
 <LEND>
 
-<L>35088.180<pc>1686-1<k1>sucitrA<k2>sucitrA<e>2
+<L>35088.181<pc>1686-1<k1>sucitrA<k2>sucitrA<e>2
 {#su#} + {#-citrA#}¦ a kind of gourd.
 <LEND>
 
@@ -479547,11 +479547,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  {#paSyanti hemakUwagatAH#} <ls>V. 1. 10</ls>; <ls>Ś. 7. 24</ls>.
 <LEND>
 
-<L>35088.216.XYZ<pc>1686-2<k1>sutanUH<k2>sutanUH<e>2
+<L>35088.218<pc>1686-2<k1>sutanUH<k2>sutanUH<e>2
 {{Lbody=35088.217}}
 <LEND>
 
-<L>35088.218<pc>1686-2<k1>sutantrI<k2>sutantrI<e>2
+<L>35088.219<pc>1686-2<k1>sutantrI<k2>sutantrI<e>2
 {#su#} + {#-tantrI#}¦ {%<lex>a.</lex>%}
 ∙²1 well-stringed.
 ∙²2 (hence) melodious.
@@ -479618,11 +479618,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-tAra#} + .({@{#-raH#}@})¦ a kind of perfume.
 <LEND>
 
-<L>35088.236.XYZ<pc>1686-2<k1>sutArA<k2>sutArA<e>2
+<L>35088.238<pc>1686-2<k1>sutArA<k2>sutArA<e>2
 {#su#} + {#-tAra#} + .({@{#-rA#}@})¦ (in Sāṃkhya) one of the nine kinds of acquiescence.
 <LEND>
 
-<L>35088.238<pc>1686-2<k1>sutiktakaH<k2>sutiktakaH<e>2
+<L>35088.239<pc>1686-2<k1>sutiktakaH<k2>sutiktakaH<e>2
 {#su#} + {#-tiktakaH#}¦ the coral tree.
 <LEND>
 
@@ -479726,19 +479726,19 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 a vulture.
 <LEND>
 
-<L>35088.262.XYZ<pc>1687-1<k1>sudarSanI<k2>sudarSanI<e>2
+<L>35088.264<pc>1687-1<k1>sudarSanI<k2>sudarSanI<e>2
 {#su#} + {#-darSana#} + .({@{#-nI, -nam#}@})¦ <ab>N.</ab> of Amarāvatī, Indraʼs capital.
 <LEND>
 
-<L>35088.262.XYZ<pc>1687-1<k1>sudarSanam<k2>sudarSanam<e>2
-{{Lbody=35088.263}}
+<L>35088.265<pc>1687-1<k1>sudarSanam<k2>sudarSanam<e>2
+{{Lbody=35088.264}}
 <LEND>
 
-<L>35088.262.XYZ<pc>1687-1<k1>sudarSanam<k2>sudarSanam<e>2
+<L>35088.266<pc>1687-1<k1>sudarSanam<k2>sudarSanam<e>2
 {#su#} + {#-darSana#} + .({@{#-nam#}@})¦ <ab>N.</ab> of Jambudvīpa.
 <LEND>
 
-<L>35088.264<pc>1687-1<k1>sudarSanA<k2>sudarSanA<e>2
+<L>35088.267<pc>1687-1<k1>sudarSanA<k2>sudarSanA<e>2
 {#su#} + {#-darSanA#}¦
 ∙²1 a handsome woman.
 ∙²2 a woman.
@@ -479746,11 +479746,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 a kind of drug.
 <LEND>
 
-<L>35088.266<pc>1687-1<k1>sudAs<k2>sudAs<e>2
+<L>35088.268<pc>1687-1<k1>sudAs<k2>sudAs<e>2
 {#su#} + {#-dAs#}¦ {%<lex>a.</lex>%} very bountiful.
 <LEND>
 
-<L>35088.268<pc>1687-1<k1>sudAntaH<k2>sudAntaH<e>2
+<L>35088.269<pc>1687-1<k1>sudAntaH<k2>sudAntaH<e>2
 {#su#} + {#-dAntaH#}¦ a Buddhist.
 <LEND>
 
@@ -479909,14 +479909,14 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 <ab>N.</ab> of an attendant on Kṛṣṇa.
 <LEND>
 
-<L>35088.322.XYZ<pc>1687-2<k1>suDyupAsyam<k2>suDyupAsyam<e>2
+<L>35088.324<pc>1687-2<k1>suDyupAsyam<k2>suDyupAsyam<e>2
 {#su#} + {#-DI#} + .({@{#-syam#}@})¦ the club of Balarāma. {#˚upAsyA#}
 ∙²1 a woman.
 ∙²2 <ab>N.</ab> of Umā, or of one of her female companions.
 ∙²3 a sort of pigment.
 <LEND>
 
-<L>35088.324<pc>1687-2<k1>suDUmravarRA<k2>suDUmravarRA<e>2
+<L>35088.325<pc>1687-2<k1>suDUmravarRA<k2>suDUmravarRA<e>2
 {#su#} + {#-DUmravarRA#}¦ one of the seven tongues of fire.
 <LEND>
 
@@ -479950,34 +479950,34 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-nayana#} + .({@{#-naH#}@})¦ a deer.
 <LEND>
 
-<L>35088.334.XYZ<pc>1687-2<k1>sunayanA<k2>sunayanA<e>2
+<L>35088.336<pc>1687-2<k1>sunayanA<k2>sunayanA<e>2
 {#su#} + {#-nayana#} + .({@{#-nA#}@})¦
 ∙²1 a woman having beautiful eyes.
 ∙²2 a woman in general.
 <LEND>
 
-<L>35088.336<pc>1687-2<k1>sunABa<k2>sunABa<e>2
+<L>35088.337<pc>1687-2<k1>sunABa<k2>sunABa<e>2
 {#su#} + {#-nABa#}¦ {%<lex>a.</lex>%}
 ∙²1 having a beautiful navel.
 ∙²2 having a good nave or centre.
 <LEND>
 
-<L>35088.337<pc>1687-2<k1>sunABaH<k2>sunABaH<e>2
+<L>35088.338<pc>1687-2<k1>sunABaH<k2>sunABaH<e>2
 {#su#} + {#-nABa#} + .({@{#-BaH#}@})¦
 ∙²1 a mountain.
 ∙²2 the Maināka mountain, <ab>q. v.</ab>
 <LEND>
 
-<L>35088.336.XYZ<pc>1687-2<k1>sunABam<k2>sunABam<e>2
+<L>35088.339<pc>1687-2<k1>sunABam<k2>sunABam<e>2
 {#su#} + {#-nABa#} + .({@{#-Bam#}@})¦ a wheel, discus ({#sudarSana#}); {#ye saMyuge'cakzata tArkzyaputramaMse#}
  {#sunABAyuDamApatantam#} <ls>Bhāg. 3. 2. 24</ls>.
 <LEND>
 
-<L>35088.338<pc>1687-2<k1>sunAlam<k2>sunAlam<e>2
+<L>35088.340<pc>1687-2<k1>sunAlam<k2>sunAlam<e>2
 {#su#} + {#-nAlam#}¦ a red water-lily.
 <LEND>
 
-<L>35088.340<pc>1687-2<k1>suniHzWita<k2>suniHzWita<e>2
+<L>35088.341<pc>1687-2<k1>suniHzWita<k2>suniHzWita<e>2
 {#su#} + {#-niHzWita#}¦ {%<lex>a.</lex>%} quite ready.
 <LEND>
 
@@ -480052,20 +480052,20 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-nIla#} + .({@{#-laH#}@})¦ the pomegranate tree.
 <LEND>
 
-<L>35088.362.XYZ<pc>1687-2<k1>sunIlA<k2>sunIlA<e>2
+<L>35088.364<pc>1687-2<k1>sunIlA<k2>sunIlA<e>2
 {#su#} + {#-nIla#} + .({@{#-lA#}@})¦ common flax.
 <LEND>
 
-<L>35088.362.XYZ<pc>1687-2<k1>sunIlam<k2>sunIlam<e>2
+<L>35088.365<pc>1687-2<k1>sunIlam<k2>sunIlam<e>2
 {#su#} + {#-nIla#} + .({@{#-lam#}@})¦, {@{#-nIlakaH#}@}
  a blue gem.
 <LEND>
 
-<L>35088.364<pc>1687-2<k1>sunu<k2>sunu<e>2
+<L>35088.366<pc>1687-2<k1>sunu<k2>sunu<e>2
 {#su#} + {#-nu#}¦ {%<lex>n.</lex>%} water.
 <LEND>
 
-<L>35088.366<pc>1687-2<k1>sunetra<k2>sunetra<e>2
+<L>35088.367<pc>1687-2<k1>sunetra<k2>sunetra<e>2
 {#su#} + {#-netra#}¦ {%<lex>a.</lex>%} having good or beautiful eyes.
 <LEND>
 
@@ -480229,32 +480229,32 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 the Śirīṣa tree.
 <LEND>
 
-<L>35088.416.XYZ<pc>1688-1<k1>supuzpI<k2>supuzpI<e>2
+<L>35088.418<pc>1688-1<k1>supuzpI<k2>supuzpI<e>2
 {#su#} + {#-puzpa#} + .({@{#-zpI#}@})¦ the plantain tree.
 <LEND>
 
-<L>35088.416.XYZ<pc>1688-1<k1>supuzpam<k2>supuzpam<e>2
+<L>35088.419<pc>1688-1<k1>supuzpam<k2>supuzpam<e>2
 {#su#} + {#-puzpa#} + .({@{#-zpam#}@})¦
 ∙²1 cloves.
 ∙²2 the menstrual excretion.
 <LEND>
 
-<L>35088.418<pc>1688-1<k1>supuzpita<k2>supuzpita<e>2
+<L>35088.420<pc>1688-1<k1>supuzpita<k2>supuzpita<e>2
 {#su#} + {#-puzpita#}¦ {%<lex>a.</lex>%}
 ∙²1 well blossomed, being in full flower. ∙²2 having the hair thrilling or bristling.
 <LEND>
 
-<L>35088.420<pc>1688-1<k1>supUra<k2>supUra<e>2
+<L>35088.421<pc>1688-1<k1>supUra<k2>supUra<e>2
 {#su#} + {#-pUra#}¦ {%<lex>a.</lex>%} ∙²1 easy to be filled; {#supUrA syAt kunadikA supUro#}
  {#mUzikAYjaliH#} <ls>Pt. 1. 25</ls>.
 ∙²2 well-filling.
 <LEND>
 
-<L>35088.421<pc>1688-1<k1>supUraH<k2>supUraH<e>2
+<L>35088.422<pc>1688-1<k1>supUraH<k2>supUraH<e>2
 {#su#} + {#-pUra#} + .({@{#-raH#}@})¦ a kind of citron ({#bIjapUra#}).
 <LEND>
 
-<L>35088.422<pc>1688-1<k1>supUrakaH<k2>supUrakaH<e>2
+<L>35088.423<pc>1688-1<k1>supUrakaH<k2>supUrakaH<e>2
 {#su#} + {#-pUrakaH#}¦ the Baka-puṣpa tree.
 <LEND>
 
@@ -480391,13 +480391,13 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-priya#} + .({@{#-yaH#}@})¦ (in prosody) a foot of two short syllables.
 <LEND>
 
-<L>35088.462.XYZ<pc>1688-2<k1>supriyA<k2>supriyA<e>2
+<L>35088.464<pc>1688-2<k1>supriyA<k2>supriyA<e>2
 {#su#} + {#-priya#} + .({@{#-yA#}@})¦
 ∙²1 a charming woman.
 ∙²2 a beloved mistress.
 <LEND>
 
-<L>35088.464<pc>1688-2<k1>suprOQA<k2>suprOQA<e>2
+<L>35088.465<pc>1688-2<k1>suprOQA<k2>suprOQA<e>2
 {#su#} + {#-prOQA#}¦ a marriageable girl.
 <LEND>
 
@@ -480415,7 +480415,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 a kind of bean.
 <LEND>
 
-<L>35088.466.XYZ<pc>1688-2<k1>suPalA<k2>suPalA<e>2
+<L>35088.468<pc>1688-2<k1>suPalA<k2>suPalA<e>2
 {#su#} + {#-Pala#} + .({@{#-lA#}@})¦
 ∙²1 a pumpkin, gourd.
 ∙²2 the plantain tree.
@@ -480423,7 +480423,7 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 colocynth.
 <LEND>
 
-<L>35088.468<pc>1688-2<k1>suPenaH<k2>suPenaH<e>2
+<L>35088.469<pc>1688-2<k1>suPenaH<k2>suPenaH<e>2
 {#su#} + {#-PenaH#}¦ a cuttle-fish bone.
 <LEND>
 
@@ -480510,14 +480510,14 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 red amaranth.
 <LEND>
 
-<L>35088.488.XYZ<pc>1688-2<k1>suBagam<k2>suBagam<e>2
+<L>35088.490<pc>1688-2<k1>suBagam<k2>suBagam<e>2
 {#su#} + {#-Baga#} + .({@{#-gam#}@})¦ good fortune. {#˚mAnin, suBagaMmanya#} {%<lex>a.</lex>%}
 ∙²1 considering oneself fortunate, amiable, pleasing; {#vAcAlaM mAM na#}
  {#Kalu suBagaMmanyaBAvaH karoti#} <ls>Me. 96</ls>.
 ∙²2 vain, flattering oneself.
 <LEND>
 
-<L>35088.490<pc>1688-2<k1>suBagA<k2>suBagA<e>2
+<L>35088.491<pc>1688-2<k1>suBagA<k2>suBagA<e>2
 {#su#} + {#-BagA#}¦
 ∙²1 a woman beloved by her husband, a favourite wife.
 ∙²2 an honoured mother.
@@ -480552,12 +480552,12 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  {#suBadram#} <ls>Viṣṇupāda. S. 31</ls>.
 <LEND>
 
-<L>35088.498.XYZ<pc>1688-2<k1>suBadrA<k2>suBadrA<e>2
+<L>35088.500<pc>1688-2<k1>suBadrA<k2>suBadrA<e>2
 {#su#} + {#-Badra#} + .({@{#-drA#}@})¦ <ab>N.</ab> of the sister of Balarāma and Kṛṣṇa, married to
  Arjuna <ab>q. v.</ab> She bore to him a son named Abhimanyu.
 <LEND>
 
-<L>35088.500<pc>1688-2<k1>suBadrakaH<k2>suBadrakaH<e>2
+<L>35088.501<pc>1688-2<k1>suBadrakaH<k2>suBadrakaH<e>2
 {#su#} + {#-BadrakaH#}¦
 ∙²1 a car for carrying the image of a god.
 ∙²2 the Bilva tree.
@@ -480682,11 +480682,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²2 the thorn-apple.
 <LEND>
 
-<L>35088.538.XYZ<pc>1689-1<k1>sumanA<k2>sumanA<e>2
+<L>35088.540<pc>1689-1<k1>sumanA<k2>sumanA<e>2
 {#su#} + {#-mana#} + .({@{#-nA#}@})¦ the great-flowered jasmine.
 <LEND>
 
-<L>35088.540<pc>1689-1<k1>sumanas<k2>sumanas<e>2
+<L>35088.541<pc>1689-1<k1>sumanas<k2>sumanas<e>2
 {#su#} + {#-manas#}¦ {%<lex>a.</lex>%}
 ∙²1 good-minded, of a good disposition, benevolent; {#SAntasaMkalpaH sumanA#}
  {#yaTA syAdvItamanyurgOtamo mABimftyo#} <ls>Kaṭh. 1. 10</ls>.
@@ -480756,31 +480756,31 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²4 of Śiva.
 <LEND>
 
-<L>35088.556.XYZ<pc>1689-1<k1>sumuKam<k2>sumuKam<e>2
+<L>35088.558<pc>1689-1<k1>sumuKam<k2>sumuKam<e>2
 {#su#} + {#-muKa#} + .({@{#-Kam#}@})¦
 ∙²1 the scratch of a finger-nail.
 ∙²2 a kind of building.
 <LEND>
 
-<L>35088.556.XYZ<pc>1689-1<k1>sumuKA<k2>sumuKA<e>2
+<L>35088.559<pc>1689-1<k1>sumuKA<k2>sumuKA<e>2
 {#su#} + {#-muKa#} + .({@{#-KA, -KI#}@})¦
 ∙²1 a handsome woman.
 ∙²2 a mirror.
 <LEND>
 
-<L>35088.556.XYZ<pc>1689-1<k1>sumuKI<k2>sumuKI<e>2
-{{Lbody=35088.557}}
+<L>35088.560<pc>1689-1<k1>sumuKI<k2>sumuKI<e>2
+{{Lbody=35088.559}}
 <LEND>
 
-<L>35088.558<pc>1689-2<k1>sumUlakam<k2>sumUlakam<e>2
+<L>35088.561<pc>1689-2<k1>sumUlakam<k2>sumUlakam<e>2
 {#su#} + {#-mUlakam#}¦ a carrot.
 <LEND>
 
-<L>35088.560<pc>1689-2<k1>sumfta<k2>sumfta<e>2
+<L>35088.562<pc>1689-2<k1>sumfta<k2>sumfta<e>2
 {#su#} + {#-mfta#}¦ {%<lex>a.</lex>%} stone-dead.
 <LEND>
 
-<L>35088.562<pc>1689-2<k1>sumeKalaH<k2>sumeKalaH<e>2
+<L>35088.563<pc>1689-2<k1>sumeKalaH<k2>sumeKalaH<e>2
 {#su#} + {#-meKalaH#}¦ the Muñja grass.
 <LEND>
 
@@ -480904,30 +480904,30 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-rasa#} + .({@{#-saH, -sA#}@})¦ the plant {#sinDuvAra#}.
 <LEND>
 
-<L>35088.598.XYZ<pc>1689-2<k1>surasA<k2>surasA<e>2
+<L>35088.600<pc>1689-2<k1>surasA<k2>surasA<e>2
 {{Lbody=35088.599}}
 <LEND>
 
-<L>35088.598.XYZ<pc>1689-2<k1>surasA<k2>surasA<e>2
+<L>35088.601<pc>1689-2<k1>surasA<k2>surasA<e>2
 {#su#} + {#-rasa#} + .({@{#-sA#}@})¦ <ab>N.</ab> of Durgā. ({@{#sA, -sam#}@}) the sacred basil.
 <LEND>
 
-<L>35088.598.XYZ<pc>1689-2<k1>surasam<k2>surasam<e>2
+<L>35088.602<pc>1689-2<k1>surasam<k2>surasam<e>2
 {#su#} + {#-rasa#} + .({@{#-sam#}@})¦
 ∙²1 gum-myrrh.
 ∙²2 fragrant grass.
 <LEND>
 
-<L>35088.600<pc>1689-2<k1>surAjan<k2>surAjan<e>2
+<L>35088.603<pc>1689-2<k1>surAjan<k2>surAjan<e>2
 {#su#} + {#-rAjan#}¦ {%<lex>a.</lex>%} governed by a good king; {#surAjYi deSe rAjanvAn#} <ls>Ak.</ls> ━({%<lex>m.</lex>%})
 ∙²1 a good king. ∙²2 a divinity.
 <LEND>
 
-<L>35088.602<pc>1689-2<k1>surAjikA<k2>surAjikA<e>2
+<L>35088.604<pc>1689-2<k1>surAjikA<k2>surAjikA<e>2
 {#su#} + {#-rAjikA#}¦ a small house-lizard.
 <LEND>
 
-<L>35088.604<pc>1689-2<k1>surAzwram<k2>surAzwram<e>2
+<L>35088.605<pc>1689-2<k1>surAzwram<k2>surAzwram<e>2
 {#su#} + {#-rAzwram#}¦ <ab>N.</ab> of a country on the western side of India (Surat).
  {#˚jam#} a kind of poison.
 ∙²2 a sort of black bean (<lang>Mar.</lang> <ns>{#tUra#}</ns>). {#˚brahmaH#} a Brāhmaṇa of Surāṣṭra.
@@ -481015,13 +481015,13 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-locana#} + .({@{#-naH#}@})¦ a deer.
 <LEND>
 
-<L>35088.628.XYZ<pc>1690-1<k1>sulocanA<k2>sulocanA<e>2
+<L>35088.630<pc>1690-1<k1>sulocanA<k2>sulocanA<e>2
 {#su#} + {#-locana#} + .({@{#-nA#}@})¦
 ∙²1 a beautiful woman.
 ∙²2 <ab>N.</ab> of the wife of Indrajit.
 <LEND>
 
-<L>35088.630<pc>1690-1<k1>sulohakam<k2>sulohakam<e>2
+<L>35088.631<pc>1690-1<k1>sulohakam<k2>sulohakam<e>2
 {#su#} + {#-lohakam#}¦ brass.
 <LEND>
 
@@ -481150,11 +481150,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#su#} + {#-vikrAnta#} + .({@{#-ntaH#}@})¦ a hero.
 <LEND>
 
-<L>35088.674.XYZ<pc>1690-1<k1>suvikrAntam<k2>suvikrAntam<e>2
+<L>35088.676<pc>1690-1<k1>suvikrAntam<k2>suvikrAntam<e>2
 {#su#} + {#-vikrAnta#} + .({@{#-ntam#}@})¦ heroism.
 <LEND>
 
-<L>35088.676<pc>1690-1<k1>suvigraha<k2>suvigraha<e>2
+<L>35088.677<pc>1690-1<k1>suvigraha<k2>suvigraha<e>2
 {#su#} + {#-vigraha#}¦ {%<lex>a.</lex>%} having a beautiful figure.
 <LEND>
 
@@ -481260,21 +481260,21 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  having good seed.
 <LEND>
 
-<L>35088.713<pc>1690-2<k1>suvIjaH<k2>suvIjaH<e>2
+<L>35088.714<pc>1690-2<k1>subIja<k2>subIja<e>2
+{{Lbody=35088.712}}
+<LEND>
+
+<L>35088.715<pc>1690-2<k1>suvIjaH<k2>suvIjaH<e>2
 {#su#} + {#-vIja, -bIja#} + .({@{#-jaH#}@})¦
 ∙²1 <ab>N.</ab> of Śiva.
 ∙²2 the poppy.
 <LEND>
 
-<L>35088.712.XYZ<pc>1690-2<k1>suvIjam<k2>suvIjam<e>2
+<L>35088.716<pc>1690-2<k1>suvIjam<k2>suvIjam<e>2
 {#su#} + {#-vIja, -bIja#} + .({@{#-jam#}@})¦ good seed.
 <LEND>
 
-<L>35088.714<pc>1690-2<k1>subIja<k2>subIja<e>2
-{{Lbody=35088.712}}
-<LEND>
-
-<L>35088.716<pc>1690-2<k1>suvIrakam<k2>suvIrakam<e>2
+<L>35088.717<pc>1690-2<k1>suvIrakam<k2>suvIrakam<e>2
 {#su#} + {#-vIrakam#}¦
 ∙²1 a kind of collyrium.
 ∙²2 sour gruel ({#kAYjika#}); {#suvIrakaM yAcyamAnA madrikA karzati sPicO#} <ls>Mb. 8. 40. 38</ls>.
@@ -481297,11 +481297,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 the fruit of the jujube.
 <LEND>
 
-<L>35088.720.XYZ<pc>1690-2<k1>suvIryA<k2>suvIryA<e>2
+<L>35088.722<pc>1690-2<k1>suvIryA<k2>suvIryA<e>2
 {#su#} + {#-vIrya#} + .({@{#-ryA#}@})¦ wild cotton.
 <LEND>
 
-<L>35088.722<pc>1690-2<k1>suvfktiH<k2>suvfktiH<e>2
+<L>35088.723<pc>1690-2<k1>suvfktiH<k2>suvfktiH<e>2
 {#su#} + {#-vfktiH#}¦ {%<lex>f.</lex>%}
 ∙²1 a pure offering.
 ∙²2 a hymn of praise.
@@ -481322,40 +481322,40 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  {#cAnujIvinAm#} <ls>Pt. 1. 69</ls>.
 <LEND>
 
-<L>35088.724.XYZ<pc>1690-2<k1>suvfttA<k2>suvfttA<e>2
+<L>35088.726<pc>1690-2<k1>suvfttA<k2>suvfttA<e>2
 {#su#} + {#-vftta#} + .({@{#-ttA#}@})¦ a sort of grape.
 <LEND>
 
-<L>35088.726<pc>1690-2<k1>suvela<k2>suvela<e>2
+<L>35088.727<pc>1690-2<k1>suvela<k2>suvela<e>2
 {#su#} + {#-vela#}¦ {%<lex>a.</lex>%}
 ∙²1 tranquil, still.
 ∙²2 humble, quiet.
 <LEND>
 
-<L>35088.727<pc>1690-2<k1>suvelaH<k2>suvelaH<e>2
+<L>35088.728<pc>1690-2<k1>suvelaH<k2>suvelaH<e>2
 {#su#} + {#-vela#} + .({@{#-laH#}@})¦ <ab>N.</ab> of the Trikūṭa mountain.
 <LEND>
 
-<L>35088.728<pc>1690-2<k1>suvrata<k2>suvrata<e>2
+<L>35088.729<pc>1690-2<k1>suvrata<k2>suvrata<e>2
 {#su#} + {#-vrata#}¦ {%<lex>a.</lex>%} strict in the observance of religious vows, strictly
  virtuous or religious.
 <LEND>
 
-<L>35088.729<pc>1690-2<k1>suvrataH<k2>suvrataH<e>2
+<L>35088.730<pc>1690-2<k1>suvrataH<k2>suvrataH<e>2
 {#su#} + {#-vrata#} + .({@{#-taH#}@})¦ a religious student.
 <LEND>
 
-<L>35088.728.XYZ<pc>1690-2<k1>suvratA<k2>suvratA<e>2
+<L>35088.731<pc>1690-2<k1>suvratA<k2>suvratA<e>2
 {#su#} + {#-vrata#} + .({@{#-tA#}@})¦
 ∙²1 a virtuous wife.
 ∙²2 a tractable cow, one easily milked.
 <LEND>
 
-<L>35088.730<pc>1690-2<k1>suSaMsa<k2>suSaMsa<e>2
+<L>35088.732<pc>1690-2<k1>suSaMsa<k2>suSaMsa<e>2
 {#su#} + {#-SaMsa#}¦ {%<lex>a.</lex>%} well spoken of, famous, glorious, commendable.
 <LEND>
 
-<L>35088.732<pc>1690-2<k1>suSaka<k2>suSaka<e>2
+<L>35088.733<pc>1690-2<k1>suSaka<k2>suSaka<e>2
 {#su#} + {#-Saka#}¦ {%<lex>a.</lex>%} capable of being easily done.
 <LEND>
 
@@ -481904,24 +481904,24 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#suKa#} + {#-da#} + .({@{#-daH#}@})¦ <ab>N.</ab> of Viṣṇu.
 <LEND>
 
-<L>35091.102.XYZ<pc>1691-2<k1>suKadA<k2>suKadA<e>2
+<L>35091.104<pc>1691-2<k1>suKadA<k2>suKadA<e>2
 {#suKa#} + {#-da#} + .({@{#-dA#}@})¦
 ∙²1 a courtezan of Indraʼs heaven.
 ∙²2 the river Ganges.
 ∙²3 the Śamī tree.
 <LEND>
 
-<L>35091.102.XYZ<pc>1691-2<k1>suKadam<k2>suKadam<e>2
+<L>35091.105<pc>1691-2<k1>suKadam<k2>suKadam<e>2
 {#suKa#} + {#-da#} + .({@{#-dam#}@})¦ the seat
 [Page1692-1]
  of Viṣṇu.
 <LEND>
 
-<L>35091.104<pc>1692-1<k1>suKadohyA<k2>suKadohyA<e>2
+<L>35091.106<pc>1692-1<k1>suKadohyA<k2>suKadohyA<e>2
 {#suKa#} + {#-dohyA#}¦ a cow easily milked.
 <LEND>
 
-<L>35091.106<pc>1692-1<k1>suKapravicAra<k2>suKapravicAra<e>2
+<L>35091.107<pc>1692-1<k1>suKapravicAra<k2>suKapravicAra<e>2
 {#suKa#} + {#-pravicAra#}¦ {%<lex>a.</lex>%} easily accessible.
 <LEND>
 
@@ -483953,11 +483953,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 ∙²3 a particular position of the hands.
 <LEND>
 
-<L>35180.040.XYZ<pc>1697-1<k1>sUcimuKam<k2>sUcimuKam<e>2
+<L>35180.042<pc>1697-1<k1>sUcimuKam<k2>sUcimuKam<e>2
 {#sUciH#} + {#-muKa#} + .({@{#-Kam#}@})¦ a diamond.
 <LEND>
 
-<L>35180.042<pc>1697-1<k1>sUciradanaH<k2>sUciradanaH<e>2
+<L>35180.043<pc>1697-1<k1>sUciradanaH<k2>sUciradanaH<e>2
 {#sUciH#} + {#-radanaH#}¦ a mungoose.
 <LEND>
 
@@ -484838,11 +484838,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#sUryaH#} + {#-Ahva#} + .({@{#-hvaH#}@})¦ the gigantic swallow-wort.
 <LEND>
 
-<L>35236.036.XYZ<pc>1700-1<k1>sUryAhvam<k2>sUryAhvam<e>2
+<L>35236.038<pc>1700-1<k1>sUryAhvam<k2>sUryAhvam<e>2
 {#sUryaH#} + {#-Ahva#} + .({@{#-hvam#}@})¦ copper.
 <LEND>
 
-<L>35236.038<pc>1700-1<k1>sUryendusaMgamaH<k2>sUryendusaMgamaH<e>2
+<L>35236.039<pc>1700-1<k1>sUryendusaMgamaH<k2>sUryendusaMgamaH<e>2
 {#sUryaH#} + {#-indusaMgamaH#}¦ the day of the new moon (the conjunction of the
  sun and moon); {#darSaH sUryendusaMgamaH#} <ls>Ak.</ls>
 <LEND>
@@ -486662,11 +486662,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#somaH#} + {#-ja#} + .({@{#-jaH#}@})¦ an epithet of the planet Mercury.
 <LEND>
 
-<L>35404.042.XYZ<pc>1706-1<k1>somajam<k2>somajam<e>2
+<L>35404.044<pc>1706-1<k1>somajam<k2>somajam<e>2
 {#somaH#} + {#-ja#} + .({@{#-jam#}@})¦ milk.
 <LEND>
 
-<L>35404.044<pc>1706-1<k1>somadEvatam<k2>somadEvatam<e>2
+<L>35404.045<pc>1706-1<k1>somadEvatam<k2>somadEvatam<e>2
 {#somaH#} + {#-dEvatam#}¦ the lunar mansion {#mfgaSiras#}; {#dogDrIM datvA savatsAM#}
  {#tu nakzatre somadEvate#} <ls>Mb. 13. 64. 7</ls>.
 <LEND>
@@ -491910,16 +491910,16 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#sTUla#} + {#-nAsa, -nAsika#}¦ {%<lex>a.</lex>%} thick-nosed.
 <LEND>
 
-<L>35775.057<pc>1724-2<k1>sTUlanAsaH<k2>sTUlanAsaH<e>2
+<L>35775.057<pc>1724-2<k1>sTUlanAsika<k2>sTUlanAsika<e>2
+{{Lbody=35775.056}}
+<LEND>
+
+<L>35775.058<pc>1724-2<k1>sTUlanAsaH<k2>sTUlanAsaH<e>2
 {#sTUla#} + {#-nAsa, -nAsika#} + .({@{#-saH, -kaH#}@})¦ a hog, boar.
 <LEND>
 
-<L>35775.056.XYZ<pc>1724-2<k1>sTUlanAsakaH<k2>sTUlanAsakaH<e>2
-{{Lbody=35775.057}}
-<LEND>
-
-<L>35775.058<pc>1724-2<k1>sTUlanAsika<k2>sTUlanAsika<e>2
-{{Lbody=35775.056}}
+<L>35775.059<pc>1724-2<k1>sTUlanAsikaH<k2>sTUlanAsikaH<e>2
+{{Lbody=35775.058}}
 <LEND>
 
 <L>35775.060<pc>1724-2<k1>sTUlanIlaH<k2>sTUlanIlaH<e>2
@@ -494087,11 +494087,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#smaraH#} + {#-DvajaH#} + .({@{#-jam#}@})¦ the female organ.
 <LEND>
 
-<L>35960.068.XYZ<pc>1732-1<k1>smaraDvajA<k2>smaraDvajA<e>2
+<L>35960.070<pc>1732-1<k1>smaraDvajA<k2>smaraDvajA<e>2
 {#smaraH#} + {#-DvajaH#} + .({@{#-jA#}@})¦ a bright moon-light night.
 <LEND>
 
-<L>35960.070<pc>1732-1<k1>smarapriyA<k2>smarapriyA<e>2
+<L>35960.071<pc>1732-1<k1>smarapriyA<k2>smarapriyA<e>2
 {#smaraH#} + {#-priyA#}¦ an epithet of Rati.
 <LEND>
 
@@ -495462,33 +495462,33 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#sva#} + {#-Canda#} + .({@{#-ndaH#}@})¦ oneʼs own will or choice, own fancy or pleasure, independence.
 <LEND>
 
-<L>36054.094.XYZ<pc>1736-2<k1>svacCandam<k2>svacCandam<e>2
+<L>36054.096<pc>1736-2<k1>svacCandam<k2>svacCandam<e>2
 {#sva#} + {#-Canda#} + .({@{#-ndam#}@})¦ {%<lex>ind.</lex>%} at oneʼs own will or pleasure, wantonly, voluntarily;
  {#svacCandaM daladaravinda te marandaM vindanto vidaDatu guYjitaM milindAH#} <ls>Bv. 1. 15</ls>.
 <LEND>
 
-<L>36054.096<pc>1736-2<k1>svaja<k2>svaja<e>2
+<L>36054.097<pc>1736-2<k1>svaja<k2>svaja<e>2
 {#sva#} + {#-ja#}¦ {%<lex>a.</lex>%}
 ∙²1 self-born.
 ∙²2 natural ({#svABAvika#}); {#AgatA tvAmiyaM budDiH svajA vEnAyikI ca#}
  {#yA#} <ls>Rām. 2. 112. 16</ls>.
 <LEND>
 
-<L>36054.097<pc>1736-2<k1>svajaH<k2>svajaH<e>2
+<L>36054.098<pc>1736-2<k1>svajaH<k2>svajaH<e>2
 {#sva#} + {#-ja#} + .({@{#-jaH#}@})¦
 ∙²1 a son or child.
 ∙²2 sweat, perspiration. ∙²3 a viper.
 <LEND>
 
-<L>36054.096.XYZ<pc>1736-2<k1>svajA<k2>svajA<e>2
+<L>36054.099<pc>1736-2<k1>svajA<k2>svajA<e>2
 {#sva#} + {#-ja#} + .({@{#-jA#}@})¦ a daughter.
 <LEND>
 
-<L>36054.096.XYZ<pc>1736-2<k1>svajam<k2>svajam<e>2
+<L>36054.100<pc>1736-2<k1>svajam<k2>svajam<e>2
 {#sva#} + {#-ja#} + .({@{#-jam#}@})¦ blood.
 <LEND>
 
-<L>36054.098<pc>1736-2<k1>svajanaH<k2>svajanaH<e>2
+<L>36054.101<pc>1736-2<k1>svajanaH<k2>svajanaH<e>2
 {#sva#} + {#-janaH#}¦
 ∙²1 a kinsman, relative; {#itaHpratyAdeSAt svajanamanugantuM vyavasitA#}
  <ls>Ś. 6. 8</ls>; <ls>Pt. 1. 5</ls>.
@@ -495496,14 +495496,14 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  related to. ({#svajanAyate#} <ab>Den.</ab> <ab>P.</ab> ‘becomes or is treated as a relation’; <ls>Pt. 1. 5</ls>.)
 <LEND>
 
-<L>36054.100<pc>1736-2<k1>svajAtiH<k2>svajAtiH<e>2
+<L>36054.102<pc>1736-2<k1>svajAtiH<k2>svajAtiH<e>2
 {#sva#} + {#-jAtiH#}¦
 ∙²1 oneʼs own kind.
 ∙²2 oneʼs own family or caste.
 [Page1737-1]
 <LEND>
 
-<L>36054.102<pc>1737-1<k1>svajYAtiH<k2>svajYAtiH<e>2
+<L>36054.103<pc>1737-1<k1>svajYAtiH<k2>svajYAtiH<e>2
 {#sva#} + {#-jYAtiH#}¦ a kinsman.
 <LEND>
 
@@ -495522,11 +495522,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  {#svatantrapratizaDaH syAt#} <ls>MS. 12. 1. 8</ls>.
 <LEND>
 
-<L>36054.106.XYZ<pc>1737-1<k1>svatantraH<k2>svatantraH<e>2
+<L>36054.108<pc>1737-1<k1>svatantraH<k2>svatantraH<e>2
 {#sva#} + {#-tantra#} + .({@{#-ntraH#}@})¦ a blind man.
 <LEND>
 
-<L>36054.108<pc>1737-1<k1>svadfS<k2>svadfS<e>2
+<L>36054.109<pc>1737-1<k1>svadfS<k2>svadfS<e>2
 {#sva#} + {#-dfS#}¦ {%<lex>a.</lex>%} seeing oneʼs self; {#Iyate BagavAneBiH saguRo nirguRaH#}
  {#svadfk#} <ls>Bhāg. 3. 32. 36</ls>.
 <LEND>
@@ -499461,24 +499461,24 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
  <ls>Śi. 4. 21</ls>; <ls>Ku. 7. 23</ls>, <ls n="Ku. 7.">33</ls>; {#pAradaM haritAlaM ca … …#} <ls>Śiva B. 30. 19</ls>; <ls>H. D. 1</ls>.
 <LEND>
 
-<L>36258.044.XYZ<pc>1749-1<k1>haritAlI<k2>haritAlI<e>2
+<L>36258.046<pc>1749-1<k1>haritAlI<k2>haritAlI<e>2
 {#hari#} + {#-tAlaH#} + .({@{#-lI#}@})¦
 ∙²1 the Dūrvā grass.
 ∙²2 a streak or line in the sky.
 ∙²3 = {#haritAlikA#} (1).
 <LEND>
 
-<L>36258.046<pc>1749-1<k1>haritAlakaH<k2>haritAlakaH<e>2
+<L>36258.047<pc>1749-1<k1>haritAlakaH<k2>haritAlakaH<e>2
 {#hari#} + {#-tAlakaH#}¦ a kind of yellow-coloured pigeon.
 <LEND>
 
-<L>36258.047<pc>1749-1<k1>haritAlakam<k2>haritAlakam<e>2
+<L>36258.048<pc>1749-1<k1>haritAlakam<k2>haritAlakam<e>2
 {#hari#} + {#-tAlakaH#} + .({@{#-kam#}@})¦
 ∙²1 yellow orpiment.
 ∙²2 a theatrical decoration.
 <LEND>
 
-<L>36258.048<pc>1749-1<k1>haritAlikA<k2>haritAlikA<e>2
+<L>36258.049<pc>1749-1<k1>haritAlikA<k2>haritAlikA<e>2
 {#hari#} + {#-tAlikA#}¦
 ∙²1 the third day of the bright half of Bhādrapada.
 ∙²2 the Dūrvā plant.
@@ -499712,11 +499712,11 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#hariRa#} + {#-akza#} + .({@{#-kzaH#}@})¦ <ab>N.</ab> of Śiva.
 <LEND>
 
-<L>36260.020.XYZ<pc>1749-2<k1>hariRAkzI<k2>hariRAkzI<e>2
+<L>36260.022<pc>1749-2<k1>hariRAkzI<k2>hariRAkzI<e>2
 {#hariRa#} + {#-akza#} + .({@{#-kzI#}@}¦ {%<lex>f.</lex>%}) ‘deer-eyed’, a woman with beautiful eyes.
 <LEND>
 
-<L>36260.022<pc>1749-2<k1>hariRANkaH<k2>hariRANkaH<e>2
+<L>36260.023<pc>1749-2<k1>hariRANkaH<k2>hariRANkaH<e>2
 {#hariRa#} + {#-aNkaH#}¦
 ∙²1 the moon.
 ∙²2 camphor.
@@ -502899,21 +502899,21 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#hiraRyam#} + {#-da#} + .({@{#-daH#}@})¦ the ocean.
 <LEND>
 
-<L>36465.038.XYZ<pc>1760-1<k1>hiraRyadA<k2>hiraRyadA<e>2
+<L>36465.040<pc>1760-1<k1>hiraRyadA<k2>hiraRyadA<e>2
 {#hiraRyam#} + {#-da#} + .({@{#-dA#}@})¦ the earth.
 <LEND>
 
-<L>36465.040<pc>1760-1<k1>hiraRyanABaH<k2>hiraRyanABaH<e>2
+<L>36465.041<pc>1760-1<k1>hiraRyanABaH<k2>hiraRyanABaH<e>2
 {#hiraRyam#} + {#-nABaH#}¦
 ∙²1 the mountain Maināka.
 ∙²2 <ab>N.</ab> of Viṣṇu.
 <LEND>
 
-<L>36465.041<pc>1760-1<k1>hiraRyanABam<k2>hiraRyanABam<e>2
+<L>36465.042<pc>1760-1<k1>hiraRyanABam<k2>hiraRyanABam<e>2
 {#hiraRyam#} + {#-nABaH#} + .({@{#-Bam#}@})¦ a building having three halls (towards east, west and south).
 <LEND>
 
-<L>36465.042<pc>1760-1<k1>hiraRyabAhuH<k2>hiraRyabAhuH<e>2
+<L>36465.043<pc>1760-1<k1>hiraRyabAhuH<k2>hiraRyabAhuH<e>2
 {#hiraRyam#} + {#-bAhuH#}¦
 ∙²1 an epithet of Śiva.
 ∙²2 the river Śoṇa.
@@ -503825,21 +503825,21 @@ small poem or {#KaRqakAvya#}━ be added to the list. But this enumeration
 {#hfdayam#} + {#-ISaH, -ISvaraH#}¦ a husband.
 <LEND>
 
-<L>36531.025<pc>1763-1<k1>hfdayeSA<k2>hfdayeSA<e>2
+<L>36531.026<pc>1763-1<k1>hfdayeSvaraH<k2>hfdayeSvaraH<e>2
+{{Lbody=36531.024}}
+<LEND>
+
+<L>36531.027<pc>1763-1<k1>hfdayeSA<k2>hfdayeSA<e>2
 {#hfdayam#} + {#-ISaH, -ISvaraH#} + .({@{#-SA, -rI#}@}¦ {%<lex>f.</lex>%})
 ∙²1 a wife.
 ∙²2 a mistress.
 <LEND>
 
-<L>36531.024.XYZ<pc>1763-1<k1>hfdayeSvarI<k2>hfdayeSvarI<e>2
-{{Lbody=36531.025}}
+<L>36531.028<pc>1763-1<k1>hfdayeSvarI<k2>hfdayeSvarI<e>2
+{{Lbody=36531.027}}
 <LEND>
 
-<L>36531.026<pc>1763-1<k1>hfdayeSvaraH<k2>hfdayeSvaraH<e>2
-{{Lbody=36531.024}}
-<LEND>
-
-<L>36531.028<pc>1763-1<k1>hfdayodaNkaH<k2>hfdayodaNkaH<e>2
+<L>36531.029<pc>1763-1<k1>hfdayodaNkaH<k2>hfdayodaNkaH<e>2
 {#hfdayam#} + {#-udaNkaH#}¦ heaving of the heart.
 <LEND>
 
