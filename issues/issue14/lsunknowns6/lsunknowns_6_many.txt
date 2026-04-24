@@ -1,0 +1,731 @@
+<ls>Abhiṣeka. 1</ls>      : <L>2710<pc>0145-2<k1>aparADaH 
+<ls>Abhiṣeka. 1. 20</ls>  : <L>3583<pc>0180-2<k1>aBimarSaH
+<ls>Abhiṣeka. 1. 21</ls>  : <L>3583<pc>0180-2<k1>aBimarSaH
+<ls>Abhiṣeka. 6</ls>      : <L>11756.002<pc>0547-2<k1>kalpaH
+<ls>Abhiṣeka. 6. 7</ls>   : <L>13212<pc>0618-2<k1>krOYcaH 
+<ls>Abhiṣeka. 1. 19</ls>  : <L>15200.002<pc>0718-1<k1>Cannam
+<ls>Abhiṣeka. 1</ls>      : <L>18457<pc>0886-1<k1>nAqikA  
+<ls>Abhiṣeka. 4. 23</ls>  : <L>21619<pc>1035-1<k1>pulakaH 
+<ls>Abhiṣeka. 6. 29</ls>  : <L>22807<pc>1086-2<k1>pratyayaH
+<ls>Abhiṣeka. 1. 13</ls>  : <L>32884<pc>1591-2<k1>saMvartaH
+z
+<ls>Agni P.</ls>          : <L>7884<pc>0371-1<k1>Asanam   
+<ls>Agni P.</ls>          : <L>17881.064<pc>0853-1<k1>DanurvedaH
+<ls>Agni P.</ls>          : <L>21607.032<pc>1034-1<k1>puruzAyaRaH
+<ls>Agni P.</ls>          : <L>25308<pc>1210-2<k1>BedaH   
+<ls>Agni P. 121. 63</ls>  : <L>25943.346<pc>1250-1<k1>mahAjyEzWI
+z
+<ls>App.</ls>             : <L>7960.020<pc>0374-2<k1>AstArapaNktiH
+<ls>App.</ls>             : <L>9460<pc>0443-1<k1>upagItiH 
+<ls>App.</ls>             : <L>9511<pc>0445-2<k1>upajAtiH 
+<ls>App.</ls>             : <L>10235.020<pc>0474-2<k1>upendravajrA
+<ls>App.</ls>             : <L>10973<pc>0510-1<k1>OpacCandasikam
+<ls>App.</ls>             : <L>14066<pc>0660-1<k1>gItiH   
+<ls>App.</ls>             : <L>14705.022<pc>0698-1<k1>campakamAlA
+<ls>App.</ls>             : <L>15315<pc>0722-a2<k1>jagatI 
+<ls>App.</ls>             : <L>15529<pc>0733-2<k1>jAtiH   
+<ls>App.</ls>             : <L>23769<pc>1123-1<k1>praharzaRI
+<ls>App.</ls>             : <L>25943.147<pc>1248-2<k1>mahodayaH
+<ls>App.</ls>             : <L>26040.040<pc>1259-2<k1>mAtrAsamakaH
+<ls>App.</ls>             : <L>26203.002<pc>1267-1<k1>mAlinI
+<ls>App.</ls>             : <L>26628.124<pc>1289-1<k1>meGavisPUrjitam
+<ls>App.</ls>             : <L>27531.002<pc>1344-1<k1>rucirA
+<ls>App.</ls>             : <L>28276<pc>1379-2<k1>vaNgAH  
+<ls>App.</ls>             : <L>30078<pc>1460-1<k1>viyoginI
+<ls>App.</ls>             : <L>30710.004<pc>1490-1<k1>vfttam
+<ls>App. I</ls>           : <L>25732.028<pc>1238-1<k1>mandAkrAntA
+<ls>App. I.</ls>          : <L>16988<pc>0799-2<k1>daRqakaH
+<ls>App. I.</ls>          : <L>17740.026<pc>0844-2<k1>drutavilambitam
+<ls>App. I.</ls>          : <L>21763<pc>1045-1<k1>pfTvI   
+<ls>App. II</ls>          : <L>24561<pc>1161-1<k1>bARaH   
+<ls>App. II.</ls>         : <L>21660.020<pc>1038-1<k1>puzpitAgrA
+<ls>App. II.</ls>         : <L>24970.084<pc>1187-2<k1>BavaBUtiH
+z
+<ls>Ārṣeya Br.</ls>       : <L>8176.226<pc>0386-2<k1>indrasaMjayam
+<ls>Ārṣeya Br.</ls>       : <L>10568.062<pc>0489-2<k1>ftasAman
+<ls>Ārṣeya Br.</ls>       : <L>10800.002<pc>0504-1<k1>EnyaH
+<ls>Ārṣeya Br.</ls>       : <L>10801<pc>0504-1<k1>Envakam 
+z
+<ls n="Bālacharitam">4. 6</ls> : <L>36314<pc>1752-1<k1>hallISakaH
+<ls>Bālacharitam 1</ls>   : <L>8176.174<pc>0386-1<k1>indrayajYaH
+<ls>Bālacharitam 1</ls>   : <L>18694<pc>0895-2<k1>nigalaH 
+<ls>Bālacharitam 2. 1</ls> : <L>33483.020<pc>1619-1<k1>saMtAranO
+<ls>Bālacharitam 3</ls>   : <L>36314<pc>1752-1<k1>hallISakaH
+<ls>Bālcharitam 3. 16</ls> : <L>35100<pc>1692-1<k1>sujUz   
+z
+<ls>Brahmāṇḍa P.</ls>     : <L>14268.024<pc>0671-2<k1>gokarRa
+<ls>Brahmāṇḍa P. Ch. 7. 5. 99</ls> : <L>12282.002<pc>0574-1<k1>kizkuH
+<ls>Brahmāṇḍa P. part 1, second अनुषङ्गपाद. Ch. 7. 5. 115</ls> : <L>15334.030<pc>0723-2<k1>jaNGApaTaH
+z
+<ls>Bṛhadyogiyājñavalkya Smṛti 12. 34</ls> : <L>305<pc>0023-2<k1>aNgam     
+<ls>Bṛhadyogiyājñavalkya Smṛti 12. 34</ls> : <L>2328.002<pc>0117-1<k1>antaH
+<ls>Bṛhadyogiyājñavalkya Smṛti 12. 34</ls> : <L>30806.022<pc>1496-1<k1>vedANgam
+z
+<ls>Chaṇḍīpāṭha.</ls>     : <L>18400.034<pc>0882-2<k1>navacaRqikA
+<ls>Chaṇḍīpāṭha.</ls>     : <L>23059<pc>1095-2<k1>prapanna
+<ls>Chaṇḍīpāṭha.</ls>     : <L>26755.030<pc>1293-2<k1>moharAtriH
+z
+<ls>Charaka.</ls>         : <L>6292<pc>0300-1<k1>asvedya  
+<ls>Charaka.</ls>         : <L>8725.002<pc>0411-2<k1>utTApakaH
+<ls>Charaka.</ls>         : <L>9949<pc>0462-2<k1>upaSI    
+<ls>Charaka.</ls>         : <L>10790.004<pc>0504-1<k1>EndrI
+<ls>Charaka.</ls>         : <L>10921.026<pc>0508-2<k1>OttaraBaktika
+<ls>Charaka.</ls>         : <L>12536.030<pc>0585-1<k1>kumBImuKam
+<ls>Charaka.</ls>         : <L>18067.028<pc>0864-2<k1>DUpanetram
+<ls>Charaka.</ls>         : <L>18762<pc>0898-2<k1>nidigDikAdikkATaH
+<ls>Charaka.</ls>         : <L>19467<pc>0936-2<k1>nu      
+<ls>Charaka.</ls>         : <L>20236<pc>0977-2<k1>paritarpaRam
+<ls>Charaka.</ls>         : <L>20340<pc>0981-1<k1>pariplozaH
+<ls>Charaka.</ls>         : <L>24638.032<pc>1165-2<k1>bAhyasaMBogaH
+<ls>Charaka.</ls>         : <L>26842<pc>1297-2<k1>yakzmaH 
+<ls>Charaka.</ls>         : <L>28101.026<pc>1370-2<k1>leKAsTavftta
+<ls>Charaka.</ls>         : <L>33047<pc>1599-2<k1>saMhfzwin
+<ls>Charaka.</ls>         : <L>34621<pc>1664-2<k1>sAMgrAhika
+<ls>Charaka.</ls>         : <L>34753<pc>1670-1<k1>sAma    
+<ls>Charaka.</ls>         : <L>35088.344<pc>1687-2<k1>sunirUQa
+<ls>Charaka. 1. 4</ls>    : <L>11756.024<pc>0548-1<k1>kalpopanizad
+<ls>Charaka. 7</ls>       : <L>11756.050<pc>0548-1<k1>kalpasTAnam
+<ls>Charaka. 8. 2</ls>    : <L>13139<pc>0615-1<k1>kramya  
+<ls>Charaka. 1. 11</ls>   : <L>13225<pc>0619-1<k1>klinna  
+<ls n="Charaka. 1.">27</ls> : <L>13225<pc>0619-1<k1>klinna  
+<ls>Charaka. 6. 26</ls>   : <L>13623.002<pc>0638-1<k1>KallI
+<ls>Charaka. 6. 27</ls>   : <L>13986.040<pc>0656-2<k1>gAtravezwanam
+<ls>Charaka. 1. 5</ls>    : <L>14219<pc>0668-2<k1>gfDrasI 
+<ls n="Charaka. 1.">20</ls> : <L>14219<pc>0668-2<k1>gfDrasI 
+<ls>Charaka. 4. 4. 1</ls> : <L>16680.078<pc>0782-2<k1>tfRapUlika
+z
+<ls>Charpaṭa. S. 4</ls>   : <L>26407<pc>1277-1<k1>muRqin  
+<ls>Charpaṭa. S. 3</ls>   : <L>27187<pc>1321-a1<k1>rakta  
+<ls>Charpaṭa. S. 4</ls>   : <L>28045.020<pc>1368-1<k1>luYcitakeSaH
+<ls>Charpaṭa. S. 10</ls>  : <L>28478<pc>1389-2<k1>vayas   
+z
+<ls>Dānasāgara, Bibl. Ind. 274, Fasc. 1, p. 63</ls> : <L>31533<pc>1525-1<k1>SaMsya  
+<ls>Dānasāgara, Bibl. Ind. 274, Fasc. 1. p. 146</ls> : <L>31959<pc>1547-1<k1>SAlA    
+<ls>Dānasāgara, Bibl. Ind. 274, Fasc. 1 p. 45</ls> : <L>35390<pc>1705-1<k1>sopaDa  
+<ls>Dānasāgara, Bibliotheca Indica 274, Fascicule I, P. 30</ls> : <L>9689<pc>0452-2<k1>upapatita
+<ls>Dānasāgara, Bibliotheca Indica 274, Fasc. I, p. 145</ls> : <L>13603<pc>0637-1<k1>KarvawaH
+<ls>Dānasāgara, Bibliotheca Indica 274, Fasc. 1, p. 41</ls> : <L>21239.002<pc>1015-1<k1>pArSvikaH
+<ls>Dānasāgara, Bibliotheca Indica, 274, Fasc. 1, p. 29</ls> : <L>16848.298<pc>0791-1<k1>triBukla
+<ls>Dānasāgara, Bibliotheca Indica, 274, Fascicule 1, p. 15</ls> : <L>19937.160<pc>0964-2<k1>paratarkakaH
+z
+<ls>Daṇḍaviveka, G. O. S. 52, p. 43</ls> : <L>255.004<pc>0018-2<k1>agram 
+<ls>Daṇḍaviveka, G. O. S. 52, p. 21</ls> : <L>19673.074<pc>0945-2<k1>pakzaprAptAnuvAdaH
+<ls>Daṇḍaviveka, G. O. S. 52, p. 259</ls> : <L>22464<pc>1074-2<k1>pratipattiH
+<ls>Daṇḍaviveka, G. O. S. 52, p. 297</ls> : <L>32320<pc>1566-1<k1>SfNgAwikA
+z
+<ls>Devīmāhātmya.</ls>    : <L>17389.489<pc>0824-1<k1>durvfttam
+<ls>Devīmāhātmya.</ls>    : <L>25943.660<pc>1252-1<k1>mahAmAyA
+<ls>Devīmāhātmya.</ls>    : <L>27187.100<pc>1321-a2<k1>raktadantikA
+<ls>Devīmāhātmya.</ls>    : <L>27187.152<pc>1322-1<k1>raktabinduH
+<ls>Devīmāhātmya.</ls>    : <L>29011<pc>1416-1<k1>vArAha  
+z
+<ls>Dharmābhyudayamahākāvya 1. 1</ls> : <L>23884.002<pc>1129-1<k1>prAtiBam
+<ls>Dharmābhyudayamahākāvya 2. 42</ls> : <L>25754.020<pc>1239-1<k1>mandurApatiH
+<ls>Dharmābhyudayamahākāvya 2. 42</ls> : <L>27021.032<pc>1311-1<k1>yAmapAlaH
+<ls>Dharmābhyudayamahākāvya 2. 26</ls> : <L>27270<pc>1328-1<k1>raTyA   
+<ls>Dharmābhyudayamahākāvya 2. 25</ls> : <L>29245<pc>1426-1<k1>vikkaH  
+<ls>Dharmābhyudayamahākāvya 2. 38</ls> : <L>35547<pc>1711-1<k1>sOsTyena
+<ls>Dharmābhyudayamahākāvya.</ls> : <L>26105<pc>1262-2<k1>mAnuzyam
+z
+<ls>Dhātupāṭha.</ls>      : <L>2328.034<pc>0118-1<k1>antakarman
+<ls>Dhātupāṭha.</ls>      : <L>4754<pc>0237-2<k1>av       
+<ls>Dhātupāṭha.</ls>      : <L>10325<pc>0478-2<k1>ulaq    
+<ls>Dhātupāṭha.</ls>      : <L>16020<pc>0752-a1<k1>Ra     
+<ls>Dhātupāṭha.</ls>      : <L>32701<pc>1582-2<k1>SvEtram 
+z
+<ls>Dūtavākyam 1</ls>     : <L>2633<pc>0141-2<k1>apaDvaMs 
+<ls>Dūtavākyam 1. 39</ls> : <L>6988<pc>0335-1<k1>AnujIvyam
+<ls>Dūtavākyam 1. 12</ls> : <L>11879.002<pc>0553-2<k1>kAkzam
+<ls>Dūtavākyam 1. 38</ls> : <L>12851<pc>0602-2<k1>kekara  
+<ls>Dūtavākyam 1</ls>     : <L>13360<pc>0625-2<k1>kzip    
+<ls>Dūtavākyam 1</ls>     : <L>15426.002<pc>0728-1<k1>jamBakaH
+<ls>Dūtavākyam 1. 41</ls> : <L>26315<pc>1271-2<k1>miz     
+<ls>Dūtavākyam 1</ls>     : <L>33532<pc>1620-2<k1>saMdohaH
+<ls>Dūtavākyam 1</ls>     : <L>35563.024<pc>1712-1<k1>skanDAvAraH
+z
+<ls>Gaṇeśa P.</ls>        : <L>15562.002<pc>0735-1<k1>jAmiH
+<ls>Gaṇeśa P.</ls>        : <L>20701<pc>0992-2<k1>parpawaH
+<ls>Gaṇeśa P.</ls>        : <L>25117.002<pc>1195-2<k1>BAvukaH
+<ls>Gaṇeśa P. 1. 147-57</ls> : <L>13541.046<pc>0635-1<k1>KaRqaPalam
+<ls>Gaṇeśa P. 2. 336</ls> : <L>19445<pc>0935-1<k1>nIraNgI 
+<ls>Gaṇeśa P. 2</ls>      : <L>21385.122<pc>1022-1<k1>pitfvAsaraparvan
+<ls>Gaṇeśa P. 2. 149</ls> : <L>24298.202<pc>1146-1<k1>PalavarRikA
+<ls>Gaṇeśa P. 49. 47-51</ls> : <L>26215.032<pc>1267-2<k1>mAzapizwam
+<ls>Gaṇeśa P. 49. 47-51</ls> : <L>26647<pc>1289-2<k1>meTIpizwam
+<ls>Gaṇeśa P. 49</ls>     : <L>31787<pc>1540-2<k1>SazkulI 
+z
+<ls>Garuḍa P.</ls>        : <L>8176.134<pc>0386-1<k1>indranIlaH
+<ls>Garuḍa P.</ls>        : <L>19937.186<pc>0964-2<k1>paraDyAnam
+<ls>Garuḍa P.</ls>        : <L>24789.156<pc>1175-1<k1>brahmajYAnam
+<ls>Garuḍa P.</ls>        : <L>25554.072<pc>1222-1<k1>maRibanDaH
+<ls>Garuḍa P. 47. 21-22</ls> : <L>8676<pc>0407-2<k1>uttamBaH 
+z
+<ls>Gāyatrīmantra</ls>    : <L>18022<pc>0862-2<k1>DIH     
+<ls>Gāyatrīmantra</ls>    : <L>22177<pc>1060-2<k1>pracud  
+<ls>Gāyatrīmantra</ls>    : <L>24944<pc>1186-1<k1>Bargas  
+z
+<ls>Haravijaya 43. 58</ls> : <L>23226<pc>1102-1<k1>pramApaRam
+<ls>Haravijaya 5. 47</ls> : <L>25901<pc>1245-2<k1>masAraH 
+<ls>Haravijaya 16. 25</ls> : <L>29592.020<pc>1439-1<k1>vidUrAdriH
+<ls>Haravijaya 5. 33</ls> : <L>30701.024<pc>1489-1<k1>vfkzADirUQaH
+z
+<ls>Hemādri</ls>          : <L>23962<pc>1132-1<k1>prAyaScittam
+<ls>Hemādri.</ls>         : <L>5934.026<pc>0284-2<k1>azwAdaSopapurARam
+<ls>Hemādri.</ls>         : <L>9603<pc>0449-1<k1>upaDAnakam
+z
+<ls>Jyotistattvam</ls>    : <L>17307.084<pc>0815-2<k1>dikpatiH
+<ls>Jyotistattvam.</ls>   : <L>17421.056<pc>0826-2<k1>duScikyam
+<ls>Jyotistattvam.</ls>   : <L>17609.024<pc>0839-2<k1>dozAkaraH
+<ls>Jyotistattvam.</ls>   : <L>17769<pc>0845-2<k1>drekkaRaH
+<ls>Jyotistattvam.</ls>   : <L>18303<pc>0876-2<k1>nandA   
+<ls>Jyotistattvam.</ls>   : <L>18400.060<pc>0882-2<k1>navapaYcamam
+<ls>Jyotistattvam.</ls>   : <L>19813<pc>0955-1<k1>paRaParam
+<ls>Jyotistattvam.</ls>   : <L>21643.002<pc>1036-1<k1>puzkaraH
+<ls>Jyotistattvam.</ls>   : <L>25423<pc>1216-1<k1>BrAntiH 
+<ls>Jyotistattvam.</ls>   : <L>27187.200<pc>1322-1<k1>raktavfzwiH
+<ls>Jyotistattvam.</ls>   : <L>28248<pc>1378-2<k1>vakra   
+<ls>Jyotistattvam.</ls>   : <L>28995.048<pc>1415-2<k1>vAravelA
+z
+<ls>Kāmikāgama 45. 53-54</ls> : <L>4742.002<pc>0236-2<k1>alpaH
+<ls>Kāmikāgama 35. 49</ls> : <L>11516.022<pc>0533-2<k1>kampadvAram
+<ls>Kāmikāgama 20. 4</ls> : <L>12370<pc>0578-2<k1>kuwikam 
+<ls>Kāmikāgama 21. 3</ls> : <L>12380.026<pc>0579-1<k1>kuwumbaBUmiH
+<ls>Kāmikāgama 55. 123━30</ls> : <L>12708.036<pc>0592-2<k1>kUwakozWam
+<ls>Kāmikāgama 55. 200-201</ls> : <L>14225.138<pc>0669-2<k1>gfhapiRqI
+<ls>Kāmikāgama 20. 15. 16</ls> : <L>15128<pc>0715-2<k1>cerikA  
+<ls>Kāmikāgama 31. 74-75</ls> : <L>15298<pc>0721-2<k1>CelA    
+<ls>Kāmikāgama 25. 1</ls> : <L>18497.046<pc>0888-1<k1>nABivITiH
+<ls>Kāmikāgama 25. 3</ls> : <L>18523<pc>0889-2<k1>nArAcaH 
+<ls>Kāmikāgama 35. 75</ls> : <L>19506.046<pc>0938-2<k1>netrakUwaH
+<ls>Kāmikāgama 55. 202</ls> : <L>25909.002<pc>1246-1<k1>masUrakam
+<ls>Kāmikāgama. 45. 21</ls> : <L>32222.004<pc>1560-2<k1>SudDam
+z
+<ls>Kāśīkhaṇḍa.</ls>      : <L>18018.004<pc>0862-1<k1>DizaRA
+<ls>Kāśīkhaṇḍa.</ls>      : <L>24221<pc>1141-2<k1>prozita 
+<ls>Kāśīkhaṇḍa.</ls>      : <L>30666.058<pc>1487-1<k1>vIraBadraH
+<ls>Kāśīkhaṇḍa.</ls>      : <L>31399.024<pc>1519-1<k1>vyAlagrAhaH
+<ls>Kāśīkhaṇḍa. 3. 68</ls> : <L>28489.002<pc>1391-1<k1>varawA
+z
+<ls>Kūrma P.</ls>         : <L>17517.066<pc>0833-2<k1>devAyatanam
+<ls>Kūrma P.</ls>         : <L>18304.022<pc>0876-2<k1>nandISaH
+<ls>Kūrma P.</ls>         : <L>30930<pc>1501-1<k1>vEqAla  
+z
+<ls>Lakṣmīlaharī 3</ls>   : <L>19085<pc>0917-2<k1>niryat  
+<ls>Lakṣmīlaharī 1</ls>   : <L>19448<pc>0935-2<k1>nIrAjita
+<ls>Lakṣmīlaharī 22</ls>  : <L>25954<pc>1254-1<k1>mahilA  
+<ls>Lakṣmīlaharī 6</ls>   : <L>26812<pc>1295-2<k1>mradiman
+<ls>Lakṣmīlaharī 19</ls>  : <L>27684<pc>1351-1<k1>rolambaH
+<ls>Lakṣmīlaharī 18</ls>  : <L>28667<pc>1399-1<k1>valagnaH
+<ls>Lakṣmīlaharī 6</ls>   : <L>29013.022<pc>1416-2<k1>vArISaH
+z
+<ls>Maitr. Up. 6. 14</ls> : <L>4222<pc>0204-1<k1>amUrti   
+<ls>Maitr. Up. 7. 10</ls> : <L>6780.056<pc>0324-1<k1>AtmakAma
+<ls>Maitr. Up. 6. 7</ls>  : <L>6947<pc>0334-1<k1>Anandayitf
+<ls>Maitr. Up. 6. 2</ls>  : <L>9572<pc>0447-2<k1>upadiS   
+<ls>Maitr. Up. 7. 11</ls> : <L>12024.020<pc>0560-2<k1>kAyAgniH
+<ls>Maitr. Up. 2. 3</ls>  : <L>13120<pc>0613-2<k1>kratuH  
+<ls>Maitr. Up. 1. 4</ls>  : <L>13349<pc>0624-2<k1>kzayizRu
+<ls>Maitr. Up. 4. 4</ls>  : <L>24789.198<pc>1175-1<k1>brahmadvAram
+<ls>Maitr. Up. 6. 22</ls> : <L>31654.082<pc>1533-1<k1>Sabdabrahman
+z
+<ls>Maṅgal. S. 1</ls>     : <L>29101.024<pc>1420-2<k1>vAsaramaRiH
+<ls>Maṅgal. S. 1</ls>     : <L>35032.020<pc>1682-2<k1>sinDuravadanaH
+<ls>Maṅgal. S. 1</ls>     : <L>35088.557<pc>1689-1<k1>sumuKaH
+z
+<ls>Mañjūṣā</ls>          : <L>29972<pc>1455-2<k1>viBIzikA
+<ls>Mañjūṣā.</ls>         : <L>20888<pc>1000-1<k1>paSyantI
+<ls>Mañjūṣā.</ls>         : <L>23852.036<pc>1127-2<k1>prARApAnam
+z
+<ls>Matsya P.</ls>        : <L>4252.020<pc>0206-1<k1>amoGAkzI
+<ls>Matsya P.</ls>        : <L>5934.044<pc>0285-1<k1>azwAdaSaSilpaSAstropadeSakAH
+<ls>Matsya P.</ls>        : <L>10632.513<pc>0498-1<k1>ekaSAlam
+<ls>Matsya P.</ls>        : <L>11281.034<pc>0522-2<k1>kaRaDUmaH
+<ls>Matsya P.</ls>        : <L>17791<pc>0847-1<k1>dvAparaH
+<ls>Matsya P.</ls>        : <L>18121<pc>0867-2<k1>DenuH   
+<ls>Matsya P.</ls>        : <L>18346.034<pc>0879-1<k1>nayavid
+<ls>Matsya P.</ls>        : <L>24090<pc>1137-1<k1>prItiH  
+<ls>Matsya P.</ls>        : <L>24247<pc>1143-1<k1>plavana 
+<ls>Matsya P.</ls>        : <L>32107.044<pc>1554-2<k1>SivaGarmajaH
+<ls>Matsya P. 269. 20</ls> : <L>542.002<pc>0037-2<k1>aRqakam
+<ls>Matsya P. 270. 8</ls> : <L>4229.090<pc>0205-1<k1>amftanandanaH
+<ls>Matsya P. 264. 15</ls> : <L>24235.030<pc>1142-2<k1>plakzadvAram
+<ls>Matsya P. (Ch. 270) 5. 8</ls> : <L>13093<pc>0612-2<k1>kOSalam 
+z
+<ls>Mit.</ls>             : <L>1042<pc>0062-2<k1>aDikAraH 
+<ls>Mit.</ls>             : <L>1055<pc>0063-2<k1>aDigamaH 
+<ls>Mit.</ls>             : <L>2743<pc>0146-1<k1>aparIkzita
+<ls>Mit.</ls>             : <L>3128<pc>0161-2<k1>apratirava
+<ls>Mit.</ls>             : <L>3471<pc>0175-2<k1>aBiniveSaH
+<ls>Mit.</ls>             : <L>3712<pc>0185-2<k1>aBiSapanam
+<ls>Mit.</ls>             : <L>3793<pc>0188-1<k1>aBisaMDAnam
+<ls>Mit.</ls>             : <L>3971<pc>0194-1<k1>aByavaharaRam
+<ls>Mit.</ls>             : <L>5393<pc>0261-2<k1>avahananam
+<ls>Mit.</ls>             : <L>6119<pc>0292-2<k1>asADAraRa
+<ls>Mit.</ls>             : <L>6795<pc>0326-1<k1>Atyantika
+<ls>Mit.</ls>             : <L>8643.002<pc>0406-1<k1>utkzepakaH
+<ls>Mit.</ls>             : <L>9109<pc>0429-2<k1>udDaraRam
+<ls>Mit.</ls>             : <L>9310<pc>0437-1<k1>unmatta  
+<ls>Mit.</ls>             : <L>9642<pc>0450-2<k1>upanikzepaH
+<ls>Mit.</ls>             : <L>9646<pc>0450-2<k1>upaniDiH 
+<ls>Mit.</ls>             : <L>10133<pc>0470-1<k1>upAgam  
+<ls>Mit.</ls>             : <L>10563.060<pc>0489-1<k1>fRadAsaH
+<ls>Mit.</ls>             : <L>14788.002<pc>0702-1<k1>cAkrikaH
+<ls>Mit.</ls>             : <L>14799<pc>0702-2<k1>cAwaH   
+<ls>Mit.</ls>             : <L>17840<pc>0851-1<k1>dvEDIBAvaH
+<ls>Mit.</ls>             : <L>18663<pc>0894-2<k1>nikzepaH
+<ls>Mit.</ls>             : <L>18923.188<pc>0907-2<k1>nirAbADa
+<ls>Mit.</ls>             : <L>20690.036<pc>0992-1<k1>parRakfcCra
+<ls>Mit.</ls>             : <L>21545.022<pc>1029-2<k1>putrakAputraH
+<ls>Mit.</ls>             : <L>21715.198<pc>1042-2<k1>pUrvavAdaH
+<ls>Mit.</ls>             : <L>24250<pc>1143-1<k1>plAvaH  
+<ls>Mit.</ls>             : <L>24530.156<pc>1159-1<k1>bahupratijYa
+<ls>Mit.</ls>             : <L>25267.002<pc>1208-2<k1>BftaH
+<ls>Mit.</ls>             : <L>25573.004<pc>1223-1<k1>maRqalam
+<ls>Mit.</ls>             : <L>27064<pc>1313-2<k1>yugam   
+<ls>Mit.</ls>             : <L>27127.058<pc>1317-2<k1>yogakzemO
+z
+<ls>Mukti. Up. 2. 74</ls> : <L>5479<pc>0264-2<k1>avikriyAtmaka
+<ls>Mukti. Up. 1. 1</ls>  : <L>10203<pc>0473-2<k1>upAsanam
+<ls>Mukti. Up. 1. 10</ls> : <L>11355<pc>0525-2<k1>kativiDa
+z
+<ls>Mukunda-mālā 6</ls>   : <L>18518.002<pc>0889-2<k1>nArakaH
+<ls>Mukunda-mālā 10</ls>  : <L>27020<pc>1311-1<k1>yAma    
+<ls>Mukunda-mālā 2</ls>   : <L>28058<pc>1368-2<k1>luRWanam
+z
+<ls>Nārada.</ls>          : <L>3597<pc>0181-2<k1>aBiyukta 
+<ls>Nārada.</ls>          : <L>4313.042<pc>0210-1<k1>ayaTASAstrakArin
+<ls>Nārada.</ls>          : <L>5358<pc>0260-1<k1>avaskaraH
+<ls>Nārada.</ls>          : <L>7695<pc>0362-2<k1>Avedanam 
+<ls>Nārada.</ls>          : <L>19740.002<pc>0951-2<k1>paYcamaH
+<ls>Nārada.</ls>          : <L>21863.002<pc>1048-2<k1>pogaRqaH
+<ls>Nārada.</ls>          : <L>24589.002<pc>1162-2<k1>bAlaH
+<ls>Nārada.</ls>          : <L>25343<pc>1212-2<k1>Bogya   
+<ls>Nārada.</ls>          : <L>32708.080<pc>1583-2<k1>zaqjaH
+z
+<ls>Nigh.</ls>            : <L>59.002<pc>0004-1<k1>akalpaH
+<ls>Nigh.</ls>            : <L>194<pc>0011-2<k1>aKalaH    
+<ls>Nigh.</ls>            : <L>366.004<pc>0029-1<k1>acintyaH
+<ls>Nigh.</ls>            : <L>523<pc>0037-1<k1>aqukaH    
+<ls>Nigh.</ls>            : <L>822.002<pc>0049-1<k1>atulaH
+<ls>Nigh.</ls>            : <L>3185.002<pc>0163-2<k1>aprasannam
+<ls>Nigh.</ls>            : <L>3925<pc>0192-1<k1>aByaNgaH 
+<ls>Nigh.</ls>            : <L>3926<pc>0192-2<k1>aByaYjanam
+<ls>Nigh.</ls>            : <L>4626.004<pc>0231-2<k1>arhA 
+<ls>Nigh.</ls>            : <L>4986<pc>0246-1<k1>avadAntaH
+<ls>Nigh.</ls>            : <L>6979.002<pc>0335-1<k1>AnIlaH
+<ls>Nigh.</ls>            : <L>8150<pc>0383-1<k1>idambaram
+<ls>Nigh.</ls>            : <L>10324<pc>0478-2<k1>ulaH    
+<ls>Nigh.</ls>            : <L>10328<pc>0478-2<k1>uliH    
+<ls>Nigh.</ls>            : <L>10410.002<pc>0481-2<k1>uzRakaH
+<ls>Nigh.</ls>            : <L>10632.458<pc>0497-2<k1>ekavAsA
+<ls>Nigh.</ls>            : <L>22161.002<pc>1060-1<k1>pracalaH
+<ls>Nigh.</ls>            : <L>23792<pc>1124-1<k1>prA     
+<ls>Nigh.</ls>            : <L>24446<pc>1153-2<k1>barkaraH
+<ls>Nigh.</ls>            : <L>24468.100<pc>1155-1<k1>balapucCakaH
+<ls>Nigh.</ls>            : <L>24517<pc>1157-2<k1>bastakam
+<ls>Nigh.</ls>            : <L>24530.066<pc>1158-2<k1>bahukzAram
+<ls>Nigh.</ls>            : <L>24589.094<pc>1163-1<k1>bAlacumbAlaH
+<ls>Nigh.</ls>            : <L>25554.046<pc>1221-2<k1>maRituRqaH
+<ls>Nigh.</ls>            : <L>25554.080<pc>1222-1<k1>maRiBAvaraH
+<ls>Nigh.</ls>            : <L>25647.020<pc>1230-1<k1>maDukASrayam
+<ls>Nigh.</ls>            : <L>25943.264<pc>1249-2<k1>mahAkzIrA
+<ls>Nigh.</ls>            : <L>26580.034<pc>1286-1<k1>mftakAntakaH
+z
+<ls>Nirukta</ls>          : <L>18683<pc>0895-1<k1>nigamaH 
+<ls>Nirukta 1. 3</ls>     : <L>10032<pc>0465-1<k1>upasargaH
+<ls>Nirukta.</ls>         : <L>10297<pc>0477-2<k1>uruYjirA
+<ls>Nirukta.</ls>         : <L>21748<pc>1044-1<k1>pftanAjyam
+z
+<ls>Nyāya S.</ls>         : <L>2093<pc>0107-1<k1>anuvAdaH 
+<ls>Nyāya S.</ls>         : <L>2619<pc>0141-1<k1>apadeSaH 
+<ls>Nyāya S.</ls>         : <L>2910<pc>0152-2<k1>apAkaraRam
+<ls>Nyāya S.</ls>         : <L>9846<pc>0459-2<k1>upalabDiH
+<ls>Nyāya S. 8. 177</ls>  : <L>4789<pc>0238-2<k1>avakfzwa 
+<ls>Nyāya S. 2. 28</ls>   : <L>9846<pc>0459-2<k1>upalabDiH
+<ls n="Nyāya S. 2.">30</ls> : <L>9846<pc>0459-2<k1>upalabDiH
+<ls>Nyāya S..</ls>        : <L>12760<pc>0597-1<k1>kftaka  
+z
+<ls>Padma P.</ls>         : <L>28181<pc>1374-2<k1>loBaH   
+<ls>Padma P.</ls>         : <L>31074<pc>1505-2<k1>vESyaH  
+<ls>Padma P.</ls>         : <L>31885<pc>1544-2<k1>SAntiH  
+z
+<ls>Pañchadaśī 6. 3</ls>  : <L>14437<pc>0684-1<k1>Gawwita 
+<ls>Pañchadaśī 3. 60</ls> : <L>16820<pc>0787-2<k1>tyAjita 
+<ls>Pañchadaśī 2. 3</ls>  : <L>25208<pc>1201-2<k1>BuguBuguH
+<ls>Pañchadaśī 1. 53</ls> : <L>25679.002<pc>1233-1<k1>mananam
+<ls>Pañchadaśī 2. 30</ls> : <L>26076.002<pc>1260-2<k1>mADyamakAH
+<ls>Pañchadaśī 7. 280</ls> : <L>29542<pc>1437-1<k1>vitunna 
+<ls>Pañchadaśī 1. 28</ls> : <L>31081<pc>1505-2<k1>vESvAnara
+<ls>Pañchadaśī 1. 25</ls> : <L>31297<pc>1515-1<k1>vyazwi  
+<ls>Pañchadaśī 1. 25</ls> : <L>33764<pc>1632-1<k1>samazwiH
+z
+<ls>Pāṇini (VI. 3. 87)</ls> : <L>33360<pc>1612-2<k1>satIrTaH
+<ls>Pāṇini I. 4. 59</ls>  : <L>10032<pc>0465-1<k1>upasargaH
+<ls>Pāṇini II. 4. 4</ls>  : <L>1251.022<pc>0072-1<k1>aDvaryukatuH
+<ls>Pāṇini III. 3, I. 4. 75</ls> : <L>8539.020<pc>0402-1<k1>uRAdisUtrARi
+<ls>Pāṇini S.</ls>        : <L>23301<pc>1105-2<k1>prayojaka
+<ls>Pāṇini V. 4. 146-147</ls> : <L>11099<pc>0514-2<k1>kakud   
+<ls>Pāṇini VI. 1. 94</ls> : <L>10233<pc>0474-2<k1>upeqakIy
+z
+<ls>Pātañjala S.</ls>     : <L>6470<pc>0311-1<k1>Akzepin  
+<ls>Pātañjala S.</ls>     : <L>18456.020<pc>0886-1<k1>nAqicakram
+<ls>Pātañjala S.</ls>     : <L>22291<pc>1064-2<k1>praRiDAnam
+<ls>Pātañjala S.</ls>     : <L>22663<pc>1081-1<k1>pratizWA
+<ls>Pātañjala S.</ls>     : <L>22876<pc>1088-2<k1>pratyAhAraH
+<ls>Pātañjala S.</ls>     : <L>23559<pc>1114-1<k1>praSvAsaH
+<ls>Pātañjala S. 1. 31</ls> : <L>305.060<pc>0024-2<k1>aNgamarzaH
+<ls>Pātañjala S. 1. 17</ls> : <L>6261<pc>0299-1<k1>asmitA   
+<ls>Pātañjala S. 1. 34</ls> : <L>22202<pc>1061-2<k1>pracCardanam
+<ls>Pātañjala S. 27</ls>  : <L>22277<pc>1064-1<k1>praRavaH
+<ls>Pātañjala S. 23</ls>  : <L>22291<pc>1064-2<k1>praRiDAnam
+<ls>Pātañjala S..</ls>    : <L>2334.024<pc>0119-1<k1>antaraNga
+z
+<ls>Parāśara</ls>         : <L>14945.060<pc>0709-1<k1>citrakAraH
+<ls>Parāśara.</ls>        : <L>4585.002<pc>0229-2<k1>arDikaH
+<ls>Parāśara.</ls>        : <L>18400.086<pc>0882-2<k1>navaSAyakaH
+z
+<ls>Purāṇam</ls>          : <L>21064.036<pc>1009-1<k1>pApAtman
+<ls>Purāṇam</ls>          : <L>25340<pc>1212-2<k1>Bogavat 
+<ls>Purāṇam.</ls>         : <L>24235<pc>1142-1<k1>plakzaH 
+<ls>Purāṇam.</ls>         : <L>26588.056<pc>1286-2<k1>mftyusUtiH
+z
+<ls>Rājanighaṇṭu</ls>     : <L>30960.002<pc>1502-1<k1>vEdUryam
+<ls>Rājanighaṇṭu.</ls>    : <L>17984.040<pc>0861-1<k1>DArozRa
+<ls>Rājanighaṇṭu.</ls>    : <L>21800<pc>1047-1<k1>peya    
+<ls>Rājanighaṇṭu.</ls>    : <L>22967.004<pc>1092-1<k1>pradIpanaH
+<ls>Rājanighaṇṭu.</ls>    : <L>23114<pc>1097-1<k1>prabAlaH
+<ls>Rājanighaṇṭu.</ls>    : <L>25257<pc>1208-1<k1>BUrjaH  
+<ls>Rājanighaṇṭu.</ls>    : <L>25296.022<pc>1210-1<k1>BfzwataRqulaH
+<ls>Rājanighaṇṭu.</ls>    : <L>25299<pc>1210-1<k1>BekaH   
+<ls>Rājanighaṇṭu.</ls>    : <L>25505.004<pc>1220-1<k1>maNgalyA
+<ls>Rājanighaṇṭu.</ls>    : <L>30774<pc>1494-2<k1>vegaH   
+z
+<ls>Rājavallabha.</ls>    : <L>23136.026<pc>1098-1<k1>praBAtakAlaH
+<ls>Rājavallabha.</ls>    : <L>27806.036<pc>1358-1<k1>latAkastUrikA
+<ls>Rājavallabha.</ls>    : <L>29597.002<pc>1439-2<k1>vidArI
+<ls>Rājavallabha.</ls>    : <L>30880<pc>1499-2<k1>vesavAraH
+<ls>Rājavallabha.</ls>    : <L>32093<pc>1553-2<k1>SilindaH
+z
+<ls>Rāmarakṣā 26</ls>     : <L>17993<pc>0861-2<k1>DArmika 
+<ls>Rāmarakṣā 3</ls>      : <L>18222.020<pc>0872-2<k1>naktacaraH
+<ls>Rāmarakṣā 1</ls>      : <L>19903.032<pc>0961-1<k1>padmAsanam
+<ls>Rāmarakṣā 25</ls>     : <L>21469.082<pc>1025-2<k1>pItavAsas
+<ls>Rāmarakṣā 15</ls>     : <L>23119<pc>1097-2<k1>prabudDa
+<ls>Rāmarakṣā 18</ls>     : <L>24298.192<pc>1146-1<k1>PalamUlam
+<ls>Rāmarakṣā 10</ls>     : <L>24468.062<pc>1154-2<k1>balopapanna
+<ls>Rāmarakṣā 36</ls>     : <L>24946.002<pc>1186-1<k1>Barjanam
+<ls>Rāmarakṣā 12</ls>     : <L>25207<pc>1201-2<k1>BuktiH  
+<ls>Rāmarakṣā 33</ls>     : <L>25684.066<pc>1233-2<k1>manojava
+<ls>Rāmarakṣā 13</ls>     : <L>28301.114<pc>1381-2<k1>vajrapaYjaraH
+<ls>Rāmarakṣā 33</ls>     : <L>28897.044<pc>1411-1<k1>vAtAtmajaH
+<ls>Rāmarakṣā 26</ls>     : <L>29853.028<pc>1451-1<k1>viprapriya
+<ls>Rāmarakṣā 16</ls>     : <L>30103<pc>1461-1<k1>virAmaH 
+<ls>Rāmarakṣā 1</ls>      : <L>31610.055<pc>1529-2<k1>SatakowiH
+<ls>Rāmarakṣā 19</ls>     : <L>31700.004<pc>1536-2<k1>SaraRyam
+<ls>Rāmarakṣā 26</ls>     : <L>32493<pc>1572-2<k1>SyAmala 
+<ls>Rāmarakṣā 8</ls>      : <L>33081<pc>1600-2<k1>sakTi   
+<ls>Rāmarakṣā 26</ls>     : <L>33378.118<pc>1614-2<k1>satyasaMDaH
+<ls>Rāmarakṣā 21</ls>     : <L>33568<pc>1623-1<k1>saMnadDa
+<ls>Rāmarakṣā 8</ls>      : <L>35088.165<pc>1686-1<k1>sugrIvaH
+<ls>Rāmarakṣā S.</ls>     : <L>27209.024<pc>1323-1<k1>raGunandanaH
+<ls>Rāmarakṣā.</ls>       : <L>3615<pc>0182-1<k1>aBirAma  
+<ls>Rāmarakṣā.</ls>       : <L>8130<pc>0381-2<k1>iti      
+<ls>Rāmarakṣā.</ls>       : <L>13577.056<pc>0636-2<k1>KaraDvaMsin
+<ls>Rāmarakṣā. 25</ls>    : <L>19903.020<pc>0961-1<k1>padmAkza
+<ls>Rāmarakṣā. 33</ls>    : <L>26151.002<pc>1264-2<k1>mArutaH
+z
+<ls>Rāmatāpanīya Upaniṣad</ls> : <L>10632.170<pc>0495-2<k1>ekacinmaya
+<ls>Rāmatāpanīya Upaniṣad</ls> : <L>24789.150<pc>1175-1<k1>brahmajAraH
+<ls>Rāmatāpanīya Upaniṣad 92</ls> : <L>4459<pc>0217-1<k1>arin     
+z
+<ls>Rāmāyaṇachampū</ls>   : <L>17517.272<pc>0834-2<k1>devaBUyam
+<ls>Rāmāyaṇachampū</ls>   : <L>17774<pc>0846-1<k1>droRiH  
+<ls>Rāmāyaṇachampū</ls>   : <L>25215<pc>1202-1<k1>BujA    
+<ls>Rāmāyaṇachampū</ls>   : <L>30730.002<pc>1492-2<k1>vfndArakaH
+<ls>Rāmāyaṇachampū.</ls>  : <L>18208<pc>0871-2<k1>DvAnaH  
+<ls>Rāmāyaṇachampū.</ls>  : <L>18923.444<pc>0909-2<k1>nirmatsara
+<ls>Rāmāyaṇachampū.</ls>  : <L>22920<pc>1089-2<k1>praT    
+<ls>Rāmāyaṇachampū.</ls>  : <L>23283<pc>1104-1<k1>prayARam
+<ls>Rāmāyaṇachampū.</ls>  : <L>27091<pc>1315-2<k1>yuDAjit 
+z
+<ls n="Ratimañjarī">5</ls> : <L>14951<pc>0709-2<k1>citriRI 
+<ls n="Ratimañjarī">8</ls> : <L>36343<pc>1754-1<k1>hastinI 
+<ls>Ratimañjarī 37</ls>   : <L>30741<pc>1493-1<k1>vfzaH   
+<ls>Ratimañjarī.</ls>     : <L>18435.108<pc>0884-2<k1>nAgapadaH
+<ls>Ratimañjarī.</ls>     : <L>18435.114<pc>0884-2<k1>nAgapASakaH
+<ls>Ratimañjarī.</ls>     : <L>18438.004<pc>0885-1<k1>nAgarakaH
+<ls>Ratimañjarī.</ls>     : <L>20876.056<pc>0999-2<k1>paSupASakam
+<ls>Ratimañjarī.</ls>     : <L>24226.004<pc>1141-2<k1>proQA
+z
+<ls>Ratnamālā</ls>        : <L>7967.002<pc>0374-2<k1>AsTAnI
+<ls>Ratnamālā</ls>        : <L>12587.004<pc>0587-2<k1>kulyam
+<ls>Ratnamālā</ls>        : <L>24518<pc>1157-2<k1>bastiH  
+z
+<ls>Śabdachandrikā.</ls>  : <L>20415<pc>0983-2<k1>parimArjanam
+<ls>Śabdachandrikā.</ls>  : <L>20907.066<pc>1001-2<k1>pAkaSuklA
+<ls>Śabdachandrikā.</ls>  : <L>22961.002<pc>1092-1<k1>pradigDam
+<ls>Śabdachandrikā.</ls>  : <L>25606.114<pc>1226-1<k1>matsyasantAnikaH
+<ls>Śabdachandrikā.</ls>  : <L>25646.234<pc>1229-2<k1>maDumastakam
+z
+<ls>Saṅgītadāmodara.</ls> : <L>18129<pc>0868-1<k1>DEvataH 
+<ls>Saṅgītadāmodara.</ls> : <L>18471<pc>0886-2<k1>nAdaH   
+<ls>Saṅgītadāmodara.</ls> : <L>28933<pc>1412-2<k1>vAdyam  
+z
+<ls>Śaṅkara.</ls>         : <L>531.020<pc>0037-1<k1>aRvantaH
+<ls>Śaṅkara.</ls>         : <L>942.004<pc>0054-2<k1>aditiH
+<ls>Śaṅkara.</ls>         : <L>1446<pc>0080-2<k1>anAganDita
+<ls>Śaṅkara.</ls>         : <L>2268<pc>0114-2<k1>anUcyam  
+<ls>Śaṅkara.</ls>         : <L>4968<pc>0245-1<k1>avatAraH 
+<ls>Śaṅkara.</ls>         : <L>5548.002<pc>0266-2<k1>avinayaH
+<ls>Śaṅkara.</ls>         : <L>6684<pc>0320-1<k1>AjYAnam  
+<ls>Śaṅkara.</ls>         : <L>6704.004<pc>0320-2<k1>AwikI
+<ls>Śaṅkara.</ls>         : <L>7441<pc>0352-2<k1>ArAtrikam
+<ls>Śaṅkara.</ls>         : <L>7953<pc>0374-1<k1>AstikatA 
+<ls>Śaṅkara.</ls>         : <L>9664<pc>0451-1<k1>upanizad 
+<ls>Śaṅkara.</ls>         : <L>17244<pc>0811-2<k1>dArzwAnta
+<ls>Śaṅkara.</ls>         : <L>17691<pc>0842-2<k1>draQiman
+<ls>Śaṅkara.</ls>         : <L>18923.170<pc>0907-2<k1>nirAtaNka
+<ls>Śaṅkara.</ls>         : <L>21064.062<pc>1009-1<k1>pApaGna
+<ls>Śaṅkara.</ls>         : <L>21275<pc>1016-2<k1>pAvita  
+<ls>Śaṅkara.</ls>         : <L>26402.006<pc>1276-2<k1>muRqam
+<ls>Śaṅkara.</ls>         : <L>26439.020<pc>1278-2<k1>murAriH
+<ls>Śaṅkara.</ls>         : <L>27713.002<pc>1352-1<k1>rOravaH
+<ls>Śaṅkara.</ls>         : <L>29322<pc>1429-1<k1>vigrahaH
+<ls>Śaṅkara. (चर्पटपञ्जरिका 7)</ls> : <L>19937.226<pc>0965-1<k1>parabrahman
+<ls>Śaṅkara. (चर्पटपञ्जरिकास्तोत्रम् 6)</ls> : <L>20833.002<pc>0997-2<k1>palitam
+z
+<ls>Śāṅkaradigvijaya 4. 78</ls> : <L>24675.020<pc>1167-1<k1>birudaGaRwA
+<ls>Śāṅkaradigvijaya 8. 26</ls> : <L>30666.104<pc>1487-2<k1>vIrahatyA
+<ls>Śāṅkaradigvijaya 5. 84</ls> : <L>33622<pc>1625-2<k1>sapatrAkf
+<ls>Śāṅkaradigvijaya.</ls> : <L>23544<pc>1113-2<k1>praSizyaH
+<ls>Śāṅkaradigvijaya.</ls> : <L>25566.004<pc>1222-2<k1>maRqanaH
+<ls>Śāṅkaradigvijaya.</ls> : <L>26879<pc>1300-1<k1>yatiH   
+z
+<ls>Saundaryalaharī 6</ls> : <L>26791<pc>1294-2<k1>mOrvI   
+<ls>Saundaryalaharī.</ls> : <L>5582.002<pc>0267-2<k1>aviratam
+<ls>Saundaryalaharī.</ls> : <L>25554.058<pc>1222-1<k1>maRidvIpaH
+z
+<ls>Sid. Śir.</ls>        : <L>2671.002<pc>0143-1<k1>apamaH
+<ls>Sid. Śir.</ls>        : <L>4275.077<pc>0207-2<k1>ambupaH
+<ls>Sid. Śir.</ls>        : <L>26908.042<pc>1305-1<k1>yamakowiH
+z
+<ls>Śivamahimna</ls>      : <L>25212.026<pc>1202-1<k1>BujagendraH
+<ls>Śivamahimna 30</ls>   : <L>9191<pc>0432-2<k1>udriktiH 
+<ls>Śivamahimna 17</ls>   : <L>9296<pc>0436-2<k1>unneya   
+<ls>Śivamahimna 2</ls>    : <L>14570<pc>0690-1<k1>cakita  
+<ls>Śivamahimna 29</ls>   : <L>17104<pc>0804-2<k1>davaH   
+<ls>Śivamahimna 29</ls>   : <L>17107<pc>0804-2<k1>davizWa 
+<ls>Śivamahimna 16</ls>   : <L>17655<pc>0841-1<k1>dOsTyam 
+<ls>Śivamahimna 9</ls>    : <L>18113<pc>0867-1<k1>Dfzwa   
+<ls>Śivamahimna 9</ls>    : <L>18186<pc>0870-1<k1>DrOvyam 
+<ls>Śivamahimna 28</ls>   : <L>18335.002<pc>0878-2<k1>namasyA
+<ls>Śivamahimna 29</ls>   : <L>19511<pc>0939-1<k1>nedizWa 
+<ls>Śivamahimna 32</ls>   : <L>19866<pc>0957-2<k1>patram  
+<ls>Śivamahimna 20</ls>   : <L>20045<pc>0970-2<k1>parikaraH
+<ls>Śivamahimna 26</ls>   : <L>20196<pc>0976-1<k1>pariRata
+<ls>Śivamahimna 31</ls>   : <L>20197<pc>0976-2<k1>pariRatiH
+<ls>Śivamahimna 1</ls>    : <L>21088.004<pc>1010-1<k1>pAraH
+<ls>Śivamahimna 23</ls>   : <L>21652.050<pc>1037-1<k1>puzpAyuDaH
+<ls>Śivamahimna 28</ls>   : <L>22294<pc>1064-2<k1>praRihita
+<ls>Śivamahimna 12</ls>   : <L>22663<pc>1081-1<k1>pratizWA
+<ls>Śivamahimna 25</ls>   : <L>22791<pc>1085-2<k1>pratyaYc
+<ls>Śivamahimna 30</ls>   : <L>23105<pc>1096-2<k1>prabala 
+<ls>Śivamahimna 30</ls>   : <L>23208<pc>1101-1<k1>pramahas
+<ls>Śivamahimna 7</ls>    : <L>23682<pc>1120-1<k1>prasTAnam
+<ls>Śivamahimna 10</ls>   : <L>24923.002<pc>1185-1<k1>BaraH
+<ls>Śivamahimna 21</ls>   : <L>25445<pc>1217-2<k1>BrezaH  
+<ls>Śivamahimna 29</ls>   : <L>25960<pc>1254-2<k1>mahizWa 
+<ls>Śivamahimna 9</ls>    : <L>26370<pc>1275-1<k1>muKaratA
+<ls>Śivamahimna 30</ls>   : <L>26570<pc>1285-2<k1>mfqaH   
+<ls>Śivamahimna 25</ls>   : <L>26920<pc>1306-1<k1>yamin   
+<ls>Śivamahimna 29</ls>   : <L>26942<pc>1307-1<k1>yavizWa 
+<ls>Śivamahimna 18</ls>   : <L>27261.078<pc>1327-2<k1>raTacaraRaH
+<ls>Śivamahimna 22</ls>   : <L>27293.002<pc>1329-1<k1>raBasaH
+<ls>Śivamahimna 16</ls>   : <L>27524<pc>1343-2<k1>rugRa   
+<ls>Śivamahimna 17</ls>   : <L>27529<pc>1343-2<k1>ruciH   
+<ls>Śivamahimna 32</ls>   : <L>28098.006<pc>1370-2<k1>leKanI
+<ls>Śivamahimna 13</ls>   : <L>28522<pc>1392-1<k1>varivasitf
+<ls>Śivamahimna 29</ls>   : <L>28654<pc>1398-2<k1>varzizWa
+<ls>Śivamahimna 31</ls>   : <L>28745<pc>1401-2<k1>vaSya   
+<ls>Śivamahimna 2</ls>    : <L>28841.118<pc>1408-1<k1>vANmanasa
+<ls>Śivamahimna 40</ls>   : <L>28842<pc>1408-2<k1>vANmaya 
+<ls>Śivamahimna 17</ls>   : <L>28994<pc>1415-1<k1>vAr     
+<ls>Śivamahimna 25</ls>   : <L>29649<pc>1442-1<k1>viDA    
+<ls>Śivamahimna 21</ls>   : <L>29652<pc>1442-1<k1>viDAnam 
+<ls>Śivamahimna 11</ls>   : <L>30560<pc>1483-1<k1>visPUrjitam
+<ls>Śivamahimna 3</ls>    : <L>30566.024<pc>1483-1<k1>vismayapadam
+<ls>Śivamahimna 27</ls>   : <L>30713<pc>1490-2<k1>vfttiH  
+<ls>Śivamahimna 4</ls>    : <L>31302<pc>1515-1<k1>vyasta  
+<ls>Śivamahimna 4</ls>    : <L>31321<pc>1516-1<k1>vyAkroSaH
+<ls>Śivamahimna 32</ls>   : <L>31924.008<pc>1545-2<k1>SAradA
+<ls>Śivamahimna 21</ls>   : <L>33403<pc>1615-2<k1>sadasyaH
+<ls>Śivamahimna 22</ls>   : <L>33624<pc>1625-2<k1>sapatrAkfta
+<ls>Śivamahimna 27</ls>   : <L>33768<pc>1632-1<k1>samasta 
+<ls>Śivamahimna 39</ls>   : <L>33924<pc>1638-1<k1>samAhita
+<ls>Śivamahimna 24</ls>   : <L>34522.071<pc>1660-2<k1>sahacaraH
+<ls>Śivamahimna 13</ls>   : <L>35115<pc>1692-2<k1>sutrAman
+<ls>Śivamahimna 2</ls>    : <L>35674<pc>1716-2<k1>stotavya
+<ls>Śivamahimna 33</ls>   : <L>35676<pc>1716-2<k1>stotram 
+<ls>Śivamahimna 23</ls>   : <L>35692<pc>1718-1<k1>strERa  
+<ls>Śivamahimna 24</ls>   : <L>35960.094<pc>1732-1<k1>smaraharaH
+z
+<ls>Tāṇḍya Br.</ls>       : <L>255.004<pc>0018-2<k1>agram 
+<ls>Tāṇḍya Br.</ls>       : <L>255.056<pc>0019-1<k1>agrajanman
+<ls>Tāṇḍya Br.</ls>       : <L>5159<pc>0252-1<k1>avayajanam
+<ls>Tāṇḍya Br.</ls>       : <L>6596<pc>0316-1<k1>AcaparAca
+<ls>Tāṇḍya Br.</ls>       : <L>25104<pc>1193-2<k1>BAllaviH
+<ls>Tāṇḍya Br.</ls>       : <L>25408.002<pc>1215-2<k1>BrAjam
+z
+<ls>Tantrasāra</ls>       : <L>26421<pc>1277-2<k1>mudrA   
+<ls>Tantrasāra.</ls>      : <L>18078<pc>0865-1<k1>DUmAvatI
+<ls>Tantrasāra.</ls>      : <L>18897<pc>0904-2<k1>niyamaH 
+<ls>Tantrasāra.</ls>      : <L>19903.110<pc>0961-2<k1>padmamudrA
+<ls>Tantrasāra.</ls>      : <L>21575.038<pc>1031-2<k1>puraScaraRam
+<ls>Tantrasāra.</ls>      : <L>23988<pc>1133-1<k1>prArTanam
+z
+<ls>Vaidyaka.</ls>        : <L>18400.020<pc>0882-1<k1>navANgaH
+<ls>Vaidyaka.</ls>        : <L>18475.002<pc>0887-1<k1>nAdeyam
+<ls>Vaidyaka.</ls>        : <L>23667<pc>1119-2<k1>prastAryarmam
+<ls>Vaidyaka.</ls>        : <L>24330.002<pc>1147-2<k1>PARwaH
+z
+<ls>Vaijayantī</ls>       : <L>19788<pc>0953-2<k1>pawwiSaH
+<ls>Vaijayantī</ls>       : <L>22563.002<pc>1078-1<k1>pratiyatnaH
+<ls>Vaijayantī</ls>       : <L>24074<pc>1136-2<k1>priyakaH
+<ls>Vaijayantī</ls>       : <L>25094<pc>1193-1<k1>BArgavaH
+<ls>Vaijayantī.</ls>      : <L>19334<pc>0928-1<k1>nizkrayaH
+<ls>Vaijayantī.</ls>      : <L>24589.002<pc>1162-2<k1>bAlaH
+z
+<ls>Vaiśvadeva.</ls>      : <L>17799.250<pc>0849-1<k1>dviSIrzaH
+<ls>Vaiśvadeva.</ls>      : <L>17900<pc>0854-1<k1>DamaniH 
+<ls>Vaiśvadeva.</ls>      : <L>20597<pc>0989-1<k1>parisamUhanam
+z
+<ls>Varāha P.</ls>        : <L>4968<pc>0245-1<k1>avatAraH 
+<ls>Varāha P.</ls>        : <L>5496.020<pc>0265-1<k1>aviGnakaraRavratam
+<ls>Varāha P.</ls>        : <L>17963.050<pc>0859-2<k1>DAnyaDenu
+<ls>Varāha P.</ls>        : <L>24561.028<pc>1161-1<k1>bARagaNgA
+z
+<ls>Vārt.</ls>            : <L>359<pc>0028-2<k1>acarama   
+<ls>Vārt.</ls>            : <L>4171<pc>0202-1<k1>amAtyaH  
+<ls>Vārt.</ls>            : <L>4564<pc>0223-2<k1>arTaH    
+<ls>Vārt.</ls>            : <L>4564.128<pc>0226-1<k1>arTapadam
+<ls>Vārt.</ls>            : <L>5465.022<pc>0264-1<k1>avikawaH
+<ls>Vārt.</ls>            : <L>5932<pc>0284-2<k1>azwAgava 
+<ls>Vārt.</ls>            : <L>6137<pc>0293-2<k1>asiknI   
+<ls>Vārt.</ls>            : <L>8241<pc>0389-1<k1>iva      
+<ls>Vārt.</ls>            : <L>8677.064<pc>0408-2<k1>uttarOzWaH
+<ls>Vārt.</ls>            : <L>8748<pc>0412-1<k1>utpAtaH  
+<ls>Vārt.</ls>            : <L>8775<pc>0413-2<k1>utpucCa  
+<ls>Vārt.</ls>            : <L>8801<pc>0414-2<k1>utPulla  
+<ls>Vārt.</ls>            : <L>8991<pc>0424-2<k1>udgamanam
+<ls>Vārt.</ls>            : <L>9016<pc>0425-2<k1>udgraBaRam
+<ls>Vārt.</ls>            : <L>10157.004<pc>0471-2<k1>upADyAyI
+<ls>Vārt.</ls>            : <L>10158<pc>0472-1<k1>upADyAyAnI
+<ls>Vārt.</ls>            : <L>10412<pc>0481-2<k1>uzRAlu  
+<ls>Vārt.</ls>            : <L>10563.040<pc>0489-1<k1>fRarRama
+<ls>Vārt.</ls>            : <L>10568<pc>0489-2<k1>fta     
+<ls>Vārt.</ls>            : <L>10636<pc>0498-2<k1>ekatara 
+<ls>Vārt.</ls>            : <L>10822<pc>0505-1<k1>Ezamas  
+<ls>Vārt.</ls>            : <L>10848<pc>0506-1<k1>ojAyate 
+<ls>Vārt.</ls>            : <L>10859<pc>0506-2<k1>otuH    
+<ls>Vārt.</ls>            : <L>10884.002<pc>0507-2<k1>ozWI
+<ls>Vārt.</ls>            : <L>10886<pc>0507-2<k1>ozWya   
+<ls>Vārt.</ls>            : <L>12084<pc>0563-2<k1>kArdama 
+<ls>Vārt.</ls>            : <L>12112<pc>0565-1<k1>kArzApaRika
+<ls>Vārt.</ls>            : <L>12303<pc>0575-1<k1>kIrRiH  
+<ls>Vārt.</ls>            : <L>12357<pc>0578-1<k1>kuYjaraH
+<ls>Vārt.</ls>            : <L>17217.002<pc>0810-2<k1>dArAH
+<ls>Vārt.</ls>            : <L>18238<pc>0873-2<k1>nagaram 
+<ls>Vārt.</ls>            : <L>18750<pc>0898-1<k1>nitya   
+<ls>Vārt.</ls>            : <L>28010<pc>1367-1<k1>lipiH   
+<ls>Vārt. 5</ls>          : <L>5536<pc>0266-1<k1>avidUsa  
+<ls>Vārt. 1</ls>          : <L>6263<pc>0299-1<k1>asyavAmIyam
+<ls>Vārt. 1</ls>          : <L>10067<pc>0467-1<k1>upasTA  
+<ls>Vārt. 2</ls>          : <L>12331.020<pc>0577-1<k1>kukkuwARqam
+<ls>Vārt. 9</ls>          : <L>12576.122<pc>0587-1<k1>kuladuhitf
+<ls>Vārt. 3</ls>          : <L>12896<pc>0605-1<k1>keSAkeSi
+<ls>Vārt. 1</ls>          : <L>13104<pc>0613-1<k1>kOSeya  
+<ls>Vārt. 7</ls>          : <L>13284<pc>0622-1<k1>kzatriyARI
+<ls>Vārt. 6</ls>          : <L>13363<pc>0625-2<k1>kzipakaH
+<ls>Vārt. 2</ls>          : <L>14693<pc>0697-2<k1>camaH   
+<ls>Vārt. 1</ls>          : <L>20887<pc>1000-1<k1>paSyatoharaH
+<ls>Vārt. 17</ls>         : <L>21083<pc>1010-1<k1>pAyasika
+<ls>Vārt. 1</ls>          : <L>21184<pc>1013-1<k1>pArimuKyam
+<ls>Vārt. 7</ls>          : <L>25970.054<pc>1255-2<k1>mAMsakAmaH
+z
+<ls>Vāyu P.</ls>          : <L>149<pc>0008-2<k1>akzaya    
+<ls>Vāyu P.</ls>          : <L>243.128<pc>0016-1<k1>agnidagDa
+<ls>Vāyu P.</ls>          : <L>6157.002<pc>0295-1<k1>asuraH
+<ls>Vāyu P.</ls>          : <L>6398<pc>0307-1<k1>AkUtiH   
+<ls>Vāyu P.</ls>          : <L>8548<pc>0402-2<k1>utUlAH   
+<ls>Vāyu P.</ls>          : <L>10242.020<pc>0475-1<k1>upodGAtapAdaH
+<ls>Vāyu P.</ls>          : <L>17799.030<pc>0847-2<k1>dvyarTa
+<ls>Vāyu P.</ls>          : <L>21558.076<pc>1030-2<k1>punaHpunA
+z
+<ls>Viṣṇumahimna 9</ls>   : <L>17793.020<pc>0847-1<k1>dvArga
+<ls>Viṣṇumahimna 23</ls>  : <L>24518<pc>1157-2<k1>bastiH  
+<ls>Viṣṇumahimna 34</ls>  : <L>24679<pc>1167-2<k1>bileSayaH
+<ls>Viṣṇumahimna 4</ls>   : <L>24718.002<pc>1169-2<k1>budDaH
+<ls>Viṣṇumahimna 12</ls>  : <L>26590<pc>1286-2<k1>mftsA   
+<ls>Viṣṇumahimna 12</ls>  : <L>30616<pc>1485-1<k1>viharaRam
+<ls>Viṣṇumahimna 30</ls>  : <L>32579.080<pc>1577-2<k1>SrutiSiKaram
+<ls>Viṣṇumahimna 24</ls>  : <L>34602.048<pc>1663-2<k1>sAgarasutA
+z
+<ls>Viṣṇupāda. S. 23</ls> : <L>18541<pc>0890-2<k1>nAlIkaH 
+<ls>Viṣṇupāda. S. 1</ls>  : <L>18789<pc>0900-1<k1>niDvAnaH
+<ls>Viṣṇupāda. S. 21</ls> : <L>21017<pc>1006-1<k1>pAtityam
+<ls>Viṣṇupāda. S. 43</ls> : <L>21534<pc>1028-1<k1>puRqraH 
+<ls>Viṣṇupāda. S. 16</ls> : <L>22359<pc>1071-1<k1>pratikftiH
+<ls>Viṣṇupāda. S. 46</ls> : <L>24262<pc>1143-2<k1>plozaH  
+<ls>Viṣṇupāda. S. 26</ls> : <L>25948<pc>1254-1<k1>mahita  
+<ls>Viṣṇupāda. S. 8</ls>  : <L>26891<pc>1303-2<k1>yadIya  
+<ls>Viṣṇupāda. S. 11</ls> : <L>28096<pc>1370-1<k1>leKaH   
+<ls>Viṣṇupāda. S. 34</ls> : <L>30905<pc>1500-1<k1>vEkuRWIya
+<ls>Viṣṇupāda. S. 28</ls> : <L>32571.134<pc>1576-1<k1>SrIvfkzaH
+<ls>Viṣṇupāda. S. 19</ls> : <L>34037.002<pc>1641-2<k1>samudgaH
+<ls>Viṣṇupāda. S. 25</ls> : <L>34443.044<pc>1657-2<k1>salilaniDiH
+<ls>Viṣṇupāda. S. 21</ls> : <L>34634<pc>1665-1<k1>sAtatyam
+<ls>Viṣṇupāda. S. 31</ls> : <L>35088.499<pc>1688-2<k1>suBadraH
+<ls>Viṣṇupāda. S. 43</ls> : <L>35966<pc>1732-1<k1>smAra   
+z
+<ls>Vivekacūḍāmaṇi</ls>   : <L>12241<pc>0571-2<k1>kim     
+<ls>Vivekacūḍāmaṇi</ls>   : <L>23858.020<pc>1128-1<k1>prARamayakoSaH
+<ls>Vivekacūḍāmaṇi.</ls>  : <L>19732.106<pc>0949-1<k1>paYcakozAH
+<ls>Vivekacūḍāmaṇi.</ls>  : <L>19736.004<pc>0951-2<k1>paYcatAMgam
+<ls>Vivekacūḍāmaṇi.</ls>  : <L>23785<pc>1123-2<k1>prahva  
+<ls>Vivekacūḍāmaṇi.</ls>  : <L>25709<pc>1235-2<k1>manuzyatA
+<ls>Vivekacūḍāmaṇi. 5</ls> : <L>17884<pc>0853-1<k1>Danya   
+z
+<ls>Yādava</ls>           : <L>5081<pc>0249-2<k1>avapAtaH 
+<ls>Yādava.</ls>          : <L>6135.036<pc>0293-1<k1>asiDArAvratam
+<ls>Yādava.</ls>          : <L>22292<pc>1064-2<k1>praRiDiH
+<ls>Yādava.</ls>          : <L>24318<pc>1147-1<k1>Palgu   
+z
+<ls>Yuktikalpataru.</ls>  : <L>16358.002<pc>0768-1<k1>tAmasaH
+<ls>Yuktikalpataru.</ls>  : <L>16760<pc>0785-2<k1>tEjasa  
+<ls>Yuktikalpataru.</ls>  : <L>17799.090<pc>0848-1<k1>dvijanman
+<ls>Yuktikalpataru.</ls>  : <L>17799.186<pc>0849-1<k1>dviBOtikaH
+z
+<ls>देव्यपराधक्षमापणस्तोत्रम् 7</ls> : <L>20309<pc>0980-1<k1>paripAwiH
+<ls>देव्यपराधक्षमापनस्तोत्रम्</ls> : <L>12319.090<pc>0576-2<k1>kuputraH
+<ls>देव्यपराधक्षमापनस्तोत्रम् 6</ls> : <L>18923.170<pc>0907-2<k1>nirAtaNka
+z
+<ls>मेदिनी</ls>           : <L>11149.002<pc>0517-1<k1>kacA
+<ls>मेदिनी</ls>           : <L>11197.054<pc>0519-2<k1>kawaBaNgaH
+<ls>मेदिनी. 1. 65</ls>    : <L>4754<pc>0237-2<k1>av       
+z
+<ls>वार्त्तिक 2. 2. 34. 1</ls> : <L>553<pc>0038-1<k1>atantra   
+<ls>वार्त्तिक 2. 2. 24. 16</ls> : <L>1342<pc>0076-2<k1>anaBiDAnam
+<ls>वार्त्तिक 3. 1. 2. 5</ls> : <L>4564.034<pc>0224-2<k1>arTABiDAna
+<ls>वार्तिक 1. 30. 60. 4</ls> : <L>522<pc>0037-1<k1>aqAgamaH  
+z
+<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 22</ls> : <L>17211<pc>0810-1<k1>dAmnI   
+<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 33</ls> : <L>17330<pc>0816-2<k1>dIkzA   
+<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 46</ls> : <L>18083<pc>0865-1<k1>DUmyA   
+<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 7</ls> : <L>18190<pc>0870-1<k1>DvaMsana
+<ls>विष्णुपादादिकेशान्तवर्णनस्तोत्रम् 4</ls> : <L>18296.002<pc>0876-2<k1>nandakaH
+z
+<ls>शालिहोत्र of भोज 330</ls> : <L>8176.206<pc>0386-1<k1>indravAruRI
+<ls>शालिहोत्र of भोज ed. by Kulkarni, Appendix II, 153</ls> : <L>7059.002<pc>0338-1<k1>ApyaH
+<ls>शालिहोत्र of भोज, Appendix II, 12</ls> : <L>15466.158<pc>0730-2<k1>jalajaH
+<ls>शालिहोत्र of भोज.</ls> : <L>12347<pc>0577-2<k1>kujaH   
+z

@@ -1,0 +1,240 @@
+<ls>Ācārya-Ṣaṭpadī 4</ls> : <L>18237.054<pc>0873-2<k1>nagaBid
+<ls>Adhyātma Rām. 7. 5. 27</ls> : <L>426<pc>0032-1<k1>ajahatsvArTA
+<ls>Ādipurāṇa</ls>        : <L>7571<pc>0358-1<k1>AlamBaH  
+<ls>Āgamapr.</ls>         : <L>14420.034<pc>0683-1<k1>GawakaYcuki
+<ls>Agnipurāṇa ch. 104; v. 19-20</ls> : <L>10525.034<pc>0487-2<k1>fkzanAyakaH
+<ls>Ait. Anukr.</ls>      : <L>4478.042<pc>0218-2<k1>aruRaketubrAhmaRam
+<ls>Amṛt. Up. 20</ls>     : <L>17305.060<pc>0814-2<k1>divyamantraH
+<ls>Annals of the Bhandarkar Oriental Research Institute Vol. XXXVI Nos. 1━2</ls> : <L>12829.026<pc>0600-1<k1>kfziparASaraH
+<ls>AR.</ls>              : <L>4701<pc>0235-1<k1>alikam   
+<ls>Āryabhaṭṭa 3. 6</ls>  : <L>16444.034<pc>0772-2<k1>tiTipralayaH
+<ls>Āśīrvādamantra.</ls>  : <L>30396.128<pc>1475-1<k1>viSvavedas
+<ls>Aśval.</ls>           : <L>6511<pc>0312-2<k1>Agantuka 
+<ls>Āyurveda.</ls>        : <L>17706.028<pc>0843-1<k1>dravyakalkam
+<ls>Bād. Sūtras 2. 1</ls> : <L>11473.002<pc>0531-1<k1>kapilaH
+<ls>Bādarāyaṇa 2. 1. 18</ls> : <L>13270.032<pc>0621-1<k1>kzaRaBaNgavAdaH
+<ls>Bhāṣa P. 14</ls>      : <L>21180<pc>1013-1<k1>pArimARqalyam
+<ls>Bhāvanopaniṣad 2</ls> : <L>27325<pc>1330-2<k1>raSanA  
+<ls>Bhojaprabandha 310</ls> : <L>34429<pc>1657-2<k1>sarvadA 
+<ls>Bhramarāṣṭakam</ls>   : <L>19422<pc>0934-1<k1>nIta    
+<ls>Bibliotheca Indica 274, Fasc. I. p. 145</ls> : <L>13702.008<pc>0640-1<k1>Kewam
+<ls>Br. Sūtras 1. 4. 11-13</ls> : <L>19732.134<pc>0949-2<k1>paYcajanaH
+<ls>Brahmabindu. Up. 4</ls> : <L>9326<pc>0437-2<k1>unmanIBAvaH
+<ls>Brahmavaivasvata P.</ls> : <L>23135<pc>1098-1<k1>praBA   
+<ls>Brahmavidyā Up. 63</ls> : <L>26037.004<pc>1258-2<k1>mAtfkA
+<ls>Bṛhaspati</ls>        : <L>13161.024<pc>0616-1<k1>krayaleKyam
+<ls>Caṇḍ. K.</ls>         : <L>2334.193<pc>0120-2<k1>antaHpurikaH
+<ls>Chaitanyachandrodaya 3</ls> : <L>32078.040<pc>1552-2<k1>SiroDarA
+<ls>Chakrapāṇidatta.</ls> : <L>23091<pc>1096-2<k1>prapORqarIkaH
+<ls>Chāṇakyanīti.</ls>    : <L>32136.030<pc>1556-2<k1>SIGracetanaH
+<ls>Chāṇakyanītidarpaṇa.</ls> : <L>23161.020<pc>1099-2<k1>praBuBakta
+<ls>Chāṇakyanītisāra 80</ls> : <L>33476<pc>1618-2<k1>saMtuzwa
+<ls>charak.</ls>          : <L>12229<pc>0571-1<k1>kiwwam  
+<ls>Chhandogapaddhati.</ls> : <L>28765.052<pc>1403-1<k1>vasuDArA
+<ls>Colebr.</ls>          : <L>8726<pc>0411-2<k1>utTApanam
+<ls>Dāyabhāga</ls>        : <L>15358<pc>0724-2<k1>jaqa    
+<ls>Deogaḍh Rock Inscription of Kīrtivarman, V. 7; Ind. Ant. Vol. XVIII pp. 238-9</ls> : <L>14434<pc>0684-1<k1>GawwaH  
+<ls>Deval Smṛti</ls>      : <L>12434.020<pc>0580-2<k1>kuRqASin
+<ls>Devī-stotram.</ls>    : <L>19249<pc>0925-1<k1>niSumBaH
+<ls>Devīstuti.</ls>       : <L>25994<pc>1257-1<k1>mANgalya
+<ls>Dīdhiti.</ls>         : <L>20753<pc>0994-2<k1>paryAptiH
+<ls>Dīpikā.</ls>          : <L>1340<pc>0076-2<k1>anaPA    
+<ls>Dr. Bhāndārkarʼs note</ls> : <L>35029<pc>1682-2<k1>sinDuH  
+<ls>Dr. Caldwell</ls>     : <L>222<pc>0012-2<k1>agasti    
+<ls>Dr. Godeʼs paper on, ‘Massage in Ancient and Medieval India’, Annals of Bhandarkar Oriental Research Institute XXXVI, parts I━II, pp. 85. 113).</ls> : <L>9362<pc>0439-1<k1>unmardanam
+<ls>Dr. Godeʼs papers Vol. III</ls> : <L>6139.034<pc>0294-1<k1>asitagiriH
+<ls>Dr. Kaneʼs History of Dharma-śāstra, vol. V. p. 125</ls> : <L>35825<pc>1726-2<k1>snuh    
+<ls>Dr. Kṣitīśachandra Chatterjee</ls> : <L>35505<pc>1710-1<k1>sOraByam
+<ls>Dr. Peterson</ls>     : <L>1440.026<pc>0080-2<k1>anAgataviDAtf
+<ls>Dr. ▪ Raghavanʼs note</ls> : <L>33544<pc>1621-2<k1>saMDiH  
+<ls>Durgāpūjāmantra</ls>  : <L>24905.046<pc>1184-1<k1>BadrakAlI
+<ls n="Dvyākṣaranāmāmalā">42</ls> : <L>36701<pc>1768-2<k1>hvA     
+<ls>English translator Handiqui, p. 630</ls> : <L>30666.106<pc>1487-2<k1>vIrahan
+<ls>Gadādhara.</ls>       : <L>7787<pc>0366-1<k1>ASaNkA   
+<ls>Gaṇitādhyāya.</ls>    : <L>21772<pc>1045-2<k1>pfzatkaH
+<ls>Gauḍ. 4. 38</ls>      : <L>8756.002<pc>0413-1<k1>utpAdaH
+<ls>Gauḍapāda Kār. 1. 16</ls> : <L>6277<pc>0299-2<k1>asvapna  
+<ls>Ghoṣalʼs Revenue System, p. 210</ls> : <L>10961<pc>0510-1<k1>OdraNgikaH
+<ls>Gīrvāṇa</ls>          : <L>10548<pc>0488-2<k1>fjIza   
+<ls>Gobhil.</ls>          : <L>4384<pc>0213-2<k1>araqA    
+<ls>Gopath. Br. 1. 3. 9</ls> : <L>9365.002<pc>0439-2<k1>upakakzam
+<ls>Gorakṣa Śataka 26</ls> : <L>14002<pc>0657-1<k1>gAnDArI 
+<ls>Govardhanācārya</ls>  : <L>28069<pc>1369-1<k1>lupta   
+<ls>Govardhanasaptaśatī</ls> : <L>27209.022<pc>1323-1<k1>raGukAraH
+<ls>Govindarāja.</ls>     : <L>25084.006<pc>1192-2<k1>BAratI
+<ls>Haṃsa Up. 2</ls>      : <L>12311.002<pc>0575-2<k1>kIlakam
+<ls>Handiqui edition, p. 601</ls> : <L>21063.020<pc>1008-2<k1>pAnTadurgA
+<ls>Hanumannāṭaka.</ls>   : <L>24789<pc>1173-1<k1>brahman 
+<ls>Hanumannāṭakam.</ls>  : <L>27318<pc>1330-1<k1>rallakaH
+<ls>Hārāvalī</ls>         : <L>9962<pc>0463-1<k1>upaSrutiH
+<ls>Haṭhayogapradīpikā.</ls> : <L>18140<pc>0868-2<k1>DOti    
+<ls>Hm.</ls>              : <L>138.108<pc>0008-1<k1>akzamAlA
+<ls>IHQ. VI, 53 ff.</ls>  : <L>20965.020<pc>1003-2<k1>pAwyuparikaH
+<ls>Inscrip.</ls>         : <L>23108<pc>1097-1<k1>prabalI 
+<ls>inscription at Gayā V. 9; Ind. Ant. Vol. X</ls> : <L>13813.064<pc>0647-1<k1>ganDakuwI
+<ls>Inscription of Bengal, p. 149</ls> : <L>10924<pc>0508-2<k1>OtTitAsanikaH
+<ls>Inscription, 1st cen. A. D.</ls> : <L>15952<pc>0750-a1<k1>WakkaH 
+<ls>Inscriptions</ls>     : <L>4551.040<pc>0223-1<k1>arjunasiMhaH
+<ls>Inscriptions of Bengal, p. 149</ls> : <L>328<pc>0026-2<k1>aNgikaraRikaH
+<ls>Inscriptions of Bengal, p. 149</ls> : <L>7237.004<pc>0344-1<k1>AByantarikaH
+<ls>Īśvarasaṃhitā.</ls>   : <L>32107.092<pc>1554-2<k1>SivarAtriH
+<ls>Jagaddhara</ls>       : <L>19154<pc>0920-2<k1>nirvyUQa
+<ls>Jānakīharaṇa. 7. 1</ls> : <L>35706<pc>1718-2<k1>sTapatyaH
+<ls>Jīvānandaʼs ed. of Smṛtitattva vol. II, 1895</ls> : <L>35825<pc>1726-2<k1>snuh    
+<ls>Jyotissārasaṅgraha.</ls> : <L>17307.110<pc>0815-2<k1>dikCUlam
+<ls>Kaiyata and Nāgojibhatta on Pat.</ls> : <L>6618.026<pc>0317-2<k1>AcAryadeSIya
+<ls>Kaiyaṭa.</ls>         : <L>22078<pc>1057-1<k1>prakzip 
+<ls>Kalhaṇa.</ls>         : <L>36582<pc>1765-2<k1>hevAkin 
+<ls>Kālītantram.</ls>     : <L>25943.230<pc>1249-2<k1>mahAkAlaH
+<ls>Kāmaśāstra.</ls>      : <L>18231.022<pc>0873-1<k1>naKAGAtaH
+<ls>Karmapradīpa.</ls>    : <L>21341.004<pc>1019-1<k1>piYjalI
+<ls>Karpūrastava.</ls>    : <L>18285.020<pc>0875-2<k1>nadInaH
+<ls>Kathā. 3</ls>         : <L>14441.022<pc>0684-1<k1>GaRwAkarRaH
+<ls>Kaṭhaśrutyupaniṣad 17</ls> : <L>24789.142<pc>1174-2<k1>brahmacArin
+<ls>Kavikalpalatā.</ls>   : <L>21590.002<pc>1032-2<k1>purohitaH
+<ls>Kāvyālaṃkārasūtrāṇi 59</ls> : <L>31950<pc>1546-2<k1>SArvarIka
+<ls>Kāvyālaṅkāravṛtti 2. 1. 11</ls> : <L>10632.068<pc>0494-2<k1>ekArTa
+<ls>Kriyāyogasāra.</ls>   : <L>25603.002<pc>1225-2<k1>matsaraH
+<ls>Kṛṣisaṃgraha.</ls>    : <L>11236<pc>0521-1<k1>kaww    
+<ls>Kumārila.</ls>        : <L>3597<pc>0181-2<k1>aBiyukta 
+<ls>Kūrmapurāṇa ch. 26</ls> : <L>30396.028<pc>1474-2<k1>viSveSaH
+<ls>Kuṭṭanīmata 64</ls>   : <L>16802<pc>0787-1<k1>tOruzkika
+<ls>Kuv. 148</ls>         : <L>11978<pc>0557-1<k1>kApiSAyanam
+<ls>L.</ls>               : <L>4551.038<pc>0223-1<k1>arjunasaKiH
+<ls>Laghu Yogavāsiṣṭha-sāra X.</ls> : <L>8176.206<pc>0386-1<k1>indravAruRI
+<ls>Lakṣmīcharitra.</ls>  : <L>28486.024<pc>1390-1<k1>varANganA
+<ls>Lāṭyāyana 4. 2. 9</ls> : <L>10340<pc>0479-1<k1>ulUli   
+<ls>Lv.</ls>              : <L>39.002<pc>0003-1<k1>akanizWaH
+<ls>Lv. 10. 29</ls>       : <L>13585<pc>0637-1<k1>KarozwI 
+<ls>Mādhava</ls>          : <L>23804.002<pc>1124-1<k1>prAkftaH
+<ls>Mādhavakara.</ls>     : <L>28897.022<pc>1411-1<k1>vAtARqaH
+<ls>Madhusūdana.</ls>     : <L>14097.160<pc>0663-1<k1>guRavAdaH
+<ls>Mahīdhara</ls>        : <L>6967<pc>0334-2<k1>Anirhata 
+<ls>Maitrā. S. 1. 10. 16</ls> : <L>8880<pc>0418-2<k1>udAjaH   
+<ls>Mānameyodaya p. 129 (ed. by K. Raja, Adyar, 1933)</ls> : <L>4564.042<pc>0225-1<k1>arTApattiH
+<ls>Maṇḍala Brā. Up. 2. 4</ls> : <L>21064.096<pc>1009-1<k1>pApaPala
+<ls>Maṇḍūkī Śikṣā.</ls>   : <L>20909<pc>1001-2<k1>pAkavatI
+<ls>Maṇiratnamālā.</ls>   : <L>12809<pc>0599-1<k1>kfpAlu  
+<ls>Maṅkhaka 2. 7</ls>    : <L>19379.116<pc>0930-2<k1>nistuzatvam
+<ls>Manodūta 115</ls>     : <L>22252.024<pc>1063-1<k1>prajYAcakzus
+<ls>Max Mullerʼs Hist. Anc. Lit. pp. 463-466</ls> : <L>7151<pc>0341-1<k1>AprI     
+<ls>Medhātithi</ls>       : <L>29045<pc>1418-1<k1>vArDrARasaH
+<ls>Mit. Y. 2. 204</ls>   : <L>2411.038<pc>0132-1<k1>anyaTAstotram
+<ls>Mount Abu Inscrip. No 1. 5. 4. Ep. Ind. Vol. III</ls> : <L>13519<pc>0634-1<k1>KawwakaH
+<ls>Mr. Telang</ls>       : <L>2702<pc>0145-1<k1>aparaspara
+<ls>Mṛtyuñjaya Mānasa Pūjā S. 1</ls> : <L>26589<pc>1286-2<k1>mftyuMjayaH
+<ls n="Ms">9. 248</ls>    : <L>5170.037<pc>0253-1<k1>avaravarRaH
+<ls>Muhūrtachintāmaṇi.</ls> : <L>1108<pc>0065-1<k1>aDiyogaH 
+<ls>Nalachampū.</ls>      : <L>23636<pc>1118-1<k1>prasAraH
+<ls>Nandī P.</ls>         : <L>21020<pc>1006-1<k1>pAttra  
+<ls>Nārada P.</ls>        : <L>26154.020<pc>1264-2<k1>mArkaRqapurARam
+<ls>Nāradapari. Up. 3. 14</ls> : <L>30093<pc>1460-2<k1>virakta 
+<ls>Nārāyaṇapūrvatāp. Up. 5. 8</ls> : <L>30911<pc>1500-2<k1>vEKarI  
+<ls>Nāṭyaśāstra.</ls>     : <L>11184<pc>0518-2<k1>kaYcukIyaH
+<ls>Nīlakaṇṭha</ls>       : <L>24822.004<pc>1179-a1<k1>Baktam
+<ls>Nyāyamālā.</ls>       : <L>28841.032<pc>1407-2<k1>vAgISaH
+<ls>Pālakāpyam.</ls>      : <L>13813.192<pc>0647-2<k1>ganDahastin
+<ls>Pāraskara Gṛhyasūtra.</ls> : <L>5827.020<pc>0276-1<k1>aSUnyopasTA
+<ls>Patañ.</ls>           : <L>20931<pc>1002-1<k1>pAYcakapAla
+<ls>Pātaṅjala Yogadarśana, I. 41</ls> : <L>482<pc>0035-1<k1>aYjanatA  
+<ls>Praṇava Up. 4</ls>    : <L>24789.390<pc>1176-2<k1>brahmavedaH
+<ls>Pras. Rāgh.</ls>      : <L>12542.020<pc>0585-2<k1>kuraNgAkzI
+<ls>Puṣpadanta.</ls>      : <L>4119<pc>0199-2<k1>amaNgala 
+<ls>Rājadharmakaustubha, G. O. S. 72, p. 102</ls> : <L>13702.008<pc>0640-1<k1>Kewam
+<ls>Rājapraśasti</ls>     : <L>14082<pc>0661-1<k1>guwikA  
+<ls>Rājendrakarṇapūra.</ls> : <L>25879<pc>1245-1<k1>malliH  
+<ls>Rāmakavacha.</ls>     : <L>19444.025<pc>0935-1<k1>nIradaH
+<ls>Rasamañjarī 3-94</ls> : <L>18516<pc>0889-1<k1>nAyikA  
+<ls>Raseśvaradarśanam.</ls> : <L>21107<pc>1011-1<k1>pAradaH 
+<ls>Ṛgvedabhāṣya.</ls>    : <L>32021<pc>1550-1<k1>SikzA   
+<ls>Rudrayāmala.</ls>     : <L>25454.030<pc>1217-a2<k1>makarAsanam
+<ls>Śabdamālā.</ls>       : <L>25937<pc>1247-2<k1>mahallaH
+<ls>Śabdaratnākara.</ls>  : <L>24681.020<pc>1167-2<k1>billasUH
+<ls>Śabdārṇava.</ls>      : <L>7598.001<pc>0359-2<k1>AliNgI
+<ls>Śabdenduśekhara.</ls> : <L>16008<pc>0751-a2<k1>QakkA  
+<ls>Sādhanapañchaka Stotra 4</ls> : <L>19608<pc>0942-1<k1>nEzWuryam
+<ls>Samayapradīpa.</ls>   : <L>25961.028<pc>1254-2<k1>mahIjaH
+<ls>Saṃgītasāra.</ls>     : <L>22420<pc>1073-1<k1>pratitAlaH
+<ls>Śāṇḍilya Up. 1. 1. 2</ls> : <L>26908.002<pc>1305-1<k1>yamaH
+<ls>Śāṅk. Bhāṣ.</ls>      : <L>11473.002<pc>0531-1<k1>kapilaH
+<ls>Sāṅkhya</ls>          : <L>50<pc>0003-2<k1>akartf     
+<ls>Sāṅkhya K. 44</ls>    : <L>2800<pc>0148-2<k1>apavargaH
+<ls>Sāṅkhyapravachanabhāṣya.</ls> : <L>25246<pc>1207-1<k1>BUmikA  
+<ls>Śāntiparvan</ls>      : <L>13282<pc>0621-2<k1>kzatriyaH
+<ls>Saralā</ls>           : <L>4337.002<pc>0211-2<k1>ayAnayaH
+<ls>Śārīrabhāṣya</ls>     : <L>19732.134<pc>0949-2<k1>paYcajanaH
+<ls>Sārnāth Inscrip. of Mahīpāla; Ind. Ant. Vol. 14, p. 140</ls> : <L>17918.260<pc>0856-2<k1>DarmarAjikA
+<ls>Satawalekar ed.</ls>  : <L>4688<pc>0234-2<k1>alARquH  
+<ls>Saugandhikā-haraṇa.</ls> : <L>24675.020<pc>1167-1<k1>birudaGaRwA
+<ls>Sāv. 65</ls>          : <L>4564.168<pc>0226-1<k1>arTavaSaH
+<ls>ŚB.</ls>              : <L>641<pc>0042-1<k1>atideSaH  
+<ls>Śekhara.</ls>         : <L>20982<pc>1004-2<k1>pARiniH 
+<ls>Sircar, SI. 239 n.</ls> : <L>377<pc>0029-2<k1>acovinaH  
+<ls>Śivakavacha</ls>      : <L>21531<pc>1028-1<k1>puRqarIkam
+<ls>Śivatāṇḍavastotra.</ls> : <L>18998<pc>0914-2<k1>nirJariRI
+<ls>Śrīdhara.</ls>        : <L>21556.002<pc>1030-1<k1>pudgalaH
+<ls>Śrīkaṇṭhacharita 1. 33</ls> : <L>18386.002<pc>0881-1<k1>nalam
+<ls>Śrīkaṇṭhacharitam 1. 3</ls> : <L>9336<pc>0438-1<k1>unmAlakam
+<ls>Śulba. S.</ls>        : <L>186.020<pc>0011-1<k1>akzRayArajjuH
+<ls>Sundaralaharī 2</ls>  : <L>25003.002<pc>1188-2<k1>Basitam
+<ls>Sūryaprajñapti.</ls>  : <L>243.288<pc>0017-2<k1>agniveSyaH
+<ls>Sūryaśatakam.</ls>    : <L>22913<pc>1089-2<k1>pratyuzaH
+<ls>T. 4. 28</ls>         : <L>3984<pc>0194-2<k1>aByAsaH  
+<ls>Tarkasaṃgraha.</ls>   : <L>18076<pc>0865-1<k1>DUmavat 
+<ls>Tarpaṇamantra.</ls>   : <L>17517.092<pc>0833-2<k1>devarziH
+<ls>Tejobindu Up. 1. 42</ls> : <L>24789.386<pc>1176-2<k1>brahmavfttiH
+<ls>Telangʼs Bhagavadgītā</ls> : <L>1217.004<pc>0070-1<k1>aDyAtmam
+<ls>Trivikramabhaṭṭa.</ls> : <L>19887.098<pc>0960-1<k1>padanyAsaH
+<ls>Tulasī. Up.</ls>      : <L>20795<pc>0996-1<k1>parvan  
+<ls>Uṇādikośa.</ls>       : <L>27257<pc>1326-2<k1>ratUH   
+<ls>Utkalakhaṇḍa.</ls>    : <L>14120<pc>0664-1<k1>guRqicA 
+<ls>Utpattitantra.</ls>   : <L>25333.004<pc>1211-2<k1>BEravI
+<ls>Vaidyacandrikā.</ls>  : <L>18394.082<pc>0882-1<k1>navasAraH
+<ls>Vaidyajīvanam.</ls>   : <L>13832.100<pc>0649-1<k1>gataspfha
+<ls>Vājasaneyī saṃhitā (part 18. 1-27).</ls> : <L>14694<pc>0697-2<k1>camakasUktam
+<ls>Vasiṣṭhasmṛti.</ls>   : <L>21545.022<pc>1029-2<k1>putrakAputraH
+<ls>Vātsyāyana Bhāṣya 1. 1. 2</ls> : <L>27729<pc>1352-a2<k1>lakzaRam
+<ls>Ved. 3. 7</ls>        : <L>5232<pc>0255-2<k1>avalIQa  
+<ls>Ved. Paribhāṣā.</ls>  : <L>10<pc>0002-1<k1>aMSin      
+<ls>Ved. Sūtra.</ls>      : <L>993<pc>0058-1<k1>advaya    
+<ls>Veeracharitam</ls>    : <L>8545<pc>0402-2<k1>uta      
+<ls>Viduranīti.</ls>      : <L>18214.026<pc>0872-1<k1>nEkaH
+<ls>Vidyāpariṇayam ▪ Act 5</ls> : <L>28974<pc>1414-1<k1>vAmadevyam
+<ls>Vīracandrodaya.</ls>  : <L>17717<pc>0843-2<k1>drAk    
+<ls>Vīramitrodaya</ls>    : <L>27161.002<pc>1320-1<k1>yOtakam
+<ls>Viṣṇu Smṛti</ls>      : <L>796<pc>0047-2<k1>atisAntapanam
+<ls>Viṣṇudhyānam.</ls>    : <L>18161<pc>0869-1<k1>DyAtavya
+<ls>Viśvalochana.</ls>    : <L>14577.082<pc>0691-1<k1>cakraDara
+<ls>Viśwakośa</ls>        : <L>29166<pc>1423-1<k1>vikawa  
+<ls>Vivaraṇaprameya-saṃgraha.</ls> : <L>22794<pc>1086-1<k1>pratyaBijYA
+<ls>Vṛddhamanu</ls>       : <L>25044<pc>1191-1<k1>BAwam   
+<ls>Yādavābhyudaya 10. 9</ls> : <L>25684.038<pc>1233-2<k1>manaHkAraH
+<ls>Yavaneśvara.</ls>     : <L>19431.030<pc>0934-2<k1>nIcagfham
+<ls>Yogaśikhopaniṣad 5. 11</ls> : <L>21460<pc>1024-2<k1>pIWam   
+<ls>Yogasūtrabhāṣya.</ls> : <L>29279.002<pc>1427-2<k1>vikziptam
+<ls>Yoginī Tantra, Ch. VI quoted in Woodroffe, Śakti and Śākta, 571).</ls> : <L>26421<pc>1277-2<k1>mudrA   
+<ls>{%Goughʼs Upaniṣads%} pp. 69-73</ls> : <L>10867<pc>0506-2<k1>om      
+<ls>अरुणाचलमाहात्म्यमुत्तरार्धः २ अ॰ ६८ श्लो॰</ls> : <L>14268.194<pc>0673-1<k1>goparvatam
+<ls>अलंकारशेखर ६</ls>     : <L>14302.004<pc>0675-2<k1>gOqI
+<ls>उज्ज्वलमणिः</ls>      : <L>29890<pc>1452-2<k1>vipralamBaH
+<ls>चरकसंहिता, सूत्रस्थान, chap. 6, verse 14</ls> : <L>8818<pc>0415-1<k1>utsAdanam
+<ls>जगद्धर</ls>           : <L>281.036<pc>0022-1<k1>aNkaparivartaH
+<ls>तन्त्रवार्त्तिक 4. 3. 42. 2</ls> : <L>4564.026<pc>0224-2<k1>arTAnupapattiH
+<ls>त्रिपाद्विभूतिमहानारायणोपनिषत् 4. 2</ls> : <L>30144<pc>1463-1<k1>viroDaH 
+<ls>दानसागर, Bibliotheca Indica 274. Face. I, p. 27</ls> : <L>13161.030<pc>0616-1<k1>krayavikrayin
+<ls>नागानन्द 1</ls>       : <L>8443<pc>0399-1<k1>ucCalita 
+<ls>नागेशभट्ट</ls>        : <L>25836<pc>1242-2<k1>marman  
+<ls>निघण्टुरत्नाकर</ls>   : <L>281.040<pc>0022-2<k1>aNkapAliH
+<ls>नीलकण्ठ</ls>          : <L>255.142<pc>0020-1<k1>agrahAraH
+<ls>परिभाषेन्दुशेखर pari. 2 and 3</ls> : <L>12103.050<pc>0564-2<k1>kAryakAlaH
+<ls>ब्रह्मानंद पु॰ Part I, II</ls> : <L>13702.008<pc>0640-1<k1>Kewam
+<ls>मल॰ त॰</ls>           : <L>24298.088<pc>1145-2<k1>PalakAma
+<ls>मुकुन्दमालास्तोत्रम् 15</ls> : <L>2234<pc>0113-2<k1>anusfta  
+<ls>विश्वगुणादर्शचम्पू 379</ls> : <L>2147.004<pc>0109-2<k1>anuvratA
+<ls>विष्णुपादादि॰ स्तोत्रम् 13</ls> : <L>19695<pc>0946-2<k1>paNkeruh
+<ls>विष्णुपादा॰ वर्णनस्तोत्रम् 18</ls> : <L>20393<pc>0982-2<k1>parimalanam
+<ls>शब्दार्थचिन्तामणि</ls> : <L>15529.046<pc>0734-1<k1>jAtibrAhmaRaH
+<ls>श्रीविठ्ठलाष्टोत्तरशतनामस्तोत्रम् 1</ls> : <L>29492<pc>1435-2<k1>viwWalaH
+<ls>शाङ्करभाष्य on ब्रह्मसूत्र 1. 1. 1</ls> : <L>8285.020<pc>0391-2<k1>ihAmutra
+<ls>शिवमहिम्नस्तोत्रम् ▪ of पुष्पदन्ताचार्य</ls> : <L>4555.002<pc>0223-1<k1>arRavaH
+<ls>हैमः</ls>             : <L>31654<pc>1532-2<k1>SabdaH  
