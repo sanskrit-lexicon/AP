@@ -41,7 +41,7 @@ PWG tempwork/lsextract_all_pwg.txt -> tempwork_lsextract_all_pwg.txt
   provide description
 * prepare to install
 cd /c/xampp/htdocs/cologne/csl-orig/
-git pull (52 files changed) 200000+ lines changed
+git pull # (52 files changed) 200000+ lines changed
 # already up to date
  csl-pywork, csl-websanlexicon, csl-apidev, hwnorm1, hwnorm2
 

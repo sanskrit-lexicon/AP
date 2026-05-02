@@ -10,8 +10,12 @@ PWG : 05214	AIT. BR.	AITAREYABRĀHMAṆA.
     3 parameters "https://sanskrit-lexicon-scans.github.io/aitbr_auf/app1?"
      (12 instances in ap)
     suSeva 'Ait. Br. 7. 13. 11'   no
-    ABUtiH 'Ait. Br. 8. 13. 8'  no
+    ABUtiH 'Ait. Br. 8. 13. 8'  no   corrected to 7. 13. 8
 conclude use aitbr for 2-parms.  No link for 3-parms
+Note: The way basicadjust is written,  
+  the 3-parm links are handled by aitbr/app1 -- 3rd parameter ignored.
+  See Andhrabharati comment at https://github.com/sanskrit-lexicon/AP/issues/19#issuecomment-4362925850
+  
 ** AP  : 00187	Ak.	Amarakoṣa, (Bombay).
 PWG : 16155	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOKE und LOISELEUR&#13;&#10;DESLONGCHAMPS (GILD. Bibl. 251. 253).
   ap only 10 cases with parameters  
