@@ -1,0 +1,27 @@
+
+2026-04-23
+Ref: https://github.com/sanskrit-lexicon/AP/issues/14#issuecomment-4278232111
+Downloaded AB's file
+unidentified.entries.with.ap57_90_unknown.tag.txt  
+Work from 2021 by Andhrabharati.
+This may help to resolve lsunknowns for AP.
+
+
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue14/lsunknown
+cp ../tooltips_5.txt ../tooltips_6.txt
+Edi
+
+cp /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt  temp_ap_0.txt
+   
+Also cf. lsunknowns_5.txt
+cp ../lsunknowns_5.txt temp_lsunknowns_5.txt
+
+Annotations of AB's file
+0   problem previously solved.
++   found in lsunknowns_5.txt and used in tooltips_6.txt
+(None) no match
+x	x [Cologne]
+----
+
+minor changes to temp_ap_0.txt
+edits to ../tooltips_6.txt

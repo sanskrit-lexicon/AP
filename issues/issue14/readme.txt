@@ -323,6 +323,107 @@ git add .
 git commit -m "lsextract files using tooltips_5 #14"
 git push
 
+* 04-23-2026
+* tooltips_6.txt and change to ap.txt
+
+BEGIN 04-23-2026  
+see lsunknown/readme.txt for construction of tooltips_6.txt
+
+
+* install tooltips_6.txt and lsunknown/temp_ap_0.txt at githib
+** DONE local install
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue14 #home
+cp tooltips_6.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/ap/pywork/apauth/tooltip.txt 
+cp lsunknown/temp_ap_0.txt  /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+sh generate_dict.sh ap  ../../ap
+sh xmlchk_xampp.sh ap
+# ok
+** DONE push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig/
+git add .
+git commit -m "ap - minor changes related to tooltips_6.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/14"
+git push
+
+** DONE push csl-pywork to github
+cd /c/xampp/htdocs/cologne/csl-pywork/
+git add .
+git commit -m "AP: Edits of ap ls tooltips. tooltips_6.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/14"
+git push
+
+** DONE update cologne
+* lsextract_all_6.txt for ap using tooltips_6.txt and current ap.txt
+# write_tips Output in  lsextract_all_6.txt  sorted reverse order by counts.
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue14 #home
+cp /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt tempwork/ap_3.txt
+python lsextract_all.py ap tempwork/ap_3.txt tooltips_6.txt lsextract_all_6.txt lsunknowns_6.txt
+
+352 tooltips from tooltips_6.txt
+970 unknown ls written to lsunknowns_6.txt
+
+(- 1360 970)
+270 tooltips from tooltips_6.txt
+1360 unknown ls written to lsunknowns_6.txt
+
+# write_tips Output in  lsextract_all_6.txt sorted by tooltip
+python lextract_all_sort_iast.py lsextract_all_6.txt lsextract_all_6_sort_iast.txt
+* push this repo
+git pull
+git add .
+git commit -m "lsextract files using tooltips_6 #14"
+git push
+
+* ----------------------------------------
+* 'ch' changes 04-26-2026 tooltips_7 and change to ap.txt
+mkdir chwork   Iast spelling consistency.
+See chwork/readme.txt for changes made to tooltips_7.txt
+ revised chwork/temp_ap_1.txt
+* install tooltips_7.txt and chwork/temp_ap_1.txt at githib
+** DONE local install
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue14 #home
+cp tooltips_7.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/ap/pywork/apauth/tooltip.txt 
+cp chwork/temp_ap_1.txt  /c/xampp/htdocs/cologne/csl-orig/v02/ap/ap.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+sh generate_dict.sh ap  ../../ap
+sh xmlchk_xampp.sh ap
+# ok
+** DONE push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig/
+git add .
+git commit -m "ap - iast spelling changes,  tooltips_7.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/14"
+git push
+
+** DONE push csl-pywork to github
+cd /c/xampp/htdocs/cologne/csl-pywork/
+git add .
+git commit -m "AP: Edits of ap ls tooltips. tooltips_7.txt
+Ref: https://github.com/sanskrit-lexicon/AP/issues/14"
+git push
+
+** DONE update cologne
+ csl-orig, csl-pywork
+ regen dictionaries ap, bor, lrv, mw
+
+* lsextract_all_7.txt for ap using tooltips_7.txt and current ap
+# write_tips Output in  lsextract_all_7.txt  sorted reverse order by counts.
+cd /c/xampp/htdocs/sanskrit-lexicon/AP/issues/issue14 #home
+python lsextract_all.py ap chwork/temp_ap_1.txt tooltips_7.txt lsextract_all_7.txt lsunknowns_7.txt
+
+352 tooltips from tooltips_7.txt
+970 unknown ls written to lsunknowns_7.txt
+
+
+# write_tips Output in  lsextract_all_7.txt sorted by tooltip
+python lextract_all_sort_iast.py lsextract_all_7.txt lsextract_all_7_sort_iast.txt
+* push this repo
+git pull
+git add .
+git commit -m "lsextract files using tooltips_7 #14"
+git push
+
 * THE END
-* csl-orig
+
 

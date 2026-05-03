@@ -1,0 +1,355 @@
+68260	ALL	As of 2026-04-23
+00000	NUMBER	ls starts with number
+00970	UNKNOWN	ls is unknown
+07182	R.	Raghuvaṃśa, (R. A. Sagoon, Bombay 1897).
+05195	Ms.	Manusmṛti, (J. M. Gurjar, Bombay, 1894).
+04102	Mb.	Mahābhārata, (चित्रशाळा, पुणें , १९२९-३३).
+02978	Bhāg.	Bhāgavata, (V. Ramaswamy Sastrulu & Sons, Madras).
+02857	Śi.	Śiśupālavadha, (Nirṇaya Sāgara, 1902).
+02613	Ku.	Kumārasambhava, (Nirṇaya Sāgara, 1916).
+02539	Ś.	Śakuntalam, (Shiralkar & Co. Poona, 1902).
+02430	Rām.	Rāmāyaṇa, (Nirṇaya Sāgara, 1888).
+01871	Ki.	Kirātārjunīya, (Nirṇaya Sāgara, 1922).
+01653	Pt.	Pañcatantra. Chap, I, IV, V, (आर्यभूषण प्रेस, पुणें  १८९३); Chap. II and III, (Oriental Publishing Company, Bombay, 1912).
+01634	Bk.	Bhaṭṭikāvya, (Nirṇaya Sāgara, 1928).
+01604	U.	Uttararāmacarita, (P. V. Kane, Bombay, 1915).
+01541	Bg.	Bhagavadgītā (Tilak Edition).
+01493	Rv.	Ṛgveda, (Pandita Satawalekar and V. S. Mandala, Poona).
+01471	Māl.	Mālatīmādhava (Oriental Publishing Co. Bombay, 1913).
+01358	K.	Kādambarī, (Bombay).
+01338	P.	Pāṇiniʼs Aṣṭādhyāyī.
+01188	Me.	Meghadūta, (R. D. Karmarkar, 1938).
+01064	Y.	Yājñavalkya Smṛti, (Nirṇaya Sāgara, 1926).
+01051	Bh.	Bhartṛhariʼs three śatakas (the figures 1. 2. 3. after Bh. denoting Śṛṅgāra˚, Nīti˚, and Vairāgya˚). Nīti and Vairāgya—Oriental Publishing Company (Bombay). Śṛṅgāra— Nirṇaya Sāgara, 1925.
+00869	V.	Vikramorvaśīyam, (R. D. Karmarkar, 1932).
+00814	Uṇ.	Uṇādisūtras (N. B. New references from the letter प in this edition are taken from the work edited by T. R. Chintamani, University of Madras Publication, 1933.)
+00759	Dk.	Daśakumāracarita, (Bombay).
+00732	N.	Naiṣadhacarita, (Nirṇaya Sāgara, 1933).
+00731	Mu.	Mudrārākṣasa, (Royal Book Stall, Poona, 1948).
+00688	H.	Hitopadeśa, (आर्यभूषण प्रेस, पुणें, १९३३).
+00646	M.	Mālavikāgnimitra, (Prin. R. D. Karmarkar, 1933).
+00642	Bv.	Bhāminīvilāsa, (D. V. Sadhale & Co. Bombay).
+00638	Mk.	Mṛcchakaṭikā, (R. D. Karmarkar, 1937).
+00619	Mv.	Mahāvīracarita, (Nirṇaya Sāgara, 1926).
+00506	Gīt.	Gītagovinda.
+00484	Kau. A.	Kauṭilīya Arthaśāstra, by Dr. Shāma Śastry, 1924.
+00470	Ve.	Veṇīsaṃhāra, (A. B. Gajendragadkar. 1941).
+00464	ŚB. on MS.	Śābarabhāṣya on Mīmāṃsā Sūtras.
+00430	S. D.	Sāhityadarpaṇa.
+00422	Av.	Atharva-Veda. (ed. by Pandit Satawalekar).
+00421	Śiva B.	Śivabhārata by Paramānanda.
+00395	L. D. B.	List of Prof. Dineshchandra Bhattacharya.
+00395	Sk.	Siddhānta-Kaumudī.
+00394	Bṛ. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00362	K. P.	Kāvyaprakāśa.
+00304	Tv.	Tārānāthaʼs Vācaspatyam.
+00299	Ks.	Kathāsaritsāgara.
+00270	Subhāṣ.	Subhāṣita.
+00267	Ch. Up.	Chāndogyopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00259	Amaru.	Amaruśataka, (Nirṇaya Sāgara, 1916).
+00249	Ṛs.	Ṛtusaṃhāra.
+00244	Mbh.	Mahābhāṣya, (Bombay).
+00223	Nm.	Nānārthamañjarī of Rāghava.
+00202	Ratn.	Ratnāvalī, (Padhye, Yande, Manerikar & Co. Bombay, 1907).
+00187	Ak.	Amarakoṣa, (Bombay).
+00182	Rāj. T.	Rājataraṅgiṇī.
+00180	Suśr.	Suśruta.
+00177	Bu. Ch.	Buddhacaritam, (A.C. Bhat & Co. 1911).
+00170	Udb.	Udbhaṭa.
+00154	Bṛ. S.	Varāhamihiraʼs Bṛhatsamhitā, (लक्ष्मीवेङ्कटेश्वर प्रेस, कल्याण-मुंबई १८९७).
+00135	Malli.	Mallinātha.
+00132	MS.	Mīmānsā Sūtras. [Cologne]
+00130	Vāj.	Vājasaneyi Saṃhitā, (मनोहर ग्रंथमाला, पुणें , १९४२).
+00120	Vikr.	Vikramāṅkadevacarita, (Bombay).
+00117	Nāg.	Nāgānanda.
+00116	Śukra.	Śukranīti, (रा. गो. शास्त्री, अलीबाग छापखाना).
+00113	Mātaṅga L.	Mātaṅgalīlā of Nīlakaṇṭha.
+00104	Sāṅ. K.	Sāṅkhyakārikā.
+00100	Kāv.	Kāvyādarśa.
+00100	Nir.	Nirukta.
+00099	Śat. Br.	Śatapatha Brāhmaṇa.
+00091	Śānti.	Śāntiśataka.
+00089	Kaṭh.	Kaṭhopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत १९१४).
+00085	Kull.	Kullūka.
+00081	Ś. B.	Śārīrabhāṣya.
+00079	Ait. Br.	Aitareya Brāhmaṇa, (Bombay).
+00077	Buddh.	Buddhist literature.
+00076	Bhāva P.	Bhāvaprakāśa.
+00075	Māna.	Mānasāra, (ed. by Acharya).
+00072	Hch.	Harṣacarita.
+00062	Bm.	Bhāratamañjarī.
+00062	Ch. P.	Caurapañcāśikā.
+00061	Bhāṣā P.	Bhāṣāpariccheda.
+00059	Hariv.	Harivaṃśa, (चित्रशाळा, पुणें, १९३६).
+00058	R. G.	Rasagaṅgādhara, (Prof. R. B. Athavale).
+00058	T. Up.	Taittirīya Upaniṣad.
+00057	H. Pr.	हितोपदेश-प्रस्ताविका.
+00056	Gīrvāṇa.	गीर्वाण लघुकोश.
+00056	Med.	Medinīkośa.
+00055	G. L.	Gaṅgālaharī.
+00055	Viś. Guṇā.	Viśvaguṇādarśacampū, (Nirṇaya Sāgara, 1915).
+00054	Chāṇ.	Cāṇakyaśataka.
+00054	Pratimā	It is one of the plays by the celebrated Bhāsa (who is recognised at par with Kalidāsa in Skt. Lit. History), whose works (13 plays, called भासनाटकचक्रम् as a whole) were unearthed only around 1910 in Trivandrum, Kerala. These are all printed under Trivandrum Sanskrit Series in those days. [Cologne]
+00050	Muṇḍ.	Muṇḍakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00048	A. Rām.	Adhyātma Rāmāyaṇa.
+00048	B. R.	Bālarāmāyaṇa, (Benaras).
+00046	Sāy.	Sāyaṇa.
+00045	T. S.	Tarkasaṃgraha, (Bombay).
+00044	Śvet. Up.	Śvetāśvataropaniṣad.
+00042	Parṇāl.	Parṇālaparvatagrahaṇākhyāna.
+00041	Chandr.	Candrāloka.
+00039	Kāśi.	Kāśikāvṛtti, (Benares).
+00038	G. M.	Gaṇaratnamahodadhi of Vardhamāna.
+00036	Kāty.	Kātyāyana.
+00036	Pratijñā.	Pratijñā Yaugandharāyaṇa.
+00035	Kām.	Kāmandakinītisāra.
+00034	Vb.	Viddhaśālabhañjikā, (Bombay).
+00032	P. R.	Prasannarāghava.
+00032	Ś. Til.	Śṛṅgāratilaka.
+00032	Tarka K.	Tarkakaumudī, (Bombay).
+00030	Brav. P.	Brahmavaivarta Purāṇa.
+00030	Enm.	Ekārthanāmamālā of Saubhari.
+00029	Praśna. Up.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00028	Mārk. P.	Mārkaṇḍeya Purāṇa.
+00028	Sarva. S.	Sarvadarśanasaṃgraha.
+00028	Sūkti.	Sūktisundara.
+00028	V. P.	Viṣṇu Purāṇa.
+00027	Pañch.	Pañcarātra.
+00026	Śāhendra.	Śāhendravilāsa, edited by Dr. Raghavan.
+00025	Līlā.	Līlāvatī.
+00025	Nala.	Nalopākhyāna, (Bombay).
+00025	Vās.	Vāsavadattā, (Nirṇaya Sāgara, 1940).
+00024	Śālihotra	Śālihotra of Bhoja, edited by Dr. E. D. Kulkarni.
+00023	Śabdak.	Śabdakalpadruma.
+00022	EI.	Epigraphia Indica.
+00022	Ghaṭ.	Ghaṭakarparakāvya.
+00022	Īśop.	Īśopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00022	MW.	Monier Williams.
+00022	Prab.	Prabodhacandrodaya, (Bombay).
+00022	V. Sah.	Viṣṇusahasranāma.
+00021	Ā. L.	Ānandalaharī.
+00020	A. R.	Anargharāghava (Published in the Kāvyamālā).
+00020	Br. Sūt.	Brahmasūtras.
+00020	Ts.	Taittirīya Saṃhitā.
+00019	Āśval.	Āśvalāyanaʼs Sūtras.
+00019	Bṛ. Ār. Up.	Bṛhadāraṇyakopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00019	Dhanur.	Dhanurveda Saṃhitā, (श्रीवेंकटेश्वर प्रेस, शके १८२३).
+00019	Mahānār. Up.	Mahānārāyaṇopaniṣad.
+00019	Śik.	Śikṣā.
+00018	Jag.	Jagannātha Pandit.
+00017	Abh. Chin.	Abhidhāna Cintāmaṇi Kośa.
+00017	Chand. M.	Chandomañjarī.
+00017	Kuval.	Kuvalayānanda.
+00017	Vop.	Vopadeva.
+00015	Svapna.	Svapnavāsavadatta.
+00014	Moha M.	Mohamudgara.
+00014	Śabda Ch.	Śabdacintāmaṇi (Sanskṛt-Gujrati Dictionary by Ramanabhai Nilkanth, 1899).
+00013	Bil. Ch.	Bilhaṇacaritam.
+00013	Nalod.	Nalodaya.
+00013	Trik.	Trikāṇḍaśeṣa.
+00012	Āryā. S.	Āryāsaptaśatī (Published in the Kāvyamālā).
+00012	Kālikā P.	कालिकापुराणम् [Cologne]
+00012	Ken.	Kenopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00012	Skanda P.	Skanda Purāṇa.
+00012	Sūrya S.	Sūryasiddhānta.
+00012	Yv.	Yajurveda (Pandit Satawalekar ed.)
+00011	Ait. Up.	Aitareya Upaniṣad.
+00010	Aśvad.	Aśvadhāṭī (Published in the Subhāṣitaratnākara).
+00010	Chola-Champū.	Edited by Dr. Raghavan.
+00010	Gaut. S.	Gautamasūtra.
+00010	Pātañjala Yogadarśana	Pātañjali’s Yogasūtra, counted as one of the 6 philosophies (Ṣaḍ-darśana), hence referred as Yogadarśana also. [Cologne]
+00009	B. P.	Bhaviṣya Purāṇa.
+00009	Hem.	Hemacandra.
+00009	Śrut.	Śrutabodha.
+00009	Wilson	Wilson Sanskrit-English Dictionary
+00009	Yoga S.	Yogasūtras.
+00009	Chārudatta	It is one of the plays by the celebrated Bhāsa (who is recognised at par with Kalidāsa in Skt. Lit. History), whose works (13 plays, called भासनाटकचक्रम् as a whole) were unearthed only around 1910 in Trivandrum, Kerala. These are all printed under Trivandrum Sanskrit Series in those days. [Cologne]
+00008	Inscr.	Inscriptions.
+00008	J. N. V.	Jaiminīyanyāyamālāvistara, (Goldstückerʼs Edition.)
+00008	Kīr. K.	Kīrtikaumudī, (Bombay).
+00008	Subh. Ratn.	Subhāṣitaratnabhāṇḍāgāra, (Bombay).
+00008	Viśva.	The famous lexical work Viśvakośa, by Maheśvara. [Cologne]
+00008	Avimārakam	One of the plays by the celebrated Bhāsa (who is recognised at par with Kalidāsa in Skt. Lit. History), whose works (13 plays, called भासनाटकचक्रम् as a whole) were unearthed only around 1910 in Trivandrum, Kerala. These are all printed under Trivandrum Sanskrit Series in those days. [Cologne]
+00007	B. and R.	Böhtlingk and Roth.
+00007	Dāy. B.	Dāyabhāga.
+00007	Gaṅgāṣṭaka	A generic work under Stotra category, praising the River Gaṅgā. [Cologne]
+00007	Golādh.	Golādhyāya.
+00007	K. R.	Kavi-Rahasya.
+00007	Yaj.	Yajurveda (Pandit Satawalekar ed.)
+00007	Madhyamavyāyoga	A play by the celebrated Bhāsa (who is recognised at par with Kalidāsa in Skt. Lit. History), whose works (13 plays, called भासनाटकचक्रम् as a whole) were unearthed only around 1910 in Trivandrum, Kerala. These are all printed under Trivandrum Sanskrit Series in those days. [Cologne]
+00006	Halāy.	Halāyudha.
+00006	Kauṣ. Up.	Kauṣītakyupaniṣad.
+00006	Mahān.	Mahānāṭaka.
+00006	Māṇḍ.	Māṇḍūkyopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00006	Ras. M.	Rasamañjarī.
+00006	Rv. Pr.	Ṛgveda Prātiśākhya.
+00006	T. Br.	Taittirīya Brāhmaṇa.
+00006	Ud. S.	Uddhavasandeśa.
+00006	Vet.	Vetālapañcaviṁśati.
+00006	Sandhyā.	(Trikāla) Sandhyāvandana, a series of hymns in Ṛgveda. [Cologne]
+00005	Hārīta	हारीत स्मृति, an ancient treatise in Dharmaśāstra. [Cologne]
+00005	Jyotiṣa.	Raghunandana's Jyotiṣatattva. [Cologne]
+00005	Kauś.	Kauśikasūtra.
+00005	Mugdha.	Mugdhabodha.
+00005	Naigh.	Naighaṇṭuka by Yāska.
+00005	T. Ār.	Taittirīya Āraṇyaka.
+00004	Bop.	Vopadeva.
+00004	Chāt.	Cātakāṣṭaka (In two parts.)
+00004	D. R.	Daśarūpa (Hallʼs edition).
+00004	GI.	Gupta Inscriptions by Fleet.
+00004	H. D.	Haṃsadūta.
+00004	Karpūr.	Karpūramañjarī (Published in Kāvyamālā.)
+00004	Karṇabhāra	A play by the celebrated Bhāsa (who is recognised at par with Kalidāsa in Skt. Lit. History), whose works (13 plays, called भासनाटकचक्रम् as a whole) were unearthed only around 1910 in Trivandrum, Kerala. These are all printed under Trivandrum Sanskrit Series in those days. [Cologne]
+00004	Mādh. N.	Mādhavanidāna.
+00004	Mīm.	Mīmāṃsā.
+00004	Muktā.	Siddhāntamuktāvalī.
+00004	Nṛ. P. Up.	Nṛsiṃhapūrvatāpinyupaniṣad.
+00004	Pad. D.	Padāṅkadūta.
+00004	Pari. Śekh.	Paribhāṣeṇḍūśekhara.
+00004	RT.	Kalhaṇa's Rājataraṅgiṇī. [Cologne]
+00004	Vedāntasāra	Vedāntasāra, a work by Sadānanda, published by GA Jacob. [Cologne]
+00004	Vyāsa.	One of the ancient texts in Dharmaśāstra, व्यासस्मृतिः. [Cologne]
+00004	Śabdaratnāvalī	Śabdaratnāvalī, a lexical work by Mathureśa. [Cologne]
+00004	Bhagavaccharaṇa S.	मौक्तिकरामोदासीनशिष्य ब्रह्मानन्दविरचितं भगवच्छरणस्तोत्रं, a generic work under Stotra category. [Cologne]
+00003	Bhār. Ch.	Bhāratacampū, (Bombay).
+00003	Dharm.	Dharmaviveka.
+00003	Dhūrt.	Dhūrtasamāgama.
+00003	G. O. S.	Gaekwad Oriental Series, Baroda. The famous works, Critical edition of Ramayana and the Dictionary of Sanskrit Grammar were published under this series. [cologne]
+00003	Ind. Ant.	Indian Antiquary, a series published by As. Soc. of Bombay [Cologne]
+00003	Jābāla Up.	Jābāla Upanishad (जाबालोपनिषत्), one of the Minor Upanishads in Atharvaveda. [Cologne]
+00003	Kāvyāl.	Kāvyālaṅkāra (Published in Kāvyamālā).
+00003	Nīti.	Nītisāra.
+00003	Sar. K.	Sarasvatīkaṇṭhābharaṇa.
+00003	Śāraṅg. S.	Śāraṅgadhara Saṃhitā
+00003	Sinhās.	Siṃhāsana-dvātriṃśikā.
+00003	Śiva P.	Śiva Purāṇa.
+00003	Ujjval.	Ujjvaladatta.
+00003	Vedānta P.	Vedāntaparibhāṣā.
+00003	Pūjāmantra.	A generic invocation used as भूतशुद्धि before taking up any work- esp. the Pūjā during festivals or other such sacred works, for eliminating any hurdles that would be imposed by भूतपिशाचाः. [Cologne]
+00003	Suprabhedāgama	One of the twenty-eight Siddhāntāgama: a classification of the Śaiva division of Śaivāgamas. This deals with the construction details of sacred items in temples etc. [Cologne]
+00003	Veda-Vyāsāṣṭaka	A generic work under Stotra category, praising the the sage Vyāsa; this seems to have been composed by Brahmānanda Āchārya. [Cologne]
+00003	Vedānta	 Vedāntasāra, a work by Sadānanda, published by GA Jacob. [Cologne]
+00003	Yogadarśana.	Pātañjali’s Yogasūtra, counted as one of the 6 philosophies (Ṣaḍ-darśana), hence referred as Yogadarśana also. [Cologne]
+00003	Bharata.	Bharatamuni, the author of नाट्यशास्त्रम्. In many of the Bharata citations, this work is intended. [Cologne]
+00003	Cholachampūkāvya	Cholachampū, edited by Dr. V. Raghavan, [Cologne]
+00002	Ait. Ār.	Aitareya Āraṇyaka.
+00002	Aman. Up.	Amanasopaniṣad.
+00002	Āpast.	Āpastamba.
+00002	Bīj.	Bījagaṇita.
+00002	Bṛ. Kath.	Bṛhatkathā.
+00002	D. Bhāg.	Devībhāgavata.
+00002	Devī. P.	देवीपुराणम्  [Cologne]
+00002	Dakṣa.	दक्षस्मृतिः, an ancient treatise in Dharmaśāstra. [Cologne]
+00002	Dhan. V.	Dhanañjayavijaya.
+00002	Dṛ. Ś.	Dṛṣṭāntaśataka.
+00002	Hastāmalaka Stotra	A generic work under Stotra category, by Hastāmalaka Ācārya, a disciple of Sankarācārya. [Cologne]
+00002	Jātak.	Jātakamālā. [Cologne]
+00002	Kusum.	Kusumāñjali.
+00002	L. V.	Lalitavistara.
+00002	Rāj. P.	Rājapraśasti.
+00002	Sāṅ. S.	Sāṅkhyasūtra.
+00002	Subh.	Subhāṣitaratnākara, (Bombay).
+00002	Sv.	Sāmaveda.
+00002	Ud. D.	Uddhavadūta.
+00002	Up.	Upaniṣad.
+00002	Vāk. P.	Vākyapadīya.
+00002	Murārināṭakam.	The alt. name for Anargha Rāghava, by Murāri. [Cologne]
+00002	Tithyādi.	Tithyāditattva, by the Bengali scholar रघुनन्दन भट्टाचार्य, who is widely referred in SKD and VCP. [Cologne]
+00002	Ujjvalamaṇi	Ujjvalanīlamaṇi, a treatise on Skt. Poetics, by Rūpagosvāmī. [Cologne]
+00002	Vedānta S.	Vedānta Sūtra, the popular name being Brahmasūtra. [Cologne]
+00002	Viṣṇu.	One of the ancient texts in Dharmaśāstra, विष्णुस्मृतिः. [Cologne]
+00002	Viṣṇustotra.	A generic work under Stotra category, praising the Lord Viṣṇu. [Cologne]
+00002	Yaśastilaka	Somadevasūri’s Yaśastilaka. [Cologne]
+00002	Śrāvaṇī Mantra	The mantra recited during one of the pāka-yajña-saṃsthās, as mentioned in Gautama-dharma-sūtra. These are Aṣṭakā, Pārvaṇa, Śrāddha, Śrāvaṇī, Āgrahāyaṇī, Caitrī, and Āśvayujī. [Cologne]
+00002	Adhikaraṇamālā	Adhikaraṇaratnamālā, 1913, a treatise in the मीमांसा philosophy. [Cologne]
+00002	Avimāraka	One of the plays by the celebrated Bhāsa (who is recognised at par with Kalidāsa in Skt. Lit. History), whose works (13 plays, called भासनाटकचक्रम् as a whole) were unearthed only around 1910 in Trivandrum, Kerala. These are all printed under Trivandrum Sanskrit Series in those days. [Cologne]
+00002	Bharata	Bharatamuni, the author of नाट्यशास्त्रम्. In many of the Bharata citations, this work is intended. [Cologne]
+00001	Bhav. P.	Bhaviṣyottara Purāṇa.
+00001	D. Purāṇa.	देवीपुराणम्  [Cologne]
+00001	Dhyān. Up.	Dhyānabindūpaniṣad.
+00001	Gaṇeśa S.	(संकटनाशन)गणेश(द्वादशनाम)स्तोत्रम् from नारदपुराणम्. [Cologne]
+00001	Gāyatryāvāhanamantra	Invocation of Gayatri as a Goddess, occurs in Sāmabēda sandhyāpāṭha. [Cologne]
+00001	Haima.	The citation seems to be taken from PWG. Is it the Abhidhānacintāmaṇi of Hemacandra? [Cologne]
+00001	Kālī. P.	कालिकापुराणम् ?[Cologne]
+00001	Kauṣ. Br.	Kauṣītaki Brāhmaṇa.
+00001	Kavirāja	A 12th century poet, who authored Rāghavapāṇḍavīyam, the full śloka goes thus - यः पूतनमारणलब्धवर्णः काकोदरो येन विनीतादर्पः । यशोदयालङ्कृतमूर्तिरव्यात् नाथो यदूनामथवा रघूणाम् ॥ This is a dual meaning text throughout, each verse interpretable in ref. to Rāghava (Rāmāyaṇā) and Pāṇḍava(s) (Mahābhārata). There is a spl. category of such works by name "dvarthikāvya". This ślōka is otherwise used in praising both Rāma & Kṛṣṇa (known as रामकृष्नयुगलस्तुति). [Cologne]
+00001	Kāvyamālā	A series of books, incl. both popular and forgotten works, published mostly as collections/compilations by the famous Nirnayasagara Press, Bombay in the first half of 20th century. [Cologne]
+00001	Lakṣmīdhyānam.	Invocating Lakṣmī, during Sarasvatīpūjā on Vasantapañcamī; also used in Saṁyuktayantrapūjā of Gaṇapati, Lakṣmī and Sarasvatī (combined) [Cologne]
+00001	Lok. Tilak.	Lokmānya Bal Gaṅgādhar Ṭiḷak, quotes this in his commentary on Bhagavadgītā (actual source unknown). [Cologne]
+00001	Praśna.	Praśnopaniṣad, (सार्थ उपनिषत्संग्रह, ह. र. भागवत, १९१४).
+00001	Priy. D.	Priyadarśikā.
+00001	Sid. Mukt.	Siddhāntamuktāvalī.
+00001	V. May.	Vyavahāramayūkha, (Mr. Mandalikʼs Edition).
+00001	Vāgb.	Vāgbhaṭa.
+00001	Vaiś.	Vaiśeṣika.
+00001	Vātsy.	Vātsyāyana Kāmasūtra.
+00001	Vp.	Vājasaneyi Prātiśākhya.
+00001	Līlāvatī-ṭīkā.	Līlāvatī ṭīkā by Mahīdāsa, on Bhaskarācārya's Līlāvatī. [Cologne]
+00001	Mahānār. Dīpikā.	Nārāyaṇa’s Dīpikā commentary on Mahānārāyaṇa Upaniṣad, published by by GA Jacob. [Cologne]
+00001	Mahār.	Mahārtha Mañjarī (with Parimalā commentary, both) by Maheśvarānanda. ? [Cologne]
+00001	Mallaśāstram.	An ancient treatise dealing with duels (without weapons), mainly incl. wrestling and boxing. [Cologne]
+00001	Māhiṣaśataka	A sarcastic (vyangya) śataka by Vāñcheśvara, belonging to Tanjore region in Tamilnadu (early 18th century). [Cologne]
+00001	Pāśupata. Up.	Pāśupata Brāhmaṇopaniṣad. [Cologne]
+00001	Pravara	Pravarādhyāya ? [Cologne]
+00001	Prācetasa.	Prācetasa, as quoted by Raghunandana in his श्राद्धतत्त्वम्. [Cologne]
+00001	Pūjāmantram.	A generic invocation used as भूतशुद्धि before taking up any work- esp. the Pūjā during festivals or other such sacred works, for eliminating any hurdles that would be imposed by भूतपिशाचाः. [Cologne]
+00001	Rakṣābandhanamantra.	An invocation during Rakṣābandhana celebrated on श्रावणापौर्णिमा, as quoted by Raghunandana in his तिथितत्त्वम् and by Anantadeva in his स्मृतिकौस्तुभ. [Cologne]
+00001	Sulhā.	(Subhāṣitaratnākara or Subhāṣitaratnabhāṇḍāgāra). ? [Cologne]
+00001	Sāyaṇa Bhāṣya	Sāyaṇa Bhāṣya on Ṛgveda 1.1.1. [Cologne]
+00001	Tattvamasi Stotra	The citation is the phala-stotra (concluding verse) of Tattvamasi Stotram, belonging to the misc. compositions (unknown authorship) of Stotra category in praise of various deities and other "personified objects". [Cologne]
+00001	Ulkādānamantra	The mantra recited during the fall of Meteors (ulkā), for pacification, orginally quoted in तिथितत्त्वम् (as at VCP). [Cologne]
+00001	Uśanāh Dharmaśāstra	One of the ancient texts in Dharmaśāstra, by Uśanāh. [Cologne]
+00001	Viśvakośa.	The famous lexical work Viśvakośa, by Maheśvara. [Cologne]
+00001	Āgama Pr.	यामुनाचार्यस्वामिना प्रणीतम् आगमप्रामाण्यम्, a treatise in the मीमांसा philosophy.
+00001	Āgama.	The full citation goes thus - बहिष्प्रज्ञो विभुर्विश्वो ह्यन्तः प्रज्ञस्तु तैजसः । घनप्रज्ञस्तथा प्राञ्ज एक एव त्रिधा स्मृतः ॥ and occurs at Gaudapāda's Karikā first section Āgama Prakaraṇa (1st verse), on Māṇḍūkyopaniṣad. [Cologne]
+00001	Āyurvedaśāstra	The term is a generic one indicating the Ayurveda Science. This citation is from चरक संहिता. [Cologne]
+00001	Śab. Kau.	Śabda Kaustubha, a commentary on अष्टाध्यायी by भट्टोजी दीक्षित. [Cologne]
+00001	Śārṅg. P.	Śārṅgadhara Paddhati, an ancient compilation (anthology) treating many misc. topics. [Cologne]
+00001	Śrāddha Mantra	The mantra recited during one of the pāka-yajña-saṃsthās, as mentioned in Gautama-dharma-sūtra. These are Aṣṭakā, Pārvaṇa, Śrāddha, Śrāvaṇī, Āgrahāyaṇī, Caitrī, and Āśvayujī. [Cologne]
+00001	Śyāmāstava	A stava (stuti) mentioned in the Tantric text Śyāmārahasyatantra. The full verse goes thus- त्रिपञ्चारे पीठे शवशिवहृदि स्मेरवदनां महाकालेनोच्चैर्मदनरसलावण्यनिरताम्‌ । समासक्तो नक्तं स्वयमपि रतानन्दनिरतो नरो यो ध्यायेत्‌ त्वां भवजननि! स स्यात्‌ स्मरहरः ॥ [Cologne]
+00001	Śāntilakṣaṇa	A some Buddhist work. VCP under the same HW आभोग gives this as- ४ सम्यक्सुखाद्यनुभवे “विषयाभोगेषु नैवादरः” शान्तिलक्ष्म. (The words लक्ष्म & लक्षण are synonyms!) [Cologne]
+00001	Śāṅkarabhāṣya.	Brahmasūtrabhāṣya by Śaṅkarācārya, which is alternately (popularly) known as Śāṅkarabhāṣya in short. [Cologne]
+00001	Bhartṛ. Mbh. Dīpikā	Bhartṛhari commentary महाभाष्यदीपिका. [Cologne]
+00001	Bhūṣaṇā	A commentary by Śivarāma on दशकुमारचरितम्. This is used by Buhler in his ed. of दशकुमारचरितम्. Another commentary पदचन्द्रिका by Kavindra Sarasvati was also used by Buhler. [Cologne]
+00001	Charaka-sūtrasthāna	Sūtrasthāna, the first of the 8 books in the चरक संहिता. [Cologne]
+00001	Cholachampū	Cholachampū, edited by Dr. V. Raghavan [Cologne]
+00000	Āry. S.	Āryavidyāsudhākara, (Bombay).
+00000	AVP.	Atharva Veda Prātiśākhya.
+00000	Baudhāy.	Baudhāyana.
+00000	Chaṇḍ. K.	Caṇḍakauśika.
+00000	CP.	Copper-plates.
+00000	Dāy.	Dāyabhāga.
+00000	Dharmabhyudaya Mahākāvya.	Edited by Dr. Raghavan.
+00000	Ep. Ind.	Epigraphia Indica.
+00000	Gaut. Sūt.	Gautamasūtra.
+00000	I B.	Inscriptions of Bengal, Vol. III by N. G. Mujumdar.
+00000	Lm.	Laghu-mañjūṣā.
+00000	Mitā.	Mitākṣarā, (Bombay).
+00000	Nigh. Ratn.	Nighaṇṭa-Ratnākara.
+00000	Nītipra.	Nītipradīpa.
+00000	P. P.	Pārvatīpariṇaya.
+00000	Pbh.	Paribhāṣeṇḍūśekhara.
+00000	Pb.	Paribhāṣā.
+00000	Pradīp.	Mahābhāṣya-Pradīpa (Kaiyaṭa).
+00000	Pś.	Pāṇinīya Śikṣā.
+00000	PS.	Pāṇinīya Sūtra.
+00000	Pur. Pv.	Puruṣottama-Paribhāṣāvṛtti.
+00000	Ṛ. S.	Ṛtusaṃhāra, (V.R. Nerurkar, Bombay, 1916).
+00000	Rām. ch.	Rāmacaritam by Yuvarāja Kavi.
+00000	S. L.	Sudhālaharī (Published in the Kāvyamālā).
+00000	Sāṅkhya. K.	Sāṅkhyakārikā.
+00000	Sar. S.	Sarvadarśanasaṃgraha.
+00000	Śik. s.	Śikṣā-Saṃgraha.
+00000	Sīr. Pv.	Sīrdevaʼs Paribhāṣāvṛtti.
+00000	Śs.	Śrauta-sūtra.
+00000	Taitt. Sam.	Taittirīya Saṃhitā.
+00000	Tp.	Taittirīya Prātiśākhya.
+00000	V. Ratna.	Vṛttaratnākara.
+00000	Vai. Bhū. (वै˚ भू˚).	Vaiyākaraṇabhūṣaṇasāra.
+00000	Vaiś. Sūt.	Vaiśeṣikasūtras.
+00000	Vall. Subh.	Vallabhadevaʼs Subhāṣitāvali, (Bombay).
+00000	Vbh.	Vaidikābharaṇa (a commentary on तै˚ प्रातिशाख्य).
+00000	Vid.	Vidagdhamukhamaṇḍana.
+00000	Vīr. M.	Vīramitrodaya.
+00000	Vṛnd. Ś.	Vṛndāvanaśataka.
+00000	Baudhāyana	Here it is the person name, not a work. I had listed many such in my AP90 ls work posted at Github, many of which are missing in this list. Seems it went unnoticed, for all practical purposes. [Cologne]
