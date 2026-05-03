@@ -67,13 +67,16 @@ def process():
         
         entry_lines = []
         current_empty_parent = None
+        in_entry = False
         
         for line in fin:
             line_str = line.rstrip('\n')
             if line_str.startswith('<L>'):
                 entry_lines = [line_str]
+                in_entry = True
             elif line_str == '<LEND>':
                 entry_lines.append(line_str)
+                in_entry = False
                 
                 meta = parseheadline(entry_lines[0])
                 orig_l = meta['L']
@@ -138,7 +141,10 @@ def process():
                 
                 entry_lines = []
             else:
-                entry_lines.append(line_str)
+                if in_entry:
+                    entry_lines.append(line_str)
+                else:
+                    fout.write(line_str + '\n')
                 
         # Flush at EOF if needed
         if current_empty_parent:

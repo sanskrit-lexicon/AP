@@ -132,7 +132,7 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
                 metaline1 = metaline1.replace('<k1>' + basehw, '<k1>.ABC' + basehw)
                 metaline1 = metaline1.replace('<k2>' + basehw, '<k2>' + basehw)
             
-            fout.write('\n' + metaline1 + '\n')
+            fout.write(metaline1 + '\n')
             # The body starts with prefix + suffix part + ¦
             # We preserve the whitespace of after_suffix to keep multi-line structure
             fout.write(f"{pref} + {suffix_part}¦{after_suffix}\n")
@@ -189,7 +189,10 @@ if __name__=="__main__":
                 metaline = None
                 lines = []
             else:
-                lines.append(lin)
+                if metaline is not None:
+                    lines.append(lin)
+                else:
+                    fout.write(lin + '\n')
 
     total = correct[0] + wrong[0]
     print(f'Resolved: {correct[0]}, Unresolved: {wrong[0]}, Total: {total}')
