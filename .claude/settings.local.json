@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\AP\" -Force)",
+      "Bash(Select-Object Name, FullName)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\AP\" -Force | ForEach-Object { $_.Name })",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\AP\\\\.github\" -Recurse -Force -ErrorAction SilentlyContinue | ForEach-Object { $_.FullName })",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\AP\\\\.claude\" -Recurse -Force -ErrorAction SilentlyContinue | ForEach-Object { $_.FullName })",
+      "PowerShell(ls *)",
+      "Bash(xargs grep -l \"^if __name__\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "PowerShell(winget install *)",
+      "PowerShell(choco install *)",
+      "PowerShell(scoop install *)",
+      "PowerShell(Get-Content *)",
+      "PowerShell(Test-Path *)",
+      "PowerShell(gh auth *)"
+    ]
+  }
+}
