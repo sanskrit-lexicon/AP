@@ -1,3 +1,5 @@
+As of 03 June 2026, it was decided that the programmatic handling would generate too many false positives. Therefore, temp_ap_3.txt is manually being edited based on log2.tsv and gradually changes are being incorporated in csl-orig/v02/ap/ap.txt file.
+
 # Issue 17 — Elevating Compound Headwords (˚ Pattern)
 
 ## Overview
