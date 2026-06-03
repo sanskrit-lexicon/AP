@@ -1,6 +1,6 @@
 import os
 
-SANHW1_PATH = "/Users/dhaval/Documents/GithubRepos/sanskrit-lexicon/hwnorm1/sanhw1/sanhw1.txt"
+SANHW1_PATH = "/Users/Shared/sanskrit-lexicon/hwnorm1/sanhw1/sanhw1.txt"
 INPUT_PATH = "log2.tsv"
 OUTPUT_PATH = "log3.tsv"
 

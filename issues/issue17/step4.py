@@ -14,8 +14,8 @@ def get_existing_ls(input_file):
 
 
 def process():
-    input_file = 'tmp_ap_2.txt'
-    output_file = 'tmp_ap_4.txt'
+    input_file = 'temp_ap_2.txt'
+    output_file = 'temp_ap_4.txt'
     log_file = 'log4.tsv'
 
     print(f"Reading {input_file} to collect existing L numbers...")

@@ -17,38 +17,45 @@ def adjust_hw(basehw, suffix, lid, manually_mapped=None):
 
 def _adjust_hw_internal(basehw, suffix):
     """
-    Resolve basehw + ˚suffix into a full headword using Sanskrit sandhi rules.
-    suffix has already had the leading ˚ stripped.
+    Resolve basehw + ˚suffix into a full headword.
+    Aligning with issue16 logic: specific rules, no catch-all.
     """
-    # Strip trailing inflection from basehw to get the sandhi base vowel stem
-    # e.g. kinnaraH -> kinnara, kinnarAn -> kinnarA, kinnaraSam -> kinnaraS...
-    base = re.sub('H$', '', basehw)   # strip trailing visarga
-    base = re.sub('m$', '', base)     # strip trailing anusvara
-    # Now base ends with the stem vowel (e.g. 'a' in 'kinnara')
+    # Normalize basehw to stem
+    stem = re.sub('H$', '', basehw)
+    stem = re.sub('m$', '', stem)
+    # issue16 normalization:
+    basehw_norm = re.sub('[a][Hm]$', 'a', basehw)
 
-    suf = suffix  # e.g. 'ISaH', 'ISvaraH'
+    suf = suffix
 
-    # Direct: basehw already ends with suffix (no sandhi needed)
+    # 1. Direct match: basehw already ends with suffix
     if basehw.endswith(suf):
         return basehw
 
-    # Sandhi a/A + I/i -> e  (kinnara + ISaH -> kinnare + SaH = kinnareSaH)
-    # The leading I/i of the suffix is consumed, replaced by 'e' fused to base
-    if base.endswith('a') and re.match(r'^[Ii]', suf):
-        return base[:-1] + 'e' + suf[1:]
+    # 2. Sandhi: a + I/i -> e
+    if stem.endswith('a') and re.match(r'^[Ii]', suf):
+        return stem[:-1] + 'e' + suf[1:]
 
-    # Sandhi a + u/U -> o  (base 'a' + suffix 'u' -> 'o', consuming both)
-    if base.endswith('a') and re.match(r'^[Uu]', suf):
-        return base[:-1] + 'o' + suf[1:]
+    # 3. Sandhi: a + u/U -> o
+    if stem.endswith('a') and re.match(r'^[Uu]', suf):
+        return stem[:-1] + 'o' + suf[1:]
 
-    # Sandhi a + a/A -> A  (base 'a' + suffix 'a/A' -> 'A', consuming both)
-    if base.endswith('a') and re.match(r'^[aA]', suf):
-        return base[:-1] + 'A' + suf[1:]
+    # 4. Sandhi: a + a/A -> A
+    if stem.endswith('a') and re.match(r'^[aA]', suf):
+        return stem[:-1] + 'A' + suf[1:]
 
-    # No sandhi: just concatenate base + suffix
-    candidate = base + suf
-    if candidate != basehw:
-        return candidate
+    # 5. Ported rules from issue16
+    if suf == 'tA':
+        return basehw_norm + 'tA'
+    if suf == 'tvam':
+        return basehw_norm + 'tvam'
+    if re.search('^ka[HM]*$', suf):
+        return basehw_norm + suf
+
+    # 6. Specific case for line 29: vAwaH, etc.
+    # If it's a simple concatenation that "looks" like a valid compound formation
+    # We might want to allow some, but let's be conservative first.
+    # issue16 didn't have a catch-all, so we return None here if no rule matched.
 
     return None
 
@@ -97,6 +104,19 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
     pattern_line = lines[pattern_line_idx]
     after_lines = lines[pattern_line_idx + 1:]
 
+    # Extract suffixes early so we can guard before writing anything
+    inner = pattern_match.group(1)          # "˚ISaH, ˚ISvaraH"
+    orig_match_str = pattern_match.group(0)  # "{#˚ISaH, ˚ISvaraH#}"
+    raw_parts = re.split(r'[,;]\s*', inner)
+    suffixes = [s.strip().lstrip('˚').strip() for s in raw_parts if s.strip()]
+
+    # Guard: if any individual suffix contains a space it is a quotation
+    # sentence fragment, not a compound headword — write entry unchanged and skip.
+    if any(' ' in s for s in suffixes):
+        for line in lines:
+            fout.write(line + '\n')
+        return correct, wrong
+
     # ∙ lines go to new entry; other non-LEND lines stay in parent
     def_body_lines = []
     extra_parent_lines = []
@@ -118,16 +138,10 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
     else:
         modified_line = before_match.rstrip()
 
-    # Parent entry output
+    # Parent entry output (with the ˚ pattern removed)
     parent_content = before_lines + [modified_line] + extra_parent_lines + ['<LEND>']
     for line in parent_content:
         fout.write(line + '\n')
-
-    # Extract suffixes from the matched inner text, e.g. "˚ISaH, ˚ISvaraH"
-    inner = pattern_match.group(1)          # "˚ISaH, ˚ISvaraH"
-    orig_match_str = pattern_match.group(0)  # "{#˚ISaH, ˚ISvaraH#}"
-    raw_parts = re.split(r'[,;]\s*', inner)
-    suffixes = [s.strip().lstrip('˚').strip() for s in raw_parts if s.strip()]
 
     # Resolve each suffix and log
     resolved = []

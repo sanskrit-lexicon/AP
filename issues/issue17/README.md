@@ -53,10 +53,10 @@ Step 4 resolves these to permanent incrementing values (e.g. `12240.025`, `12240
 
 Identify entries containing `{#˚...#}` and split them.
 
-`tmp_ap_0.txt` was taken from `csl-orig/v02/ap/ap.txt` as it stood on the commit c464962b97d34015a95ab106c10618054fa39e3d dated 14 May 2026.
+`temp_ap_0.txt` was taken from `csl-orig/v02/ap/ap.txt` as it stood on the commit c464962b97d34015a95ab106c10618054fa39e3d dated 14 May 2026.
 
 ```
-python3 step2.py tmp_ap_0.txt tmp_ap_2.txt log2.tsv
+python3 step2.py temp_ap_0.txt temp_ap_2.txt log2.tsv
 ```
 
 ### Logic
@@ -82,15 +82,15 @@ Unresolved entries show `None` in the resolution column.
 ### Verification
 
 ```
-cat tmp_ap_2.txt | grep '.ABC' | wc -l
+cat temp_ap_2.txt | grep '.ABC' | wc -l
 # should equal:
 cat log2.tsv | grep 'None' | wc -l
 # both should be 0 after filling manually_mapped.tsv
 
-cat tmp_ap_2.txt | grep '<L>.*\.XYZ' | wc -l
+cat temp_ap_2.txt | grep '<L>.*\.XYZ' | wc -l
 # should equal (cat log2.tsv | wc -l) - 1 (header)
 
-cat tmp_ap_2.txt | grep '\.XYZ' | wc -l
+cat temp_ap_2.txt | grep '\.XYZ' | wc -l
 # = above + number of Lbody entries (multi-suffix entries)
 ```
 
@@ -118,7 +118,7 @@ resolve `{{Lbody=...XYZ}}` references.
 python3 step4.py
 ```
 
-Takes `tmp_ap_2.txt` → produces `tmp_ap_4.txt` and `log4.tsv`.
+Takes `temp_ap_2.txt` → produces `temp_ap_4.txt` and `log4.tsv`.
 
 ### Key Logic
 
@@ -140,11 +140,11 @@ Step 2 uses this as a fallback after automatic resolution returns `None`.
 
 ## Merger
 
-Once `tmp_ap_4.txt` is produced, merge with `csl-orig/v02/ap/ap.txt`:
+Once `temp_ap_4.txt` is produced, merge with `csl-orig/v02/ap/ap.txt`:
 
 ```
 cd sanskrit-lexicon/csl-orig/
-git merge-file v02/ap/ap.txt ../AP/issues/issue17/tmp_ap_0.txt ../AP/issues/issue17/tmp_ap_4.txt
+git merge-file v02/ap/ap.txt ../AP/issues/issue17/temp_ap_0.txt ../AP/issues/issue17/temp_ap_4.txt
 ```
 
 Conflicts (if any) can be identified by searching for `>>>>>` and resolved manually.
