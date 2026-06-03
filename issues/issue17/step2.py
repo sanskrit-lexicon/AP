@@ -95,6 +95,14 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
             fout.write(line + '\n')
         return correct, wrong
 
+    # Check if {#˚...#} appears before ¦ on the same line — the headword
+    # already incorporates the suffix, so skip elevation.
+    pattern_linetxt = lines[pattern_line_idx]
+    if '¦' in pattern_linetxt and pattern_match.start() < pattern_linetxt.index('¦'):
+        for line in lines:
+            fout.write(line + '\n')
+        return correct, wrong
+
     # Split lines into:
     #   before_lines  : lines before the pattern line
     #   pattern_line  : the line containing {#˚...#}

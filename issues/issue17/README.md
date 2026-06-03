@@ -53,7 +53,7 @@ Step 4 resolves these to permanent incrementing values (e.g. `12240.025`, `12240
 
 Identify entries containing `{#˚...#}` and split them.
 
-`temp_ap_0.txt` was taken from `csl-orig/v02/ap/ap.txt` as it stood on the commit c464962b97d34015a95ab106c10618054fa39e3d dated 14 May 2026.
+`temp_ap_0.txt` was taken from `csl-orig/v02/ap/ap.txt` as it stood on the commit 6e78d0095f9e8d5509655915b3d001ba30e12c09 dated 03 June 2026.
 
 ```
 python3 step2.py temp_ap_0.txt temp_ap_2.txt log2.tsv
