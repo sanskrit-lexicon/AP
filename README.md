@@ -1,8 +1,19 @@
 # AP — Apte Sanskrit-English Dictionary (1957)
 
-Collaborative tools for parsing, validating, and improving the digitised Apte Sanskrit-English dictionary, as part of the [Sanskrit Lexicon project](https://github.com/sanskrit-lexicon).
+_Created: 06-07-2025 · Last updated: 11-07-2026_
 
-The upstream dictionary lives at [csl-orig/v02/ap/ap.txt](https://github.com/sanskrit-lexicon/csl-orig). This repo contains the scripts and issue-by-issue workflow used to clean and enhance it.
+Collaborative tools for parsing, validating, and improving the digitised Apte
+Sanskrit-English dictionary, as part of the
+[Sanskrit Lexicon project](https://github.com/sanskrit-lexicon).
+
+The upstream dictionary lives at
+[csl-orig/v02/ap/ap.txt](https://github.com/sanskrit-lexicon/csl-orig). This repo
+contains the scripts and issue-by-issue workflow used to clean and enhance it.
+
+Corrections are never committed directly to `csl-orig`; they are prepared,
+validated, and delivered as a consolidated batch pull request following the
+canonical
+[correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
 ---
 
@@ -13,16 +24,20 @@ The upstream dictionary lives at [csl-orig/v02/ap/ap.txt](https://github.com/san
 | **Jul 2025** | Project started — 28 historical diff files created, git history established (Issue 1) |
 | **Jan 2026** | Tooltip activation for `<ab>` and `<ls>` elements; extended ASCII handling (Issues 2–4) |
 | **Feb 2026** | `<lex>` and `<lang>` markup; Sanskrit global character corrections (Issues 3, 6) |
-| **Apr 2026** | Major pipeline built for separating hidden headwords; **8,518 new entries extracted**, growing the dictionary from 79,815 → 88,333 entries (Issues 16, 23) |
+| **Apr 2026** | Major pipeline built for separating hidden headwords; hidden-headword extraction growing the entry count (Issues 16, 23) |
 | **May 2026** | Parenthetical suffix patterns handled; link targets documented (Issues 19, 25) |
+| **Jun–Jul 2026** | Markup-oddities fixes landed; homonym-number and artificial-homonym work opened; repo hardening (CodeQL/Semgrep SAST, Dependabot, SEO landing page) |
 
 ---
 
 ## How It Works
 
-Work is organised into numbered `issues/` directories. Each issue targets a specific problem in the dictionary data and follows a step-by-step Python pipeline:
+Work is organised into numbered
+[issues/](https://github.com/sanskrit-lexicon/AP/tree/main/issues) directories.
+Each issue targets a specific problem in the dictionary data and follows a
+step-by-step Python pipeline:
 
-```
+```text
 csl-orig/v02/ap/ap.txt   ← upstream source
         ↓
     tmp_ap_0.txt          local working copy
@@ -34,7 +49,7 @@ csl-orig/v02/ap/ap.txt   ← upstream source
     tmp_ap_4.txt
         ↓  (manual fixes if needed)
         ↓  git merge-file
-    csl-orig/v02/ap/ap.txt  ← committed back upstream
+    csl-orig/v02/ap/ap.txt  ← delivered upstream by batch PR
 ```
 
 To re-run an issue pipeline from scratch:
@@ -46,82 +61,61 @@ bash redo.sh
 
 ---
 
-## Projects & Milestones
+## Issues — current state
 
-| Milestone | Project | Total | Open | Closed |
-|---|---|---|---|---|
-| Dictionary to Book (1) | Project 1 | 2 | 2 | 0 |
-| Digitization Quality (2) | Project 2 | 6 | 1 | 5 |
-| Structured Data (3) | Project 3 | 15 | 7 | 8 |
-| Major Enhancements (4) | Project 4 | 2 | 1 | 1 |
-| **Total** | | **25** | **11** | **14** |
+Live counts as of **11-07-2026** (source of truth: the
+[GitHub issue tracker](https://github.com/sanskrit-lexicon/AP/issues)):
+**44 issues total — 11 open, 33 closed.**
+
+| Milestone | Open | Closed | Total |
+|---|---|---|---|
+| [Dictionary to Book](https://github.com/sanskrit-lexicon/AP/milestone/1) | 1 | 1 | 2 |
+| [Digitization Quality](https://github.com/sanskrit-lexicon/AP/milestone/2) | 0 | 6 | 6 |
+| [Structured Data](https://github.com/sanskrit-lexicon/AP/milestone/3) | 7 | 14 | 21 |
+| [Major Enhancements](https://github.com/sanskrit-lexicon/AP/milestone/4) | 2 | 1 | 3 |
+| _Unmilestoned_ (maintenance / dependency bumps) | 1 | 11 | 12 |
+| **Total** | **11** | **33** | **44** |
 
 ```mermaid
-pie title Issues by milestone — closed vs open
-    "DTB closed" : 0
-    "DTB open" : 2
-    "DQ closed" : 5
-    "DQ open" : 1
-    "SD closed" : 8
+pie title Milestoned issues — closed vs open
+    "DTB closed" : 1
+    "DTB open" : 1
+    "DQ closed" : 6
+    "SD closed" : 14
     "SD open" : 7
     "ME closed" : 1
-    "ME open" : 1
+    "ME open" : 2
 ```
 
-```mermaid
-pie title Issue type distribution (25 issues)
-    "markup" : 15
-    "link-target" : 2
-    "text-correction" : 2
-    "encoding" : 2
-    "bug" : 2
-    "content-enhancement" : 2
-```
-
----
-
-## Issue Typology
-
-### Solved (14 closed)
+### Open issues (11)
 
 | # | Type | Severity | Summary |
 |---|---|---|---|
-| #1 | content-enhancement | medium | Making AP public — initial release |
-| #2 | markup | medium | `<ab>` and `<ls>` tooltips |
-| #3 | text-correction | minor | `b`→`v` Sanskrit global character corrections |
-| #4 | encoding | minor | Extended ASCII handling |
-| #6 | markup | minor | Tooltips for gender (`<lex>` tags) |
-| #7 | text-correction | minor | Global changes continued from #3 |
-| #8 | markup | medium | Study of ap57_AB_v4a abbreviation version |
-| #12 | markup | medium | AP with compounds and alternate headwords |
-| #16 | markup | minor | Upgrade hidden headwords |
-| #20 | markup | minor | 27 failed automatic resolutions |
-| #21 | bug | minor | Resolution absent in sanhw1.txt |
-| #23 | markup | minor | Pattern `^.({@{#` extraction |
-| #24 | bug | minor | L-id ordering issues |
-| #25 | markup | minor | Inline `({@{#-XXXX#}@})` pattern |
+| [#14](https://github.com/sanskrit-lexicon/AP/issues/14) | link-target | medium | Activate link targets — tooltips |
+| [#15](https://github.com/sanskrit-lexicon/AP/issues/15) | markup | medium | Compound headword scope for diff resolution |
+| [#17](https://github.com/sanskrit-lexicon/AP/issues/17) | markup | minor | One more pattern missing for headword identification |
+| [#18](https://github.com/sanskrit-lexicon/AP/issues/18) | markup | minor | Third pattern |
+| [#22](https://github.com/sanskrit-lexicon/AP/issues/22) | markup | medium | Compound analysis |
+| [#26](https://github.com/sanskrit-lexicon/AP/issues/26) | content-enhancement | medium | Add compounds to compounds list |
+| [#27](https://github.com/sanskrit-lexicon/AP/issues/27) | markup | minor | `━II`, `━III` etc. denote different verbs altogether |
+| [#34](https://github.com/sanskrit-lexicon/AP/issues/34) | markup | — | Add homonym numbers |
+| [#35](https://github.com/sanskrit-lexicon/AP/issues/35) | question | minor | How to display the resolved compounds in AP? |
+| [#36](https://github.com/sanskrit-lexicon/AP/issues/36) | content-enhancement | medium | Add artificial homonyms while displaying results (similar to MW) |
+| [#37](https://github.com/sanskrit-lexicon/AP/issues/37) | markup | minor | Inline `({@{#-XXXX#}@})` |
 
-### Open (11 open)
-
-| # | Type | Severity | Summary |
-|---|---|---|---|
-| #5 | markup | minor | `<s>` element inside `<ls>` element |
-| #9 | markup | medium | Alternate headwords of main entries |
-| #10 | markup | medium | Compound headwords preparation |
-| #13 | encoding | minor | `€` in data — class number encoding |
-| #14 | link-target | medium | Activate link targets — tooltips |
-| #15 | markup | medium | Compound headword scope and resolution |
-| #17 | markup | minor | One more pattern missing for headword identification |
-| #18 | markup | minor | Third pattern |
-| #19 | link-target | medium | Activate link targets — identify targets |
-| #22 | markup | medium | Compound analysis |
-| #26 | content-enhancement | medium | Add compounds to compounds list |
+Closed issues are best browsed on the
+[tracker](https://github.com/sanskrit-lexicon/AP/issues?q=is%3Aissue+is%3Aclosed);
+they cover the initial public release, `<ab>`/`<ls>`/`<lex>` tooltips, extended
+ASCII and Sanskrit global character corrections, the hidden-headword extraction
+pipeline (issues 16, 23, 25), L-id ordering, and repository hardening.
 
 ---
 
 ## Labels
 
-**Type** (one per issue): `link-target` · `link-splitting` · `markup` · `text-correction` · `content-enhancement` · `encoding` · `scan-quality` · `bug` · `question`
+**Type** (one per issue): `link-target` · `link-splitting` · `markup` ·
+`text-correction` · `content-enhancement` · `encoding` · `scan-quality` · `bug`
+· `question`
 
 **Severity** (one per issue): `minor` · `medium` · `hard`
 
@@ -129,17 +123,21 @@ pie title Issue type distribution (25 issues)
 
 ## Contributors
 
-| Contributor | Role |
-|-------------|------|
-| **Dr. Dhaval Patel** | Lead developer — 75 commits |
-| **Jim Funderburk** (funderburkjim) | Core contributor — 49 commits |
-| **Mārcis Gasūns** | Documentation |
+Commit counts from the
+[GitHub contributor graph](https://github.com/sanskrit-lexicon/AP/graphs/contributors),
+as of 11-07-2026:
+
+| Contributor | Role | Commits |
+|-------------|------|---------|
+| **Dr. Dhaval Patel** (drdhaval2785) | Lead developer | 82 |
+| **Jim Funderburk** (funderburkjim) | Core contributor | 49 |
+| **Mārcis Gasūns** (gasyoun) | Documentation | 25 |
 
 ---
 
 ## Repository Layout
 
-```
+```text
 issues/
   issue1/    Git history tracking, historical diffs of ap.txt
   issue2/    <ab> and <ls> tooltips
@@ -151,4 +149,7 @@ issues/
   ...
 ```
 
-For technical details on the pipeline and dictionary format, see [CLAUDE.md](CLAUDE.md).
+For technical details on the pipeline and dictionary format, see
+[CLAUDE.md](https://github.com/sanskrit-lexicon/AP/blob/main/CLAUDE.md).
+
+_Dr. Mārcis Gasūns_
