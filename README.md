@@ -32,6 +32,12 @@ canonical
 
 ## How It Works
 
+**Operator manual:**
+[docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/AP/blob/main/docs/PIPELINE_MANUAL.md)
+— the hidden-headword step pipeline, the L-number system, per-folder map,
+delivery idiom, symptom→cure and maintainer appendix (metadoc:
+[docs/PIPELINE_MANUAL.meta.md](https://github.com/sanskrit-lexicon/AP/blob/main/docs/PIPELINE_MANUAL.meta.md)).
+
 Work is organised into numbered
 [issues/](https://github.com/sanskrit-lexicon/AP/tree/main/issues) directories.
 Each issue targets a specific problem in the dictionary data and follows a
