@@ -68,6 +68,62 @@ source code first, and within the org's csl-orig batched-PR delivery rule.
 - The XAMPP/macOS path remapping guidance assumes the current flat `GitHub/`
   checkout convention.
 
+## Intended use / known misuse
+
+**For:** onboarding a new operator/contributor to the AP `issues/` pipeline
+family before they touch the source — locating the right issue folder for a
+given kind of correction, reproducing a pinned historical run, and following
+the step2→step3→step4→step5→merge-file idiom when opening a **new**
+hidden-headword split campaign (issues 16/17/23/25 shape). Also the reference
+for what a folder's numbers ("8,518 split", "1,803/97 validated") actually
+mean and where they came from.
+
+**Known/likely misuse:**
+- Re-running issue16/23/25's `step*.py` against the *current* csl-orig
+  `ap.txt` expecting new matches — the manual states explicitly these
+  campaigns are already merged and re-running "finds no patterns"; the
+  scripts are for reproduction against their pinned baseline commit or for a
+  genuinely new pattern, not for re-processing today's text.
+- Treating this as a **code contract** (data flow, entry format, script
+  signatures) — that job belongs to
+  [CLAUDE.md](https://github.com/sanskrit-lexicon/AP/blob/main/CLAUDE.md),
+  not this manual.
+- Trusting the commands here as **freshly re-executed** — per Known
+  limitations, most are transcription-verified against the per-folder READMEs
+  and file/path existence, not re-run end-to-end (only backlog item #4's two
+  candidates are fire-and-forget-safe to actually run).
+- Using the issue8–8e AB-reconciliation section as a runnable procedure — it
+  is summary-level and historical; the `db_comp.py` review loop it describes
+  is semi-manual, and the folder readmes remain the authority for reviving it.
+- Copying `SANHW1_PATH`/csl-orig relative-path assumptions verbatim onto a
+  non-maintainer machine without editing them first — backlog item #1 flags
+  this as the #1 first-run failure mode.
+
+## Maintenance & sunset plan
+
+Owned by the same maintainers as the AP repository's `issues/` pipeline
+family (see
+[CLAUDE.md](https://github.com/sanskrit-lexicon/AP/blob/main/CLAUDE.md) for
+the code contract they operate against); no dedicated bot or scheduled job
+keeps this manual current — it is updated by whichever human or agent session
+next touches the `issues/` pipelines and notices drift (e.g. a new split
+campaign, a fix to one of the six backlog items, or a re-run of a
+"fire-and-forget" candidate per backlog #4). Cadence is event-driven, not
+periodic.
+
+"Archived/ended" for this manual looks like: the hidden-headword step-pipeline
+family and its L-number system are fully superseded by a different delivery
+mechanism for AP corrections (unlikely while csl-orig's batched-PR rule
+stands), or the AP repository itself is retired/merged into a successor. Short
+of that, the manual sunsets piecemeal — an individual section goes stale (not
+the whole document) when its described pipeline is deprecated; each such
+section should get a `superseded by [X]` note in place rather than silent
+removal.
+
+## Deprecation status
+
+`active`
+
 ## Related documents
 
 - [README.md](https://github.com/sanskrit-lexicon/AP/blob/main/README.md) — repo overview, timeline, issue typology
@@ -80,5 +136,6 @@ source code first, and within the org's csl-orig batched-PR delivery rule.
 | Date | Change | By |
 |---|---|---|
 | 11-07-2026 | Initial manual + this metadoc authored (H524); 24 issue folders surveyed (issue23/25 first-hand + 1 Explore agent); two stale-doc defects flagged | Fable 5 (`claude-fable-5`) |
+| 11-07-2026 | template v2 backfill (H663) | Sonnet 5 (`claude-sonnet-5`) |
 
 _Dr. Mārcis Gasūns_
