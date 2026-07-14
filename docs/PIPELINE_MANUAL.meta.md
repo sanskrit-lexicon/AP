@@ -27,7 +27,7 @@ source code first, and within the org's csl-orig batched-PR delivery rule.
 ## Provenance
 
 - Authored 11-07-2026 by Fable 5 (`claude-fable-5`) executing handoff
-  [H524-Fable_AP_extraction_validation_manual_10.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/H524-Fable_AP_extraction_validation_manual_10.07.26.md)
+  [H524-Fable_AP_extraction_validation_manual_10.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H524-Fable_AP_extraction_validation_manual_10.07.26.md)
   (manual-coverage census batch H501–H531).
 - Modelled on the gold-standard operator manual
   [RussianRamayana Litpam-Indexator MANUAL.md](https://github.com/gasyoun/RussianRamayana/blob/main/Litpam-Indexator/docs/indesign-pipeline/MANUAL.md).
