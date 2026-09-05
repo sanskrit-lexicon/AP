@@ -1,3 +1,5 @@
+_Created: 14-05-2026 · Last updated: 05-09-2026_
+
 As of 03 June 2026, it was decided that the programmatic handling would generate too many false positives. Therefore, temp_ap_3.txt is manually being edited based on log2.tsv and gradually changes are being incorporated in csl-orig/v02/ap/ap.txt file.
 
 # Issue 17 — Elevating Compound Headwords (˚ Pattern)
@@ -150,3 +152,5 @@ git merge-file v02/ap/ap.txt ../AP/issues/issue17/temp_ap_0.txt ../AP/issues/iss
 ```
 
 Conflicts (if any) can be identified by searching for `>>>>>` and resolved manually.
+
+_Dr. Mārcis Gasūns_

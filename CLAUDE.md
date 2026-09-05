@@ -1,3 +1,5 @@
+_Created: 06-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -107,3 +109,4 @@ Issues 23 and 25 separate **hidden headwords** embedded in suffix patterns:
 
 `.gitattributes` enforces LF line endings for `.tsv`, `.sh`, `.txt`, and `.yml` files. Keep files UTF-8 with IAST transliteration.
 
+_Dr. Mārcis Gasūns_

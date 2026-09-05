@@ -1,3 +1,5 @@
+_Created: 20-04-2026 · Last updated: 05-09-2026_
+
 # Issue 23: Separating Hidden Headwords from `.{@{#-suffix#}@}` Patterns
 
 ## Overview
@@ -104,3 +106,5 @@ This is not required to be re-run. The corrections have been made to csl-orig/v0
 5. Copy `tmp_ap_4.txt` and as `tmp_ap_5.txt` and manually resolve the cases where code could not give Lid properly i.e. search for '.XYZ' placeholder and make manual adjustment.
 6. `tmp_ap_5.txt` was merged into csl-orig/v02/ap/ap.txt by `cd /path/to/csl-orig` and `git merge-file v02/ap/ap.txt /path/to/issue23/tmp_ap_0.txt /path/to/issue23/tmp_ap_5.txt`. This will generate a new v02/ap/ap.txt file.
 7. Manually resolve git conflicts if any by searching for '>>>>>>>'. There were three such cases on my run.
+
+_Dr. Mārcis Gasūns_

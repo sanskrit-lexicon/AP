@@ -1,3 +1,5 @@
+_Created: 03-05-2026 · Last updated: 05-09-2026_
+
 # Issue 25: Splitting ({@{#-suffix#}@}) entries
 
 This issue involves identifying entries that contain a suffix in parentheses like `({@{#-SaH#}@})` and splitting them into separate headword entries.
@@ -42,3 +44,5 @@ Manually corrected temp_ap_3.txt was copied to csl-orig/v02/ap/ap.txt and pushed
 - `step2.py`: The L-number resolution script.
 - `parseheadline.py`: Utility for parsing metalines.
 - `redo.sh`: Shell script to run all steps.
+
+_Dr. Mārcis Gasūns_

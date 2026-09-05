@@ -1,3 +1,5 @@
+_Created: 10-04-2026 · Last updated: 05-09-2026_
+
 # Initial Statistics
 
 tmp_ap_0.txt is taken as of 1bc3a0825a85b4e18120d872ef93e418e59e18ca in csl-orig repository on Apr 9 23:10:32 2026 +0530
@@ -157,3 +159,5 @@ To merge those changes the following was done
 This generated a file `v02/ap/ap.txt.txt` which has changes of both `v02/ap/ap.txt` and `tmp_ap_4.txt` merged.
 
 There were three cases where both the changes happenned in the same lines. They can be identified by searching for `>>>>>`. These three cases were manually resolved and the final file was saved as `v02/ap/ap.txt`.
+
+_Dr. Mārcis Gasūns_
