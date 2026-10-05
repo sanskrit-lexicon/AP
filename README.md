@@ -1,5 +1,7 @@
 # AP — Apte Sanskrit-English Dictionary (1957)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151276.svg)](https://doi.org/10.5281/zenodo.23151276)
+
 _Created: 06-07-2025 · Last updated: 11-07-2026_
 
 Collaborative tools for parsing, validating, and improving the digitised Apte
